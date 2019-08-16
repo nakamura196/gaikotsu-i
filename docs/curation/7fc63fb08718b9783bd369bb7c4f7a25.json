@@ -1,0 +1,47 @@
+{
+    "@context": [
+        "http://iiif.io/api/presentation/2/context.json",
+        "http://codh.rois.ac.jp/iiif/curation/1/context.json"
+    ],
+    "@id": "https://nakamura196.github.io/gaikotsu-i/curation/7fc63fb08718b9783bd369bb7c4f7a25.json",
+    "@type": "cr:Curation",
+    "label": "Curating list",
+    "selections": [
+        {
+            "@id": "https://nakamura196.github.io/gaikotsu-i/curation/7fc63fb08718b9783bd369bb7c4f7a25.json/range1",
+            "@type": "sc:Range",
+            "label": "Manual curation by IIIF Curation Viewer",
+            "members": [
+                {
+                    "@id": "https://iiif.dl.itc.u-tokyo.ac.jp/repo/iiif/caefd400-bdbf-4a5c-a463-fe4972242cc0/canvas/p1#xywh=838,540,4791,3895",
+                    "@type": "sc:Canvas",
+                    "label": "[1]",
+                    "metadata": [
+                        {
+                            "label": "Score",
+                            "value": 0
+                        }
+                    ],
+                    "thumbnail": "https://iiif.dl.itc.u-tokyo.ac.jp/repo/iiif-img/85549/838,540,4791,3895/,300/0/default.jpg"
+                },
+                {
+                    "@id": "https://iiif.dl.itc.u-tokyo.ac.jp/repo/iiif/caefd400-bdbf-4a5c-a463-fe4972242cc0/canvas/p2#xywh=951,661,4960,3605",
+                    "@type": "sc:Canvas",
+                    "label": "[2]",
+                    "metadata": [
+                        {
+                            "label": "Score",
+                            "value": 0
+                        }
+                    ],
+                    "thumbnail": "https://iiif.dl.itc.u-tokyo.ac.jp/repo/iiif-img/85550/951,661,4960,3605/,300/0/default.jpg"
+                }
+            ],
+            "within": {
+                "@id": "https://iiif.dl.itc.u-tokyo.ac.jp/repo/iiif/caefd400-bdbf-4a5c-a463-fe4972242cc0/manifest",
+                "@type": "sc:Manifest",
+                "label": "明治十一年五月十二日裁判公報"
+            }
+        }
+    ]
+}

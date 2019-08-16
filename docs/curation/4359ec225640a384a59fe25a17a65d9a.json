@@ -1,0 +1,35 @@
+{
+    "@context": [
+        "http://iiif.io/api/presentation/2/context.json",
+        "http://codh.rois.ac.jp/iiif/curation/1/context.json"
+    ],
+    "@id": "https://nakamura196.github.io/gaikotsu-i/curation/4359ec225640a384a59fe25a17a65d9a.json",
+    "@type": "cr:Curation",
+    "label": "Curating list",
+    "selections": [
+        {
+            "@id": "https://nakamura196.github.io/gaikotsu-i/curation/4359ec225640a384a59fe25a17a65d9a.json/range1",
+            "@type": "sc:Range",
+            "label": "Manual curation by IIIF Curation Viewer",
+            "members": [
+                {
+                    "@id": "https://iiif.dl.itc.u-tokyo.ac.jp/repo/iiif/e6bd08a5-9bfe-4666-9ea0-febfe42e8f43/canvas/p1#xywh=2395,1661,2105,1492",
+                    "@type": "sc:Canvas",
+                    "label": "[1]",
+                    "metadata": [
+                        {
+                            "label": "Score",
+                            "value": 0
+                        }
+                    ],
+                    "thumbnail": "https://iiif.dl.itc.u-tokyo.ac.jp/repo/iiif-img/85543/2395,1661,2105,1492/,300/0/default.jpg"
+                }
+            ],
+            "within": {
+                "@id": "https://iiif.dl.itc.u-tokyo.ac.jp/repo/iiif/e6bd08a5-9bfe-4666-9ea0-febfe42e8f43/manifest",
+                "@type": "sc:Manifest",
+                "label": "明治十二年二月十五日裁判公報"
+            }
+        }
+    ]
+}

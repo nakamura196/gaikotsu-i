@@ -1,0 +1,35 @@
+{
+    "@context": [
+        "http://iiif.io/api/presentation/2/context.json",
+        "http://codh.rois.ac.jp/iiif/curation/1/context.json"
+    ],
+    "@id": "https://nakamura196.github.io/gaikotsu-i/curation/c25065cfc2af7819540cde7e0e7f0f79.json",
+    "@type": "cr:Curation",
+    "label": "Curating list",
+    "selections": [
+        {
+            "@id": "https://nakamura196.github.io/gaikotsu-i/curation/c25065cfc2af7819540cde7e0e7f0f79.json/range1",
+            "@type": "sc:Range",
+            "label": "Manual curation by IIIF Curation Viewer",
+            "members": [
+                {
+                    "@id": "https://iiif.dl.itc.u-tokyo.ac.jp/repo/iiif/ebbce4b2-f339-4da3-ae6c-4e7924ef4e8b/canvas/p1#xywh=2403,612,2419,3468",
+                    "@type": "sc:Canvas",
+                    "label": "[1]",
+                    "metadata": [
+                        {
+                            "label": "Score",
+                            "value": 0
+                        }
+                    ],
+                    "thumbnail": "https://iiif.dl.itc.u-tokyo.ac.jp/repo/iiif-img/84028/2403,612,2419,3468/,300/0/default.jpg"
+                }
+            ],
+            "within": {
+                "@id": "https://iiif.dl.itc.u-tokyo.ac.jp/repo/iiif/ebbce4b2-f339-4da3-ae6c-4e7924ef4e8b/manifest",
+                "@type": "sc:Manifest",
+                "label": "「古今奇語集成」頁(部分)"
+            }
+        }
+    ]
+}
