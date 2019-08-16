@@ -1,0 +1,35 @@
+{
+    "@context": [
+        "http://iiif.io/api/presentation/2/context.json",
+        "http://codh.rois.ac.jp/iiif/curation/1/context.json"
+    ],
+    "@id": "https://nakamura196.github.io/gaikotsu-i/curation/2360b4393ae4f7086f0445ef8d0de0d1.json",
+    "@type": "cr:Curation",
+    "label": "Curating list",
+    "selections": [
+        {
+            "@id": "https://nakamura196.github.io/gaikotsu-i/curation/2360b4393ae4f7086f0445ef8d0de0d1.json/range1",
+            "@type": "sc:Range",
+            "label": "Manual curation by IIIF Curation Viewer",
+            "members": [
+                {
+                    "@id": "https://iiif.dl.itc.u-tokyo.ac.jp/repo/iiif/5b50b187-1b09-4514-a7be-36a5e1660069/canvas/p1#xywh=3339,1482,1100,2223",
+                    "@type": "sc:Canvas",
+                    "label": "[1]",
+                    "metadata": [
+                        {
+                            "label": "Score",
+                            "value": 0
+                        }
+                    ],
+                    "thumbnail": "https://iiif.dl.itc.u-tokyo.ac.jp/repo/iiif-img/83322/3339,1482,1100,2223/,300/0/default.jpg"
+                }
+            ],
+            "within": {
+                "@id": "https://iiif.dl.itc.u-tokyo.ac.jp/repo/iiif/5b50b187-1b09-4514-a7be-36a5e1660069/manifest",
+                "@type": "sc:Manifest",
+                "label": "筆写メモ「中村敬宇先生、人間界を蝉脱して天國に遊はんとす 三田 岡志岐の投寄中」"
+            }
+        }
+    ]
+}

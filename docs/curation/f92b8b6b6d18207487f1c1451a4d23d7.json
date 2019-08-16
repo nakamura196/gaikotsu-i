@@ -1,0 +1,35 @@
+{
+    "@context": [
+        "http://iiif.io/api/presentation/2/context.json",
+        "http://codh.rois.ac.jp/iiif/curation/1/context.json"
+    ],
+    "@id": "https://nakamura196.github.io/gaikotsu-i/curation/f92b8b6b6d18207487f1c1451a4d23d7.json",
+    "@type": "cr:Curation",
+    "label": "Curating list",
+    "selections": [
+        {
+            "@id": "https://nakamura196.github.io/gaikotsu-i/curation/f92b8b6b6d18207487f1c1451a4d23d7.json/range1",
+            "@type": "sc:Range",
+            "label": "Manual curation by IIIF Curation Viewer",
+            "members": [
+                {
+                    "@id": "https://iiif.dl.itc.u-tokyo.ac.jp/repo/iiif/18427cf8-86d9-4f9d-852d-ffb1bbf49b39/canvas/p1#xywh=427,622,4077,6140",
+                    "@type": "sc:Canvas",
+                    "label": "[1]",
+                    "metadata": [
+                        {
+                            "label": "Score",
+                            "value": 0
+                        }
+                    ],
+                    "thumbnail": "https://iiif.dl.itc.u-tokyo.ac.jp/repo/iiif-img/83278/427,622,4077,6140/,300/0/default.jpg"
+                }
+            ],
+            "within": {
+                "@id": "https://iiif.dl.itc.u-tokyo.ac.jp/repo/iiif/18427cf8-86d9-4f9d-852d-ffb1bbf49b39/manifest",
+                "@type": "sc:Manifest",
+                "label": "筆写原稿「國會ハ自然ニ開クベシト某總代人ニ答ヘタル福澤先生ノ一語ハ頓智カ遁辞カ(明治十三年八月十三日發行『近時評論』第二百八十四號所載)」"
+            }
+        }
+    ]
+}

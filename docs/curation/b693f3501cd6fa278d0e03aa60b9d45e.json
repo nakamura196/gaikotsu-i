@@ -13,9 +13,21 @@
             "label": "Manual curation by IIIF Curation Viewer",
             "members": [
                 {
-                    "@id": "https://iiif.dl.itc.u-tokyo.ac.jp/repo/iiif/aaa9cc68-6cb5-43d4-a930-d73db1d14563/canvas/p2#xywh=1411,935,1750,2565",
+                    "@id": "https://iiif.dl.itc.u-tokyo.ac.jp/repo/iiif/aaa9cc68-6cb5-43d4-a930-d73db1d14563/canvas/p1#xywh=1056,387,2839,4089",
                     "@type": "sc:Canvas",
                     "label": "[1]",
+                    "metadata": [
+                        {
+                            "label": "Score",
+                            "value": 0
+                        }
+                    ],
+                    "thumbnail": "https://iiif.dl.itc.u-tokyo.ac.jp/repo/iiif-img/82722/1056,387,2839,4089/,300/0/default.jpg"
+                },
+                {
+                    "@id": "https://iiif.dl.itc.u-tokyo.ac.jp/repo/iiif/aaa9cc68-6cb5-43d4-a930-d73db1d14563/canvas/p2#xywh=1411,935,1750,2565",
+                    "@type": "sc:Canvas",
+                    "label": "[2]",
                     "metadata": [
                         {
                             "label": "Score",
@@ -27,7 +39,7 @@
                 {
                     "@id": "https://iiif.dl.itc.u-tokyo.ac.jp/repo/iiif/aaa9cc68-6cb5-43d4-a930-d73db1d14563/canvas/p3#xywh=1411,145,1847,3331",
                     "@type": "sc:Canvas",
-                    "label": "[2]",
+                    "label": "[3]",
                     "metadata": [
                         {
                             "label": "Score",
@@ -39,7 +51,7 @@
                 {
                     "@id": "https://iiif.dl.itc.u-tokyo.ac.jp/repo/iiif/aaa9cc68-6cb5-43d4-a930-d73db1d14563/canvas/p4#xywh=3476,379,2621,3814",
                     "@type": "sc:Canvas",
-                    "label": "[3]",
+                    "label": "[4]",
                     "metadata": [
                         {
                             "label": "Score",
@@ -51,7 +63,7 @@
                 {
                     "@id": "https://iiif.dl.itc.u-tokyo.ac.jp/repo/iiif/aaa9cc68-6cb5-43d4-a930-d73db1d14563/canvas/p4#xywh=935,798,2387,3089",
                     "@type": "sc:Canvas",
-                    "label": "[4]",
+                    "label": "[5]",
                     "metadata": [
                         {
                             "label": "Score",
@@ -61,9 +73,21 @@
                     "thumbnail": "https://iiif.dl.itc.u-tokyo.ac.jp/repo/iiif-img/82725/935,798,2387,3089/,300/0/default.jpg"
                 },
                 {
+                    "@id": "https://iiif.dl.itc.u-tokyo.ac.jp/repo/iiif/aaa9cc68-6cb5-43d4-a930-d73db1d14563/canvas/p5#xywh=2927,1016,2202,2774",
+                    "@type": "sc:Canvas",
+                    "label": "[6]",
+                    "metadata": [
+                        {
+                            "label": "Score",
+                            "value": 0
+                        }
+                    ],
+                    "thumbnail": "https://iiif.dl.itc.u-tokyo.ac.jp/repo/iiif-img/82726/2927,1016,2202,2774/,300/0/default.jpg"
+                },
+                {
                     "@id": "https://iiif.dl.itc.u-tokyo.ac.jp/repo/iiif/aaa9cc68-6cb5-43d4-a930-d73db1d14563/canvas/p6#xywh=1451,822,4242,3129",
                     "@type": "sc:Canvas",
-                    "label": "[5]",
+                    "label": "[7]",
                     "metadata": [
                         {
                             "label": "Score",
@@ -75,7 +99,7 @@
                 {
                     "@id": "https://iiif.dl.itc.u-tokyo.ac.jp/repo/iiif/aaa9cc68-6cb5-43d4-a930-d73db1d14563/canvas/p7#xywh=1637,879,3806,3024",
                     "@type": "sc:Canvas",
-                    "label": "[6]",
+                    "label": "[8]",
                     "metadata": [
                         {
                             "label": "Score",
@@ -87,7 +111,7 @@
                 {
                     "@id": "https://iiif.dl.itc.u-tokyo.ac.jp/repo/iiif/aaa9cc68-6cb5-43d4-a930-d73db1d14563/canvas/p7#xywh=483,379,6759,4185",
                     "@type": "sc:Canvas",
-                    "label": "[7]",
+                    "label": "[9]",
                     "metadata": [
                         {
                             "label": "Score",

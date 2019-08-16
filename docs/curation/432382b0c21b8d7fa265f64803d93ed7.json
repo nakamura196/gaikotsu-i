@@ -1,0 +1,35 @@
+{
+    "@context": [
+        "http://iiif.io/api/presentation/2/context.json",
+        "http://codh.rois.ac.jp/iiif/curation/1/context.json"
+    ],
+    "@id": "https://nakamura196.github.io/gaikotsu-i/curation/432382b0c21b8d7fa265f64803d93ed7.json",
+    "@type": "cr:Curation",
+    "label": "Curating list",
+    "selections": [
+        {
+            "@id": "https://nakamura196.github.io/gaikotsu-i/curation/432382b0c21b8d7fa265f64803d93ed7.json/range1",
+            "@type": "sc:Range",
+            "label": "Manual curation by IIIF Curation Viewer",
+            "members": [
+                {
+                    "@id": "https://iiif.dl.itc.u-tokyo.ac.jp/repo/iiif/6d3ca7f2-ff2a-4ab0-b1be-422fd30d7484/canvas/p1#xywh=1588,1088,3662,2549",
+                    "@type": "sc:Canvas",
+                    "label": "[1]",
+                    "metadata": [
+                        {
+                            "label": "Score",
+                            "value": 0
+                        }
+                    ],
+                    "thumbnail": "https://iiif.dl.itc.u-tokyo.ac.jp/repo/iiif-img/87446/1588,1088,3662,2549/,300/0/default.jpg"
+                }
+            ],
+            "within": {
+                "@id": "https://iiif.dl.itc.u-tokyo.ac.jp/repo/iiif/6d3ca7f2-ff2a-4ab0-b1be-422fd30d7484/manifest",
+                "@type": "sc:Manifest",
+                "label": "教職適格確認書、昭和24年1月前渡分俸給袋"
+            }
+        }
+    ]
+}

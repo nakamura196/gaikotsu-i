@@ -1,0 +1,47 @@
+{
+    "@context": [
+        "http://iiif.io/api/presentation/2/context.json",
+        "http://codh.rois.ac.jp/iiif/curation/1/context.json"
+    ],
+    "@id": "https://nakamura196.github.io/gaikotsu-i/curation/a6e7fa49029d8050d4aac3321893506d.json",
+    "@type": "cr:Curation",
+    "label": "Curating list",
+    "selections": [
+        {
+            "@id": "https://nakamura196.github.io/gaikotsu-i/curation/a6e7fa49029d8050d4aac3321893506d.json/range1",
+            "@type": "sc:Range",
+            "label": "Manual curation by IIIF Curation Viewer",
+            "members": [
+                {
+                    "@id": "https://iiif.dl.itc.u-tokyo.ac.jp/repo/iiif/53bb2b39-2998-43ad-8ca3-fa923d3078c6/canvas/p1#xywh=598,573,3747,6116",
+                    "@type": "sc:Canvas",
+                    "label": "[1]",
+                    "metadata": [
+                        {
+                            "label": "Score",
+                            "value": 0
+                        }
+                    ],
+                    "thumbnail": "https://iiif.dl.itc.u-tokyo.ac.jp/repo/iiif-img/83204/598,573,3747,6116/,300/0/default.jpg"
+                },
+                {
+                    "@id": "https://iiif.dl.itc.u-tokyo.ac.jp/repo/iiif/53bb2b39-2998-43ad-8ca3-fa923d3078c6/canvas/p2#xywh=463,622,3980,6055",
+                    "@type": "sc:Canvas",
+                    "label": "[2]",
+                    "metadata": [
+                        {
+                            "label": "Score",
+                            "value": 0
+                        }
+                    ],
+                    "thumbnail": "https://iiif.dl.itc.u-tokyo.ac.jp/repo/iiif-img/83205/463,622,3980,6055/,300/0/default.jpg"
+                }
+            ],
+            "within": {
+                "@id": "https://iiif.dl.itc.u-tokyo.ac.jp/repo/iiif/53bb2b39-2998-43ad-8ca3-fa923d3078c6/manifest",
+                "@type": "sc:Manifest",
+                "label": "筆写原稿「福澤氏西京人ノ入門ヲ拒絶ス(明治九年六月十日發行『近時評論』第二號所載)」"
+            }
+        }
+    ]
+}

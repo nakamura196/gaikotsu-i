@@ -46,35 +46,40 @@ for m in manifests:
 
         if os.path.exists(file):
 
-            with open(file) as f:
-                df = json.load(f)
+            try:
 
-            height = canvas["height"]
-            r = height / hs
+                with open(file) as f:
+                    df = json.load(f)
 
-            for obj in df:
-                x = int(obj["left"] * r)
-                y = int(obj["top"] * r)
-                w = int(obj["right"] * r - x)
-                h = int(obj["buttom"] * r - y)
-                xywh = str(x)+","+str(y)+","+str(w)+","+str(h)
+                height = canvas["height"]
+                r = height / hs
 
-                member = {
-                    "@id": canvas_uri+"#xywh="+xywh,
-                    "@type": "sc:Canvas",
-                    "label": "["+str(count)+"]",
-                    "metadata": [
-                        {
-                            "label": "Score",
-                            "value": obj["score"]
-                        }
-                    ],
-                    "thumbnail": image_api+"/"+xywh+"/,300/0/default.jpg"
-                }
+                for obj in df:
+                    x = int(obj["left"] * r)
+                    y = int(obj["top"] * r)
+                    w = int(obj["right"] * r - x)
+                    h = int(obj["buttom"] * r - y)
+                    xywh = str(x)+","+str(y)+","+str(w)+","+str(h)
 
-                count += 1
+                    member = {
+                        "@id": canvas_uri+"#xywh="+xywh,
+                        "@type": "sc:Canvas",
+                        "label": "["+str(count)+"]",
+                        "metadata": [
+                            {
+                                "label": "Score",
+                                "value": obj["score"]
+                            }
+                        ],
+                        "thumbnail": image_api+"/"+xywh+"/,300/0/default.jpg"
+                    }
 
-                members.append(member)
+                    count += 1
+
+                    members.append(member)
+
+            except:
+                print("*** Error: "+file)
 
     if len(members) > 0:
 

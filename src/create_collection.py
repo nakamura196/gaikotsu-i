@@ -16,8 +16,6 @@ for file in files:
     with open(file) as f:
         df = json.load(f)
 
-    print(file)
-
     if "@label" in df["selections"][0]["within"]:
         label = df["selections"][0]["within"]["@label"]
     else:

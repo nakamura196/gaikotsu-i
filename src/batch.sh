@@ -1,0 +1,2 @@
+python create_curation.py
+python create_collection.py
