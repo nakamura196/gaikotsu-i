@@ -1,0 +1,55 @@
+{
+    "@context": [
+        "http://iiif.io/api/presentation/2/context.json",
+        "http://codh.rois.ac.jp/iiif/curation/1/context.json"
+    ],
+    "@id": "https://nakamura196.github.io/gaikotsu-i/curation_m/f86c170c89577470e73f8d97fc5cee08.json",
+    "@type": "cr:Curation",
+    "label": "Curating list",
+    "selections": [
+        {
+            "@id": "https://nakamura196.github.io/gaikotsu-i/curation_m/f86c170c89577470e73f8d97fc5cee08.json/range1",
+            "@type": "sc:Range",
+            "label": "Manual curation by IIIF Curation Viewer",
+            "members": [
+                {
+                    "@id": "https://iiif.dl.itc.u-tokyo.ac.jp/repo/iiif/8ac2bf67-ebad-4013-a415-54acc0487363/canvas/p1#xywh=998,1244,5272,2489",
+                    "@type": "sc:Canvas",
+                    "label": "籠「宮武外骨収集裁判資料」 p.1",
+                    "metadata": [
+                        {
+                            "label": "Score",
+                            "value": 0
+                        },
+                        {
+                            "label": "所蔵",
+                            "value": "東京大学"
+                        }
+                    ],
+                    "thumbnail": "https://iiif.dl.itc.u-tokyo.ac.jp/repo/iiif-img/85541/998,1244,5272,2489/,300/0/default.jpg"
+                },
+                {
+                    "@id": "https://iiif.dl.itc.u-tokyo.ac.jp/repo/iiif/8ac2bf67-ebad-4013-a415-54acc0487363/canvas/p2#xywh=1195,1645,4814,1981",
+                    "@type": "sc:Canvas",
+                    "label": "籠「宮武外骨収集裁判資料」 p.2",
+                    "metadata": [
+                        {
+                            "label": "Score",
+                            "value": 0
+                        },
+                        {
+                            "label": "所蔵",
+                            "value": "東京大学"
+                        }
+                    ],
+                    "thumbnail": "https://iiif.dl.itc.u-tokyo.ac.jp/repo/iiif-img/85542/1195,1645,4814,1981/,300/0/default.jpg"
+                }
+            ],
+            "within": {
+                "@id": "https://iiif.dl.itc.u-tokyo.ac.jp/repo/iiif/8ac2bf67-ebad-4013-a415-54acc0487363/manifest",
+                "@type": "sc:Manifest",
+                "label": "籠「宮武外骨収集裁判資料」"
+            }
+        }
+    ]
+}

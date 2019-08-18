@@ -1,0 +1,487 @@
+{
+    "@context": [
+        "http://iiif.io/api/presentation/2/context.json",
+        "http://codh.rois.ac.jp/iiif/curation/1/context.json"
+    ],
+    "@id": "https://nakamura196.github.io/gaikotsu-i/curation_m/f5ea5a4818ac73f34da6b4f262317ff4.json",
+    "@type": "cr:Curation",
+    "label": "Curating list",
+    "selections": [
+        {
+            "@id": "https://nakamura196.github.io/gaikotsu-i/curation_m/f5ea5a4818ac73f34da6b4f262317ff4.json/range1",
+            "@type": "sc:Range",
+            "label": "Manual curation by IIIF Curation Viewer",
+            "members": [
+                {
+                    "@id": "https://iiif.dl.itc.u-tokyo.ac.jp/repo/iiif/a9e2d98d-04b8-4507-bd78-284739c8b5c1/canvas/p3#xywh=1169,1346,4839,2017",
+                    "@type": "sc:Canvas",
+                    "label": "ぬきかき p.3",
+                    "metadata": [
+                        {
+                            "label": "Score",
+                            "value": 0
+                        },
+                        {
+                            "label": "所蔵",
+                            "value": "東京大学"
+                        }
+                    ],
+                    "thumbnail": "https://iiif.dl.itc.u-tokyo.ac.jp/repo/iiif-img/85076/1169,1346,4839,2017/,300/0/default.jpg"
+                },
+                {
+                    "@id": "https://iiif.dl.itc.u-tokyo.ac.jp/repo/iiif/a9e2d98d-04b8-4507-bd78-284739c8b5c1/canvas/p4#xywh=1451,1371,4452,1975",
+                    "@type": "sc:Canvas",
+                    "label": "ぬきかき p.4",
+                    "metadata": [
+                        {
+                            "label": "Score",
+                            "value": 0
+                        },
+                        {
+                            "label": "所蔵",
+                            "value": "東京大学"
+                        }
+                    ],
+                    "thumbnail": "https://iiif.dl.itc.u-tokyo.ac.jp/repo/iiif-img/85077/1451,1371,4452,1975/,300/0/default.jpg"
+                },
+                {
+                    "@id": "https://iiif.dl.itc.u-tokyo.ac.jp/repo/iiif/a9e2d98d-04b8-4507-bd78-284739c8b5c1/canvas/p5#xywh=1564,1403,4234,1960",
+                    "@type": "sc:Canvas",
+                    "label": "ぬきかき p.5",
+                    "metadata": [
+                        {
+                            "label": "Score",
+                            "value": 0
+                        },
+                        {
+                            "label": "所蔵",
+                            "value": "東京大学"
+                        }
+                    ],
+                    "thumbnail": "https://iiif.dl.itc.u-tokyo.ac.jp/repo/iiif-img/85078/1564,1403,4234,1960/,300/0/default.jpg"
+                },
+                {
+                    "@id": "https://iiif.dl.itc.u-tokyo.ac.jp/repo/iiif/a9e2d98d-04b8-4507-bd78-284739c8b5c1/canvas/p6#xywh=1419,1371,4516,1992",
+                    "@type": "sc:Canvas",
+                    "label": "ぬきかき p.6",
+                    "metadata": [
+                        {
+                            "label": "Score",
+                            "value": 0
+                        },
+                        {
+                            "label": "所蔵",
+                            "value": "東京大学"
+                        }
+                    ],
+                    "thumbnail": "https://iiif.dl.itc.u-tokyo.ac.jp/repo/iiif-img/85079/1419,1371,4516,1992/,300/0/default.jpg"
+                },
+                {
+                    "@id": "https://iiif.dl.itc.u-tokyo.ac.jp/repo/iiif/a9e2d98d-04b8-4507-bd78-284739c8b5c1/canvas/p7#xywh=1298,1362,4589,1976",
+                    "@type": "sc:Canvas",
+                    "label": "ぬきかき p.7",
+                    "metadata": [
+                        {
+                            "label": "Score",
+                            "value": 0
+                        },
+                        {
+                            "label": "所蔵",
+                            "value": "東京大学"
+                        }
+                    ],
+                    "thumbnail": "https://iiif.dl.itc.u-tokyo.ac.jp/repo/iiif-img/85080/1298,1362,4589,1976/,300/0/default.jpg"
+                },
+                {
+                    "@id": "https://iiif.dl.itc.u-tokyo.ac.jp/repo/iiif/a9e2d98d-04b8-4507-bd78-284739c8b5c1/canvas/p8#xywh=1492,1419,4347,1782",
+                    "@type": "sc:Canvas",
+                    "label": "ぬきかき p.8",
+                    "metadata": [
+                        {
+                            "label": "Score",
+                            "value": 0
+                        },
+                        {
+                            "label": "所蔵",
+                            "value": "東京大学"
+                        }
+                    ],
+                    "thumbnail": "https://iiif.dl.itc.u-tokyo.ac.jp/repo/iiif-img/85081/1492,1419,4347,1782/,300/0/default.jpg"
+                },
+                {
+                    "@id": "https://iiif.dl.itc.u-tokyo.ac.jp/repo/iiif/a9e2d98d-04b8-4507-bd78-284739c8b5c1/canvas/p9#xywh=1411,1387,4508,1887",
+                    "@type": "sc:Canvas",
+                    "label": "ぬきかき p.9",
+                    "metadata": [
+                        {
+                            "label": "Score",
+                            "value": 0
+                        },
+                        {
+                            "label": "所蔵",
+                            "value": "東京大学"
+                        }
+                    ],
+                    "thumbnail": "https://iiif.dl.itc.u-tokyo.ac.jp/repo/iiif-img/85082/1411,1387,4508,1887/,300/0/default.jpg"
+                },
+                {
+                    "@id": "https://iiif.dl.itc.u-tokyo.ac.jp/repo/iiif/a9e2d98d-04b8-4507-bd78-284739c8b5c1/canvas/p10#xywh=1564,1387,4154,1847",
+                    "@type": "sc:Canvas",
+                    "label": "ぬきかき p.10",
+                    "metadata": [
+                        {
+                            "label": "Score",
+                            "value": 0
+                        },
+                        {
+                            "label": "所蔵",
+                            "value": "東京大学"
+                        }
+                    ],
+                    "thumbnail": "https://iiif.dl.itc.u-tokyo.ac.jp/repo/iiif-img/85083/1564,1387,4154,1847/,300/0/default.jpg"
+                },
+                {
+                    "@id": "https://iiif.dl.itc.u-tokyo.ac.jp/repo/iiif/a9e2d98d-04b8-4507-bd78-284739c8b5c1/canvas/p11#xywh=1508,1371,4363,1838",
+                    "@type": "sc:Canvas",
+                    "label": "ぬきかき p.11",
+                    "metadata": [
+                        {
+                            "label": "Score",
+                            "value": 0
+                        },
+                        {
+                            "label": "所蔵",
+                            "value": "東京大学"
+                        }
+                    ],
+                    "thumbnail": "https://iiif.dl.itc.u-tokyo.ac.jp/repo/iiif-img/85084/1508,1371,4363,1838/,300/0/default.jpg"
+                },
+                {
+                    "@id": "https://iiif.dl.itc.u-tokyo.ac.jp/repo/iiif/a9e2d98d-04b8-4507-bd78-284739c8b5c1/canvas/p12#xywh=1451,1395,4444,1871",
+                    "@type": "sc:Canvas",
+                    "label": "ぬきかき p.12",
+                    "metadata": [
+                        {
+                            "label": "Score",
+                            "value": 0
+                        },
+                        {
+                            "label": "所蔵",
+                            "value": "東京大学"
+                        }
+                    ],
+                    "thumbnail": "https://iiif.dl.itc.u-tokyo.ac.jp/repo/iiif-img/85085/1451,1395,4444,1871/,300/0/default.jpg"
+                },
+                {
+                    "@id": "https://iiif.dl.itc.u-tokyo.ac.jp/repo/iiif/a9e2d98d-04b8-4507-bd78-284739c8b5c1/canvas/p13#xywh=1354,1362,4557,1920",
+                    "@type": "sc:Canvas",
+                    "label": "ぬきかき p.13",
+                    "metadata": [
+                        {
+                            "label": "Score",
+                            "value": 0
+                        },
+                        {
+                            "label": "所蔵",
+                            "value": "東京大学"
+                        }
+                    ],
+                    "thumbnail": "https://iiif.dl.itc.u-tokyo.ac.jp/repo/iiif-img/85086/1354,1362,4557,1920/,300/0/default.jpg"
+                },
+                {
+                    "@id": "https://iiif.dl.itc.u-tokyo.ac.jp/repo/iiif/a9e2d98d-04b8-4507-bd78-284739c8b5c1/canvas/p14#xywh=1298,1338,4653,1968",
+                    "@type": "sc:Canvas",
+                    "label": "ぬきかき p.14",
+                    "metadata": [
+                        {
+                            "label": "Score",
+                            "value": 0
+                        },
+                        {
+                            "label": "所蔵",
+                            "value": "東京大学"
+                        }
+                    ],
+                    "thumbnail": "https://iiif.dl.itc.u-tokyo.ac.jp/repo/iiif-img/85087/1298,1338,4653,1968/,300/0/default.jpg"
+                },
+                {
+                    "@id": "https://iiif.dl.itc.u-tokyo.ac.jp/repo/iiif/a9e2d98d-04b8-4507-bd78-284739c8b5c1/canvas/p16#xywh=1403,1354,4355,1888",
+                    "@type": "sc:Canvas",
+                    "label": "ぬきかき p.16",
+                    "metadata": [
+                        {
+                            "label": "Score",
+                            "value": 0
+                        },
+                        {
+                            "label": "所蔵",
+                            "value": "東京大学"
+                        }
+                    ],
+                    "thumbnail": "https://iiif.dl.itc.u-tokyo.ac.jp/repo/iiif-img/85089/1403,1354,4355,1888/,300/0/default.jpg"
+                },
+                {
+                    "@id": "https://iiif.dl.itc.u-tokyo.ac.jp/repo/iiif/a9e2d98d-04b8-4507-bd78-284739c8b5c1/canvas/p17#xywh=1346,1371,4509,1846",
+                    "@type": "sc:Canvas",
+                    "label": "ぬきかき p.17",
+                    "metadata": [
+                        {
+                            "label": "Score",
+                            "value": 0
+                        },
+                        {
+                            "label": "所蔵",
+                            "value": "東京大学"
+                        }
+                    ],
+                    "thumbnail": "https://iiif.dl.itc.u-tokyo.ac.jp/repo/iiif-img/85090/1346,1371,4509,1846/,300/0/default.jpg"
+                },
+                {
+                    "@id": "https://iiif.dl.itc.u-tokyo.ac.jp/repo/iiif/a9e2d98d-04b8-4507-bd78-284739c8b5c1/canvas/p18#xywh=1338,1346,4501,1928",
+                    "@type": "sc:Canvas",
+                    "label": "ぬきかき p.18",
+                    "metadata": [
+                        {
+                            "label": "Score",
+                            "value": 0
+                        },
+                        {
+                            "label": "所蔵",
+                            "value": "東京大学"
+                        }
+                    ],
+                    "thumbnail": "https://iiif.dl.itc.u-tokyo.ac.jp/repo/iiif-img/85091/1338,1346,4501,1928/,300/0/default.jpg"
+                },
+                {
+                    "@id": "https://iiif.dl.itc.u-tokyo.ac.jp/repo/iiif/a9e2d98d-04b8-4507-bd78-284739c8b5c1/canvas/p19#xywh=1411,1387,4379,1887",
+                    "@type": "sc:Canvas",
+                    "label": "ぬきかき p.19",
+                    "metadata": [
+                        {
+                            "label": "Score",
+                            "value": 0
+                        },
+                        {
+                            "label": "所蔵",
+                            "value": "東京大学"
+                        }
+                    ],
+                    "thumbnail": "https://iiif.dl.itc.u-tokyo.ac.jp/repo/iiif-img/85092/1411,1387,4379,1887/,300/0/default.jpg"
+                },
+                {
+                    "@id": "https://iiif.dl.itc.u-tokyo.ac.jp/repo/iiif/a9e2d98d-04b8-4507-bd78-284739c8b5c1/canvas/p20#xywh=1475,1322,4444,1976",
+                    "@type": "sc:Canvas",
+                    "label": "ぬきかき p.20",
+                    "metadata": [
+                        {
+                            "label": "Score",
+                            "value": 0
+                        },
+                        {
+                            "label": "所蔵",
+                            "value": "東京大学"
+                        }
+                    ],
+                    "thumbnail": "https://iiif.dl.itc.u-tokyo.ac.jp/repo/iiif-img/85093/1475,1322,4444,1976/,300/0/default.jpg"
+                },
+                {
+                    "@id": "https://iiif.dl.itc.u-tokyo.ac.jp/repo/iiif/a9e2d98d-04b8-4507-bd78-284739c8b5c1/canvas/p21#xywh=1500,1306,4451,1976",
+                    "@type": "sc:Canvas",
+                    "label": "ぬきかき p.21",
+                    "metadata": [
+                        {
+                            "label": "Score",
+                            "value": 0
+                        },
+                        {
+                            "label": "所蔵",
+                            "value": "東京大学"
+                        }
+                    ],
+                    "thumbnail": "https://iiif.dl.itc.u-tokyo.ac.jp/repo/iiif-img/85094/1500,1306,4451,1976/,300/0/default.jpg"
+                },
+                {
+                    "@id": "https://iiif.dl.itc.u-tokyo.ac.jp/repo/iiif/a9e2d98d-04b8-4507-bd78-284739c8b5c1/canvas/p22#xywh=1540,1250,4420,2040",
+                    "@type": "sc:Canvas",
+                    "label": "ぬきかき p.22",
+                    "metadata": [
+                        {
+                            "label": "Score",
+                            "value": 0
+                        },
+                        {
+                            "label": "所蔵",
+                            "value": "東京大学"
+                        }
+                    ],
+                    "thumbnail": "https://iiif.dl.itc.u-tokyo.ac.jp/repo/iiif-img/85095/1540,1250,4420,2040/,300/0/default.jpg"
+                },
+                {
+                    "@id": "https://iiif.dl.itc.u-tokyo.ac.jp/repo/iiif/a9e2d98d-04b8-4507-bd78-284739c8b5c1/canvas/p23#xywh=1443,1242,4621,2048",
+                    "@type": "sc:Canvas",
+                    "label": "ぬきかき p.23",
+                    "metadata": [
+                        {
+                            "label": "Score",
+                            "value": 0
+                        },
+                        {
+                            "label": "所蔵",
+                            "value": "東京大学"
+                        }
+                    ],
+                    "thumbnail": "https://iiif.dl.itc.u-tokyo.ac.jp/repo/iiif-img/85096/1443,1242,4621,2048/,300/0/default.jpg"
+                },
+                {
+                    "@id": "https://iiif.dl.itc.u-tokyo.ac.jp/repo/iiif/a9e2d98d-04b8-4507-bd78-284739c8b5c1/canvas/p24#xywh=1548,1274,4436,2024",
+                    "@type": "sc:Canvas",
+                    "label": "ぬきかき p.24",
+                    "metadata": [
+                        {
+                            "label": "Score",
+                            "value": 0
+                        },
+                        {
+                            "label": "所蔵",
+                            "value": "東京大学"
+                        }
+                    ],
+                    "thumbnail": "https://iiif.dl.itc.u-tokyo.ac.jp/repo/iiif-img/85097/1548,1274,4436,2024/,300/0/default.jpg"
+                },
+                {
+                    "@id": "https://iiif.dl.itc.u-tokyo.ac.jp/repo/iiif/a9e2d98d-04b8-4507-bd78-284739c8b5c1/canvas/p26#xywh=1516,1346,4524,1904",
+                    "@type": "sc:Canvas",
+                    "label": "ぬきかき p.26",
+                    "metadata": [
+                        {
+                            "label": "Score",
+                            "value": 0
+                        },
+                        {
+                            "label": "所蔵",
+                            "value": "東京大学"
+                        }
+                    ],
+                    "thumbnail": "https://iiif.dl.itc.u-tokyo.ac.jp/repo/iiif-img/85099/1516,1346,4524,1904/,300/0/default.jpg"
+                },
+                {
+                    "@id": "https://iiif.dl.itc.u-tokyo.ac.jp/repo/iiif/a9e2d98d-04b8-4507-bd78-284739c8b5c1/canvas/p27#xywh=1483,1266,4581,2032",
+                    "@type": "sc:Canvas",
+                    "label": "ぬきかき p.27",
+                    "metadata": [
+                        {
+                            "label": "Score",
+                            "value": 0
+                        },
+                        {
+                            "label": "所蔵",
+                            "value": "東京大学"
+                        }
+                    ],
+                    "thumbnail": "https://iiif.dl.itc.u-tokyo.ac.jp/repo/iiif-img/85100/1483,1266,4581,2032/,300/0/default.jpg"
+                },
+                {
+                    "@id": "https://iiif.dl.itc.u-tokyo.ac.jp/repo/iiif/a9e2d98d-04b8-4507-bd78-284739c8b5c1/canvas/p28#xywh=1500,1282,4581,2024",
+                    "@type": "sc:Canvas",
+                    "label": "ぬきかき p.28",
+                    "metadata": [
+                        {
+                            "label": "Score",
+                            "value": 0
+                        },
+                        {
+                            "label": "所蔵",
+                            "value": "東京大学"
+                        }
+                    ],
+                    "thumbnail": "https://iiif.dl.itc.u-tokyo.ac.jp/repo/iiif-img/85101/1500,1282,4581,2024/,300/0/default.jpg"
+                },
+                {
+                    "@id": "https://iiif.dl.itc.u-tokyo.ac.jp/repo/iiif/a9e2d98d-04b8-4507-bd78-284739c8b5c1/canvas/p29#xywh=1500,1371,4645,1879",
+                    "@type": "sc:Canvas",
+                    "label": "ぬきかき p.29",
+                    "metadata": [
+                        {
+                            "label": "Score",
+                            "value": 0
+                        },
+                        {
+                            "label": "所蔵",
+                            "value": "東京大学"
+                        }
+                    ],
+                    "thumbnail": "https://iiif.dl.itc.u-tokyo.ac.jp/repo/iiif-img/85102/1500,1371,4645,1879/,300/0/default.jpg"
+                },
+                {
+                    "@id": "https://iiif.dl.itc.u-tokyo.ac.jp/repo/iiif/a9e2d98d-04b8-4507-bd78-284739c8b5c1/canvas/p30#xywh=1467,1354,4686,1936",
+                    "@type": "sc:Canvas",
+                    "label": "ぬきかき p.30",
+                    "metadata": [
+                        {
+                            "label": "Score",
+                            "value": 0
+                        },
+                        {
+                            "label": "所蔵",
+                            "value": "東京大学"
+                        }
+                    ],
+                    "thumbnail": "https://iiif.dl.itc.u-tokyo.ac.jp/repo/iiif-img/85103/1467,1354,4686,1936/,300/0/default.jpg"
+                },
+                {
+                    "@id": "https://iiif.dl.itc.u-tokyo.ac.jp/repo/iiif/a9e2d98d-04b8-4507-bd78-284739c8b5c1/canvas/p32#xywh=1596,1411,4291,1911",
+                    "@type": "sc:Canvas",
+                    "label": "ぬきかき p.32",
+                    "metadata": [
+                        {
+                            "label": "Score",
+                            "value": 0
+                        },
+                        {
+                            "label": "所蔵",
+                            "value": "東京大学"
+                        }
+                    ],
+                    "thumbnail": "https://iiif.dl.itc.u-tokyo.ac.jp/repo/iiif-img/85105/1596,1411,4291,1911/,300/0/default.jpg"
+                },
+                {
+                    "@id": "https://iiif.dl.itc.u-tokyo.ac.jp/repo/iiif/a9e2d98d-04b8-4507-bd78-284739c8b5c1/canvas/p34#xywh=3935,1524,2218,1669",
+                    "@type": "sc:Canvas",
+                    "label": "ぬきかき p.34",
+                    "metadata": [
+                        {
+                            "label": "Score",
+                            "value": 0
+                        },
+                        {
+                            "label": "所蔵",
+                            "value": "東京大学"
+                        }
+                    ],
+                    "thumbnail": "https://iiif.dl.itc.u-tokyo.ac.jp/repo/iiif-img/85107/3935,1524,2218,1669/,300/0/default.jpg"
+                },
+                {
+                    "@id": "https://iiif.dl.itc.u-tokyo.ac.jp/repo/iiif/a9e2d98d-04b8-4507-bd78-284739c8b5c1/canvas/p35#xywh=3298,1258,2903,2226",
+                    "@type": "sc:Canvas",
+                    "label": "ぬきかき p.35",
+                    "metadata": [
+                        {
+                            "label": "Score",
+                            "value": 0
+                        },
+                        {
+                            "label": "所蔵",
+                            "value": "東京大学"
+                        }
+                    ],
+                    "thumbnail": "https://iiif.dl.itc.u-tokyo.ac.jp/repo/iiif-img/85108/3298,1258,2903,2226/,300/0/default.jpg"
+                }
+            ],
+            "within": {
+                "@id": "https://iiif.dl.itc.u-tokyo.ac.jp/repo/iiif/a9e2d98d-04b8-4507-bd78-284739c8b5c1/manifest",
+                "@type": "sc:Manifest",
+                "label": "ぬきかき"
+            }
+        }
+    ]
+}

@@ -1,0 +1,107 @@
+{
+    "@context": [
+        "http://iiif.io/api/presentation/2/context.json",
+        "http://codh.rois.ac.jp/iiif/curation/1/context.json"
+    ],
+    "@id": "https://nakamura196.github.io/gaikotsu-i/curation_m/b738a250647cf23861f610425784f92f.json",
+    "@type": "cr:Curation",
+    "label": "Curating list",
+    "selections": [
+        {
+            "@id": "https://nakamura196.github.io/gaikotsu-i/curation_m/b738a250647cf23861f610425784f92f.json/range1",
+            "@type": "sc:Range",
+            "label": "Manual curation by IIIF Curation Viewer",
+            "members": [
+                {
+                    "@id": "https://iiif.dl.itc.u-tokyo.ac.jp/repo/iiif/6b782296-166c-41b3-aaa5-c20364f0fa6a/canvas/p1#xywh=1048,564,2500,3605",
+                    "@type": "sc:Canvas",
+                    "label": "門外講座に於ける講演の大意 p.1",
+                    "metadata": [
+                        {
+                            "label": "Score",
+                            "value": 0
+                        },
+                        {
+                            "label": "所蔵",
+                            "value": "東京大学"
+                        }
+                    ],
+                    "thumbnail": "https://iiif.dl.itc.u-tokyo.ac.jp/repo/iiif-img/86841/1048,564,2500,3605/,300/0/default.jpg"
+                },
+                {
+                    "@id": "https://iiif.dl.itc.u-tokyo.ac.jp/repo/iiif/6b782296-166c-41b3-aaa5-c20364f0fa6a/canvas/p3#xywh=1024,362,4927,4097",
+                    "@type": "sc:Canvas",
+                    "label": "門外講座に於ける講演の大意 p.3",
+                    "metadata": [
+                        {
+                            "label": "Score",
+                            "value": 0
+                        },
+                        {
+                            "label": "所蔵",
+                            "value": "東京大学"
+                        }
+                    ],
+                    "thumbnail": "https://iiif.dl.itc.u-tokyo.ac.jp/repo/iiif-img/86843/1024,362,4927,4097/,300/0/default.jpg"
+                },
+                {
+                    "@id": "https://iiif.dl.itc.u-tokyo.ac.jp/repo/iiif/6b782296-166c-41b3-aaa5-c20364f0fa6a/canvas/p4#xywh=1112,435,4807,3887",
+                    "@type": "sc:Canvas",
+                    "label": "門外講座に於ける講演の大意 p.4",
+                    "metadata": [
+                        {
+                            "label": "Score",
+                            "value": 0
+                        },
+                        {
+                            "label": "所蔵",
+                            "value": "東京大学"
+                        },
+                        {
+                            "label": "機械タグ",
+                            "value": "Person"
+                        }
+                    ],
+                    "thumbnail": "https://iiif.dl.itc.u-tokyo.ac.jp/repo/iiif-img/86844/1112,435,4807,3887/,300/0/default.jpg"
+                },
+                {
+                    "@id": "https://iiif.dl.itc.u-tokyo.ac.jp/repo/iiif/6b782296-166c-41b3-aaa5-c20364f0fa6a/canvas/p5#xywh=1096,411,4839,4073",
+                    "@type": "sc:Canvas",
+                    "label": "門外講座に於ける講演の大意 p.5",
+                    "metadata": [
+                        {
+                            "label": "Score",
+                            "value": 0
+                        },
+                        {
+                            "label": "所蔵",
+                            "value": "東京大学"
+                        }
+                    ],
+                    "thumbnail": "https://iiif.dl.itc.u-tokyo.ac.jp/repo/iiif-img/86845/1096,411,4839,4073/,300/0/default.jpg"
+                },
+                {
+                    "@id": "https://iiif.dl.itc.u-tokyo.ac.jp/repo/iiif/6b782296-166c-41b3-aaa5-c20364f0fa6a/canvas/p6#xywh=3387,451,2387,3896",
+                    "@type": "sc:Canvas",
+                    "label": "門外講座に於ける講演の大意 p.6",
+                    "metadata": [
+                        {
+                            "label": "Score",
+                            "value": 0
+                        },
+                        {
+                            "label": "所蔵",
+                            "value": "東京大学"
+                        }
+                    ],
+                    "thumbnail": "https://iiif.dl.itc.u-tokyo.ac.jp/repo/iiif-img/86846/3387,451,2387,3896/,300/0/default.jpg"
+                }
+            ],
+            "within": {
+                "@id": "https://iiif.dl.itc.u-tokyo.ac.jp/repo/iiif/6b782296-166c-41b3-aaa5-c20364f0fa6a/manifest",
+                "@type": "sc:Manifest",
+                "label": "門外講座に於ける講演の大意"
+            }
+        }
+    ]
+}

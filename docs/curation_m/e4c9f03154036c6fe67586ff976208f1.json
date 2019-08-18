@@ -1,0 +1,79 @@
+{
+    "@context": [
+        "http://iiif.io/api/presentation/2/context.json",
+        "http://codh.rois.ac.jp/iiif/curation/1/context.json"
+    ],
+    "@id": "https://nakamura196.github.io/gaikotsu-i/curation_m/e4c9f03154036c6fe67586ff976208f1.json",
+    "@type": "cr:Curation",
+    "label": "Curating list",
+    "selections": [
+        {
+            "@id": "https://nakamura196.github.io/gaikotsu-i/curation_m/e4c9f03154036c6fe67586ff976208f1.json/range1",
+            "@type": "sc:Range",
+            "label": "Manual curation by IIIF Curation Viewer",
+            "members": [
+                {
+                    "@id": "https://iiif.dl.itc.u-tokyo.ac.jp/repo/iiif/a5c0bf02-8b60-473e-81f6-94495cf23c22/canvas/p1#xywh=709,0,5630,4839",
+                    "@type": "sc:Canvas",
+                    "label": "切抜き p.1",
+                    "metadata": [
+                        {
+                            "label": "Score",
+                            "value": 0
+                        },
+                        {
+                            "label": "所蔵",
+                            "value": "東京大学"
+                        }
+                    ],
+                    "thumbnail": "https://iiif.dl.itc.u-tokyo.ac.jp/repo/iiif-img/84020/709,0,5630,4839/,300/0/default.jpg"
+                },
+                {
+                    "@id": "https://iiif.dl.itc.u-tokyo.ac.jp/repo/iiif/a5c0bf02-8b60-473e-81f6-94495cf23c22/canvas/p2#xywh=2524,1661,2105,1508",
+                    "@type": "sc:Canvas",
+                    "label": "切抜き p.2",
+                    "metadata": [
+                        {
+                            "label": "Score",
+                            "value": 0
+                        },
+                        {
+                            "label": "所蔵",
+                            "value": "東京大学"
+                        }
+                    ],
+                    "thumbnail": "https://iiif.dl.itc.u-tokyo.ac.jp/repo/iiif-img/84021/2524,1661,2105,1508/,300/0/default.jpg"
+                },
+                {
+                    "@id": "https://iiif.dl.itc.u-tokyo.ac.jp/repo/iiif/a5c0bf02-8b60-473e-81f6-94495cf23c22/canvas/p3#xywh=2556,1613,2081,1629",
+                    "@type": "sc:Canvas",
+                    "label": "切抜き p.3",
+                    "metadata": [
+                        {
+                            "label": "Score",
+                            "value": 0
+                        },
+                        {
+                            "label": "所蔵",
+                            "value": "東京大学"
+                        },
+                        {
+                            "label": "機械タグ",
+                            "value": "Person"
+                        },
+                        {
+                            "label": "機械タグ",
+                            "value": "Man"
+                        }
+                    ],
+                    "thumbnail": "https://iiif.dl.itc.u-tokyo.ac.jp/repo/iiif-img/84022/2556,1613,2081,1629/,300/0/default.jpg"
+                }
+            ],
+            "within": {
+                "@id": "https://iiif.dl.itc.u-tokyo.ac.jp/repo/iiif/a5c0bf02-8b60-473e-81f6-94495cf23c22/manifest",
+                "@type": "sc:Manifest",
+                "label": "切抜き"
+            }
+        }
+    ]
+}

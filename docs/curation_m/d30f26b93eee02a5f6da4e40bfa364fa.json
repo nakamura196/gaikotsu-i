@@ -1,0 +1,615 @@
+{
+    "@context": [
+        "http://iiif.io/api/presentation/2/context.json",
+        "http://codh.rois.ac.jp/iiif/curation/1/context.json"
+    ],
+    "@id": "https://nakamura196.github.io/gaikotsu-i/curation_m/d30f26b93eee02a5f6da4e40bfa364fa.json",
+    "@type": "cr:Curation",
+    "label": "Curating list",
+    "selections": [
+        {
+            "@id": "https://nakamura196.github.io/gaikotsu-i/curation_m/d30f26b93eee02a5f6da4e40bfa364fa.json/range1",
+            "@type": "sc:Range",
+            "label": "Manual curation by IIIF Curation Viewer",
+            "members": [
+                {
+                    "@id": "https://iiif.dl.itc.u-tokyo.ac.jp/repo/iiif/41ae061a-5b47-46cd-9c0a-2de3c6241d5b/canvas/p3#xywh=1790,1016,3871,2742",
+                    "@type": "sc:Canvas",
+                    "label": "[谷干城氏意見書, 板垣退助氏意見書, 勝安房氏口演覚書、ボアソナード意見書?, 憲法議案ヲ下附セラレンコトヲ奏請スルノ意見書、元老院章程ニ関スル意見書] p.3",
+                    "metadata": [
+                        {
+                            "label": "Score",
+                            "value": 0
+                        },
+                        {
+                            "label": "所蔵",
+                            "value": "東京大学"
+                        }
+                    ],
+                    "thumbnail": "https://iiif.dl.itc.u-tokyo.ac.jp/repo/iiif-img/85880/1790,1016,3871,2742/,300/0/default.jpg"
+                },
+                {
+                    "@id": "https://iiif.dl.itc.u-tokyo.ac.jp/repo/iiif/41ae061a-5b47-46cd-9c0a-2de3c6241d5b/canvas/p4#xywh=1758,1008,3960,2726",
+                    "@type": "sc:Canvas",
+                    "label": "[谷干城氏意見書, 板垣退助氏意見書, 勝安房氏口演覚書、ボアソナード意見書?, 憲法議案ヲ下附セラレンコトヲ奏請スルノ意見書、元老院章程ニ関スル意見書] p.4",
+                    "metadata": [
+                        {
+                            "label": "Score",
+                            "value": 0
+                        },
+                        {
+                            "label": "所蔵",
+                            "value": "東京大学"
+                        }
+                    ],
+                    "thumbnail": "https://iiif.dl.itc.u-tokyo.ac.jp/repo/iiif-img/85881/1758,1008,3960,2726/,300/0/default.jpg"
+                },
+                {
+                    "@id": "https://iiif.dl.itc.u-tokyo.ac.jp/repo/iiif/41ae061a-5b47-46cd-9c0a-2de3c6241d5b/canvas/p5#xywh=1766,991,3895,2759",
+                    "@type": "sc:Canvas",
+                    "label": "[谷干城氏意見書, 板垣退助氏意見書, 勝安房氏口演覚書、ボアソナード意見書?, 憲法議案ヲ下附セラレンコトヲ奏請スルノ意見書、元老院章程ニ関スル意見書] p.5",
+                    "metadata": [
+                        {
+                            "label": "Score",
+                            "value": 0
+                        },
+                        {
+                            "label": "所蔵",
+                            "value": "東京大学"
+                        }
+                    ],
+                    "thumbnail": "https://iiif.dl.itc.u-tokyo.ac.jp/repo/iiif-img/85882/1766,991,3895,2759/,300/0/default.jpg"
+                },
+                {
+                    "@id": "https://iiif.dl.itc.u-tokyo.ac.jp/repo/iiif/41ae061a-5b47-46cd-9c0a-2de3c6241d5b/canvas/p7#xywh=1742,1024,3935,2702",
+                    "@type": "sc:Canvas",
+                    "label": "[谷干城氏意見書, 板垣退助氏意見書, 勝安房氏口演覚書、ボアソナード意見書?, 憲法議案ヲ下附セラレンコトヲ奏請スルノ意見書、元老院章程ニ関スル意見書] p.7",
+                    "metadata": [
+                        {
+                            "label": "Score",
+                            "value": 0
+                        },
+                        {
+                            "label": "所蔵",
+                            "value": "東京大学"
+                        }
+                    ],
+                    "thumbnail": "https://iiif.dl.itc.u-tokyo.ac.jp/repo/iiif-img/85884/1742,1024,3935,2702/,300/0/default.jpg"
+                },
+                {
+                    "@id": "https://iiif.dl.itc.u-tokyo.ac.jp/repo/iiif/41ae061a-5b47-46cd-9c0a-2de3c6241d5b/canvas/p8#xywh=1725,1000,3888,2758",
+                    "@type": "sc:Canvas",
+                    "label": "[谷干城氏意見書, 板垣退助氏意見書, 勝安房氏口演覚書、ボアソナード意見書?, 憲法議案ヲ下附セラレンコトヲ奏請スルノ意見書、元老院章程ニ関スル意見書] p.8",
+                    "metadata": [
+                        {
+                            "label": "Score",
+                            "value": 0
+                        },
+                        {
+                            "label": "所蔵",
+                            "value": "東京大学"
+                        }
+                    ],
+                    "thumbnail": "https://iiif.dl.itc.u-tokyo.ac.jp/repo/iiif-img/85885/1725,1000,3888,2758/,300/0/default.jpg"
+                },
+                {
+                    "@id": "https://iiif.dl.itc.u-tokyo.ac.jp/repo/iiif/41ae061a-5b47-46cd-9c0a-2de3c6241d5b/canvas/p9#xywh=1733,1024,3880,2677",
+                    "@type": "sc:Canvas",
+                    "label": "[谷干城氏意見書, 板垣退助氏意見書, 勝安房氏口演覚書、ボアソナード意見書?, 憲法議案ヲ下附セラレンコトヲ奏請スルノ意見書、元老院章程ニ関スル意見書] p.9",
+                    "metadata": [
+                        {
+                            "label": "Score",
+                            "value": 0
+                        },
+                        {
+                            "label": "所蔵",
+                            "value": "東京大学"
+                        }
+                    ],
+                    "thumbnail": "https://iiif.dl.itc.u-tokyo.ac.jp/repo/iiif-img/85886/1733,1024,3880,2677/,300/0/default.jpg"
+                },
+                {
+                    "@id": "https://iiif.dl.itc.u-tokyo.ac.jp/repo/iiif/41ae061a-5b47-46cd-9c0a-2de3c6241d5b/canvas/p16#xywh=1774,983,3847,2815",
+                    "@type": "sc:Canvas",
+                    "label": "[谷干城氏意見書, 板垣退助氏意見書, 勝安房氏口演覚書、ボアソナード意見書?, 憲法議案ヲ下附セラレンコトヲ奏請スルノ意見書、元老院章程ニ関スル意見書] p.16",
+                    "metadata": [
+                        {
+                            "label": "Score",
+                            "value": 0
+                        },
+                        {
+                            "label": "所蔵",
+                            "value": "東京大学"
+                        }
+                    ],
+                    "thumbnail": "https://iiif.dl.itc.u-tokyo.ac.jp/repo/iiif-img/85893/1774,983,3847,2815/,300/0/default.jpg"
+                },
+                {
+                    "@id": "https://iiif.dl.itc.u-tokyo.ac.jp/repo/iiif/41ae061a-5b47-46cd-9c0a-2de3c6241d5b/canvas/p17#xywh=1782,983,3831,2751",
+                    "@type": "sc:Canvas",
+                    "label": "[谷干城氏意見書, 板垣退助氏意見書, 勝安房氏口演覚書、ボアソナード意見書?, 憲法議案ヲ下附セラレンコトヲ奏請スルノ意見書、元老院章程ニ関スル意見書] p.17",
+                    "metadata": [
+                        {
+                            "label": "Score",
+                            "value": 0
+                        },
+                        {
+                            "label": "所蔵",
+                            "value": "東京大学"
+                        }
+                    ],
+                    "thumbnail": "https://iiif.dl.itc.u-tokyo.ac.jp/repo/iiif-img/85894/1782,983,3831,2751/,300/0/default.jpg"
+                },
+                {
+                    "@id": "https://iiif.dl.itc.u-tokyo.ac.jp/repo/iiif/41ae061a-5b47-46cd-9c0a-2de3c6241d5b/canvas/p19#xywh=1733,991,3977,2743",
+                    "@type": "sc:Canvas",
+                    "label": "[谷干城氏意見書, 板垣退助氏意見書, 勝安房氏口演覚書、ボアソナード意見書?, 憲法議案ヲ下附セラレンコトヲ奏請スルノ意見書、元老院章程ニ関スル意見書] p.19",
+                    "metadata": [
+                        {
+                            "label": "Score",
+                            "value": 0
+                        },
+                        {
+                            "label": "所蔵",
+                            "value": "東京大学"
+                        }
+                    ],
+                    "thumbnail": "https://iiif.dl.itc.u-tokyo.ac.jp/repo/iiif-img/85896/1733,991,3977,2743/,300/0/default.jpg"
+                },
+                {
+                    "@id": "https://iiif.dl.itc.u-tokyo.ac.jp/repo/iiif/41ae061a-5b47-46cd-9c0a-2de3c6241d5b/canvas/p22#xywh=1750,991,3951,2799",
+                    "@type": "sc:Canvas",
+                    "label": "[谷干城氏意見書, 板垣退助氏意見書, 勝安房氏口演覚書、ボアソナード意見書?, 憲法議案ヲ下附セラレンコトヲ奏請スルノ意見書、元老院章程ニ関スル意見書] p.22",
+                    "metadata": [
+                        {
+                            "label": "Score",
+                            "value": 0
+                        },
+                        {
+                            "label": "所蔵",
+                            "value": "東京大学"
+                        }
+                    ],
+                    "thumbnail": "https://iiif.dl.itc.u-tokyo.ac.jp/repo/iiif-img/85899/1750,991,3951,2799/,300/0/default.jpg"
+                },
+                {
+                    "@id": "https://iiif.dl.itc.u-tokyo.ac.jp/repo/iiif/41ae061a-5b47-46cd-9c0a-2de3c6241d5b/canvas/p24#xywh=1758,935,3976,2920",
+                    "@type": "sc:Canvas",
+                    "label": "[谷干城氏意見書, 板垣退助氏意見書, 勝安房氏口演覚書、ボアソナード意見書?, 憲法議案ヲ下附セラレンコトヲ奏請スルノ意見書、元老院章程ニ関スル意見書] p.24",
+                    "metadata": [
+                        {
+                            "label": "Score",
+                            "value": 0
+                        },
+                        {
+                            "label": "所蔵",
+                            "value": "東京大学"
+                        }
+                    ],
+                    "thumbnail": "https://iiif.dl.itc.u-tokyo.ac.jp/repo/iiif-img/85901/1758,935,3976,2920/,300/0/default.jpg"
+                },
+                {
+                    "@id": "https://iiif.dl.itc.u-tokyo.ac.jp/repo/iiif/41ae061a-5b47-46cd-9c0a-2de3c6241d5b/canvas/p25#xywh=1725,975,3985,2783",
+                    "@type": "sc:Canvas",
+                    "label": "[谷干城氏意見書, 板垣退助氏意見書, 勝安房氏口演覚書、ボアソナード意見書?, 憲法議案ヲ下附セラレンコトヲ奏請スルノ意見書、元老院章程ニ関スル意見書] p.25",
+                    "metadata": [
+                        {
+                            "label": "Score",
+                            "value": 0
+                        },
+                        {
+                            "label": "所蔵",
+                            "value": "東京大学"
+                        }
+                    ],
+                    "thumbnail": "https://iiif.dl.itc.u-tokyo.ac.jp/repo/iiif-img/85902/1725,975,3985,2783/,300/0/default.jpg"
+                },
+                {
+                    "@id": "https://iiif.dl.itc.u-tokyo.ac.jp/repo/iiif/41ae061a-5b47-46cd-9c0a-2de3c6241d5b/canvas/p26#xywh=1725,959,3936,2871",
+                    "@type": "sc:Canvas",
+                    "label": "[谷干城氏意見書, 板垣退助氏意見書, 勝安房氏口演覚書、ボアソナード意見書?, 憲法議案ヲ下附セラレンコトヲ奏請スルノ意見書、元老院章程ニ関スル意見書] p.26",
+                    "metadata": [
+                        {
+                            "label": "Score",
+                            "value": 0
+                        },
+                        {
+                            "label": "所蔵",
+                            "value": "東京大学"
+                        }
+                    ],
+                    "thumbnail": "https://iiif.dl.itc.u-tokyo.ac.jp/repo/iiif-img/85903/1725,959,3936,2871/,300/0/default.jpg"
+                },
+                {
+                    "@id": "https://iiif.dl.itc.u-tokyo.ac.jp/repo/iiif/41ae061a-5b47-46cd-9c0a-2de3c6241d5b/canvas/p28#xywh=1733,951,3952,2839",
+                    "@type": "sc:Canvas",
+                    "label": "[谷干城氏意見書, 板垣退助氏意見書, 勝安房氏口演覚書、ボアソナード意見書?, 憲法議案ヲ下附セラレンコトヲ奏請スルノ意見書、元老院章程ニ関スル意見書] p.28",
+                    "metadata": [
+                        {
+                            "label": "Score",
+                            "value": 0
+                        },
+                        {
+                            "label": "所蔵",
+                            "value": "東京大学"
+                        }
+                    ],
+                    "thumbnail": "https://iiif.dl.itc.u-tokyo.ac.jp/repo/iiif-img/85905/1733,951,3952,2839/,300/0/default.jpg"
+                },
+                {
+                    "@id": "https://iiif.dl.itc.u-tokyo.ac.jp/repo/iiif/41ae061a-5b47-46cd-9c0a-2de3c6241d5b/canvas/p30#xywh=1717,943,3984,2912",
+                    "@type": "sc:Canvas",
+                    "label": "[谷干城氏意見書, 板垣退助氏意見書, 勝安房氏口演覚書、ボアソナード意見書?, 憲法議案ヲ下附セラレンコトヲ奏請スルノ意見書、元老院章程ニ関スル意見書] p.30",
+                    "metadata": [
+                        {
+                            "label": "Score",
+                            "value": 0
+                        },
+                        {
+                            "label": "所蔵",
+                            "value": "東京大学"
+                        }
+                    ],
+                    "thumbnail": "https://iiif.dl.itc.u-tokyo.ac.jp/repo/iiif-img/85907/1717,943,3984,2912/,300/0/default.jpg"
+                },
+                {
+                    "@id": "https://iiif.dl.itc.u-tokyo.ac.jp/repo/iiif/41ae061a-5b47-46cd-9c0a-2de3c6241d5b/canvas/p32#xywh=1725,959,3968,2847",
+                    "@type": "sc:Canvas",
+                    "label": "[谷干城氏意見書, 板垣退助氏意見書, 勝安房氏口演覚書、ボアソナード意見書?, 憲法議案ヲ下附セラレンコトヲ奏請スルノ意見書、元老院章程ニ関スル意見書] p.32",
+                    "metadata": [
+                        {
+                            "label": "Score",
+                            "value": 0
+                        },
+                        {
+                            "label": "所蔵",
+                            "value": "東京大学"
+                        }
+                    ],
+                    "thumbnail": "https://iiif.dl.itc.u-tokyo.ac.jp/repo/iiif-img/85909/1725,959,3968,2847/,300/0/default.jpg"
+                },
+                {
+                    "@id": "https://iiif.dl.itc.u-tokyo.ac.jp/repo/iiif/41ae061a-5b47-46cd-9c0a-2de3c6241d5b/canvas/p34#xywh=1742,943,3871,2887",
+                    "@type": "sc:Canvas",
+                    "label": "[谷干城氏意見書, 板垣退助氏意見書, 勝安房氏口演覚書、ボアソナード意見書?, 憲法議案ヲ下附セラレンコトヲ奏請スルノ意見書、元老院章程ニ関スル意見書] p.34",
+                    "metadata": [
+                        {
+                            "label": "Score",
+                            "value": 0
+                        },
+                        {
+                            "label": "所蔵",
+                            "value": "東京大学"
+                        }
+                    ],
+                    "thumbnail": "https://iiif.dl.itc.u-tokyo.ac.jp/repo/iiif-img/85911/1742,943,3871,2887/,300/0/default.jpg"
+                },
+                {
+                    "@id": "https://iiif.dl.itc.u-tokyo.ac.jp/repo/iiif/41ae061a-5b47-46cd-9c0a-2de3c6241d5b/canvas/p36#xywh=1677,951,3968,2823",
+                    "@type": "sc:Canvas",
+                    "label": "[谷干城氏意見書, 板垣退助氏意見書, 勝安房氏口演覚書、ボアソナード意見書?, 憲法議案ヲ下附セラレンコトヲ奏請スルノ意見書、元老院章程ニ関スル意見書] p.36",
+                    "metadata": [
+                        {
+                            "label": "Score",
+                            "value": 0
+                        },
+                        {
+                            "label": "所蔵",
+                            "value": "東京大学"
+                        }
+                    ],
+                    "thumbnail": "https://iiif.dl.itc.u-tokyo.ac.jp/repo/iiif-img/85913/1677,951,3968,2823/,300/0/default.jpg"
+                },
+                {
+                    "@id": "https://iiif.dl.itc.u-tokyo.ac.jp/repo/iiif/41ae061a-5b47-46cd-9c0a-2de3c6241d5b/canvas/p38#xywh=1701,919,3888,2847",
+                    "@type": "sc:Canvas",
+                    "label": "[谷干城氏意見書, 板垣退助氏意見書, 勝安房氏口演覚書、ボアソナード意見書?, 憲法議案ヲ下附セラレンコトヲ奏請スルノ意見書、元老院章程ニ関スル意見書] p.38",
+                    "metadata": [
+                        {
+                            "label": "Score",
+                            "value": 0
+                        },
+                        {
+                            "label": "所蔵",
+                            "value": "東京大学"
+                        }
+                    ],
+                    "thumbnail": "https://iiif.dl.itc.u-tokyo.ac.jp/repo/iiif-img/85915/1701,919,3888,2847/,300/0/default.jpg"
+                },
+                {
+                    "@id": "https://iiif.dl.itc.u-tokyo.ac.jp/repo/iiif/41ae061a-5b47-46cd-9c0a-2de3c6241d5b/canvas/p39#xywh=1758,1000,3782,2734",
+                    "@type": "sc:Canvas",
+                    "label": "[谷干城氏意見書, 板垣退助氏意見書, 勝安房氏口演覚書、ボアソナード意見書?, 憲法議案ヲ下附セラレンコトヲ奏請スルノ意見書、元老院章程ニ関スル意見書] p.39",
+                    "metadata": [
+                        {
+                            "label": "Score",
+                            "value": 0
+                        },
+                        {
+                            "label": "所蔵",
+                            "value": "東京大学"
+                        }
+                    ],
+                    "thumbnail": "https://iiif.dl.itc.u-tokyo.ac.jp/repo/iiif-img/85916/1758,1000,3782,2734/,300/0/default.jpg"
+                },
+                {
+                    "@id": "https://iiif.dl.itc.u-tokyo.ac.jp/repo/iiif/41ae061a-5b47-46cd-9c0a-2de3c6241d5b/canvas/p40#xywh=1717,1000,3896,2717",
+                    "@type": "sc:Canvas",
+                    "label": "[谷干城氏意見書, 板垣退助氏意見書, 勝安房氏口演覚書、ボアソナード意見書?, 憲法議案ヲ下附セラレンコトヲ奏請スルノ意見書、元老院章程ニ関スル意見書] p.40",
+                    "metadata": [
+                        {
+                            "label": "Score",
+                            "value": 0
+                        },
+                        {
+                            "label": "所蔵",
+                            "value": "東京大学"
+                        }
+                    ],
+                    "thumbnail": "https://iiif.dl.itc.u-tokyo.ac.jp/repo/iiif-img/85917/1717,1000,3896,2717/,300/0/default.jpg"
+                },
+                {
+                    "@id": "https://iiif.dl.itc.u-tokyo.ac.jp/repo/iiif/41ae061a-5b47-46cd-9c0a-2de3c6241d5b/canvas/p44#xywh=1677,983,3960,2726",
+                    "@type": "sc:Canvas",
+                    "label": "[谷干城氏意見書, 板垣退助氏意見書, 勝安房氏口演覚書、ボアソナード意見書?, 憲法議案ヲ下附セラレンコトヲ奏請スルノ意見書、元老院章程ニ関スル意見書] p.44",
+                    "metadata": [
+                        {
+                            "label": "Score",
+                            "value": 0
+                        },
+                        {
+                            "label": "所蔵",
+                            "value": "東京大学"
+                        }
+                    ],
+                    "thumbnail": "https://iiif.dl.itc.u-tokyo.ac.jp/repo/iiif-img/85921/1677,983,3960,2726/,300/0/default.jpg"
+                },
+                {
+                    "@id": "https://iiif.dl.itc.u-tokyo.ac.jp/repo/iiif/41ae061a-5b47-46cd-9c0a-2de3c6241d5b/canvas/p45#xywh=1677,1024,3976,2645",
+                    "@type": "sc:Canvas",
+                    "label": "[谷干城氏意見書, 板垣退助氏意見書, 勝安房氏口演覚書、ボアソナード意見書?, 憲法議案ヲ下附セラレンコトヲ奏請スルノ意見書、元老院章程ニ関スル意見書] p.45",
+                    "metadata": [
+                        {
+                            "label": "Score",
+                            "value": 0
+                        },
+                        {
+                            "label": "所蔵",
+                            "value": "東京大学"
+                        }
+                    ],
+                    "thumbnail": "https://iiif.dl.itc.u-tokyo.ac.jp/repo/iiif-img/85922/1677,1024,3976,2645/,300/0/default.jpg"
+                },
+                {
+                    "@id": "https://iiif.dl.itc.u-tokyo.ac.jp/repo/iiif/41ae061a-5b47-46cd-9c0a-2de3c6241d5b/canvas/p46#xywh=1693,951,3887,2758",
+                    "@type": "sc:Canvas",
+                    "label": "[谷干城氏意見書, 板垣退助氏意見書, 勝安房氏口演覚書、ボアソナード意見書?, 憲法議案ヲ下附セラレンコトヲ奏請スルノ意見書、元老院章程ニ関スル意見書] p.46",
+                    "metadata": [
+                        {
+                            "label": "Score",
+                            "value": 0
+                        },
+                        {
+                            "label": "所蔵",
+                            "value": "東京大学"
+                        }
+                    ],
+                    "thumbnail": "https://iiif.dl.itc.u-tokyo.ac.jp/repo/iiif-img/85923/1693,951,3887,2758/,300/0/default.jpg"
+                },
+                {
+                    "@id": "https://iiif.dl.itc.u-tokyo.ac.jp/repo/iiif/41ae061a-5b47-46cd-9c0a-2de3c6241d5b/canvas/p47#xywh=1653,943,3984,2742",
+                    "@type": "sc:Canvas",
+                    "label": "[谷干城氏意見書, 板垣退助氏意見書, 勝安房氏口演覚書、ボアソナード意見書?, 憲法議案ヲ下附セラレンコトヲ奏請スルノ意見書、元老院章程ニ関スル意見書] p.47",
+                    "metadata": [
+                        {
+                            "label": "Score",
+                            "value": 0
+                        },
+                        {
+                            "label": "所蔵",
+                            "value": "東京大学"
+                        }
+                    ],
+                    "thumbnail": "https://iiif.dl.itc.u-tokyo.ac.jp/repo/iiif-img/85924/1653,943,3984,2742/,300/0/default.jpg"
+                },
+                {
+                    "@id": "https://iiif.dl.itc.u-tokyo.ac.jp/repo/iiif/41ae061a-5b47-46cd-9c0a-2de3c6241d5b/canvas/p50#xywh=1693,927,3952,2790",
+                    "@type": "sc:Canvas",
+                    "label": "[谷干城氏意見書, 板垣退助氏意見書, 勝安房氏口演覚書、ボアソナード意見書?, 憲法議案ヲ下附セラレンコトヲ奏請スルノ意見書、元老院章程ニ関スル意見書] p.50",
+                    "metadata": [
+                        {
+                            "label": "Score",
+                            "value": 0
+                        },
+                        {
+                            "label": "所蔵",
+                            "value": "東京大学"
+                        }
+                    ],
+                    "thumbnail": "https://iiif.dl.itc.u-tokyo.ac.jp/repo/iiif-img/85927/1693,927,3952,2790/,300/0/default.jpg"
+                },
+                {
+                    "@id": "https://iiif.dl.itc.u-tokyo.ac.jp/repo/iiif/41ae061a-5b47-46cd-9c0a-2de3c6241d5b/canvas/p52#xywh=1669,943,3944,2758",
+                    "@type": "sc:Canvas",
+                    "label": "[谷干城氏意見書, 板垣退助氏意見書, 勝安房氏口演覚書、ボアソナード意見書?, 憲法議案ヲ下附セラレンコトヲ奏請スルノ意見書、元老院章程ニ関スル意見書] p.52",
+                    "metadata": [
+                        {
+                            "label": "Score",
+                            "value": 0
+                        },
+                        {
+                            "label": "所蔵",
+                            "value": "東京大学"
+                        }
+                    ],
+                    "thumbnail": "https://iiif.dl.itc.u-tokyo.ac.jp/repo/iiif-img/85929/1669,943,3944,2758/,300/0/default.jpg"
+                },
+                {
+                    "@id": "https://iiif.dl.itc.u-tokyo.ac.jp/repo/iiif/41ae061a-5b47-46cd-9c0a-2de3c6241d5b/canvas/p53#xywh=1693,975,3887,2702",
+                    "@type": "sc:Canvas",
+                    "label": "[谷干城氏意見書, 板垣退助氏意見書, 勝安房氏口演覚書、ボアソナード意見書?, 憲法議案ヲ下附セラレンコトヲ奏請スルノ意見書、元老院章程ニ関スル意見書] p.53",
+                    "metadata": [
+                        {
+                            "label": "Score",
+                            "value": 0
+                        },
+                        {
+                            "label": "所蔵",
+                            "value": "東京大学"
+                        }
+                    ],
+                    "thumbnail": "https://iiif.dl.itc.u-tokyo.ac.jp/repo/iiif-img/85930/1693,975,3887,2702/,300/0/default.jpg"
+                },
+                {
+                    "@id": "https://iiif.dl.itc.u-tokyo.ac.jp/repo/iiif/41ae061a-5b47-46cd-9c0a-2de3c6241d5b/canvas/p54#xywh=1685,935,3912,2782",
+                    "@type": "sc:Canvas",
+                    "label": "[谷干城氏意見書, 板垣退助氏意見書, 勝安房氏口演覚書、ボアソナード意見書?, 憲法議案ヲ下附セラレンコトヲ奏請スルノ意見書、元老院章程ニ関スル意見書] p.54",
+                    "metadata": [
+                        {
+                            "label": "Score",
+                            "value": 0
+                        },
+                        {
+                            "label": "所蔵",
+                            "value": "東京大学"
+                        }
+                    ],
+                    "thumbnail": "https://iiif.dl.itc.u-tokyo.ac.jp/repo/iiif-img/85931/1685,935,3912,2782/,300/0/default.jpg"
+                },
+                {
+                    "@id": "https://iiif.dl.itc.u-tokyo.ac.jp/repo/iiif/41ae061a-5b47-46cd-9c0a-2de3c6241d5b/canvas/p56#xywh=1701,951,3823,2791",
+                    "@type": "sc:Canvas",
+                    "label": "[谷干城氏意見書, 板垣退助氏意見書, 勝安房氏口演覚書、ボアソナード意見書?, 憲法議案ヲ下附セラレンコトヲ奏請スルノ意見書、元老院章程ニ関スル意見書] p.56",
+                    "metadata": [
+                        {
+                            "label": "Score",
+                            "value": 0
+                        },
+                        {
+                            "label": "所蔵",
+                            "value": "東京大学"
+                        }
+                    ],
+                    "thumbnail": "https://iiif.dl.itc.u-tokyo.ac.jp/repo/iiif-img/85933/1701,951,3823,2791/,300/0/default.jpg"
+                },
+                {
+                    "@id": "https://iiif.dl.itc.u-tokyo.ac.jp/repo/iiif/41ae061a-5b47-46cd-9c0a-2de3c6241d5b/canvas/p60#xywh=1742,927,3726,2823",
+                    "@type": "sc:Canvas",
+                    "label": "[谷干城氏意見書, 板垣退助氏意見書, 勝安房氏口演覚書、ボアソナード意見書?, 憲法議案ヲ下附セラレンコトヲ奏請スルノ意見書、元老院章程ニ関スル意見書] p.60",
+                    "metadata": [
+                        {
+                            "label": "Score",
+                            "value": 0
+                        },
+                        {
+                            "label": "所蔵",
+                            "value": "東京大学"
+                        }
+                    ],
+                    "thumbnail": "https://iiif.dl.itc.u-tokyo.ac.jp/repo/iiif-img/85937/1742,927,3726,2823/,300/0/default.jpg"
+                },
+                {
+                    "@id": "https://iiif.dl.itc.u-tokyo.ac.jp/repo/iiif/41ae061a-5b47-46cd-9c0a-2de3c6241d5b/canvas/p61#xywh=1758,975,3766,2751",
+                    "@type": "sc:Canvas",
+                    "label": "[谷干城氏意見書, 板垣退助氏意見書, 勝安房氏口演覚書、ボアソナード意見書?, 憲法議案ヲ下附セラレンコトヲ奏請スルノ意見書、元老院章程ニ関スル意見書] p.61",
+                    "metadata": [
+                        {
+                            "label": "Score",
+                            "value": 0
+                        },
+                        {
+                            "label": "所蔵",
+                            "value": "東京大学"
+                        }
+                    ],
+                    "thumbnail": "https://iiif.dl.itc.u-tokyo.ac.jp/repo/iiif-img/85938/1758,975,3766,2751/,300/0/default.jpg"
+                },
+                {
+                    "@id": "https://iiif.dl.itc.u-tokyo.ac.jp/repo/iiif/41ae061a-5b47-46cd-9c0a-2de3c6241d5b/canvas/p62#xywh=1806,919,3613,2815",
+                    "@type": "sc:Canvas",
+                    "label": "[谷干城氏意見書, 板垣退助氏意見書, 勝安房氏口演覚書、ボアソナード意見書?, 憲法議案ヲ下附セラレンコトヲ奏請スルノ意見書、元老院章程ニ関スル意見書] p.62",
+                    "metadata": [
+                        {
+                            "label": "Score",
+                            "value": 0
+                        },
+                        {
+                            "label": "所蔵",
+                            "value": "東京大学"
+                        }
+                    ],
+                    "thumbnail": "https://iiif.dl.itc.u-tokyo.ac.jp/repo/iiif-img/85939/1806,919,3613,2815/,300/0/default.jpg"
+                },
+                {
+                    "@id": "https://iiif.dl.itc.u-tokyo.ac.jp/repo/iiif/41ae061a-5b47-46cd-9c0a-2de3c6241d5b/canvas/p63#xywh=1782,919,3694,2839",
+                    "@type": "sc:Canvas",
+                    "label": "[谷干城氏意見書, 板垣退助氏意見書, 勝安房氏口演覚書、ボアソナード意見書?, 憲法議案ヲ下附セラレンコトヲ奏請スルノ意見書、元老院章程ニ関スル意見書] p.63",
+                    "metadata": [
+                        {
+                            "label": "Score",
+                            "value": 0
+                        },
+                        {
+                            "label": "所蔵",
+                            "value": "東京大学"
+                        }
+                    ],
+                    "thumbnail": "https://iiif.dl.itc.u-tokyo.ac.jp/repo/iiif-img/85940/1782,919,3694,2839/,300/0/default.jpg"
+                },
+                {
+                    "@id": "https://iiif.dl.itc.u-tokyo.ac.jp/repo/iiif/41ae061a-5b47-46cd-9c0a-2de3c6241d5b/canvas/p64#xywh=1725,967,3880,2775",
+                    "@type": "sc:Canvas",
+                    "label": "[谷干城氏意見書, 板垣退助氏意見書, 勝安房氏口演覚書、ボアソナード意見書?, 憲法議案ヲ下附セラレンコトヲ奏請スルノ意見書、元老院章程ニ関スル意見書] p.64",
+                    "metadata": [
+                        {
+                            "label": "Score",
+                            "value": 0
+                        },
+                        {
+                            "label": "所蔵",
+                            "value": "東京大学"
+                        }
+                    ],
+                    "thumbnail": "https://iiif.dl.itc.u-tokyo.ac.jp/repo/iiif-img/85941/1725,967,3880,2775/,300/0/default.jpg"
+                },
+                {
+                    "@id": "https://iiif.dl.itc.u-tokyo.ac.jp/repo/iiif/41ae061a-5b47-46cd-9c0a-2de3c6241d5b/canvas/p66#xywh=1782,943,3766,2823",
+                    "@type": "sc:Canvas",
+                    "label": "[谷干城氏意見書, 板垣退助氏意見書, 勝安房氏口演覚書、ボアソナード意見書?, 憲法議案ヲ下附セラレンコトヲ奏請スルノ意見書、元老院章程ニ関スル意見書] p.66",
+                    "metadata": [
+                        {
+                            "label": "Score",
+                            "value": 0
+                        },
+                        {
+                            "label": "所蔵",
+                            "value": "東京大学"
+                        }
+                    ],
+                    "thumbnail": "https://iiif.dl.itc.u-tokyo.ac.jp/repo/iiif-img/85943/1782,943,3766,2823/,300/0/default.jpg"
+                },
+                {
+                    "@id": "https://iiif.dl.itc.u-tokyo.ac.jp/repo/iiif/41ae061a-5b47-46cd-9c0a-2de3c6241d5b/canvas/p67#xywh=1830,1008,3662,2685",
+                    "@type": "sc:Canvas",
+                    "label": "[谷干城氏意見書, 板垣退助氏意見書, 勝安房氏口演覚書、ボアソナード意見書?, 憲法議案ヲ下附セラレンコトヲ奏請スルノ意見書、元老院章程ニ関スル意見書] p.67",
+                    "metadata": [
+                        {
+                            "label": "Score",
+                            "value": 0
+                        },
+                        {
+                            "label": "所蔵",
+                            "value": "東京大学"
+                        }
+                    ],
+                    "thumbnail": "https://iiif.dl.itc.u-tokyo.ac.jp/repo/iiif-img/85944/1830,1008,3662,2685/,300/0/default.jpg"
+                }
+            ],
+            "within": {
+                "@id": "https://iiif.dl.itc.u-tokyo.ac.jp/repo/iiif/41ae061a-5b47-46cd-9c0a-2de3c6241d5b/manifest",
+                "@type": "sc:Manifest",
+                "label": "[谷干城氏意見書, 板垣退助氏意見書, 勝安房氏口演覚書、ボアソナード意見書?, 憲法議案ヲ下附セラレンコトヲ奏請スルノ意見書、元老院章程ニ関スル意見書]"
+            }
+        }
+    ]
+}

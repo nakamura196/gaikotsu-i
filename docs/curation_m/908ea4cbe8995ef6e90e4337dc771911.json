@@ -1,0 +1,43 @@
+{
+    "@context": [
+        "http://iiif.io/api/presentation/2/context.json",
+        "http://codh.rois.ac.jp/iiif/curation/1/context.json"
+    ],
+    "@id": "https://nakamura196.github.io/gaikotsu-i/curation_m/908ea4cbe8995ef6e90e4337dc771911.json",
+    "@type": "cr:Curation",
+    "label": "Curating list",
+    "selections": [
+        {
+            "@id": "https://nakamura196.github.io/gaikotsu-i/curation_m/908ea4cbe8995ef6e90e4337dc771911.json/range1",
+            "@type": "sc:Range",
+            "label": "Manual curation by IIIF Curation Viewer",
+            "members": [
+                {
+                    "@id": "https://iiif.dl.itc.u-tokyo.ac.jp/repo/iiif/b6d2603b-6f8d-4793-8864-c5b33e0bfd2a/canvas/p2#xywh=2322,959,2428,2823",
+                    "@type": "sc:Canvas",
+                    "label": "[「公私月報」図版原稿(「播洲人の三雑誌標題」)] p.2",
+                    "metadata": [
+                        {
+                            "label": "Score",
+                            "value": 0
+                        },
+                        {
+                            "label": "所蔵",
+                            "value": "東京大学"
+                        },
+                        {
+                            "label": "機械タグ",
+                            "value": "Person"
+                        }
+                    ],
+                    "thumbnail": "https://iiif.dl.itc.u-tokyo.ac.jp/repo/iiif-img/86790/2322,959,2428,2823/,300/0/default.jpg"
+                }
+            ],
+            "within": {
+                "@id": "https://iiif.dl.itc.u-tokyo.ac.jp/repo/iiif/b6d2603b-6f8d-4793-8864-c5b33e0bfd2a/manifest",
+                "@type": "sc:Manifest",
+                "label": "[「公私月報」図版原稿(「播洲人の三雑誌標題」)]"
+            }
+        }
+    ]
+}

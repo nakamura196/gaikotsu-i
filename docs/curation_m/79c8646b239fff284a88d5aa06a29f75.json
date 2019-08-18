@@ -1,0 +1,71 @@
+{
+    "@context": [
+        "http://iiif.io/api/presentation/2/context.json",
+        "http://codh.rois.ac.jp/iiif/curation/1/context.json"
+    ],
+    "@id": "https://nakamura196.github.io/gaikotsu-i/curation_m/79c8646b239fff284a88d5aa06a29f75.json",
+    "@type": "cr:Curation",
+    "label": "Curating list",
+    "selections": [
+        {
+            "@id": "https://nakamura196.github.io/gaikotsu-i/curation_m/79c8646b239fff284a88d5aa06a29f75.json/range1",
+            "@type": "sc:Range",
+            "label": "Manual curation by IIIF Curation Viewer",
+            "members": [
+                {
+                    "@id": "https://iiif.dl.itc.u-tokyo.ac.jp/repo/iiif/ad003273-85ba-430c-b479-617033de0778/canvas/p1#xywh=1449,537,4456,3706",
+                    "@type": "sc:Canvas",
+                    "label": "筆写原稿「三田町阿福の奇話第二囬 烏森町 清本新内投寄」 p.1",
+                    "metadata": [
+                        {
+                            "label": "Score",
+                            "value": 0
+                        },
+                        {
+                            "label": "所蔵",
+                            "value": "東京大学"
+                        }
+                    ],
+                    "thumbnail": "https://iiif.dl.itc.u-tokyo.ac.jp/repo/iiif-img/83296/1449,537,4456,3706/,300/0/default.jpg"
+                },
+                {
+                    "@id": "https://iiif.dl.itc.u-tokyo.ac.jp/repo/iiif/ad003273-85ba-430c-b479-617033de0778/canvas/p2#xywh=1482,562,4260,3559",
+                    "@type": "sc:Canvas",
+                    "label": "筆写原稿「三田町阿福の奇話第二囬 烏森町 清本新内投寄」 p.2",
+                    "metadata": [
+                        {
+                            "label": "Score",
+                            "value": 0
+                        },
+                        {
+                            "label": "所蔵",
+                            "value": "東京大学"
+                        }
+                    ],
+                    "thumbnail": "https://iiif.dl.itc.u-tokyo.ac.jp/repo/iiif-img/83297/1482,562,4260,3559/,300/0/default.jpg"
+                },
+                {
+                    "@id": "https://iiif.dl.itc.u-tokyo.ac.jp/repo/iiif/ad003273-85ba-430c-b479-617033de0778/canvas/p3#xywh=1376,724,4415,3218",
+                    "@type": "sc:Canvas",
+                    "label": "筆写原稿「三田町阿福の奇話第二囬 烏森町 清本新内投寄」 p.3",
+                    "metadata": [
+                        {
+                            "label": "Score",
+                            "value": 0
+                        },
+                        {
+                            "label": "所蔵",
+                            "value": "東京大学"
+                        }
+                    ],
+                    "thumbnail": "https://iiif.dl.itc.u-tokyo.ac.jp/repo/iiif-img/83298/1376,724,4415,3218/,300/0/default.jpg"
+                }
+            ],
+            "within": {
+                "@id": "https://iiif.dl.itc.u-tokyo.ac.jp/repo/iiif/ad003273-85ba-430c-b479-617033de0778/manifest",
+                "@type": "sc:Manifest",
+                "label": "筆写原稿「三田町阿福の奇話第二囬 烏森町 清本新内投寄」"
+            }
+        }
+    ]
+}

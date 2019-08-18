@@ -1,0 +1,371 @@
+{
+    "@context": [
+        "http://iiif.io/api/presentation/2/context.json",
+        "http://codh.rois.ac.jp/iiif/curation/1/context.json"
+    ],
+    "@id": "https://nakamura196.github.io/gaikotsu-i/curation_m/ce6ab689994e891c08f368ecfc028b0d.json",
+    "@type": "cr:Curation",
+    "label": "Curating list",
+    "selections": [
+        {
+            "@id": "https://nakamura196.github.io/gaikotsu-i/curation_m/ce6ab689994e891c08f368ecfc028b0d.json/range1",
+            "@type": "sc:Range",
+            "label": "Manual curation by IIIF Curation Viewer",
+            "members": [
+                {
+                    "@id": "https://iiif.dl.itc.u-tokyo.ac.jp/repo/iiif/3d135e0b-f9fc-4169-820a-6cd9b4fd66be/canvas/p1#xywh=3265,240,3798,4894",
+                    "@type": "sc:Canvas",
+                    "label": "外装バインダー(「雑誌発行宣伝広告集」) p.1",
+                    "metadata": [
+                        {
+                            "label": "Score",
+                            "value": 0
+                        },
+                        {
+                            "label": "所蔵",
+                            "value": "東京大学"
+                        }
+                    ],
+                    "thumbnail": "https://iiif.dl.itc.u-tokyo.ac.jp/repo/iiif-img/86387/3265,240,3798,4894/,300/0/default.jpg"
+                },
+                {
+                    "@id": "https://iiif.dl.itc.u-tokyo.ac.jp/repo/iiif/3d135e0b-f9fc-4169-820a-6cd9b4fd66be/canvas/p2#xywh=2091,274,3540,4766",
+                    "@type": "sc:Canvas",
+                    "label": "外装バインダー(「雑誌発行宣伝広告集」) p.2",
+                    "metadata": [
+                        {
+                            "label": "Score",
+                            "value": 0
+                        },
+                        {
+                            "label": "所蔵",
+                            "value": "東京大学"
+                        }
+                    ],
+                    "thumbnail": "https://iiif.dl.itc.u-tokyo.ac.jp/repo/iiif-img/86388/2091,274,3540,4766/,300/0/default.jpg"
+                },
+                {
+                    "@id": "https://iiif.dl.itc.u-tokyo.ac.jp/repo/iiif/3d135e0b-f9fc-4169-820a-6cd9b4fd66be/canvas/p4#xywh=308,282,3429,4518",
+                    "@type": "sc:Canvas",
+                    "label": "外装バインダー(「雑誌発行宣伝広告集」) p.4",
+                    "metadata": [
+                        {
+                            "label": "Score",
+                            "value": 0
+                        },
+                        {
+                            "label": "所蔵",
+                            "value": "東京大学"
+                        }
+                    ],
+                    "thumbnail": "https://iiif.dl.itc.u-tokyo.ac.jp/repo/iiif-img/86390/308,282,3429,4518/,300/0/default.jpg"
+                },
+                {
+                    "@id": "https://iiif.dl.itc.u-tokyo.ac.jp/repo/iiif/3d135e0b-f9fc-4169-820a-6cd9b4fd66be/canvas/p7#xywh=891,522,2751,3986",
+                    "@type": "sc:Canvas",
+                    "label": "外装バインダー(「雑誌発行宣伝広告集」) p.7",
+                    "metadata": [
+                        {
+                            "label": "Score",
+                            "value": 0
+                        },
+                        {
+                            "label": "所蔵",
+                            "value": "東京大学"
+                        }
+                    ],
+                    "thumbnail": "https://iiif.dl.itc.u-tokyo.ac.jp/repo/iiif-img/86393/891,522,2751,3986/,300/0/default.jpg"
+                },
+                {
+                    "@id": "https://iiif.dl.itc.u-tokyo.ac.jp/repo/iiif/3d135e0b-f9fc-4169-820a-6cd9b4fd66be/canvas/p9#xywh=4131,368,2666,2426",
+                    "@type": "sc:Canvas",
+                    "label": "外装バインダー(「雑誌発行宣伝広告集」) p.9",
+                    "metadata": [
+                        {
+                            "label": "Score",
+                            "value": 0
+                        },
+                        {
+                            "label": "所蔵",
+                            "value": "東京大学"
+                        }
+                    ],
+                    "thumbnail": "https://iiif.dl.itc.u-tokyo.ac.jp/repo/iiif-img/86395/4131,368,2666,2426/,300/0/default.jpg"
+                },
+                {
+                    "@id": "https://iiif.dl.itc.u-tokyo.ac.jp/repo/iiif/3d135e0b-f9fc-4169-820a-6cd9b4fd66be/canvas/p9#xywh=4011,2580,2803,2494",
+                    "@type": "sc:Canvas",
+                    "label": "外装バインダー(「雑誌発行宣伝広告集」) p.9",
+                    "metadata": [
+                        {
+                            "label": "Score",
+                            "value": 0
+                        },
+                        {
+                            "label": "所蔵",
+                            "value": "東京大学"
+                        }
+                    ],
+                    "thumbnail": "https://iiif.dl.itc.u-tokyo.ac.jp/repo/iiif-img/86395/4011,2580,2803,2494/,300/0/default.jpg"
+                },
+                {
+                    "@id": "https://iiif.dl.itc.u-tokyo.ac.jp/repo/iiif/3d135e0b-f9fc-4169-820a-6cd9b4fd66be/canvas/p9#xywh=428,240,3103,4628",
+                    "@type": "sc:Canvas",
+                    "label": "外装バインダー(「雑誌発行宣伝広告集」) p.9",
+                    "metadata": [
+                        {
+                            "label": "Score",
+                            "value": 0
+                        },
+                        {
+                            "label": "所蔵",
+                            "value": "東京大学"
+                        }
+                    ],
+                    "thumbnail": "https://iiif.dl.itc.u-tokyo.ac.jp/repo/iiif-img/86395/428,240,3103,4628/,300/0/default.jpg"
+                },
+                {
+                    "@id": "https://iiif.dl.itc.u-tokyo.ac.jp/repo/iiif/3d135e0b-f9fc-4169-820a-6cd9b4fd66be/canvas/p13#xywh=737,351,2871,4449",
+                    "@type": "sc:Canvas",
+                    "label": "外装バインダー(「雑誌発行宣伝広告集」) p.13",
+                    "metadata": [
+                        {
+                            "label": "Score",
+                            "value": 0
+                        },
+                        {
+                            "label": "所蔵",
+                            "value": "東京大学"
+                        }
+                    ],
+                    "thumbnail": "https://iiif.dl.itc.u-tokyo.ac.jp/repo/iiif-img/86399/737,351,2871,4449/,300/0/default.jpg"
+                },
+                {
+                    "@id": "https://iiif.dl.itc.u-tokyo.ac.jp/repo/iiif/3d135e0b-f9fc-4169-820a-6cd9b4fd66be/canvas/p13#xywh=3728,737,3026,3754",
+                    "@type": "sc:Canvas",
+                    "label": "外装バインダー(「雑誌発行宣伝広告集」) p.13",
+                    "metadata": [
+                        {
+                            "label": "Score",
+                            "value": 0
+                        },
+                        {
+                            "label": "所蔵",
+                            "value": "東京大学"
+                        }
+                    ],
+                    "thumbnail": "https://iiif.dl.itc.u-tokyo.ac.jp/repo/iiif-img/86399/3728,737,3026,3754/,300/0/default.jpg"
+                },
+                {
+                    "@id": "https://iiif.dl.itc.u-tokyo.ac.jp/repo/iiif/3d135e0b-f9fc-4169-820a-6cd9b4fd66be/canvas/p14#xywh=3668,308,3523,4466",
+                    "@type": "sc:Canvas",
+                    "label": "外装バインダー(「雑誌発行宣伝広告集」) p.14",
+                    "metadata": [
+                        {
+                            "label": "Score",
+                            "value": 0
+                        },
+                        {
+                            "label": "所蔵",
+                            "value": "東京大学"
+                        }
+                    ],
+                    "thumbnail": "https://iiif.dl.itc.u-tokyo.ac.jp/repo/iiif-img/86400/3668,308,3523,4466/,300/0/default.jpg"
+                },
+                {
+                    "@id": "https://iiif.dl.itc.u-tokyo.ac.jp/repo/iiif/3d135e0b-f9fc-4169-820a-6cd9b4fd66be/canvas/p14#xywh=797,582,2683,3592",
+                    "@type": "sc:Canvas",
+                    "label": "外装バインダー(「雑誌発行宣伝広告集」) p.14",
+                    "metadata": [
+                        {
+                            "label": "Score",
+                            "value": 0
+                        },
+                        {
+                            "label": "所蔵",
+                            "value": "東京大学"
+                        }
+                    ],
+                    "thumbnail": "https://iiif.dl.itc.u-tokyo.ac.jp/repo/iiif-img/86400/797,582,2683,3592/,300/0/default.jpg"
+                },
+                {
+                    "@id": "https://iiif.dl.itc.u-tokyo.ac.jp/repo/iiif/3d135e0b-f9fc-4169-820a-6cd9b4fd66be/canvas/p15#xywh=4517,711,2426,3643",
+                    "@type": "sc:Canvas",
+                    "label": "外装バインダー(「雑誌発行宣伝広告集」) p.15",
+                    "metadata": [
+                        {
+                            "label": "Score",
+                            "value": 0
+                        },
+                        {
+                            "label": "所蔵",
+                            "value": "東京大学"
+                        },
+                        {
+                            "label": "機械タグ",
+                            "value": "Book"
+                        }
+                    ],
+                    "thumbnail": "https://iiif.dl.itc.u-tokyo.ac.jp/repo/iiif-img/86401/4517,711,2426,3643/,300/0/default.jpg"
+                },
+                {
+                    "@id": "https://iiif.dl.itc.u-tokyo.ac.jp/repo/iiif/3d135e0b-f9fc-4169-820a-6cd9b4fd66be/canvas/p15#xywh=762,634,2598,4140",
+                    "@type": "sc:Canvas",
+                    "label": "外装バインダー(「雑誌発行宣伝広告集」) p.15",
+                    "metadata": [
+                        {
+                            "label": "Score",
+                            "value": 0
+                        },
+                        {
+                            "label": "所蔵",
+                            "value": "東京大学"
+                        }
+                    ],
+                    "thumbnail": "https://iiif.dl.itc.u-tokyo.ac.jp/repo/iiif-img/86401/762,634,2598,4140/,300/0/default.jpg"
+                },
+                {
+                    "@id": "https://iiif.dl.itc.u-tokyo.ac.jp/repo/iiif/3d135e0b-f9fc-4169-820a-6cd9b4fd66be/canvas/p16#xywh=4131,822,2932,3703",
+                    "@type": "sc:Canvas",
+                    "label": "外装バインダー(「雑誌発行宣伝広告集」) p.16",
+                    "metadata": [
+                        {
+                            "label": "Score",
+                            "value": 0
+                        },
+                        {
+                            "label": "所蔵",
+                            "value": "東京大学"
+                        }
+                    ],
+                    "thumbnail": "https://iiif.dl.itc.u-tokyo.ac.jp/repo/iiif-img/86402/4131,822,2932,3703/,300/0/default.jpg"
+                },
+                {
+                    "@id": "https://iiif.dl.itc.u-tokyo.ac.jp/repo/iiif/3d135e0b-f9fc-4169-820a-6cd9b4fd66be/canvas/p16#xywh=848,874,2263,3394",
+                    "@type": "sc:Canvas",
+                    "label": "外装バインダー(「雑誌発行宣伝広告集」) p.16",
+                    "metadata": [
+                        {
+                            "label": "Score",
+                            "value": 0
+                        },
+                        {
+                            "label": "所蔵",
+                            "value": "東京大学"
+                        }
+                    ],
+                    "thumbnail": "https://iiif.dl.itc.u-tokyo.ac.jp/repo/iiif-img/86402/848,874,2263,3394/,300/0/default.jpg"
+                },
+                {
+                    "@id": "https://iiif.dl.itc.u-tokyo.ac.jp/repo/iiif/3d135e0b-f9fc-4169-820a-6cd9b4fd66be/canvas/p19#xywh=4105,360,2709,1714",
+                    "@type": "sc:Canvas",
+                    "label": "外装バインダー(「雑誌発行宣伝広告集」) p.19",
+                    "metadata": [
+                        {
+                            "label": "Score",
+                            "value": 0
+                        },
+                        {
+                            "label": "所蔵",
+                            "value": "東京大学"
+                        },
+                        {
+                            "label": "機械タグ",
+                            "value": "Person"
+                        }
+                    ],
+                    "thumbnail": "https://iiif.dl.itc.u-tokyo.ac.jp/repo/iiif-img/86405/4105,360,2709,1714/,300/0/default.jpg"
+                },
+                {
+                    "@id": "https://iiif.dl.itc.u-tokyo.ac.jp/repo/iiif/3d135e0b-f9fc-4169-820a-6cd9b4fd66be/canvas/p22#xywh=4380,437,2597,4234",
+                    "@type": "sc:Canvas",
+                    "label": "外装バインダー(「雑誌発行宣伝広告集」) p.22",
+                    "metadata": [
+                        {
+                            "label": "Score",
+                            "value": 0
+                        },
+                        {
+                            "label": "所蔵",
+                            "value": "東京大学"
+                        }
+                    ],
+                    "thumbnail": "https://iiif.dl.itc.u-tokyo.ac.jp/repo/iiif-img/86408/4380,437,2597,4234/,300/0/default.jpg"
+                },
+                {
+                    "@id": "https://iiif.dl.itc.u-tokyo.ac.jp/repo/iiif/3d135e0b-f9fc-4169-820a-6cd9b4fd66be/canvas/p22#xywh=754,368,2871,4663",
+                    "@type": "sc:Canvas",
+                    "label": "外装バインダー(「雑誌発行宣伝広告集」) p.22",
+                    "metadata": [
+                        {
+                            "label": "Score",
+                            "value": 0
+                        },
+                        {
+                            "label": "所蔵",
+                            "value": "東京大学"
+                        }
+                    ],
+                    "thumbnail": "https://iiif.dl.itc.u-tokyo.ac.jp/repo/iiif-img/86408/754,368,2871,4663/,300/0/default.jpg"
+                },
+                {
+                    "@id": "https://iiif.dl.itc.u-tokyo.ac.jp/repo/iiif/3d135e0b-f9fc-4169-820a-6cd9b4fd66be/canvas/p23#xywh=4345,608,2640,4226",
+                    "@type": "sc:Canvas",
+                    "label": "外装バインダー(「雑誌発行宣伝広告集」) p.23",
+                    "metadata": [
+                        {
+                            "label": "Score",
+                            "value": 0
+                        },
+                        {
+                            "label": "所蔵",
+                            "value": "東京大学"
+                        }
+                    ],
+                    "thumbnail": "https://iiif.dl.itc.u-tokyo.ac.jp/repo/iiif-img/86409/4345,608,2640,4226/,300/0/default.jpg"
+                },
+                {
+                    "@id": "https://iiif.dl.itc.u-tokyo.ac.jp/repo/iiif/3d135e0b-f9fc-4169-820a-6cd9b4fd66be/canvas/p23#xywh=1028,548,2794,4260",
+                    "@type": "sc:Canvas",
+                    "label": "外装バインダー(「雑誌発行宣伝広告集」) p.23",
+                    "metadata": [
+                        {
+                            "label": "Score",
+                            "value": 0
+                        },
+                        {
+                            "label": "所蔵",
+                            "value": "東京大学"
+                        }
+                    ],
+                    "thumbnail": "https://iiif.dl.itc.u-tokyo.ac.jp/repo/iiif-img/86409/1028,548,2794,4260/,300/0/default.jpg"
+                },
+                {
+                    "@id": "https://iiif.dl.itc.u-tokyo.ac.jp/repo/iiif/3d135e0b-f9fc-4169-820a-6cd9b4fd66be/canvas/p25#xywh=368,257,3523,4611",
+                    "@type": "sc:Canvas",
+                    "label": "外装バインダー(「雑誌発行宣伝広告集」) p.25",
+                    "metadata": [
+                        {
+                            "label": "Score",
+                            "value": 0
+                        },
+                        {
+                            "label": "所蔵",
+                            "value": "東京大学"
+                        },
+                        {
+                            "label": "機械タグ",
+                            "value": "Notebook"
+                        }
+                    ],
+                    "thumbnail": "https://iiif.dl.itc.u-tokyo.ac.jp/repo/iiif-img/86411/368,257,3523,4611/,300/0/default.jpg"
+                }
+            ],
+            "within": {
+                "@id": "https://iiif.dl.itc.u-tokyo.ac.jp/repo/iiif/3d135e0b-f9fc-4169-820a-6cd9b4fd66be/manifest",
+                "@type": "sc:Manifest",
+                "label": "外装バインダー(「雑誌発行宣伝広告集」)"
+            }
+        }
+    ]
+}

@@ -1,0 +1,455 @@
+{
+    "@context": [
+        "http://iiif.io/api/presentation/2/context.json",
+        "http://codh.rois.ac.jp/iiif/curation/1/context.json"
+    ],
+    "@id": "https://nakamura196.github.io/gaikotsu-i/curation_m/e61a1b09bf57877ffda87ec57cd56d59.json",
+    "@type": "cr:Curation",
+    "label": "Curating list",
+    "selections": [
+        {
+            "@id": "https://nakamura196.github.io/gaikotsu-i/curation_m/e61a1b09bf57877ffda87ec57cd56d59.json/range1",
+            "@type": "sc:Range",
+            "label": "Manual curation by IIIF Curation Viewer",
+            "members": [
+                {
+                    "@id": "https://iiif.dl.itc.u-tokyo.ac.jp/repo/iiif/9aec36fc-8397-4d63-b291-8bddd6d0125d/canvas/p1#xywh=2185,879,1541,3113",
+                    "@type": "sc:Canvas",
+                    "label": "近代名士死亡広告 p.1",
+                    "metadata": [
+                        {
+                            "label": "Score",
+                            "value": 0
+                        },
+                        {
+                            "label": "所蔵",
+                            "value": "東京大学"
+                        }
+                    ],
+                    "thumbnail": "https://iiif.dl.itc.u-tokyo.ac.jp/repo/iiif-img/87068/2185,879,1541,3113/,300/0/default.jpg"
+                },
+                {
+                    "@id": "https://iiif.dl.itc.u-tokyo.ac.jp/repo/iiif/9aec36fc-8397-4d63-b291-8bddd6d0125d/canvas/p2#xywh=2234,733,2701,3178",
+                    "@type": "sc:Canvas",
+                    "label": "近代名士死亡広告 p.2",
+                    "metadata": [
+                        {
+                            "label": "Score",
+                            "value": 0
+                        },
+                        {
+                            "label": "所蔵",
+                            "value": "東京大学"
+                        }
+                    ],
+                    "thumbnail": "https://iiif.dl.itc.u-tokyo.ac.jp/repo/iiif-img/87069/2234,733,2701,3178/,300/0/default.jpg"
+                },
+                {
+                    "@id": "https://iiif.dl.itc.u-tokyo.ac.jp/repo/iiif/9aec36fc-8397-4d63-b291-8bddd6d0125d/canvas/p6#xywh=2145,814,2589,3049",
+                    "@type": "sc:Canvas",
+                    "label": "近代名士死亡広告 p.6",
+                    "metadata": [
+                        {
+                            "label": "Score",
+                            "value": 0
+                        },
+                        {
+                            "label": "所蔵",
+                            "value": "東京大学"
+                        }
+                    ],
+                    "thumbnail": "https://iiif.dl.itc.u-tokyo.ac.jp/repo/iiif-img/87073/2145,814,2589,3049/,300/0/default.jpg"
+                },
+                {
+                    "@id": "https://iiif.dl.itc.u-tokyo.ac.jp/repo/iiif/9aec36fc-8397-4d63-b291-8bddd6d0125d/canvas/p8#xywh=2790,1040,629,1226",
+                    "@type": "sc:Canvas",
+                    "label": "近代名士死亡広告 p.8",
+                    "metadata": [
+                        {
+                            "label": "Score",
+                            "value": 0
+                        },
+                        {
+                            "label": "所蔵",
+                            "value": "東京大学"
+                        }
+                    ],
+                    "thumbnail": "https://iiif.dl.itc.u-tokyo.ac.jp/repo/iiif-img/87075/2790,1040,629,1226/,300/0/default.jpg"
+                },
+                {
+                    "@id": "https://iiif.dl.itc.u-tokyo.ac.jp/repo/iiif/9aec36fc-8397-4d63-b291-8bddd6d0125d/canvas/p8#xywh=2169,806,2653,3049",
+                    "@type": "sc:Canvas",
+                    "label": "近代名士死亡広告 p.8",
+                    "metadata": [
+                        {
+                            "label": "Score",
+                            "value": 0
+                        },
+                        {
+                            "label": "所蔵",
+                            "value": "東京大学"
+                        }
+                    ],
+                    "thumbnail": "https://iiif.dl.itc.u-tokyo.ac.jp/repo/iiif-img/87075/2169,806,2653,3049/,300/0/default.jpg"
+                },
+                {
+                    "@id": "https://iiif.dl.itc.u-tokyo.ac.jp/repo/iiif/9aec36fc-8397-4d63-b291-8bddd6d0125d/canvas/p9#xywh=2088,854,2783,3089",
+                    "@type": "sc:Canvas",
+                    "label": "近代名士死亡広告 p.9",
+                    "metadata": [
+                        {
+                            "label": "Score",
+                            "value": 0
+                        },
+                        {
+                            "label": "所蔵",
+                            "value": "東京大学"
+                        }
+                    ],
+                    "thumbnail": "https://iiif.dl.itc.u-tokyo.ac.jp/repo/iiif-img/87076/2088,854,2783,3089/,300/0/default.jpg"
+                },
+                {
+                    "@id": "https://iiif.dl.itc.u-tokyo.ac.jp/repo/iiif/9aec36fc-8397-4d63-b291-8bddd6d0125d/canvas/p11#xywh=3209,911,1541,1540",
+                    "@type": "sc:Canvas",
+                    "label": "近代名士死亡広告 p.11",
+                    "metadata": [
+                        {
+                            "label": "Score",
+                            "value": 0
+                        },
+                        {
+                            "label": "所蔵",
+                            "value": "東京大学"
+                        }
+                    ],
+                    "thumbnail": "https://iiif.dl.itc.u-tokyo.ac.jp/repo/iiif-img/87078/3209,911,1541,1540/,300/0/default.jpg"
+                },
+                {
+                    "@id": "https://iiif.dl.itc.u-tokyo.ac.jp/repo/iiif/9aec36fc-8397-4d63-b291-8bddd6d0125d/canvas/p15#xywh=3734,2387,935,1435",
+                    "@type": "sc:Canvas",
+                    "label": "近代名士死亡広告 p.15",
+                    "metadata": [
+                        {
+                            "label": "Score",
+                            "value": 0
+                        },
+                        {
+                            "label": "所蔵",
+                            "value": "東京大学"
+                        }
+                    ],
+                    "thumbnail": "https://iiif.dl.itc.u-tokyo.ac.jp/repo/iiif-img/87082/3734,2387,935,1435/,300/0/default.jpg"
+                },
+                {
+                    "@id": "https://iiif.dl.itc.u-tokyo.ac.jp/repo/iiif/9aec36fc-8397-4d63-b291-8bddd6d0125d/canvas/p15#xywh=2282,871,919,1604",
+                    "@type": "sc:Canvas",
+                    "label": "近代名士死亡広告 p.15",
+                    "metadata": [
+                        {
+                            "label": "Score",
+                            "value": 0
+                        },
+                        {
+                            "label": "所蔵",
+                            "value": "東京大学"
+                        }
+                    ],
+                    "thumbnail": "https://iiif.dl.itc.u-tokyo.ac.jp/repo/iiif-img/87082/2282,871,919,1604/,300/0/default.jpg"
+                },
+                {
+                    "@id": "https://iiif.dl.itc.u-tokyo.ac.jp/repo/iiif/9aec36fc-8397-4d63-b291-8bddd6d0125d/canvas/p15#xywh=3637,871,1000,1532",
+                    "@type": "sc:Canvas",
+                    "label": "近代名士死亡広告 p.15",
+                    "metadata": [
+                        {
+                            "label": "Score",
+                            "value": 0
+                        },
+                        {
+                            "label": "所蔵",
+                            "value": "東京大学"
+                        }
+                    ],
+                    "thumbnail": "https://iiif.dl.itc.u-tokyo.ac.jp/repo/iiif-img/87082/3637,871,1000,1532/,300/0/default.jpg"
+                },
+                {
+                    "@id": "https://iiif.dl.itc.u-tokyo.ac.jp/repo/iiif/9aec36fc-8397-4d63-b291-8bddd6d0125d/canvas/p16#xywh=2129,911,911,1492",
+                    "@type": "sc:Canvas",
+                    "label": "近代名士死亡広告 p.16",
+                    "metadata": [
+                        {
+                            "label": "Score",
+                            "value": 0
+                        },
+                        {
+                            "label": "所蔵",
+                            "value": "東京大学"
+                        }
+                    ],
+                    "thumbnail": "https://iiif.dl.itc.u-tokyo.ac.jp/repo/iiif-img/87083/2129,911,911,1492/,300/0/default.jpg"
+                },
+                {
+                    "@id": "https://iiif.dl.itc.u-tokyo.ac.jp/repo/iiif/9aec36fc-8397-4d63-b291-8bddd6d0125d/canvas/p16#xywh=3580,967,1065,1396",
+                    "@type": "sc:Canvas",
+                    "label": "近代名士死亡広告 p.16",
+                    "metadata": [
+                        {
+                            "label": "Score",
+                            "value": 0
+                        },
+                        {
+                            "label": "所蔵",
+                            "value": "東京大学"
+                        }
+                    ],
+                    "thumbnail": "https://iiif.dl.itc.u-tokyo.ac.jp/repo/iiif-img/87083/3580,967,1065,1396/,300/0/default.jpg"
+                },
+                {
+                    "@id": "https://iiif.dl.itc.u-tokyo.ac.jp/repo/iiif/9aec36fc-8397-4d63-b291-8bddd6d0125d/canvas/p24#xywh=3435,991,1387,2404",
+                    "@type": "sc:Canvas",
+                    "label": "近代名士死亡広告 p.24",
+                    "metadata": [
+                        {
+                            "label": "Score",
+                            "value": 0
+                        },
+                        {
+                            "label": "所蔵",
+                            "value": "東京大学"
+                        },
+                        {
+                            "label": "機械タグ",
+                            "value": "Picture frame"
+                        }
+                    ],
+                    "thumbnail": "https://iiif.dl.itc.u-tokyo.ac.jp/repo/iiif-img/87091/3435,991,1387,2404/,300/0/default.jpg"
+                },
+                {
+                    "@id": "https://iiif.dl.itc.u-tokyo.ac.jp/repo/iiif/9aec36fc-8397-4d63-b291-8bddd6d0125d/canvas/p24#xywh=2193,1346,1250,2476",
+                    "@type": "sc:Canvas",
+                    "label": "近代名士死亡広告 p.24",
+                    "metadata": [
+                        {
+                            "label": "Score",
+                            "value": 0
+                        },
+                        {
+                            "label": "所蔵",
+                            "value": "東京大学"
+                        }
+                    ],
+                    "thumbnail": "https://iiif.dl.itc.u-tokyo.ac.jp/repo/iiif-img/87091/2193,1346,1250,2476/,300/0/default.jpg"
+                },
+                {
+                    "@id": "https://iiif.dl.itc.u-tokyo.ac.jp/repo/iiif/9aec36fc-8397-4d63-b291-8bddd6d0125d/canvas/p26#xywh=2177,975,1258,1468",
+                    "@type": "sc:Canvas",
+                    "label": "近代名士死亡広告 p.26",
+                    "metadata": [
+                        {
+                            "label": "Score",
+                            "value": 0
+                        },
+                        {
+                            "label": "所蔵",
+                            "value": "東京大学"
+                        }
+                    ],
+                    "thumbnail": "https://iiif.dl.itc.u-tokyo.ac.jp/repo/iiif-img/87093/2177,975,1258,1468/,300/0/default.jpg"
+                },
+                {
+                    "@id": "https://iiif.dl.itc.u-tokyo.ac.jp/repo/iiif/9aec36fc-8397-4d63-b291-8bddd6d0125d/canvas/p26#xywh=3532,959,1161,2008",
+                    "@type": "sc:Canvas",
+                    "label": "近代名士死亡広告 p.26",
+                    "metadata": [
+                        {
+                            "label": "Score",
+                            "value": 0
+                        },
+                        {
+                            "label": "所蔵",
+                            "value": "東京大学"
+                        },
+                        {
+                            "label": "機械タグ",
+                            "value": "Picture frame"
+                        }
+                    ],
+                    "thumbnail": "https://iiif.dl.itc.u-tokyo.ac.jp/repo/iiif-img/87093/3532,959,1161,2008/,300/0/default.jpg"
+                },
+                {
+                    "@id": "https://iiif.dl.itc.u-tokyo.ac.jp/repo/iiif/9aec36fc-8397-4d63-b291-8bddd6d0125d/canvas/p27#xywh=2193,959,2637,2767",
+                    "@type": "sc:Canvas",
+                    "label": "近代名士死亡広告 p.27",
+                    "metadata": [
+                        {
+                            "label": "Score",
+                            "value": 0
+                        },
+                        {
+                            "label": "所蔵",
+                            "value": "東京大学"
+                        }
+                    ],
+                    "thumbnail": "https://iiif.dl.itc.u-tokyo.ac.jp/repo/iiif-img/87094/2193,959,2637,2767/,300/0/default.jpg"
+                },
+                {
+                    "@id": "https://iiif.dl.itc.u-tokyo.ac.jp/repo/iiif/9aec36fc-8397-4d63-b291-8bddd6d0125d/canvas/p28#xywh=1911,806,3178,3057",
+                    "@type": "sc:Canvas",
+                    "label": "近代名士死亡広告 p.28",
+                    "metadata": [
+                        {
+                            "label": "Score",
+                            "value": 0
+                        },
+                        {
+                            "label": "所蔵",
+                            "value": "東京大学"
+                        }
+                    ],
+                    "thumbnail": "https://iiif.dl.itc.u-tokyo.ac.jp/repo/iiif-img/87095/1911,806,3178,3057/,300/0/default.jpg"
+                },
+                {
+                    "@id": "https://iiif.dl.itc.u-tokyo.ac.jp/repo/iiif/9aec36fc-8397-4d63-b291-8bddd6d0125d/canvas/p29#xywh=3629,2556,984,1194",
+                    "@type": "sc:Canvas",
+                    "label": "近代名士死亡広告 p.29",
+                    "metadata": [
+                        {
+                            "label": "Score",
+                            "value": 0
+                        },
+                        {
+                            "label": "所蔵",
+                            "value": "東京大学"
+                        }
+                    ],
+                    "thumbnail": "https://iiif.dl.itc.u-tokyo.ac.jp/repo/iiif-img/87096/3629,2556,984,1194/,300/0/default.jpg"
+                },
+                {
+                    "@id": "https://iiif.dl.itc.u-tokyo.ac.jp/repo/iiif/9aec36fc-8397-4d63-b291-8bddd6d0125d/canvas/p29#xywh=1967,951,3089,2734",
+                    "@type": "sc:Canvas",
+                    "label": "近代名士死亡広告 p.29",
+                    "metadata": [
+                        {
+                            "label": "Score",
+                            "value": 0
+                        },
+                        {
+                            "label": "所蔵",
+                            "value": "東京大学"
+                        }
+                    ],
+                    "thumbnail": "https://iiif.dl.itc.u-tokyo.ac.jp/repo/iiif-img/87096/1967,951,3089,2734/,300/0/default.jpg"
+                },
+                {
+                    "@id": "https://iiif.dl.itc.u-tokyo.ac.jp/repo/iiif/9aec36fc-8397-4d63-b291-8bddd6d0125d/canvas/p30#xywh=2217,919,2533,2831",
+                    "@type": "sc:Canvas",
+                    "label": "近代名士死亡広告 p.30",
+                    "metadata": [
+                        {
+                            "label": "Score",
+                            "value": 0
+                        },
+                        {
+                            "label": "所蔵",
+                            "value": "東京大学"
+                        }
+                    ],
+                    "thumbnail": "https://iiif.dl.itc.u-tokyo.ac.jp/repo/iiif-img/87097/2217,919,2533,2831/,300/0/default.jpg"
+                },
+                {
+                    "@id": "https://iiif.dl.itc.u-tokyo.ac.jp/repo/iiif/9aec36fc-8397-4d63-b291-8bddd6d0125d/canvas/p32#xywh=2064,975,2847,2775",
+                    "@type": "sc:Canvas",
+                    "label": "近代名士死亡広告 p.32",
+                    "metadata": [
+                        {
+                            "label": "Score",
+                            "value": 0
+                        },
+                        {
+                            "label": "所蔵",
+                            "value": "東京大学"
+                        },
+                        {
+                            "label": "機械タグ",
+                            "value": "Picture frame"
+                        }
+                    ],
+                    "thumbnail": "https://iiif.dl.itc.u-tokyo.ac.jp/repo/iiif-img/87099/2064,975,2847,2775/,300/0/default.jpg"
+                },
+                {
+                    "@id": "https://iiif.dl.itc.u-tokyo.ac.jp/repo/iiif/9aec36fc-8397-4d63-b291-8bddd6d0125d/canvas/p33#xywh=2266,919,2661,2879",
+                    "@type": "sc:Canvas",
+                    "label": "近代名士死亡広告 p.33",
+                    "metadata": [
+                        {
+                            "label": "Score",
+                            "value": 0
+                        },
+                        {
+                            "label": "所蔵",
+                            "value": "東京大学"
+                        },
+                        {
+                            "label": "機械タグ",
+                            "value": "Picture frame"
+                        }
+                    ],
+                    "thumbnail": "https://iiif.dl.itc.u-tokyo.ac.jp/repo/iiif-img/87100/2266,919,2661,2879/,300/0/default.jpg"
+                },
+                {
+                    "@id": "https://iiif.dl.itc.u-tokyo.ac.jp/repo/iiif/9aec36fc-8397-4d63-b291-8bddd6d0125d/canvas/p36#xywh=2225,798,2694,3040",
+                    "@type": "sc:Canvas",
+                    "label": "近代名士死亡広告 p.36",
+                    "metadata": [
+                        {
+                            "label": "Score",
+                            "value": 0
+                        },
+                        {
+                            "label": "所蔵",
+                            "value": "東京大学"
+                        }
+                    ],
+                    "thumbnail": "https://iiif.dl.itc.u-tokyo.ac.jp/repo/iiif-img/87103/2225,798,2694,3040/,300/0/default.jpg"
+                },
+                {
+                    "@id": "https://iiif.dl.itc.u-tokyo.ac.jp/repo/iiif/9aec36fc-8397-4d63-b291-8bddd6d0125d/canvas/p37#xywh=2242,798,2677,3040",
+                    "@type": "sc:Canvas",
+                    "label": "近代名士死亡広告 p.37",
+                    "metadata": [
+                        {
+                            "label": "Score",
+                            "value": 0
+                        },
+                        {
+                            "label": "所蔵",
+                            "value": "東京大学"
+                        }
+                    ],
+                    "thumbnail": "https://iiif.dl.itc.u-tokyo.ac.jp/repo/iiif-img/87104/2242,798,2677,3040/,300/0/default.jpg"
+                },
+                {
+                    "@id": "https://iiif.dl.itc.u-tokyo.ac.jp/repo/iiif/9aec36fc-8397-4d63-b291-8bddd6d0125d/canvas/p39#xywh=2242,822,2734,2920",
+                    "@type": "sc:Canvas",
+                    "label": "近代名士死亡広告 p.39",
+                    "metadata": [
+                        {
+                            "label": "Score",
+                            "value": 0
+                        },
+                        {
+                            "label": "所蔵",
+                            "value": "東京大学"
+                        }
+                    ],
+                    "thumbnail": "https://iiif.dl.itc.u-tokyo.ac.jp/repo/iiif-img/87106/2242,822,2734,2920/,300/0/default.jpg"
+                }
+            ],
+            "within": {
+                "@id": "https://iiif.dl.itc.u-tokyo.ac.jp/repo/iiif/9aec36fc-8397-4d63-b291-8bddd6d0125d/manifest",
+                "@type": "sc:Manifest",
+                "label": "近代名士死亡広告"
+            }
+        }
+    ]
+}

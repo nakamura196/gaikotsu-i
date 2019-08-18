@@ -1,0 +1,55 @@
+{
+    "@context": [
+        "http://iiif.io/api/presentation/2/context.json",
+        "http://codh.rois.ac.jp/iiif/curation/1/context.json"
+    ],
+    "@id": "https://nakamura196.github.io/gaikotsu-i/curation_m/ceb9ec1e9d6996ec273ca25953303a66.json",
+    "@type": "cr:Curation",
+    "label": "Curating list",
+    "selections": [
+        {
+            "@id": "https://nakamura196.github.io/gaikotsu-i/curation_m/ceb9ec1e9d6996ec273ca25953303a66.json/range1",
+            "@type": "sc:Range",
+            "label": "Manual curation by IIIF Curation Viewer",
+            "members": [
+                {
+                    "@id": "https://iiif.dl.itc.u-tokyo.ac.jp/repo/iiif/45b88586-fe61-47d9-9076-4dec68140a99/canvas/p1#xywh=2048,1532,2992,1677",
+                    "@type": "sc:Canvas",
+                    "label": "総選挙予想投票 p.1",
+                    "metadata": [
+                        {
+                            "label": "Score",
+                            "value": 0
+                        },
+                        {
+                            "label": "所蔵",
+                            "value": "東京大学"
+                        }
+                    ],
+                    "thumbnail": "https://iiif.dl.itc.u-tokyo.ac.jp/repo/iiif-img/89064/2048,1532,2992,1677/,300/0/default.jpg"
+                },
+                {
+                    "@id": "https://iiif.dl.itc.u-tokyo.ac.jp/repo/iiif/45b88586-fe61-47d9-9076-4dec68140a99/canvas/p2#xywh=1959,1435,3000,1807",
+                    "@type": "sc:Canvas",
+                    "label": "総選挙予想投票 p.2",
+                    "metadata": [
+                        {
+                            "label": "Score",
+                            "value": 0
+                        },
+                        {
+                            "label": "所蔵",
+                            "value": "東京大学"
+                        }
+                    ],
+                    "thumbnail": "https://iiif.dl.itc.u-tokyo.ac.jp/repo/iiif-img/89065/1959,1435,3000,1807/,300/0/default.jpg"
+                }
+            ],
+            "within": {
+                "@id": "https://iiif.dl.itc.u-tokyo.ac.jp/repo/iiif/45b88586-fe61-47d9-9076-4dec68140a99/manifest",
+                "@type": "sc:Manifest",
+                "label": "総選挙予想投票"
+            }
+        }
+    ]
+}

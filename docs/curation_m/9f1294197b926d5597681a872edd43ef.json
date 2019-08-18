@@ -1,0 +1,119 @@
+{
+    "@context": [
+        "http://iiif.io/api/presentation/2/context.json",
+        "http://codh.rois.ac.jp/iiif/curation/1/context.json"
+    ],
+    "@id": "https://nakamura196.github.io/gaikotsu-i/curation_m/9f1294197b926d5597681a872edd43ef.json",
+    "@type": "cr:Curation",
+    "label": "Curating list",
+    "selections": [
+        {
+            "@id": "https://nakamura196.github.io/gaikotsu-i/curation_m/9f1294197b926d5597681a872edd43ef.json/range1",
+            "@type": "sc:Range",
+            "label": "Manual curation by IIIF Curation Viewer",
+            "members": [
+                {
+                    "@id": "https://iiif.dl.itc.u-tokyo.ac.jp/repo/iiif/76391d7a-9aea-436d-a6f9-ff1caf545117/canvas/p3#xywh=1040,427,5008,3952",
+                    "@type": "sc:Canvas",
+                    "label": "明治大帝記念館設立私案 p.3",
+                    "metadata": [
+                        {
+                            "label": "Score",
+                            "value": 0
+                        },
+                        {
+                            "label": "所蔵",
+                            "value": "東京大学"
+                        }
+                    ],
+                    "thumbnail": "https://iiif.dl.itc.u-tokyo.ac.jp/repo/iiif-img/87143/1040,427,5008,3952/,300/0/default.jpg"
+                },
+                {
+                    "@id": "https://iiif.dl.itc.u-tokyo.ac.jp/repo/iiif/76391d7a-9aea-436d-a6f9-ff1caf545117/canvas/p5#xywh=645,403,5686,3927",
+                    "@type": "sc:Canvas",
+                    "label": "明治大帝記念館設立私案 p.5",
+                    "metadata": [
+                        {
+                            "label": "Score",
+                            "value": 0
+                        },
+                        {
+                            "label": "所蔵",
+                            "value": "東京大学"
+                        }
+                    ],
+                    "thumbnail": "https://iiif.dl.itc.u-tokyo.ac.jp/repo/iiif-img/87145/645,403,5686,3927/,300/0/default.jpg"
+                },
+                {
+                    "@id": "https://iiif.dl.itc.u-tokyo.ac.jp/repo/iiif/76391d7a-9aea-436d-a6f9-ff1caf545117/canvas/p6#xywh=725,540,5468,3694",
+                    "@type": "sc:Canvas",
+                    "label": "明治大帝記念館設立私案 p.6",
+                    "metadata": [
+                        {
+                            "label": "Score",
+                            "value": 0
+                        },
+                        {
+                            "label": "所蔵",
+                            "value": "東京大学"
+                        }
+                    ],
+                    "thumbnail": "https://iiif.dl.itc.u-tokyo.ac.jp/repo/iiif-img/87146/725,540,5468,3694/,300/0/default.jpg"
+                },
+                {
+                    "@id": "https://iiif.dl.itc.u-tokyo.ac.jp/repo/iiif/76391d7a-9aea-436d-a6f9-ff1caf545117/canvas/p7#xywh=637,467,5710,3823",
+                    "@type": "sc:Canvas",
+                    "label": "明治大帝記念館設立私案 p.7",
+                    "metadata": [
+                        {
+                            "label": "Score",
+                            "value": 0
+                        },
+                        {
+                            "label": "所蔵",
+                            "value": "東京大学"
+                        }
+                    ],
+                    "thumbnail": "https://iiif.dl.itc.u-tokyo.ac.jp/repo/iiif-img/87147/637,467,5710,3823/,300/0/default.jpg"
+                },
+                {
+                    "@id": "https://iiif.dl.itc.u-tokyo.ac.jp/repo/iiif/76391d7a-9aea-436d-a6f9-ff1caf545117/canvas/p10#xywh=3443,669,2323,3532",
+                    "@type": "sc:Canvas",
+                    "label": "明治大帝記念館設立私案 p.10",
+                    "metadata": [
+                        {
+                            "label": "Score",
+                            "value": 0
+                        },
+                        {
+                            "label": "所蔵",
+                            "value": "東京大学"
+                        }
+                    ],
+                    "thumbnail": "https://iiif.dl.itc.u-tokyo.ac.jp/repo/iiif-img/87150/3443,669,2323,3532/,300/0/default.jpg"
+                },
+                {
+                    "@id": "https://iiif.dl.itc.u-tokyo.ac.jp/repo/iiif/76391d7a-9aea-436d-a6f9-ff1caf545117/canvas/p11#xywh=3024,217,2726,4259",
+                    "@type": "sc:Canvas",
+                    "label": "明治大帝記念館設立私案 p.11",
+                    "metadata": [
+                        {
+                            "label": "Score",
+                            "value": 0
+                        },
+                        {
+                            "label": "所蔵",
+                            "value": "東京大学"
+                        }
+                    ],
+                    "thumbnail": "https://iiif.dl.itc.u-tokyo.ac.jp/repo/iiif-img/87151/3024,217,2726,4259/,300/0/default.jpg"
+                }
+            ],
+            "within": {
+                "@id": "https://iiif.dl.itc.u-tokyo.ac.jp/repo/iiif/76391d7a-9aea-436d-a6f9-ff1caf545117/manifest",
+                "@type": "sc:Manifest",
+                "label": "明治大帝記念館設立私案"
+            }
+        }
+    ]
+}

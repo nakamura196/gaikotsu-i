@@ -1,0 +1,991 @@
+{
+    "@context": [
+        "http://iiif.io/api/presentation/2/context.json",
+        "http://codh.rois.ac.jp/iiif/curation/1/context.json"
+    ],
+    "@id": "https://nakamura196.github.io/gaikotsu-i/curation_m/d0a861925193c93873667acc89ae04b8.json",
+    "@type": "cr:Curation",
+    "label": "Curating list",
+    "selections": [
+        {
+            "@id": "https://nakamura196.github.io/gaikotsu-i/curation_m/d0a861925193c93873667acc89ae04b8.json/range1",
+            "@type": "sc:Range",
+            "label": "Manual curation by IIIF Curation Viewer",
+            "members": [
+                {
+                    "@id": "https://iiif.dl.itc.u-tokyo.ac.jp/repo/iiif/2b774d0b-c10d-4731-b3fd-62525217dd1a/canvas/p3#xywh=1346,806,4573,3460",
+                    "@type": "sc:Canvas",
+                    "label": "新聞雜誌事物起原考 p.3",
+                    "metadata": [
+                        {
+                            "label": "Score",
+                            "value": 0
+                        },
+                        {
+                            "label": "所蔵",
+                            "value": "東京大学"
+                        }
+                    ],
+                    "thumbnail": "https://iiif.dl.itc.u-tokyo.ac.jp/repo/iiif-img/86100/1346,806,4573,3460/,300/0/default.jpg"
+                },
+                {
+                    "@id": "https://iiif.dl.itc.u-tokyo.ac.jp/repo/iiif/2b774d0b-c10d-4731-b3fd-62525217dd1a/canvas/p5#xywh=1362,814,2001,3355",
+                    "@type": "sc:Canvas",
+                    "label": "新聞雜誌事物起原考 p.5",
+                    "metadata": [
+                        {
+                            "label": "Score",
+                            "value": 0
+                        },
+                        {
+                            "label": "所蔵",
+                            "value": "東京大学"
+                        }
+                    ],
+                    "thumbnail": "https://iiif.dl.itc.u-tokyo.ac.jp/repo/iiif-img/86102/1362,814,2001,3355/,300/0/default.jpg"
+                },
+                {
+                    "@id": "https://iiif.dl.itc.u-tokyo.ac.jp/repo/iiif/2b774d0b-c10d-4731-b3fd-62525217dd1a/canvas/p5#xywh=1621,677,3976,3678",
+                    "@type": "sc:Canvas",
+                    "label": "新聞雜誌事物起原考 p.5",
+                    "metadata": [
+                        {
+                            "label": "Score",
+                            "value": 0
+                        },
+                        {
+                            "label": "所蔵",
+                            "value": "東京大学"
+                        }
+                    ],
+                    "thumbnail": "https://iiif.dl.itc.u-tokyo.ac.jp/repo/iiif-img/86102/1621,677,3976,3678/,300/0/default.jpg"
+                },
+                {
+                    "@id": "https://iiif.dl.itc.u-tokyo.ac.jp/repo/iiif/2b774d0b-c10d-4731-b3fd-62525217dd1a/canvas/p5#xywh=3838,1451,1767,2839",
+                    "@type": "sc:Canvas",
+                    "label": "新聞雜誌事物起原考 p.5",
+                    "metadata": [
+                        {
+                            "label": "Score",
+                            "value": 0
+                        },
+                        {
+                            "label": "所蔵",
+                            "value": "東京大学"
+                        }
+                    ],
+                    "thumbnail": "https://iiif.dl.itc.u-tokyo.ac.jp/repo/iiif-img/86102/3838,1451,1767,2839/,300/0/default.jpg"
+                },
+                {
+                    "@id": "https://iiif.dl.itc.u-tokyo.ac.jp/repo/iiif/2b774d0b-c10d-4731-b3fd-62525217dd1a/canvas/p6#xywh=1000,112,2782,4420",
+                    "@type": "sc:Canvas",
+                    "label": "新聞雜誌事物起原考 p.6",
+                    "metadata": [
+                        {
+                            "label": "Score",
+                            "value": 0
+                        },
+                        {
+                            "label": "所蔵",
+                            "value": "東京大学"
+                        }
+                    ],
+                    "thumbnail": "https://iiif.dl.itc.u-tokyo.ac.jp/repo/iiif-img/86103/1000,112,2782,4420/,300/0/default.jpg"
+                },
+                {
+                    "@id": "https://iiif.dl.itc.u-tokyo.ac.jp/repo/iiif/2b774d0b-c10d-4731-b3fd-62525217dd1a/canvas/p8#xywh=3653,637,2347,3718",
+                    "@type": "sc:Canvas",
+                    "label": "新聞雜誌事物起原考 p.8",
+                    "metadata": [
+                        {
+                            "label": "Score",
+                            "value": 0
+                        },
+                        {
+                            "label": "所蔵",
+                            "value": "東京大学"
+                        }
+                    ],
+                    "thumbnail": "https://iiif.dl.itc.u-tokyo.ac.jp/repo/iiif-img/86105/3653,637,2347,3718/,300/0/default.jpg"
+                },
+                {
+                    "@id": "https://iiif.dl.itc.u-tokyo.ac.jp/repo/iiif/2b774d0b-c10d-4731-b3fd-62525217dd1a/canvas/p9#xywh=3532,564,2452,3774",
+                    "@type": "sc:Canvas",
+                    "label": "新聞雜誌事物起原考 p.9",
+                    "metadata": [
+                        {
+                            "label": "Score",
+                            "value": 0
+                        },
+                        {
+                            "label": "所蔵",
+                            "value": "東京大学"
+                        }
+                    ],
+                    "thumbnail": "https://iiif.dl.itc.u-tokyo.ac.jp/repo/iiif-img/86106/3532,564,2452,3774/,300/0/default.jpg"
+                },
+                {
+                    "@id": "https://iiif.dl.itc.u-tokyo.ac.jp/repo/iiif/2b774d0b-c10d-4731-b3fd-62525217dd1a/canvas/p11#xywh=2354,1661,2138,1597",
+                    "@type": "sc:Canvas",
+                    "label": "新聞雜誌事物起原考 p.11",
+                    "metadata": [
+                        {
+                            "label": "Score",
+                            "value": 0
+                        },
+                        {
+                            "label": "所蔵",
+                            "value": "東京大学"
+                        }
+                    ],
+                    "thumbnail": "https://iiif.dl.itc.u-tokyo.ac.jp/repo/iiif-img/86108/2354,1661,2138,1597/,300/0/default.jpg"
+                },
+                {
+                    "@id": "https://iiif.dl.itc.u-tokyo.ac.jp/repo/iiif/2b774d0b-c10d-4731-b3fd-62525217dd1a/canvas/p12#xywh=1298,846,4565,3355",
+                    "@type": "sc:Canvas",
+                    "label": "新聞雜誌事物起原考 p.12",
+                    "metadata": [
+                        {
+                            "label": "Score",
+                            "value": 0
+                        },
+                        {
+                            "label": "所蔵",
+                            "value": "東京大学"
+                        }
+                    ],
+                    "thumbnail": "https://iiif.dl.itc.u-tokyo.ac.jp/repo/iiif-img/86109/1298,846,4565,3355/,300/0/default.jpg"
+                },
+                {
+                    "@id": "https://iiif.dl.itc.u-tokyo.ac.jp/repo/iiif/2b774d0b-c10d-4731-b3fd-62525217dd1a/canvas/p16#xywh=1322,911,4468,3218",
+                    "@type": "sc:Canvas",
+                    "label": "新聞雜誌事物起原考 p.16",
+                    "metadata": [
+                        {
+                            "label": "Score",
+                            "value": 0
+                        },
+                        {
+                            "label": "所蔵",
+                            "value": "東京大学"
+                        }
+                    ],
+                    "thumbnail": "https://iiif.dl.itc.u-tokyo.ac.jp/repo/iiif-img/86113/1322,911,4468,3218/,300/0/default.jpg"
+                },
+                {
+                    "@id": "https://iiif.dl.itc.u-tokyo.ac.jp/repo/iiif/2b774d0b-c10d-4731-b3fd-62525217dd1a/canvas/p17#xywh=1395,677,4452,3774",
+                    "@type": "sc:Canvas",
+                    "label": "新聞雜誌事物起原考 p.17",
+                    "metadata": [
+                        {
+                            "label": "Score",
+                            "value": 0
+                        },
+                        {
+                            "label": "所蔵",
+                            "value": "東京大学"
+                        }
+                    ],
+                    "thumbnail": "https://iiif.dl.itc.u-tokyo.ac.jp/repo/iiif-img/86114/1395,677,4452,3774/,300/0/default.jpg"
+                },
+                {
+                    "@id": "https://iiif.dl.itc.u-tokyo.ac.jp/repo/iiif/2b774d0b-c10d-4731-b3fd-62525217dd1a/canvas/p19#xywh=3798,459,1944,4033",
+                    "@type": "sc:Canvas",
+                    "label": "新聞雜誌事物起原考 p.19",
+                    "metadata": [
+                        {
+                            "label": "Score",
+                            "value": 0
+                        },
+                        {
+                            "label": "所蔵",
+                            "value": "東京大学"
+                        }
+                    ],
+                    "thumbnail": "https://iiif.dl.itc.u-tokyo.ac.jp/repo/iiif-img/86116/3798,459,1944,4033/,300/0/default.jpg"
+                },
+                {
+                    "@id": "https://iiif.dl.itc.u-tokyo.ac.jp/repo/iiif/2b774d0b-c10d-4731-b3fd-62525217dd1a/canvas/p19#xywh=1467,846,4202,3396",
+                    "@type": "sc:Canvas",
+                    "label": "新聞雜誌事物起原考 p.19",
+                    "metadata": [
+                        {
+                            "label": "Score",
+                            "value": 0
+                        },
+                        {
+                            "label": "所蔵",
+                            "value": "東京大学"
+                        }
+                    ],
+                    "thumbnail": "https://iiif.dl.itc.u-tokyo.ac.jp/repo/iiif-img/86116/1467,846,4202,3396/,300/0/default.jpg"
+                },
+                {
+                    "@id": "https://iiif.dl.itc.u-tokyo.ac.jp/repo/iiif/2b774d0b-c10d-4731-b3fd-62525217dd1a/canvas/p20#xywh=2419,0,2573,1863",
+                    "@type": "sc:Canvas",
+                    "label": "新聞雜誌事物起原考 p.20",
+                    "metadata": [
+                        {
+                            "label": "Score",
+                            "value": 0
+                        },
+                        {
+                            "label": "所蔵",
+                            "value": "東京大学"
+                        }
+                    ],
+                    "thumbnail": "https://iiif.dl.itc.u-tokyo.ac.jp/repo/iiif-img/86117/2419,0,2573,1863/,300/0/default.jpg"
+                },
+                {
+                    "@id": "https://iiif.dl.itc.u-tokyo.ac.jp/repo/iiif/2b774d0b-c10d-4731-b3fd-62525217dd1a/canvas/p20#xywh=1145,0,4903,4839",
+                    "@type": "sc:Canvas",
+                    "label": "新聞雜誌事物起原考 p.20",
+                    "metadata": [
+                        {
+                            "label": "Score",
+                            "value": 0
+                        },
+                        {
+                            "label": "所蔵",
+                            "value": "東京大学"
+                        }
+                    ],
+                    "thumbnail": "https://iiif.dl.itc.u-tokyo.ac.jp/repo/iiif-img/86117/1145,0,4903,4839/,300/0/default.jpg"
+                },
+                {
+                    "@id": "https://iiif.dl.itc.u-tokyo.ac.jp/repo/iiif/2b774d0b-c10d-4731-b3fd-62525217dd1a/canvas/p22#xywh=3548,8,2468,3234",
+                    "@type": "sc:Canvas",
+                    "label": "新聞雜誌事物起原考 p.22",
+                    "metadata": [
+                        {
+                            "label": "Score",
+                            "value": 0
+                        },
+                        {
+                            "label": "所蔵",
+                            "value": "東京大学"
+                        }
+                    ],
+                    "thumbnail": "https://iiif.dl.itc.u-tokyo.ac.jp/repo/iiif-img/86119/3548,8,2468,3234/,300/0/default.jpg"
+                },
+                {
+                    "@id": "https://iiif.dl.itc.u-tokyo.ac.jp/repo/iiif/2b774d0b-c10d-4731-b3fd-62525217dd1a/canvas/p22#xywh=1419,1508,1879,2822",
+                    "@type": "sc:Canvas",
+                    "label": "新聞雜誌事物起原考 p.22",
+                    "metadata": [
+                        {
+                            "label": "Score",
+                            "value": 0
+                        },
+                        {
+                            "label": "所蔵",
+                            "value": "東京大学"
+                        }
+                    ],
+                    "thumbnail": "https://iiif.dl.itc.u-tokyo.ac.jp/repo/iiif-img/86119/1419,1508,1879,2822/,300/0/default.jpg"
+                },
+                {
+                    "@id": "https://iiif.dl.itc.u-tokyo.ac.jp/repo/iiif/2b774d0b-c10d-4731-b3fd-62525217dd1a/canvas/p23#xywh=1524,298,4306,4347",
+                    "@type": "sc:Canvas",
+                    "label": "新聞雜誌事物起原考 p.23",
+                    "metadata": [
+                        {
+                            "label": "Score",
+                            "value": 0
+                        },
+                        {
+                            "label": "所蔵",
+                            "value": "東京大学"
+                        }
+                    ],
+                    "thumbnail": "https://iiif.dl.itc.u-tokyo.ac.jp/repo/iiif-img/86120/1524,298,4306,4347/,300/0/default.jpg"
+                },
+                {
+                    "@id": "https://iiif.dl.itc.u-tokyo.ac.jp/repo/iiif/2b774d0b-c10d-4731-b3fd-62525217dd1a/canvas/p25#xywh=3355,1701,2467,2589",
+                    "@type": "sc:Canvas",
+                    "label": "新聞雜誌事物起原考 p.25",
+                    "metadata": [
+                        {
+                            "label": "Score",
+                            "value": 0
+                        },
+                        {
+                            "label": "所蔵",
+                            "value": "東京大学"
+                        },
+                        {
+                            "label": "機械タグ",
+                            "value": "Person"
+                        }
+                    ],
+                    "thumbnail": "https://iiif.dl.itc.u-tokyo.ac.jp/repo/iiif-img/86122/3355,1701,2467,2589/,300/0/default.jpg"
+                },
+                {
+                    "@id": "https://iiif.dl.itc.u-tokyo.ac.jp/repo/iiif/2b774d0b-c10d-4731-b3fd-62525217dd1a/canvas/p25#xywh=1604,604,3960,3847",
+                    "@type": "sc:Canvas",
+                    "label": "新聞雜誌事物起原考 p.25",
+                    "metadata": [
+                        {
+                            "label": "Score",
+                            "value": 0
+                        },
+                        {
+                            "label": "所蔵",
+                            "value": "東京大学"
+                        }
+                    ],
+                    "thumbnail": "https://iiif.dl.itc.u-tokyo.ac.jp/repo/iiif-img/86122/1604,604,3960,3847/,300/0/default.jpg"
+                },
+                {
+                    "@id": "https://iiif.dl.itc.u-tokyo.ac.jp/repo/iiif/2b774d0b-c10d-4731-b3fd-62525217dd1a/canvas/p25#xywh=1080,572,2178,3896",
+                    "@type": "sc:Canvas",
+                    "label": "新聞雜誌事物起原考 p.25",
+                    "metadata": [
+                        {
+                            "label": "Score",
+                            "value": 0
+                        },
+                        {
+                            "label": "所蔵",
+                            "value": "東京大学"
+                        }
+                    ],
+                    "thumbnail": "https://iiif.dl.itc.u-tokyo.ac.jp/repo/iiif-img/86122/1080,572,2178,3896/,300/0/default.jpg"
+                },
+                {
+                    "@id": "https://iiif.dl.itc.u-tokyo.ac.jp/repo/iiif/2b774d0b-c10d-4731-b3fd-62525217dd1a/canvas/p27#xywh=4984,0,2258,1274",
+                    "@type": "sc:Canvas",
+                    "label": "新聞雜誌事物起原考 p.27",
+                    "metadata": [
+                        {
+                            "label": "Score",
+                            "value": 0
+                        },
+                        {
+                            "label": "所蔵",
+                            "value": "東京大学"
+                        }
+                    ],
+                    "thumbnail": "https://iiif.dl.itc.u-tokyo.ac.jp/repo/iiif-img/86124/4984,0,2258,1274/,300/0/default.jpg"
+                },
+                {
+                    "@id": "https://iiif.dl.itc.u-tokyo.ac.jp/repo/iiif/2b774d0b-c10d-4731-b3fd-62525217dd1a/canvas/p27#xywh=1137,782,2298,3177",
+                    "@type": "sc:Canvas",
+                    "label": "新聞雜誌事物起原考 p.27",
+                    "metadata": [
+                        {
+                            "label": "Score",
+                            "value": 0
+                        },
+                        {
+                            "label": "所蔵",
+                            "value": "東京大学"
+                        }
+                    ],
+                    "thumbnail": "https://iiif.dl.itc.u-tokyo.ac.jp/repo/iiif-img/86124/1137,782,2298,3177/,300/0/default.jpg"
+                },
+                {
+                    "@id": "https://iiif.dl.itc.u-tokyo.ac.jp/repo/iiif/2b774d0b-c10d-4731-b3fd-62525217dd1a/canvas/p28#xywh=4976,0,2266,1258",
+                    "@type": "sc:Canvas",
+                    "label": "新聞雜誌事物起原考 p.28",
+                    "metadata": [
+                        {
+                            "label": "Score",
+                            "value": 0
+                        },
+                        {
+                            "label": "所蔵",
+                            "value": "東京大学"
+                        }
+                    ],
+                    "thumbnail": "https://iiif.dl.itc.u-tokyo.ac.jp/repo/iiif-img/86125/4976,0,2266,1258/,300/0/default.jpg"
+                },
+                {
+                    "@id": "https://iiif.dl.itc.u-tokyo.ac.jp/repo/iiif/2b774d0b-c10d-4731-b3fd-62525217dd1a/canvas/p28#xywh=516,677,3097,3395",
+                    "@type": "sc:Canvas",
+                    "label": "新聞雜誌事物起原考 p.28",
+                    "metadata": [
+                        {
+                            "label": "Score",
+                            "value": 0
+                        },
+                        {
+                            "label": "所蔵",
+                            "value": "東京大学"
+                        }
+                    ],
+                    "thumbnail": "https://iiif.dl.itc.u-tokyo.ac.jp/repo/iiif-img/86125/516,677,3097,3395/,300/0/default.jpg"
+                },
+                {
+                    "@id": "https://iiif.dl.itc.u-tokyo.ac.jp/repo/iiif/2b774d0b-c10d-4731-b3fd-62525217dd1a/canvas/p30#xywh=1322,717,4468,3541",
+                    "@type": "sc:Canvas",
+                    "label": "新聞雜誌事物起原考 p.30",
+                    "metadata": [
+                        {
+                            "label": "Score",
+                            "value": 0
+                        },
+                        {
+                            "label": "所蔵",
+                            "value": "東京大学"
+                        }
+                    ],
+                    "thumbnail": "https://iiif.dl.itc.u-tokyo.ac.jp/repo/iiif-img/86127/1322,717,4468,3541/,300/0/default.jpg"
+                },
+                {
+                    "@id": "https://iiif.dl.itc.u-tokyo.ac.jp/repo/iiif/2b774d0b-c10d-4731-b3fd-62525217dd1a/canvas/p33#xywh=1250,217,2096,1710",
+                    "@type": "sc:Canvas",
+                    "label": "新聞雜誌事物起原考 p.33",
+                    "metadata": [
+                        {
+                            "label": "Score",
+                            "value": 0
+                        },
+                        {
+                            "label": "所蔵",
+                            "value": "東京大学"
+                        }
+                    ],
+                    "thumbnail": "https://iiif.dl.itc.u-tokyo.ac.jp/repo/iiif-img/86130/1250,217,2096,1710/,300/0/default.jpg"
+                },
+                {
+                    "@id": "https://iiif.dl.itc.u-tokyo.ac.jp/repo/iiif/2b774d0b-c10d-4731-b3fd-62525217dd1a/canvas/p33#xywh=1427,2282,1863,1476",
+                    "@type": "sc:Canvas",
+                    "label": "新聞雜誌事物起原考 p.33",
+                    "metadata": [
+                        {
+                            "label": "Score",
+                            "value": 0
+                        },
+                        {
+                            "label": "所蔵",
+                            "value": "東京大学"
+                        }
+                    ],
+                    "thumbnail": "https://iiif.dl.itc.u-tokyo.ac.jp/repo/iiif-img/86130/1427,2282,1863,1476/,300/0/default.jpg"
+                },
+                {
+                    "@id": "https://iiif.dl.itc.u-tokyo.ac.jp/repo/iiif/2b774d0b-c10d-4731-b3fd-62525217dd1a/canvas/p33#xywh=3516,467,2556,3452",
+                    "@type": "sc:Canvas",
+                    "label": "新聞雜誌事物起原考 p.33",
+                    "metadata": [
+                        {
+                            "label": "Score",
+                            "value": 0
+                        },
+                        {
+                            "label": "所蔵",
+                            "value": "東京大学"
+                        }
+                    ],
+                    "thumbnail": "https://iiif.dl.itc.u-tokyo.ac.jp/repo/iiif-img/86130/3516,467,2556,3452/,300/0/default.jpg"
+                },
+                {
+                    "@id": "https://iiif.dl.itc.u-tokyo.ac.jp/repo/iiif/2b774d0b-c10d-4731-b3fd-62525217dd1a/canvas/p35#xywh=1346,733,4525,3670",
+                    "@type": "sc:Canvas",
+                    "label": "新聞雜誌事物起原考 p.35",
+                    "metadata": [
+                        {
+                            "label": "Score",
+                            "value": 0
+                        },
+                        {
+                            "label": "所蔵",
+                            "value": "東京大学"
+                        }
+                    ],
+                    "thumbnail": "https://iiif.dl.itc.u-tokyo.ac.jp/repo/iiif-img/86132/1346,733,4525,3670/,300/0/default.jpg"
+                },
+                {
+                    "@id": "https://iiif.dl.itc.u-tokyo.ac.jp/repo/iiif/2b774d0b-c10d-4731-b3fd-62525217dd1a/canvas/p37#xywh=2443,1080,2121,2637",
+                    "@type": "sc:Canvas",
+                    "label": "新聞雜誌事物起原考 p.37",
+                    "metadata": [
+                        {
+                            "label": "Score",
+                            "value": 0
+                        },
+                        {
+                            "label": "所蔵",
+                            "value": "東京大学"
+                        }
+                    ],
+                    "thumbnail": "https://iiif.dl.itc.u-tokyo.ac.jp/repo/iiif-img/86134/2443,1080,2121,2637/,300/0/default.jpg"
+                },
+                {
+                    "@id": "https://iiif.dl.itc.u-tokyo.ac.jp/repo/iiif/2b774d0b-c10d-4731-b3fd-62525217dd1a/canvas/p38#xywh=2314,1056,2436,2718",
+                    "@type": "sc:Canvas",
+                    "label": "新聞雜誌事物起原考 p.38",
+                    "metadata": [
+                        {
+                            "label": "Score",
+                            "value": 0
+                        },
+                        {
+                            "label": "所蔵",
+                            "value": "東京大学"
+                        }
+                    ],
+                    "thumbnail": "https://iiif.dl.itc.u-tokyo.ac.jp/repo/iiif-img/86135/2314,1056,2436,2718/,300/0/default.jpg"
+                },
+                {
+                    "@id": "https://iiif.dl.itc.u-tokyo.ac.jp/repo/iiif/2b774d0b-c10d-4731-b3fd-62525217dd1a/canvas/p39#xywh=2427,1209,2315,2517",
+                    "@type": "sc:Canvas",
+                    "label": "新聞雜誌事物起原考 p.39",
+                    "metadata": [
+                        {
+                            "label": "Score",
+                            "value": 0
+                        },
+                        {
+                            "label": "所蔵",
+                            "value": "東京大学"
+                        },
+                        {
+                            "label": "機械タグ",
+                            "value": "Person"
+                        },
+                        {
+                            "label": "機械タグ",
+                            "value": "Clothing"
+                        }
+                    ],
+                    "thumbnail": "https://iiif.dl.itc.u-tokyo.ac.jp/repo/iiif-img/86136/2427,1209,2315,2517/,300/0/default.jpg"
+                },
+                {
+                    "@id": "https://iiif.dl.itc.u-tokyo.ac.jp/repo/iiif/2b774d0b-c10d-4731-b3fd-62525217dd1a/canvas/p41#xywh=2322,572,2589,2492",
+                    "@type": "sc:Canvas",
+                    "label": "新聞雜誌事物起原考 p.41",
+                    "metadata": [
+                        {
+                            "label": "Score",
+                            "value": 0
+                        },
+                        {
+                            "label": "所蔵",
+                            "value": "東京大学"
+                        }
+                    ],
+                    "thumbnail": "https://iiif.dl.itc.u-tokyo.ac.jp/repo/iiif-img/86138/2322,572,2589,2492/,300/0/default.jpg"
+                },
+                {
+                    "@id": "https://iiif.dl.itc.u-tokyo.ac.jp/repo/iiif/2b774d0b-c10d-4731-b3fd-62525217dd1a/canvas/p48#xywh=2258,1774,2411,1185",
+                    "@type": "sc:Canvas",
+                    "label": "新聞雜誌事物起原考 p.48",
+                    "metadata": [
+                        {
+                            "label": "Score",
+                            "value": 0
+                        },
+                        {
+                            "label": "所蔵",
+                            "value": "東京大学"
+                        },
+                        {
+                            "label": "機械タグ",
+                            "value": "Person"
+                        }
+                    ],
+                    "thumbnail": "https://iiif.dl.itc.u-tokyo.ac.jp/repo/iiif-img/86145/2258,1774,2411,1185/,300/0/default.jpg"
+                },
+                {
+                    "@id": "https://iiif.dl.itc.u-tokyo.ac.jp/repo/iiif/2b774d0b-c10d-4731-b3fd-62525217dd1a/canvas/p49#xywh=2113,233,2822,4226",
+                    "@type": "sc:Canvas",
+                    "label": "新聞雜誌事物起原考 p.49",
+                    "metadata": [
+                        {
+                            "label": "Score",
+                            "value": 0
+                        },
+                        {
+                            "label": "所蔵",
+                            "value": "東京大学"
+                        }
+                    ],
+                    "thumbnail": "https://iiif.dl.itc.u-tokyo.ac.jp/repo/iiif-img/86146/2113,233,2822,4226/,300/0/default.jpg"
+                },
+                {
+                    "@id": "https://iiif.dl.itc.u-tokyo.ac.jp/repo/iiif/2b774d0b-c10d-4731-b3fd-62525217dd1a/canvas/p50#xywh=2363,282,2645,4113",
+                    "@type": "sc:Canvas",
+                    "label": "新聞雜誌事物起原考 p.50",
+                    "metadata": [
+                        {
+                            "label": "Score",
+                            "value": 0
+                        },
+                        {
+                            "label": "所蔵",
+                            "value": "東京大学"
+                        },
+                        {
+                            "label": "機械タグ",
+                            "value": "Person"
+                        }
+                    ],
+                    "thumbnail": "https://iiif.dl.itc.u-tokyo.ac.jp/repo/iiif-img/86147/2363,282,2645,4113/,300/0/default.jpg"
+                },
+                {
+                    "@id": "https://iiif.dl.itc.u-tokyo.ac.jp/repo/iiif/2b774d0b-c10d-4731-b3fd-62525217dd1a/canvas/p52#xywh=2435,621,2218,3596",
+                    "@type": "sc:Canvas",
+                    "label": "新聞雜誌事物起原考 p.52",
+                    "metadata": [
+                        {
+                            "label": "Score",
+                            "value": 0
+                        },
+                        {
+                            "label": "所蔵",
+                            "value": "東京大学"
+                        }
+                    ],
+                    "thumbnail": "https://iiif.dl.itc.u-tokyo.ac.jp/repo/iiif-img/86149/2435,621,2218,3596/,300/0/default.jpg"
+                },
+                {
+                    "@id": "https://iiif.dl.itc.u-tokyo.ac.jp/repo/iiif/2b774d0b-c10d-4731-b3fd-62525217dd1a/canvas/p53#xywh=2451,491,2242,3718",
+                    "@type": "sc:Canvas",
+                    "label": "新聞雜誌事物起原考 p.53",
+                    "metadata": [
+                        {
+                            "label": "Score",
+                            "value": 0
+                        },
+                        {
+                            "label": "所蔵",
+                            "value": "東京大学"
+                        }
+                    ],
+                    "thumbnail": "https://iiif.dl.itc.u-tokyo.ac.jp/repo/iiif-img/86150/2451,491,2242,3718/,300/0/default.jpg"
+                },
+                {
+                    "@id": "https://iiif.dl.itc.u-tokyo.ac.jp/repo/iiif/2b774d0b-c10d-4731-b3fd-62525217dd1a/canvas/p54#xywh=1459,798,4307,3484",
+                    "@type": "sc:Canvas",
+                    "label": "新聞雜誌事物起原考 p.54",
+                    "metadata": [
+                        {
+                            "label": "Score",
+                            "value": 0
+                        },
+                        {
+                            "label": "所蔵",
+                            "value": "東京大学"
+                        }
+                    ],
+                    "thumbnail": "https://iiif.dl.itc.u-tokyo.ac.jp/repo/iiif-img/86151/1459,798,4307,3484/,300/0/default.jpg"
+                },
+                {
+                    "@id": "https://iiif.dl.itc.u-tokyo.ac.jp/repo/iiif/2b774d0b-c10d-4731-b3fd-62525217dd1a/canvas/p55#xywh=1024,379,5000,4290",
+                    "@type": "sc:Canvas",
+                    "label": "新聞雜誌事物起原考 p.55",
+                    "metadata": [
+                        {
+                            "label": "Score",
+                            "value": 0
+                        },
+                        {
+                            "label": "所蔵",
+                            "value": "東京大学"
+                        }
+                    ],
+                    "thumbnail": "https://iiif.dl.itc.u-tokyo.ac.jp/repo/iiif-img/86152/1024,379,5000,4290/,300/0/default.jpg"
+                },
+                {
+                    "@id": "https://iiif.dl.itc.u-tokyo.ac.jp/repo/iiif/2b774d0b-c10d-4731-b3fd-62525217dd1a/canvas/p56#xywh=1379,814,4443,3468",
+                    "@type": "sc:Canvas",
+                    "label": "新聞雜誌事物起原考 p.56",
+                    "metadata": [
+                        {
+                            "label": "Score",
+                            "value": 0
+                        },
+                        {
+                            "label": "所蔵",
+                            "value": "東京大学"
+                        }
+                    ],
+                    "thumbnail": "https://iiif.dl.itc.u-tokyo.ac.jp/repo/iiif-img/86153/1379,814,4443,3468/,300/0/default.jpg"
+                },
+                {
+                    "@id": "https://iiif.dl.itc.u-tokyo.ac.jp/repo/iiif/2b774d0b-c10d-4731-b3fd-62525217dd1a/canvas/p58#xywh=1564,314,4210,4234",
+                    "@type": "sc:Canvas",
+                    "label": "新聞雜誌事物起原考 p.58",
+                    "metadata": [
+                        {
+                            "label": "Score",
+                            "value": 0
+                        },
+                        {
+                            "label": "所蔵",
+                            "value": "東京大学"
+                        }
+                    ],
+                    "thumbnail": "https://iiif.dl.itc.u-tokyo.ac.jp/repo/iiif-img/86155/1564,314,4210,4234/,300/0/default.jpg"
+                },
+                {
+                    "@id": "https://iiif.dl.itc.u-tokyo.ac.jp/repo/iiif/2b774d0b-c10d-4731-b3fd-62525217dd1a/canvas/p61#xywh=1733,274,3880,4355",
+                    "@type": "sc:Canvas",
+                    "label": "新聞雜誌事物起原考 p.61",
+                    "metadata": [
+                        {
+                            "label": "Score",
+                            "value": 0
+                        },
+                        {
+                            "label": "所蔵",
+                            "value": "東京大学"
+                        }
+                    ],
+                    "thumbnail": "https://iiif.dl.itc.u-tokyo.ac.jp/repo/iiif-img/86158/1733,274,3880,4355/,300/0/default.jpg"
+                },
+                {
+                    "@id": "https://iiif.dl.itc.u-tokyo.ac.jp/repo/iiif/2b774d0b-c10d-4731-b3fd-62525217dd1a/canvas/p62#xywh=1661,330,4105,4186",
+                    "@type": "sc:Canvas",
+                    "label": "新聞雜誌事物起原考 p.62",
+                    "metadata": [
+                        {
+                            "label": "Score",
+                            "value": 0
+                        },
+                        {
+                            "label": "所蔵",
+                            "value": "東京大学"
+                        }
+                    ],
+                    "thumbnail": "https://iiif.dl.itc.u-tokyo.ac.jp/repo/iiif-img/86159/1661,330,4105,4186/,300/0/default.jpg"
+                },
+                {
+                    "@id": "https://iiif.dl.itc.u-tokyo.ac.jp/repo/iiif/2b774d0b-c10d-4731-b3fd-62525217dd1a/canvas/p63#xywh=1596,459,4186,3879",
+                    "@type": "sc:Canvas",
+                    "label": "新聞雜誌事物起原考 p.63",
+                    "metadata": [
+                        {
+                            "label": "Score",
+                            "value": 0
+                        },
+                        {
+                            "label": "所蔵",
+                            "value": "東京大学"
+                        }
+                    ],
+                    "thumbnail": "https://iiif.dl.itc.u-tokyo.ac.jp/repo/iiif-img/86160/1596,459,4186,3879/,300/0/default.jpg"
+                },
+                {
+                    "@id": "https://iiif.dl.itc.u-tokyo.ac.jp/repo/iiif/2b774d0b-c10d-4731-b3fd-62525217dd1a/canvas/p64#xywh=1346,733,4735,3589",
+                    "@type": "sc:Canvas",
+                    "label": "新聞雜誌事物起原考 p.64",
+                    "metadata": [
+                        {
+                            "label": "Score",
+                            "value": 0
+                        },
+                        {
+                            "label": "所蔵",
+                            "value": "東京大学"
+                        }
+                    ],
+                    "thumbnail": "https://iiif.dl.itc.u-tokyo.ac.jp/repo/iiif-img/86161/1346,733,4735,3589/,300/0/default.jpg"
+                },
+                {
+                    "@id": "https://iiif.dl.itc.u-tokyo.ac.jp/repo/iiif/2b774d0b-c10d-4731-b3fd-62525217dd1a/canvas/p66#xywh=1346,701,4718,3581",
+                    "@type": "sc:Canvas",
+                    "label": "新聞雜誌事物起原考 p.66",
+                    "metadata": [
+                        {
+                            "label": "Score",
+                            "value": 0
+                        },
+                        {
+                            "label": "所蔵",
+                            "value": "東京大学"
+                        }
+                    ],
+                    "thumbnail": "https://iiif.dl.itc.u-tokyo.ac.jp/repo/iiif-img/86163/1346,701,4718,3581/,300/0/default.jpg"
+                },
+                {
+                    "@id": "https://iiif.dl.itc.u-tokyo.ac.jp/repo/iiif/2b774d0b-c10d-4731-b3fd-62525217dd1a/canvas/p68#xywh=1661,370,4169,4089",
+                    "@type": "sc:Canvas",
+                    "label": "新聞雜誌事物起原考 p.68",
+                    "metadata": [
+                        {
+                            "label": "Score",
+                            "value": 0
+                        },
+                        {
+                            "label": "所蔵",
+                            "value": "東京大学"
+                        }
+                    ],
+                    "thumbnail": "https://iiif.dl.itc.u-tokyo.ac.jp/repo/iiif-img/86165/1661,370,4169,4089/,300/0/default.jpg"
+                },
+                {
+                    "@id": "https://iiif.dl.itc.u-tokyo.ac.jp/repo/iiif/2b774d0b-c10d-4731-b3fd-62525217dd1a/canvas/p70#xywh=1338,758,4702,3484",
+                    "@type": "sc:Canvas",
+                    "label": "新聞雜誌事物起原考 p.70",
+                    "metadata": [
+                        {
+                            "label": "Score",
+                            "value": 0
+                        },
+                        {
+                            "label": "所蔵",
+                            "value": "東京大学"
+                        }
+                    ],
+                    "thumbnail": "https://iiif.dl.itc.u-tokyo.ac.jp/repo/iiif-img/86167/1338,758,4702,3484/,300/0/default.jpg"
+                },
+                {
+                    "@id": "https://iiif.dl.itc.u-tokyo.ac.jp/repo/iiif/2b774d0b-c10d-4731-b3fd-62525217dd1a/canvas/p72#xywh=567,519,3456,2658",
+                    "@type": "sc:Canvas",
+                    "label": "新聞雜誌事物起原考 p.72",
+                    "metadata": [
+                        {
+                            "label": "Score",
+                            "value": 0
+                        },
+                        {
+                            "label": "所蔵",
+                            "value": "東京大学"
+                        }
+                    ],
+                    "thumbnail": "https://iiif.dl.itc.u-tokyo.ac.jp/repo/iiif-img/86169/567,519,3456,2658/,300/0/default.jpg"
+                },
+                {
+                    "@id": "https://iiif.dl.itc.u-tokyo.ac.jp/repo/iiif/2b774d0b-c10d-4731-b3fd-62525217dd1a/canvas/p72#xywh=737,459,3395,5969",
+                    "@type": "sc:Canvas",
+                    "label": "新聞雜誌事物起原考 p.72",
+                    "metadata": [
+                        {
+                            "label": "Score",
+                            "value": 0
+                        },
+                        {
+                            "label": "所蔵",
+                            "value": "東京大学"
+                        }
+                    ],
+                    "thumbnail": "https://iiif.dl.itc.u-tokyo.ac.jp/repo/iiif-img/86169/737,459,3395,5969/,300/0/default.jpg"
+                },
+                {
+                    "@id": "https://iiif.dl.itc.u-tokyo.ac.jp/repo/iiif/2b774d0b-c10d-4731-b3fd-62525217dd1a/canvas/p73#xywh=1322,798,4807,3282",
+                    "@type": "sc:Canvas",
+                    "label": "新聞雜誌事物起原考 p.73",
+                    "metadata": [
+                        {
+                            "label": "Score",
+                            "value": 0
+                        },
+                        {
+                            "label": "所蔵",
+                            "value": "東京大学"
+                        }
+                    ],
+                    "thumbnail": "https://iiif.dl.itc.u-tokyo.ac.jp/repo/iiif-img/86170/1322,798,4807,3282/,300/0/default.jpg"
+                },
+                {
+                    "@id": "https://iiif.dl.itc.u-tokyo.ac.jp/repo/iiif/2b774d0b-c10d-4731-b3fd-62525217dd1a/canvas/p74#xywh=1709,290,4081,4226",
+                    "@type": "sc:Canvas",
+                    "label": "新聞雜誌事物起原考 p.74",
+                    "metadata": [
+                        {
+                            "label": "Score",
+                            "value": 0
+                        },
+                        {
+                            "label": "所蔵",
+                            "value": "東京大学"
+                        }
+                    ],
+                    "thumbnail": "https://iiif.dl.itc.u-tokyo.ac.jp/repo/iiif-img/86171/1709,290,4081,4226/,300/0/default.jpg"
+                },
+                {
+                    "@id": "https://iiif.dl.itc.u-tokyo.ac.jp/repo/iiif/2b774d0b-c10d-4731-b3fd-62525217dd1a/canvas/p75#xywh=1645,225,4315,4315",
+                    "@type": "sc:Canvas",
+                    "label": "新聞雜誌事物起原考 p.75",
+                    "metadata": [
+                        {
+                            "label": "Score",
+                            "value": 0
+                        },
+                        {
+                            "label": "所蔵",
+                            "value": "東京大学"
+                        }
+                    ],
+                    "thumbnail": "https://iiif.dl.itc.u-tokyo.ac.jp/repo/iiif-img/86172/1645,225,4315,4315/,300/0/default.jpg"
+                },
+                {
+                    "@id": "https://iiif.dl.itc.u-tokyo.ac.jp/repo/iiif/2b774d0b-c10d-4731-b3fd-62525217dd1a/canvas/p78#xywh=1637,217,4242,4275",
+                    "@type": "sc:Canvas",
+                    "label": "新聞雜誌事物起原考 p.78",
+                    "metadata": [
+                        {
+                            "label": "Score",
+                            "value": 0
+                        },
+                        {
+                            "label": "所蔵",
+                            "value": "東京大学"
+                        }
+                    ],
+                    "thumbnail": "https://iiif.dl.itc.u-tokyo.ac.jp/repo/iiif-img/86175/1637,217,4242,4275/,300/0/default.jpg"
+                },
+                {
+                    "@id": "https://iiif.dl.itc.u-tokyo.ac.jp/repo/iiif/2b774d0b-c10d-4731-b3fd-62525217dd1a/canvas/p79#xywh=1508,637,4508,3548",
+                    "@type": "sc:Canvas",
+                    "label": "新聞雜誌事物起原考 p.79",
+                    "metadata": [
+                        {
+                            "label": "Score",
+                            "value": 0
+                        },
+                        {
+                            "label": "所蔵",
+                            "value": "東京大学"
+                        }
+                    ],
+                    "thumbnail": "https://iiif.dl.itc.u-tokyo.ac.jp/repo/iiif-img/86176/1508,637,4508,3548/,300/0/default.jpg"
+                },
+                {
+                    "@id": "https://iiif.dl.itc.u-tokyo.ac.jp/repo/iiif/2b774d0b-c10d-4731-b3fd-62525217dd1a/canvas/p80#xywh=1508,669,4460,3532",
+                    "@type": "sc:Canvas",
+                    "label": "新聞雜誌事物起原考 p.80",
+                    "metadata": [
+                        {
+                            "label": "Score",
+                            "value": 0
+                        },
+                        {
+                            "label": "所蔵",
+                            "value": "東京大学"
+                        },
+                        {
+                            "label": "機械タグ",
+                            "value": "Door"
+                        }
+                    ],
+                    "thumbnail": "https://iiif.dl.itc.u-tokyo.ac.jp/repo/iiif-img/86177/1508,669,4460,3532/,300/0/default.jpg"
+                },
+                {
+                    "@id": "https://iiif.dl.itc.u-tokyo.ac.jp/repo/iiif/2b774d0b-c10d-4731-b3fd-62525217dd1a/canvas/p81#xywh=1645,185,4250,4291",
+                    "@type": "sc:Canvas",
+                    "label": "新聞雜誌事物起原考 p.81",
+                    "metadata": [
+                        {
+                            "label": "Score",
+                            "value": 0
+                        },
+                        {
+                            "label": "所蔵",
+                            "value": "東京大学"
+                        }
+                    ],
+                    "thumbnail": "https://iiif.dl.itc.u-tokyo.ac.jp/repo/iiif-img/86178/1645,185,4250,4291/,300/0/default.jpg"
+                }
+            ],
+            "within": {
+                "@id": "https://iiif.dl.itc.u-tokyo.ac.jp/repo/iiif/2b774d0b-c10d-4731-b3fd-62525217dd1a/manifest",
+                "@type": "sc:Manifest",
+                "label": "新聞雜誌事物起原考"
+            }
+        }
+    ]
+}

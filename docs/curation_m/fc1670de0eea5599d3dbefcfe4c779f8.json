@@ -1,0 +1,811 @@
+{
+    "@context": [
+        "http://iiif.io/api/presentation/2/context.json",
+        "http://codh.rois.ac.jp/iiif/curation/1/context.json"
+    ],
+    "@id": "https://nakamura196.github.io/gaikotsu-i/curation_m/fc1670de0eea5599d3dbefcfe4c779f8.json",
+    "@type": "cr:Curation",
+    "label": "Curating list",
+    "selections": [
+        {
+            "@id": "https://nakamura196.github.io/gaikotsu-i/curation_m/fc1670de0eea5599d3dbefcfe4c779f8.json/range1",
+            "@type": "sc:Range",
+            "label": "Manual curation by IIIF Curation Viewer",
+            "members": [
+                {
+                    "@id": "https://iiif.dl.itc.u-tokyo.ac.jp/repo/iiif/da8aa4e5-3c80-44e3-8d3d-01eeef0c2eb0/canvas/p3#xywh=0,24,6556,4427",
+                    "@type": "sc:Canvas",
+                    "label": "宮武外骨自伝(口述筆記) p.3",
+                    "metadata": [
+                        {
+                            "label": "Score",
+                            "value": 0
+                        },
+                        {
+                            "label": "所蔵",
+                            "value": "東京大学"
+                        }
+                    ],
+                    "thumbnail": "https://iiif.dl.itc.u-tokyo.ac.jp/repo/iiif-img/87484/0,24,6556,4427/,300/0/default.jpg"
+                },
+                {
+                    "@id": "https://iiif.dl.itc.u-tokyo.ac.jp/repo/iiif/da8aa4e5-3c80-44e3-8d3d-01eeef0c2eb0/canvas/p4#xywh=911,96,6331,4380",
+                    "@type": "sc:Canvas",
+                    "label": "宮武外骨自伝(口述筆記) p.4",
+                    "metadata": [
+                        {
+                            "label": "Score",
+                            "value": 0
+                        },
+                        {
+                            "label": "所蔵",
+                            "value": "東京大学"
+                        }
+                    ],
+                    "thumbnail": "https://iiif.dl.itc.u-tokyo.ac.jp/repo/iiif-img/87485/911,96,6331,4380/,300/0/default.jpg"
+                },
+                {
+                    "@id": "https://iiif.dl.itc.u-tokyo.ac.jp/repo/iiif/da8aa4e5-3c80-44e3-8d3d-01eeef0c2eb0/canvas/p5#xywh=0,72,6411,4516",
+                    "@type": "sc:Canvas",
+                    "label": "宮武外骨自伝(口述筆記) p.5",
+                    "metadata": [
+                        {
+                            "label": "Score",
+                            "value": 0
+                        },
+                        {
+                            "label": "所蔵",
+                            "value": "東京大学"
+                        }
+                    ],
+                    "thumbnail": "https://iiif.dl.itc.u-tokyo.ac.jp/repo/iiif-img/87486/0,72,6411,4516/,300/0/default.jpg"
+                },
+                {
+                    "@id": "https://iiif.dl.itc.u-tokyo.ac.jp/repo/iiif/da8aa4e5-3c80-44e3-8d3d-01eeef0c2eb0/canvas/p6#xywh=1016,80,6210,4444",
+                    "@type": "sc:Canvas",
+                    "label": "宮武外骨自伝(口述筆記) p.6",
+                    "metadata": [
+                        {
+                            "label": "Score",
+                            "value": 0
+                        },
+                        {
+                            "label": "所蔵",
+                            "value": "東京大学"
+                        }
+                    ],
+                    "thumbnail": "https://iiif.dl.itc.u-tokyo.ac.jp/repo/iiif-img/87487/1016,80,6210,4444/,300/0/default.jpg"
+                },
+                {
+                    "@id": "https://iiif.dl.itc.u-tokyo.ac.jp/repo/iiif/da8aa4e5-3c80-44e3-8d3d-01eeef0c2eb0/canvas/p8#xywh=1080,72,6122,4412",
+                    "@type": "sc:Canvas",
+                    "label": "宮武外骨自伝(口述筆記) p.8",
+                    "metadata": [
+                        {
+                            "label": "Score",
+                            "value": 0
+                        },
+                        {
+                            "label": "所蔵",
+                            "value": "東京大学"
+                        }
+                    ],
+                    "thumbnail": "https://iiif.dl.itc.u-tokyo.ac.jp/repo/iiif-img/87489/1080,72,6122,4412/,300/0/default.jpg"
+                },
+                {
+                    "@id": "https://iiif.dl.itc.u-tokyo.ac.jp/repo/iiif/da8aa4e5-3c80-44e3-8d3d-01eeef0c2eb0/canvas/p11#xywh=0,193,6532,4266",
+                    "@type": "sc:Canvas",
+                    "label": "宮武外骨自伝(口述筆記) p.11",
+                    "metadata": [
+                        {
+                            "label": "Score",
+                            "value": 0
+                        },
+                        {
+                            "label": "所蔵",
+                            "value": "東京大学"
+                        }
+                    ],
+                    "thumbnail": "https://iiif.dl.itc.u-tokyo.ac.jp/repo/iiif-img/87492/0,193,6532,4266/,300/0/default.jpg"
+                },
+                {
+                    "@id": "https://iiif.dl.itc.u-tokyo.ac.jp/repo/iiif/da8aa4e5-3c80-44e3-8d3d-01eeef0c2eb0/canvas/p12#xywh=1145,258,6097,4137",
+                    "@type": "sc:Canvas",
+                    "label": "宮武外骨自伝(口述筆記) p.12",
+                    "metadata": [
+                        {
+                            "label": "Score",
+                            "value": 0
+                        },
+                        {
+                            "label": "所蔵",
+                            "value": "東京大学"
+                        }
+                    ],
+                    "thumbnail": "https://iiif.dl.itc.u-tokyo.ac.jp/repo/iiif-img/87493/1145,258,6097,4137/,300/0/default.jpg"
+                },
+                {
+                    "@id": "https://iiif.dl.itc.u-tokyo.ac.jp/repo/iiif/da8aa4e5-3c80-44e3-8d3d-01eeef0c2eb0/canvas/p14#xywh=588,80,6654,4412",
+                    "@type": "sc:Canvas",
+                    "label": "宮武外骨自伝(口述筆記) p.14",
+                    "metadata": [
+                        {
+                            "label": "Score",
+                            "value": 0
+                        },
+                        {
+                            "label": "所蔵",
+                            "value": "東京大学"
+                        }
+                    ],
+                    "thumbnail": "https://iiif.dl.itc.u-tokyo.ac.jp/repo/iiif-img/87495/588,80,6654,4412/,300/0/default.jpg"
+                },
+                {
+                    "@id": "https://iiif.dl.itc.u-tokyo.ac.jp/repo/iiif/da8aa4e5-3c80-44e3-8d3d-01eeef0c2eb0/canvas/p16#xywh=1088,104,6154,4404",
+                    "@type": "sc:Canvas",
+                    "label": "宮武外骨自伝(口述筆記) p.16",
+                    "metadata": [
+                        {
+                            "label": "Score",
+                            "value": 0
+                        },
+                        {
+                            "label": "所蔵",
+                            "value": "東京大学"
+                        }
+                    ],
+                    "thumbnail": "https://iiif.dl.itc.u-tokyo.ac.jp/repo/iiif-img/87497/1088,104,6154,4404/,300/0/default.jpg"
+                },
+                {
+                    "@id": "https://iiif.dl.itc.u-tokyo.ac.jp/repo/iiif/da8aa4e5-3c80-44e3-8d3d-01eeef0c2eb0/canvas/p17#xywh=0,64,6774,4428",
+                    "@type": "sc:Canvas",
+                    "label": "宮武外骨自伝(口述筆記) p.17",
+                    "metadata": [
+                        {
+                            "label": "Score",
+                            "value": 0
+                        },
+                        {
+                            "label": "所蔵",
+                            "value": "東京大学"
+                        }
+                    ],
+                    "thumbnail": "https://iiif.dl.itc.u-tokyo.ac.jp/repo/iiif-img/87498/0,64,6774,4428/,300/0/default.jpg"
+                },
+                {
+                    "@id": "https://iiif.dl.itc.u-tokyo.ac.jp/repo/iiif/da8aa4e5-3c80-44e3-8d3d-01eeef0c2eb0/canvas/p21#xywh=0,225,6766,4025",
+                    "@type": "sc:Canvas",
+                    "label": "宮武外骨自伝(口述筆記) p.21",
+                    "metadata": [
+                        {
+                            "label": "Score",
+                            "value": 0
+                        },
+                        {
+                            "label": "所蔵",
+                            "value": "東京大学"
+                        }
+                    ],
+                    "thumbnail": "https://iiif.dl.itc.u-tokyo.ac.jp/repo/iiif-img/87502/0,225,6766,4025/,300/0/default.jpg"
+                },
+                {
+                    "@id": "https://iiif.dl.itc.u-tokyo.ac.jp/repo/iiif/da8aa4e5-3c80-44e3-8d3d-01eeef0c2eb0/canvas/p22#xywh=862,241,6380,4033",
+                    "@type": "sc:Canvas",
+                    "label": "宮武外骨自伝(口述筆記) p.22",
+                    "metadata": [
+                        {
+                            "label": "Score",
+                            "value": 0
+                        },
+                        {
+                            "label": "所蔵",
+                            "value": "東京大学"
+                        }
+                    ],
+                    "thumbnail": "https://iiif.dl.itc.u-tokyo.ac.jp/repo/iiif-img/87503/862,241,6380,4033/,300/0/default.jpg"
+                },
+                {
+                    "@id": "https://iiif.dl.itc.u-tokyo.ac.jp/repo/iiif/da8aa4e5-3c80-44e3-8d3d-01eeef0c2eb0/canvas/p23#xywh=0,233,6774,4105",
+                    "@type": "sc:Canvas",
+                    "label": "宮武外骨自伝(口述筆記) p.23",
+                    "metadata": [
+                        {
+                            "label": "Score",
+                            "value": 0
+                        },
+                        {
+                            "label": "所蔵",
+                            "value": "東京大学"
+                        }
+                    ],
+                    "thumbnail": "https://iiif.dl.itc.u-tokyo.ac.jp/repo/iiif-img/87504/0,233,6774,4105/,300/0/default.jpg"
+                },
+                {
+                    "@id": "https://iiif.dl.itc.u-tokyo.ac.jp/repo/iiif/da8aa4e5-3c80-44e3-8d3d-01eeef0c2eb0/canvas/p25#xywh=0,290,6806,3944",
+                    "@type": "sc:Canvas",
+                    "label": "宮武外骨自伝(口述筆記) p.25",
+                    "metadata": [
+                        {
+                            "label": "Score",
+                            "value": 0
+                        },
+                        {
+                            "label": "所蔵",
+                            "value": "東京大学"
+                        }
+                    ],
+                    "thumbnail": "https://iiif.dl.itc.u-tokyo.ac.jp/repo/iiif-img/87506/0,290,6806,3944/,300/0/default.jpg"
+                },
+                {
+                    "@id": "https://iiif.dl.itc.u-tokyo.ac.jp/repo/iiif/da8aa4e5-3c80-44e3-8d3d-01eeef0c2eb0/canvas/p27#xywh=0,354,6581,3904",
+                    "@type": "sc:Canvas",
+                    "label": "宮武外骨自伝(口述筆記) p.27",
+                    "metadata": [
+                        {
+                            "label": "Score",
+                            "value": 0
+                        },
+                        {
+                            "label": "所蔵",
+                            "value": "東京大学"
+                        }
+                    ],
+                    "thumbnail": "https://iiif.dl.itc.u-tokyo.ac.jp/repo/iiif-img/87508/0,354,6581,3904/,300/0/default.jpg"
+                },
+                {
+                    "@id": "https://iiif.dl.itc.u-tokyo.ac.jp/repo/iiif/da8aa4e5-3c80-44e3-8d3d-01eeef0c2eb0/canvas/p28#xywh=1048,403,6194,3887",
+                    "@type": "sc:Canvas",
+                    "label": "宮武外骨自伝(口述筆記) p.28",
+                    "metadata": [
+                        {
+                            "label": "Score",
+                            "value": 0
+                        },
+                        {
+                            "label": "所蔵",
+                            "value": "東京大学"
+                        }
+                    ],
+                    "thumbnail": "https://iiif.dl.itc.u-tokyo.ac.jp/repo/iiif-img/87509/1048,403,6194,3887/,300/0/default.jpg"
+                },
+                {
+                    "@id": "https://iiif.dl.itc.u-tokyo.ac.jp/repo/iiif/da8aa4e5-3c80-44e3-8d3d-01eeef0c2eb0/canvas/p29#xywh=0,306,6411,3944",
+                    "@type": "sc:Canvas",
+                    "label": "宮武外骨自伝(口述筆記) p.29",
+                    "metadata": [
+                        {
+                            "label": "Score",
+                            "value": 0
+                        },
+                        {
+                            "label": "所蔵",
+                            "value": "東京大学"
+                        }
+                    ],
+                    "thumbnail": "https://iiif.dl.itc.u-tokyo.ac.jp/repo/iiif-img/87510/0,306,6411,3944/,300/0/default.jpg"
+                },
+                {
+                    "@id": "https://iiif.dl.itc.u-tokyo.ac.jp/repo/iiif/da8aa4e5-3c80-44e3-8d3d-01eeef0c2eb0/canvas/p30#xywh=1024,346,6218,3920",
+                    "@type": "sc:Canvas",
+                    "label": "宮武外骨自伝(口述筆記) p.30",
+                    "metadata": [
+                        {
+                            "label": "Score",
+                            "value": 0
+                        },
+                        {
+                            "label": "所蔵",
+                            "value": "東京大学"
+                        }
+                    ],
+                    "thumbnail": "https://iiif.dl.itc.u-tokyo.ac.jp/repo/iiif-img/87511/1024,346,6218,3920/,300/0/default.jpg"
+                },
+                {
+                    "@id": "https://iiif.dl.itc.u-tokyo.ac.jp/repo/iiif/da8aa4e5-3c80-44e3-8d3d-01eeef0c2eb0/canvas/p31#xywh=0,274,6597,4040",
+                    "@type": "sc:Canvas",
+                    "label": "宮武外骨自伝(口述筆記) p.31",
+                    "metadata": [
+                        {
+                            "label": "Score",
+                            "value": 0
+                        },
+                        {
+                            "label": "所蔵",
+                            "value": "東京大学"
+                        }
+                    ],
+                    "thumbnail": "https://iiif.dl.itc.u-tokyo.ac.jp/repo/iiif-img/87512/0,274,6597,4040/,300/0/default.jpg"
+                },
+                {
+                    "@id": "https://iiif.dl.itc.u-tokyo.ac.jp/repo/iiif/da8aa4e5-3c80-44e3-8d3d-01eeef0c2eb0/canvas/p32#xywh=790,177,6452,4299",
+                    "@type": "sc:Canvas",
+                    "label": "宮武外骨自伝(口述筆記) p.32",
+                    "metadata": [
+                        {
+                            "label": "Score",
+                            "value": 0
+                        },
+                        {
+                            "label": "所蔵",
+                            "value": "東京大学"
+                        }
+                    ],
+                    "thumbnail": "https://iiif.dl.itc.u-tokyo.ac.jp/repo/iiif-img/87513/790,177,6452,4299/,300/0/default.jpg"
+                },
+                {
+                    "@id": "https://iiif.dl.itc.u-tokyo.ac.jp/repo/iiif/da8aa4e5-3c80-44e3-8d3d-01eeef0c2eb0/canvas/p33#xywh=0,250,6839,4064",
+                    "@type": "sc:Canvas",
+                    "label": "宮武外骨自伝(口述筆記) p.33",
+                    "metadata": [
+                        {
+                            "label": "Score",
+                            "value": 0
+                        },
+                        {
+                            "label": "所蔵",
+                            "value": "東京大学"
+                        }
+                    ],
+                    "thumbnail": "https://iiif.dl.itc.u-tokyo.ac.jp/repo/iiif-img/87514/0,250,6839,4064/,300/0/default.jpg"
+                },
+                {
+                    "@id": "https://iiif.dl.itc.u-tokyo.ac.jp/repo/iiif/da8aa4e5-3c80-44e3-8d3d-01eeef0c2eb0/canvas/p34#xywh=572,250,6670,4080",
+                    "@type": "sc:Canvas",
+                    "label": "宮武外骨自伝(口述筆記) p.34",
+                    "metadata": [
+                        {
+                            "label": "Score",
+                            "value": 0
+                        },
+                        {
+                            "label": "所蔵",
+                            "value": "東京大学"
+                        },
+                        {
+                            "label": "機械タグ",
+                            "value": "Picture frame"
+                        }
+                    ],
+                    "thumbnail": "https://iiif.dl.itc.u-tokyo.ac.jp/repo/iiif-img/87515/572,250,6670,4080/,300/0/default.jpg"
+                },
+                {
+                    "@id": "https://iiif.dl.itc.u-tokyo.ac.jp/repo/iiif/da8aa4e5-3c80-44e3-8d3d-01eeef0c2eb0/canvas/p35#xywh=32,0,6742,4468",
+                    "@type": "sc:Canvas",
+                    "label": "宮武外骨自伝(口述筆記) p.35",
+                    "metadata": [
+                        {
+                            "label": "Score",
+                            "value": 0
+                        },
+                        {
+                            "label": "所蔵",
+                            "value": "東京大学"
+                        }
+                    ],
+                    "thumbnail": "https://iiif.dl.itc.u-tokyo.ac.jp/repo/iiif-img/87516/32,0,6742,4468/,300/0/default.jpg"
+                },
+                {
+                    "@id": "https://iiif.dl.itc.u-tokyo.ac.jp/repo/iiif/da8aa4e5-3c80-44e3-8d3d-01eeef0c2eb0/canvas/p36#xywh=677,0,6565,4492",
+                    "@type": "sc:Canvas",
+                    "label": "宮武外骨自伝(口述筆記) p.36",
+                    "metadata": [
+                        {
+                            "label": "Score",
+                            "value": 0
+                        },
+                        {
+                            "label": "所蔵",
+                            "value": "東京大学"
+                        }
+                    ],
+                    "thumbnail": "https://iiif.dl.itc.u-tokyo.ac.jp/repo/iiif-img/87517/677,0,6565,4492/,300/0/default.jpg"
+                },
+                {
+                    "@id": "https://iiif.dl.itc.u-tokyo.ac.jp/repo/iiif/da8aa4e5-3c80-44e3-8d3d-01eeef0c2eb0/canvas/p37#xywh=0,8,6718,4419",
+                    "@type": "sc:Canvas",
+                    "label": "宮武外骨自伝(口述筆記) p.37",
+                    "metadata": [
+                        {
+                            "label": "Score",
+                            "value": 0
+                        },
+                        {
+                            "label": "所蔵",
+                            "value": "東京大学"
+                        }
+                    ],
+                    "thumbnail": "https://iiif.dl.itc.u-tokyo.ac.jp/repo/iiif-img/87518/0,8,6718,4419/,300/0/default.jpg"
+                },
+                {
+                    "@id": "https://iiif.dl.itc.u-tokyo.ac.jp/repo/iiif/da8aa4e5-3c80-44e3-8d3d-01eeef0c2eb0/canvas/p40#xywh=709,161,6533,4153",
+                    "@type": "sc:Canvas",
+                    "label": "宮武外骨自伝(口述筆記) p.40",
+                    "metadata": [
+                        {
+                            "label": "Score",
+                            "value": 0
+                        },
+                        {
+                            "label": "所蔵",
+                            "value": "東京大学"
+                        }
+                    ],
+                    "thumbnail": "https://iiif.dl.itc.u-tokyo.ac.jp/repo/iiif-img/87521/709,161,6533,4153/,300/0/default.jpg"
+                },
+                {
+                    "@id": "https://iiif.dl.itc.u-tokyo.ac.jp/repo/iiif/da8aa4e5-3c80-44e3-8d3d-01eeef0c2eb0/canvas/p41#xywh=0,0,6669,4556",
+                    "@type": "sc:Canvas",
+                    "label": "宮武外骨自伝(口述筆記) p.41",
+                    "metadata": [
+                        {
+                            "label": "Score",
+                            "value": 0
+                        },
+                        {
+                            "label": "所蔵",
+                            "value": "東京大学"
+                        }
+                    ],
+                    "thumbnail": "https://iiif.dl.itc.u-tokyo.ac.jp/repo/iiif-img/87522/0,0,6669,4556/,300/0/default.jpg"
+                },
+                {
+                    "@id": "https://iiif.dl.itc.u-tokyo.ac.jp/repo/iiif/da8aa4e5-3c80-44e3-8d3d-01eeef0c2eb0/canvas/p45#xywh=0,48,6484,4371",
+                    "@type": "sc:Canvas",
+                    "label": "宮武外骨自伝(口述筆記) p.45",
+                    "metadata": [
+                        {
+                            "label": "Score",
+                            "value": 0
+                        },
+                        {
+                            "label": "所蔵",
+                            "value": "東京大学"
+                        }
+                    ],
+                    "thumbnail": "https://iiif.dl.itc.u-tokyo.ac.jp/repo/iiif-img/87526/0,48,6484,4371/,300/0/default.jpg"
+                },
+                {
+                    "@id": "https://iiif.dl.itc.u-tokyo.ac.jp/repo/iiif/da8aa4e5-3c80-44e3-8d3d-01eeef0c2eb0/canvas/p47#xywh=0,0,6484,4588",
+                    "@type": "sc:Canvas",
+                    "label": "宮武外骨自伝(口述筆記) p.47",
+                    "metadata": [
+                        {
+                            "label": "Score",
+                            "value": 0
+                        },
+                        {
+                            "label": "所蔵",
+                            "value": "東京大学"
+                        }
+                    ],
+                    "thumbnail": "https://iiif.dl.itc.u-tokyo.ac.jp/repo/iiif-img/87528/0,0,6484,4588/,300/0/default.jpg"
+                },
+                {
+                    "@id": "https://iiif.dl.itc.u-tokyo.ac.jp/repo/iiif/da8aa4e5-3c80-44e3-8d3d-01eeef0c2eb0/canvas/p48#xywh=1193,193,5920,4242",
+                    "@type": "sc:Canvas",
+                    "label": "宮武外骨自伝(口述筆記) p.48",
+                    "metadata": [
+                        {
+                            "label": "Score",
+                            "value": 0
+                        },
+                        {
+                            "label": "所蔵",
+                            "value": "東京大学"
+                        }
+                    ],
+                    "thumbnail": "https://iiif.dl.itc.u-tokyo.ac.jp/repo/iiif-img/87529/1193,193,5920,4242/,300/0/default.jpg"
+                },
+                {
+                    "@id": "https://iiif.dl.itc.u-tokyo.ac.jp/repo/iiif/da8aa4e5-3c80-44e3-8d3d-01eeef0c2eb0/canvas/p49#xywh=290,120,6274,4388",
+                    "@type": "sc:Canvas",
+                    "label": "宮武外骨自伝(口述筆記) p.49",
+                    "metadata": [
+                        {
+                            "label": "Score",
+                            "value": 0
+                        },
+                        {
+                            "label": "所蔵",
+                            "value": "東京大学"
+                        }
+                    ],
+                    "thumbnail": "https://iiif.dl.itc.u-tokyo.ac.jp/repo/iiif-img/87530/290,120,6274,4388/,300/0/default.jpg"
+                },
+                {
+                    "@id": "https://iiif.dl.itc.u-tokyo.ac.jp/repo/iiif/da8aa4e5-3c80-44e3-8d3d-01eeef0c2eb0/canvas/p52#xywh=564,120,6678,4315",
+                    "@type": "sc:Canvas",
+                    "label": "宮武外骨自伝(口述筆記) p.52",
+                    "metadata": [
+                        {
+                            "label": "Score",
+                            "value": 0
+                        },
+                        {
+                            "label": "所蔵",
+                            "value": "東京大学"
+                        }
+                    ],
+                    "thumbnail": "https://iiif.dl.itc.u-tokyo.ac.jp/repo/iiif-img/87533/564,120,6678,4315/,300/0/default.jpg"
+                },
+                {
+                    "@id": "https://iiif.dl.itc.u-tokyo.ac.jp/repo/iiif/da8aa4e5-3c80-44e3-8d3d-01eeef0c2eb0/canvas/p54#xywh=806,153,6436,4161",
+                    "@type": "sc:Canvas",
+                    "label": "宮武外骨自伝(口述筆記) p.54",
+                    "metadata": [
+                        {
+                            "label": "Score",
+                            "value": 0
+                        },
+                        {
+                            "label": "所蔵",
+                            "value": "東京大学"
+                        }
+                    ],
+                    "thumbnail": "https://iiif.dl.itc.u-tokyo.ac.jp/repo/iiif-img/87535/806,153,6436,4161/,300/0/default.jpg"
+                },
+                {
+                    "@id": "https://iiif.dl.itc.u-tokyo.ac.jp/repo/iiif/da8aa4e5-3c80-44e3-8d3d-01eeef0c2eb0/canvas/p55#xywh=0,120,6645,4243",
+                    "@type": "sc:Canvas",
+                    "label": "宮武外骨自伝(口述筆記) p.55",
+                    "metadata": [
+                        {
+                            "label": "Score",
+                            "value": 0
+                        },
+                        {
+                            "label": "所蔵",
+                            "value": "東京大学"
+                        }
+                    ],
+                    "thumbnail": "https://iiif.dl.itc.u-tokyo.ac.jp/repo/iiif-img/87536/0,120,6645,4243/,300/0/default.jpg"
+                },
+                {
+                    "@id": "https://iiif.dl.itc.u-tokyo.ac.jp/repo/iiif/da8aa4e5-3c80-44e3-8d3d-01eeef0c2eb0/canvas/p57#xywh=0,80,6677,4307",
+                    "@type": "sc:Canvas",
+                    "label": "宮武外骨自伝(口述筆記) p.57",
+                    "metadata": [
+                        {
+                            "label": "Score",
+                            "value": 0
+                        },
+                        {
+                            "label": "所蔵",
+                            "value": "東京大学"
+                        }
+                    ],
+                    "thumbnail": "https://iiif.dl.itc.u-tokyo.ac.jp/repo/iiif-img/87538/0,80,6677,4307/,300/0/default.jpg"
+                },
+                {
+                    "@id": "https://iiif.dl.itc.u-tokyo.ac.jp/repo/iiif/da8aa4e5-3c80-44e3-8d3d-01eeef0c2eb0/canvas/p58#xywh=822,88,6420,4363",
+                    "@type": "sc:Canvas",
+                    "label": "宮武外骨自伝(口述筆記) p.58",
+                    "metadata": [
+                        {
+                            "label": "Score",
+                            "value": 0
+                        },
+                        {
+                            "label": "所蔵",
+                            "value": "東京大学"
+                        }
+                    ],
+                    "thumbnail": "https://iiif.dl.itc.u-tokyo.ac.jp/repo/iiif-img/87539/822,88,6420,4363/,300/0/default.jpg"
+                },
+                {
+                    "@id": "https://iiif.dl.itc.u-tokyo.ac.jp/repo/iiif/da8aa4e5-3c80-44e3-8d3d-01eeef0c2eb0/canvas/p59#xywh=0,40,6508,4363",
+                    "@type": "sc:Canvas",
+                    "label": "宮武外骨自伝(口述筆記) p.59",
+                    "metadata": [
+                        {
+                            "label": "Score",
+                            "value": 0
+                        },
+                        {
+                            "label": "所蔵",
+                            "value": "東京大学"
+                        }
+                    ],
+                    "thumbnail": "https://iiif.dl.itc.u-tokyo.ac.jp/repo/iiif-img/87540/0,40,6508,4363/,300/0/default.jpg"
+                },
+                {
+                    "@id": "https://iiif.dl.itc.u-tokyo.ac.jp/repo/iiif/da8aa4e5-3c80-44e3-8d3d-01eeef0c2eb0/canvas/p60#xywh=1185,209,6057,4041",
+                    "@type": "sc:Canvas",
+                    "label": "宮武外骨自伝(口述筆記) p.60",
+                    "metadata": [
+                        {
+                            "label": "Score",
+                            "value": 0
+                        },
+                        {
+                            "label": "所蔵",
+                            "value": "東京大学"
+                        }
+                    ],
+                    "thumbnail": "https://iiif.dl.itc.u-tokyo.ac.jp/repo/iiif-img/87541/1185,209,6057,4041/,300/0/default.jpg"
+                },
+                {
+                    "@id": "https://iiif.dl.itc.u-tokyo.ac.jp/repo/iiif/da8aa4e5-3c80-44e3-8d3d-01eeef0c2eb0/canvas/p61#xywh=8,72,6411,4283",
+                    "@type": "sc:Canvas",
+                    "label": "宮武外骨自伝(口述筆記) p.61",
+                    "metadata": [
+                        {
+                            "label": "Score",
+                            "value": 0
+                        },
+                        {
+                            "label": "所蔵",
+                            "value": "東京大学"
+                        }
+                    ],
+                    "thumbnail": "https://iiif.dl.itc.u-tokyo.ac.jp/repo/iiif-img/87542/8,72,6411,4283/,300/0/default.jpg"
+                },
+                {
+                    "@id": "https://iiif.dl.itc.u-tokyo.ac.jp/repo/iiif/da8aa4e5-3c80-44e3-8d3d-01eeef0c2eb0/canvas/p62#xywh=1096,8,6146,4451",
+                    "@type": "sc:Canvas",
+                    "label": "宮武外骨自伝(口述筆記) p.62",
+                    "metadata": [
+                        {
+                            "label": "Score",
+                            "value": 0
+                        },
+                        {
+                            "label": "所蔵",
+                            "value": "東京大学"
+                        }
+                    ],
+                    "thumbnail": "https://iiif.dl.itc.u-tokyo.ac.jp/repo/iiif-img/87543/1096,8,6146,4451/,300/0/default.jpg"
+                },
+                {
+                    "@id": "https://iiif.dl.itc.u-tokyo.ac.jp/repo/iiif/da8aa4e5-3c80-44e3-8d3d-01eeef0c2eb0/canvas/p63#xywh=96,290,6646,3855",
+                    "@type": "sc:Canvas",
+                    "label": "宮武外骨自伝(口述筆記) p.63",
+                    "metadata": [
+                        {
+                            "label": "Score",
+                            "value": 0
+                        },
+                        {
+                            "label": "所蔵",
+                            "value": "東京大学"
+                        }
+                    ],
+                    "thumbnail": "https://iiif.dl.itc.u-tokyo.ac.jp/repo/iiif-img/87544/96,290,6646,3855/,300/0/default.jpg"
+                },
+                {
+                    "@id": "https://iiif.dl.itc.u-tokyo.ac.jp/repo/iiif/da8aa4e5-3c80-44e3-8d3d-01eeef0c2eb0/canvas/p64#xywh=669,217,6573,4000",
+                    "@type": "sc:Canvas",
+                    "label": "宮武外骨自伝(口述筆記) p.64",
+                    "metadata": [
+                        {
+                            "label": "Score",
+                            "value": 0
+                        },
+                        {
+                            "label": "所蔵",
+                            "value": "東京大学"
+                        }
+                    ],
+                    "thumbnail": "https://iiif.dl.itc.u-tokyo.ac.jp/repo/iiif-img/87545/669,217,6573,4000/,300/0/default.jpg"
+                },
+                {
+                    "@id": "https://iiif.dl.itc.u-tokyo.ac.jp/repo/iiif/da8aa4e5-3c80-44e3-8d3d-01eeef0c2eb0/canvas/p65#xywh=0,169,6855,4121",
+                    "@type": "sc:Canvas",
+                    "label": "宮武外骨自伝(口述筆記) p.65",
+                    "metadata": [
+                        {
+                            "label": "Score",
+                            "value": 0
+                        },
+                        {
+                            "label": "所蔵",
+                            "value": "東京大学"
+                        }
+                    ],
+                    "thumbnail": "https://iiif.dl.itc.u-tokyo.ac.jp/repo/iiif-img/87546/0,169,6855,4121/,300/0/default.jpg"
+                },
+                {
+                    "@id": "https://iiif.dl.itc.u-tokyo.ac.jp/repo/iiif/da8aa4e5-3c80-44e3-8d3d-01eeef0c2eb0/canvas/p66#xywh=556,0,6686,4524",
+                    "@type": "sc:Canvas",
+                    "label": "宮武外骨自伝(口述筆記) p.66",
+                    "metadata": [
+                        {
+                            "label": "Score",
+                            "value": 0
+                        },
+                        {
+                            "label": "所蔵",
+                            "value": "東京大学"
+                        }
+                    ],
+                    "thumbnail": "https://iiif.dl.itc.u-tokyo.ac.jp/repo/iiif-img/87547/556,0,6686,4524/,300/0/default.jpg"
+                },
+                {
+                    "@id": "https://iiif.dl.itc.u-tokyo.ac.jp/repo/iiif/da8aa4e5-3c80-44e3-8d3d-01eeef0c2eb0/canvas/p67#xywh=2145,314,2274,3960",
+                    "@type": "sc:Canvas",
+                    "label": "宮武外骨自伝(口述筆記) p.67",
+                    "metadata": [
+                        {
+                            "label": "Score",
+                            "value": 0
+                        },
+                        {
+                            "label": "所蔵",
+                            "value": "東京大学"
+                        }
+                    ],
+                    "thumbnail": "https://iiif.dl.itc.u-tokyo.ac.jp/repo/iiif-img/87548/2145,314,2274,3960/,300/0/default.jpg"
+                },
+                {
+                    "@id": "https://iiif.dl.itc.u-tokyo.ac.jp/repo/iiif/da8aa4e5-3c80-44e3-8d3d-01eeef0c2eb0/canvas/p71#xywh=1322,290,3912,3879",
+                    "@type": "sc:Canvas",
+                    "label": "宮武外骨自伝(口述筆記) p.71",
+                    "metadata": [
+                        {
+                            "label": "Score",
+                            "value": 0
+                        },
+                        {
+                            "label": "所蔵",
+                            "value": "東京大学"
+                        }
+                    ],
+                    "thumbnail": "https://iiif.dl.itc.u-tokyo.ac.jp/repo/iiif-img/87552/1322,290,3912,3879/,300/0/default.jpg"
+                },
+                {
+                    "@id": "https://iiif.dl.itc.u-tokyo.ac.jp/repo/iiif/da8aa4e5-3c80-44e3-8d3d-01eeef0c2eb0/canvas/p74#xywh=1419,258,3670,3984",
+                    "@type": "sc:Canvas",
+                    "label": "宮武外骨自伝(口述筆記) p.74",
+                    "metadata": [
+                        {
+                            "label": "Score",
+                            "value": 0
+                        },
+                        {
+                            "label": "所蔵",
+                            "value": "東京大学"
+                        }
+                    ],
+                    "thumbnail": "https://iiif.dl.itc.u-tokyo.ac.jp/repo/iiif-img/87555/1419,258,3670,3984/,300/0/default.jpg"
+                },
+                {
+                    "@id": "https://iiif.dl.itc.u-tokyo.ac.jp/repo/iiif/da8aa4e5-3c80-44e3-8d3d-01eeef0c2eb0/canvas/p75#xywh=2080,314,2896,3847",
+                    "@type": "sc:Canvas",
+                    "label": "宮武外骨自伝(口述筆記) p.75",
+                    "metadata": [
+                        {
+                            "label": "Score",
+                            "value": 0
+                        },
+                        {
+                            "label": "所蔵",
+                            "value": "東京大学"
+                        }
+                    ],
+                    "thumbnail": "https://iiif.dl.itc.u-tokyo.ac.jp/repo/iiif-img/87556/2080,314,2896,3847/,300/0/default.jpg"
+                },
+                {
+                    "@id": "https://iiif.dl.itc.u-tokyo.ac.jp/repo/iiif/da8aa4e5-3c80-44e3-8d3d-01eeef0c2eb0/canvas/p78#xywh=1129,185,6113,4291",
+                    "@type": "sc:Canvas",
+                    "label": "宮武外骨自伝(口述筆記) p.78",
+                    "metadata": [
+                        {
+                            "label": "Score",
+                            "value": 0
+                        },
+                        {
+                            "label": "所蔵",
+                            "value": "東京大学"
+                        }
+                    ],
+                    "thumbnail": "https://iiif.dl.itc.u-tokyo.ac.jp/repo/iiif-img/87559/1129,185,6113,4291/,300/0/default.jpg"
+                }
+            ],
+            "within": {
+                "@id": "https://iiif.dl.itc.u-tokyo.ac.jp/repo/iiif/da8aa4e5-3c80-44e3-8d3d-01eeef0c2eb0/manifest",
+                "@type": "sc:Manifest",
+                "label": "宮武外骨自伝(口述筆記)"
+            }
+        }
+    ]
+}

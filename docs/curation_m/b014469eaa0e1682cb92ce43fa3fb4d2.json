@@ -1,0 +1,87 @@
+{
+    "@context": [
+        "http://iiif.io/api/presentation/2/context.json",
+        "http://codh.rois.ac.jp/iiif/curation/1/context.json"
+    ],
+    "@id": "https://nakamura196.github.io/gaikotsu-i/curation_m/b014469eaa0e1682cb92ce43fa3fb4d2.json",
+    "@type": "cr:Curation",
+    "label": "Curating list",
+    "selections": [
+        {
+            "@id": "https://nakamura196.github.io/gaikotsu-i/curation_m/b014469eaa0e1682cb92ce43fa3fb4d2.json/range1",
+            "@type": "sc:Range",
+            "label": "Manual curation by IIIF Curation Viewer",
+            "members": [
+                {
+                    "@id": "https://iiif.dl.itc.u-tokyo.ac.jp/repo/iiif/29aade5a-736f-4cea-871a-0178bab87561/canvas/p1#xywh=806,540,2524,3589",
+                    "@type": "sc:Canvas",
+                    "label": "平賀源内履歴取調書冩 p.1",
+                    "metadata": [
+                        {
+                            "label": "Score",
+                            "value": 0
+                        },
+                        {
+                            "label": "所蔵",
+                            "value": "東京大学"
+                        }
+                    ],
+                    "thumbnail": "https://iiif.dl.itc.u-tokyo.ac.jp/repo/iiif-img/87182/806,540,2524,3589/,300/0/default.jpg"
+                },
+                {
+                    "@id": "https://iiif.dl.itc.u-tokyo.ac.jp/repo/iiif/29aade5a-736f-4cea-871a-0178bab87561/canvas/p3#xywh=467,201,6097,4137",
+                    "@type": "sc:Canvas",
+                    "label": "平賀源内履歴取調書冩 p.3",
+                    "metadata": [
+                        {
+                            "label": "Score",
+                            "value": 0
+                        },
+                        {
+                            "label": "所蔵",
+                            "value": "東京大学"
+                        }
+                    ],
+                    "thumbnail": "https://iiif.dl.itc.u-tokyo.ac.jp/repo/iiif-img/87184/467,201,6097,4137/,300/0/default.jpg"
+                },
+                {
+                    "@id": "https://iiif.dl.itc.u-tokyo.ac.jp/repo/iiif/29aade5a-736f-4cea-871a-0178bab87561/canvas/p4#xywh=419,177,6202,4105",
+                    "@type": "sc:Canvas",
+                    "label": "平賀源内履歴取調書冩 p.4",
+                    "metadata": [
+                        {
+                            "label": "Score",
+                            "value": 0
+                        },
+                        {
+                            "label": "所蔵",
+                            "value": "東京大学"
+                        }
+                    ],
+                    "thumbnail": "https://iiif.dl.itc.u-tokyo.ac.jp/repo/iiif-img/87185/419,177,6202,4105/,300/0/default.jpg"
+                },
+                {
+                    "@id": "https://iiif.dl.itc.u-tokyo.ac.jp/repo/iiif/29aade5a-736f-4cea-871a-0178bab87561/canvas/p5#xywh=475,161,6057,4153",
+                    "@type": "sc:Canvas",
+                    "label": "平賀源内履歴取調書冩 p.5",
+                    "metadata": [
+                        {
+                            "label": "Score",
+                            "value": 0
+                        },
+                        {
+                            "label": "所蔵",
+                            "value": "東京大学"
+                        }
+                    ],
+                    "thumbnail": "https://iiif.dl.itc.u-tokyo.ac.jp/repo/iiif-img/87186/475,161,6057,4153/,300/0/default.jpg"
+                }
+            ],
+            "within": {
+                "@id": "https://iiif.dl.itc.u-tokyo.ac.jp/repo/iiif/29aade5a-736f-4cea-871a-0178bab87561/manifest",
+                "@type": "sc:Manifest",
+                "label": "平賀源内履歴取調書冩"
+            }
+        }
+    ]
+}

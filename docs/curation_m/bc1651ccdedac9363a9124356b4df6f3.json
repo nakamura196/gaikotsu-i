@@ -1,0 +1,167 @@
+{
+    "@context": [
+        "http://iiif.io/api/presentation/2/context.json",
+        "http://codh.rois.ac.jp/iiif/curation/1/context.json"
+    ],
+    "@id": "https://nakamura196.github.io/gaikotsu-i/curation_m/bc1651ccdedac9363a9124356b4df6f3.json",
+    "@type": "cr:Curation",
+    "label": "Curating list",
+    "selections": [
+        {
+            "@id": "https://nakamura196.github.io/gaikotsu-i/curation_m/bc1651ccdedac9363a9124356b4df6f3.json/range1",
+            "@type": "sc:Range",
+            "label": "Manual curation by IIIF Curation Viewer",
+            "members": [
+                {
+                    "@id": "https://iiif.dl.itc.u-tokyo.ac.jp/repo/iiif/dd61d9e7-51cc-4949-b3af-c4418148546e/canvas/p1#xywh=777,57,4961,4535",
+                    "@type": "sc:Canvas",
+                    "label": "[筆写原稿「國會解説建言書」] p.1",
+                    "metadata": [
+                        {
+                            "label": "Score",
+                            "value": 0
+                        },
+                        {
+                            "label": "所蔵",
+                            "value": "東京大学"
+                        }
+                    ],
+                    "thumbnail": "https://iiif.dl.itc.u-tokyo.ac.jp/repo/iiif-img/85955/777,57,4961,4535/,300/0/default.jpg"
+                },
+                {
+                    "@id": "https://iiif.dl.itc.u-tokyo.ac.jp/repo/iiif/dd61d9e7-51cc-4949-b3af-c4418148546e/canvas/p3#xywh=704,474,4993,3709",
+                    "@type": "sc:Canvas",
+                    "label": "[筆写原稿「國會解説建言書」] p.3",
+                    "metadata": [
+                        {
+                            "label": "Score",
+                            "value": 0
+                        },
+                        {
+                            "label": "所蔵",
+                            "value": "東京大学"
+                        }
+                    ],
+                    "thumbnail": "https://iiif.dl.itc.u-tokyo.ac.jp/repo/iiif-img/85957/704,474,4993,3709/,300/0/default.jpg"
+                },
+                {
+                    "@id": "https://iiif.dl.itc.u-tokyo.ac.jp/repo/iiif/dd61d9e7-51cc-4949-b3af-c4418148546e/canvas/p4#xywh=802,450,4838,3700",
+                    "@type": "sc:Canvas",
+                    "label": "[筆写原稿「國會解説建言書」] p.4",
+                    "metadata": [
+                        {
+                            "label": "Score",
+                            "value": 0
+                        },
+                        {
+                            "label": "所蔵",
+                            "value": "東京大学"
+                        }
+                    ],
+                    "thumbnail": "https://iiif.dl.itc.u-tokyo.ac.jp/repo/iiif-img/85958/802,450,4838,3700/,300/0/default.jpg"
+                },
+                {
+                    "@id": "https://iiif.dl.itc.u-tokyo.ac.jp/repo/iiif/dd61d9e7-51cc-4949-b3af-c4418148546e/canvas/p5#xywh=376,352,6795,3929",
+                    "@type": "sc:Canvas",
+                    "label": "[筆写原稿「國會解説建言書」] p.5",
+                    "metadata": [
+                        {
+                            "label": "Score",
+                            "value": 0
+                        },
+                        {
+                            "label": "所蔵",
+                            "value": "東京大学"
+                        }
+                    ],
+                    "thumbnail": "https://iiif.dl.itc.u-tokyo.ac.jp/repo/iiif-img/85959/376,352,6795,3929/,300/0/default.jpg"
+                },
+                {
+                    "@id": "https://iiif.dl.itc.u-tokyo.ac.jp/repo/iiif/dd61d9e7-51cc-4949-b3af-c4418148546e/canvas/p7#xywh=335,327,6902,4036",
+                    "@type": "sc:Canvas",
+                    "label": "[筆写原稿「國會解説建言書」] p.7",
+                    "metadata": [
+                        {
+                            "label": "Score",
+                            "value": 0
+                        },
+                        {
+                            "label": "所蔵",
+                            "value": "東京大学"
+                        }
+                    ],
+                    "thumbnail": "https://iiif.dl.itc.u-tokyo.ac.jp/repo/iiif-img/85961/335,327,6902,4036/,300/0/default.jpg"
+                },
+                {
+                    "@id": "https://iiif.dl.itc.u-tokyo.ac.jp/repo/iiif/dd61d9e7-51cc-4949-b3af-c4418148546e/canvas/p8#xywh=957,507,4577,3537",
+                    "@type": "sc:Canvas",
+                    "label": "[筆写原稿「國會解説建言書」] p.8",
+                    "metadata": [
+                        {
+                            "label": "Score",
+                            "value": 0
+                        },
+                        {
+                            "label": "所蔵",
+                            "value": "東京大学"
+                        }
+                    ],
+                    "thumbnail": "https://iiif.dl.itc.u-tokyo.ac.jp/repo/iiif-img/85962/957,507,4577,3537/,300/0/default.jpg"
+                },
+                {
+                    "@id": "https://iiif.dl.itc.u-tokyo.ac.jp/repo/iiif/dd61d9e7-51cc-4949-b3af-c4418148546e/canvas/p10#xywh=573,360,6303,3929",
+                    "@type": "sc:Canvas",
+                    "label": "[筆写原稿「國會解説建言書」] p.10",
+                    "metadata": [
+                        {
+                            "label": "Score",
+                            "value": 0
+                        },
+                        {
+                            "label": "所蔵",
+                            "value": "東京大学"
+                        }
+                    ],
+                    "thumbnail": "https://iiif.dl.itc.u-tokyo.ac.jp/repo/iiif-img/85964/573,360,6303,3929/,300/0/default.jpg"
+                },
+                {
+                    "@id": "https://iiif.dl.itc.u-tokyo.ac.jp/repo/iiif/dd61d9e7-51cc-4949-b3af-c4418148546e/canvas/p11#xywh=548,278,6369,4126",
+                    "@type": "sc:Canvas",
+                    "label": "[筆写原稿「國會解説建言書」] p.11",
+                    "metadata": [
+                        {
+                            "label": "Score",
+                            "value": 0
+                        },
+                        {
+                            "label": "所蔵",
+                            "value": "東京大学"
+                        }
+                    ],
+                    "thumbnail": "https://iiif.dl.itc.u-tokyo.ac.jp/repo/iiif-img/85965/548,278,6369,4126/,300/0/default.jpg"
+                },
+                {
+                    "@id": "https://iiif.dl.itc.u-tokyo.ac.jp/repo/iiif/dd61d9e7-51cc-4949-b3af-c4418148546e/canvas/p12#xywh=605,343,6247,3938",
+                    "@type": "sc:Canvas",
+                    "label": "[筆写原稿「國會解説建言書」] p.12",
+                    "metadata": [
+                        {
+                            "label": "Score",
+                            "value": 0
+                        },
+                        {
+                            "label": "所蔵",
+                            "value": "東京大学"
+                        }
+                    ],
+                    "thumbnail": "https://iiif.dl.itc.u-tokyo.ac.jp/repo/iiif-img/85966/605,343,6247,3938/,300/0/default.jpg"
+                }
+            ],
+            "within": {
+                "@id": "https://iiif.dl.itc.u-tokyo.ac.jp/repo/iiif/dd61d9e7-51cc-4949-b3af-c4418148546e/manifest",
+                "@type": "sc:Manifest",
+                "label": "[筆写原稿「國會解説建言書」]"
+            }
+        }
+    ]
+}

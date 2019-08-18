@@ -1,0 +1,87 @@
+{
+    "@context": [
+        "http://iiif.io/api/presentation/2/context.json",
+        "http://codh.rois.ac.jp/iiif/curation/1/context.json"
+    ],
+    "@id": "https://nakamura196.github.io/gaikotsu-i/curation_m/33a242690ced6de7f24a7906a8f63699.json",
+    "@type": "cr:Curation",
+    "label": "Curating list",
+    "selections": [
+        {
+            "@id": "https://nakamura196.github.io/gaikotsu-i/curation_m/33a242690ced6de7f24a7906a8f63699.json/range1",
+            "@type": "sc:Range",
+            "label": "Manual curation by IIIF Curation Viewer",
+            "members": [
+                {
+                    "@id": "https://iiif.dl.itc.u-tokyo.ac.jp/repo/iiif/41b7f50e-2e9e-46b0-93e2-2341fcf9fcc8/canvas/p3#xywh=1959,524,2670,3702",
+                    "@type": "sc:Canvas",
+                    "label": "宮武外骨自叙傳(『書物展望』記事原稿) p.3",
+                    "metadata": [
+                        {
+                            "label": "Score",
+                            "value": 0
+                        },
+                        {
+                            "label": "所蔵",
+                            "value": "東京大学"
+                        }
+                    ],
+                    "thumbnail": "https://iiif.dl.itc.u-tokyo.ac.jp/repo/iiif-img/87574/1959,524,2670,3702/,300/0/default.jpg"
+                },
+                {
+                    "@id": "https://iiif.dl.itc.u-tokyo.ac.jp/repo/iiif/41b7f50e-2e9e-46b0-93e2-2341fcf9fcc8/canvas/p4#xywh=2161,177,2452,4170",
+                    "@type": "sc:Canvas",
+                    "label": "宮武外骨自叙傳(『書物展望』記事原稿) p.4",
+                    "metadata": [
+                        {
+                            "label": "Score",
+                            "value": 0
+                        },
+                        {
+                            "label": "所蔵",
+                            "value": "東京大学"
+                        }
+                    ],
+                    "thumbnail": "https://iiif.dl.itc.u-tokyo.ac.jp/repo/iiif-img/87575/2161,177,2452,4170/,300/0/default.jpg"
+                },
+                {
+                    "@id": "https://iiif.dl.itc.u-tokyo.ac.jp/repo/iiif/41b7f50e-2e9e-46b0-93e2-2341fcf9fcc8/canvas/p8#xywh=1983,548,2605,3637",
+                    "@type": "sc:Canvas",
+                    "label": "宮武外骨自叙傳(『書物展望』記事原稿) p.8",
+                    "metadata": [
+                        {
+                            "label": "Score",
+                            "value": 0
+                        },
+                        {
+                            "label": "所蔵",
+                            "value": "東京大学"
+                        }
+                    ],
+                    "thumbnail": "https://iiif.dl.itc.u-tokyo.ac.jp/repo/iiif-img/87579/1983,548,2605,3637/,300/0/default.jpg"
+                },
+                {
+                    "@id": "https://iiif.dl.itc.u-tokyo.ac.jp/repo/iiif/41b7f50e-2e9e-46b0-93e2-2341fcf9fcc8/canvas/p9#xywh=2137,459,2548,3823",
+                    "@type": "sc:Canvas",
+                    "label": "宮武外骨自叙傳(『書物展望』記事原稿) p.9",
+                    "metadata": [
+                        {
+                            "label": "Score",
+                            "value": 0
+                        },
+                        {
+                            "label": "所蔵",
+                            "value": "東京大学"
+                        }
+                    ],
+                    "thumbnail": "https://iiif.dl.itc.u-tokyo.ac.jp/repo/iiif-img/87580/2137,459,2548,3823/,300/0/default.jpg"
+                }
+            ],
+            "within": {
+                "@id": "https://iiif.dl.itc.u-tokyo.ac.jp/repo/iiif/41b7f50e-2e9e-46b0-93e2-2341fcf9fcc8/manifest",
+                "@type": "sc:Manifest",
+                "label": "宮武外骨自叙傳(『書物展望』記事原稿)"
+            }
+        }
+    ]
+}

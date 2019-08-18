@@ -1,0 +1,39 @@
+{
+    "@context": [
+        "http://iiif.io/api/presentation/2/context.json",
+        "http://codh.rois.ac.jp/iiif/curation/1/context.json"
+    ],
+    "@id": "https://nakamura196.github.io/gaikotsu-i/curation_m/e3750f484d5b38abfd8fa36e5e84369e.json",
+    "@type": "cr:Curation",
+    "label": "Curating list",
+    "selections": [
+        {
+            "@id": "https://nakamura196.github.io/gaikotsu-i/curation_m/e3750f484d5b38abfd8fa36e5e84369e.json/range1",
+            "@type": "sc:Range",
+            "label": "Manual curation by IIIF Curation Viewer",
+            "members": [
+                {
+                    "@id": "https://iiif.dl.itc.u-tokyo.ac.jp/repo/iiif/ce0f8945-177f-4e7a-a7bf-cf648204ec5f/canvas/p2#xywh=1290,1604,4387,1565",
+                    "@type": "sc:Canvas",
+                    "label": "小笠原島懲役仮条例or高神党祈願書(伊良子軍十郎) p.2",
+                    "metadata": [
+                        {
+                            "label": "Score",
+                            "value": 0
+                        },
+                        {
+                            "label": "所蔵",
+                            "value": "東京大学"
+                        }
+                    ],
+                    "thumbnail": "https://iiif.dl.itc.u-tokyo.ac.jp/repo/iiif-img/85598/1290,1604,4387,1565/,300/0/default.jpg"
+                }
+            ],
+            "within": {
+                "@id": "https://iiif.dl.itc.u-tokyo.ac.jp/repo/iiif/ce0f8945-177f-4e7a-a7bf-cf648204ec5f/manifest",
+                "@type": "sc:Manifest",
+                "label": "小笠原島懲役仮条例or高神党祈願書(伊良子軍十郎)"
+            }
+        }
+    ]
+}

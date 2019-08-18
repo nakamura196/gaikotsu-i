@@ -1,0 +1,59 @@
+{
+    "@context": [
+        "http://iiif.io/api/presentation/2/context.json",
+        "http://codh.rois.ac.jp/iiif/curation/1/context.json"
+    ],
+    "@id": "https://nakamura196.github.io/gaikotsu-i/curation_m/a2a086d9f11c64d98940e58fe44db3b4.json",
+    "@type": "cr:Curation",
+    "label": "Curating list",
+    "selections": [
+        {
+            "@id": "https://nakamura196.github.io/gaikotsu-i/curation_m/a2a086d9f11c64d98940e58fe44db3b4.json/range1",
+            "@type": "sc:Range",
+            "label": "Manual curation by IIIF Curation Viewer",
+            "members": [
+                {
+                    "@id": "https://iiif.dl.itc.u-tokyo.ac.jp/repo/iiif/d3613c0f-d247-446f-9764-aa1cf938609c/canvas/p1#xywh=1023,573,2652,3880",
+                    "@type": "sc:Canvas",
+                    "label": "[「ふたな」発行案内] p.1",
+                    "metadata": [
+                        {
+                            "label": "Score",
+                            "value": 0
+                        },
+                        {
+                            "label": "所蔵",
+                            "value": "東京大学"
+                        },
+                        {
+                            "label": "機械タグ",
+                            "value": "Animal"
+                        }
+                    ],
+                    "thumbnail": "https://iiif.dl.itc.u-tokyo.ac.jp/repo/iiif-img/86418/1023,573,2652,3880/,300/0/default.jpg"
+                },
+                {
+                    "@id": "https://iiif.dl.itc.u-tokyo.ac.jp/repo/iiif/d3613c0f-d247-446f-9764-aa1cf938609c/canvas/p2#xywh=1056,483,5214,3962",
+                    "@type": "sc:Canvas",
+                    "label": "[「ふたな」発行案内] p.2",
+                    "metadata": [
+                        {
+                            "label": "Score",
+                            "value": 0
+                        },
+                        {
+                            "label": "所蔵",
+                            "value": "東京大学"
+                        }
+                    ],
+                    "thumbnail": "https://iiif.dl.itc.u-tokyo.ac.jp/repo/iiif-img/86419/1056,483,5214,3962/,300/0/default.jpg"
+                }
+            ],
+            "within": {
+                "@id": "https://iiif.dl.itc.u-tokyo.ac.jp/repo/iiif/d3613c0f-d247-446f-9764-aa1cf938609c/manifest",
+                "@type": "sc:Manifest",
+                "label": "[「ふたな」発行案内]"
+            }
+        }
+    ]
+}

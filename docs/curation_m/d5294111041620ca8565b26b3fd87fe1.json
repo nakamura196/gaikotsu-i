@@ -1,0 +1,199 @@
+{
+    "@context": [
+        "http://iiif.io/api/presentation/2/context.json",
+        "http://codh.rois.ac.jp/iiif/curation/1/context.json"
+    ],
+    "@id": "https://nakamura196.github.io/gaikotsu-i/curation_m/d5294111041620ca8565b26b3fd87fe1.json",
+    "@type": "cr:Curation",
+    "label": "Curating list",
+    "selections": [
+        {
+            "@id": "https://nakamura196.github.io/gaikotsu-i/curation_m/d5294111041620ca8565b26b3fd87fe1.json/range1",
+            "@type": "sc:Range",
+            "label": "Manual curation by IIIF Curation Viewer",
+            "members": [
+                {
+                    "@id": "https://iiif.dl.itc.u-tokyo.ac.jp/repo/iiif/fb04f8f6-a6f8-4503-997d-4e8bad511d1e/canvas/p1#xywh=77,180,5079,7555",
+                    "@type": "sc:Canvas",
+                    "label": "雑誌創刊片紙 p.1",
+                    "metadata": [
+                        {
+                            "label": "Score",
+                            "value": 0
+                        },
+                        {
+                            "label": "所蔵",
+                            "value": "東京大学"
+                        }
+                    ],
+                    "thumbnail": "https://iiif.dl.itc.u-tokyo.ac.jp/repo/iiif-img/86371/77,180,5079,7555/,300/0/default.jpg"
+                },
+                {
+                    "@id": "https://iiif.dl.itc.u-tokyo.ac.jp/repo/iiif/fb04f8f6-a6f8-4503-997d-4e8bad511d1e/canvas/p4#xywh=0,0,5156,7064",
+                    "@type": "sc:Canvas",
+                    "label": "雑誌創刊片紙 p.4",
+                    "metadata": [
+                        {
+                            "label": "Score",
+                            "value": 0
+                        },
+                        {
+                            "label": "所蔵",
+                            "value": "東京大学"
+                        }
+                    ],
+                    "thumbnail": "https://iiif.dl.itc.u-tokyo.ac.jp/repo/iiif-img/86374/0,0,5156,7064/,300/0/default.jpg"
+                },
+                {
+                    "@id": "https://iiif.dl.itc.u-tokyo.ac.jp/repo/iiif/fb04f8f6-a6f8-4503-997d-4e8bad511d1e/canvas/p5#xywh=296,593,4834,6407",
+                    "@type": "sc:Canvas",
+                    "label": "雑誌創刊片紙 p.5",
+                    "metadata": [
+                        {
+                            "label": "Score",
+                            "value": 0
+                        },
+                        {
+                            "label": "所蔵",
+                            "value": "東京大学"
+                        }
+                    ],
+                    "thumbnail": "https://iiif.dl.itc.u-tokyo.ac.jp/repo/iiif-img/86375/296,593,4834,6407/,300/0/default.jpg"
+                },
+                {
+                    "@id": "https://iiif.dl.itc.u-tokyo.ac.jp/repo/iiif/fb04f8f6-a6f8-4503-997d-4e8bad511d1e/canvas/p8#xywh=244,0,4757,7683",
+                    "@type": "sc:Canvas",
+                    "label": "雑誌創刊片紙 p.8",
+                    "metadata": [
+                        {
+                            "label": "Score",
+                            "value": 0
+                        },
+                        {
+                            "label": "所蔵",
+                            "value": "東京大学"
+                        }
+                    ],
+                    "thumbnail": "https://iiif.dl.itc.u-tokyo.ac.jp/repo/iiif-img/86378/244,0,4757,7683/,300/0/default.jpg"
+                },
+                {
+                    "@id": "https://iiif.dl.itc.u-tokyo.ac.jp/repo/iiif/fb04f8f6-a6f8-4503-997d-4e8bad511d1e/canvas/p9#xywh=580,1108,4189,6575",
+                    "@type": "sc:Canvas",
+                    "label": "雑誌創刊片紙 p.9",
+                    "metadata": [
+                        {
+                            "label": "Score",
+                            "value": 0
+                        },
+                        {
+                            "label": "所蔵",
+                            "value": "東京大学"
+                        }
+                    ],
+                    "thumbnail": "https://iiif.dl.itc.u-tokyo.ac.jp/repo/iiif-img/86379/580,1108,4189,6575/,300/0/default.jpg"
+                },
+                {
+                    "@id": "https://iiif.dl.itc.u-tokyo.ac.jp/repo/iiif/fb04f8f6-a6f8-4503-997d-4e8bad511d1e/canvas/p10#xywh=670,77,3945,6575",
+                    "@type": "sc:Canvas",
+                    "label": "雑誌創刊片紙 p.10",
+                    "metadata": [
+                        {
+                            "label": "Score",
+                            "value": 0
+                        },
+                        {
+                            "label": "所蔵",
+                            "value": "東京大学"
+                        }
+                    ],
+                    "thumbnail": "https://iiif.dl.itc.u-tokyo.ac.jp/repo/iiif-img/86380/670,77,3945,6575/,300/0/default.jpg"
+                },
+                {
+                    "@id": "https://iiif.dl.itc.u-tokyo.ac.jp/repo/iiif/fb04f8f6-a6f8-4503-997d-4e8bad511d1e/canvas/p11#xywh=219,683,4718,6729",
+                    "@type": "sc:Canvas",
+                    "label": "雑誌創刊片紙 p.11",
+                    "metadata": [
+                        {
+                            "label": "Score",
+                            "value": 0
+                        },
+                        {
+                            "label": "所蔵",
+                            "value": "東京大学"
+                        }
+                    ],
+                    "thumbnail": "https://iiif.dl.itc.u-tokyo.ac.jp/repo/iiif-img/86381/219,683,4718,6729/,300/0/default.jpg"
+                },
+                {
+                    "@id": "https://iiif.dl.itc.u-tokyo.ac.jp/repo/iiif/fb04f8f6-a6f8-4503-997d-4e8bad511d1e/canvas/p13#xywh=412,683,4332,6755",
+                    "@type": "sc:Canvas",
+                    "label": "雑誌創刊片紙 p.13",
+                    "metadata": [
+                        {
+                            "label": "Score",
+                            "value": 0
+                        },
+                        {
+                            "label": "所蔵",
+                            "value": "東京大学"
+                        }
+                    ],
+                    "thumbnail": "https://iiif.dl.itc.u-tokyo.ac.jp/repo/iiif-img/86383/412,683,4332,6755/,300/0/default.jpg"
+                },
+                {
+                    "@id": "https://iiif.dl.itc.u-tokyo.ac.jp/repo/iiif/fb04f8f6-a6f8-4503-997d-4e8bad511d1e/canvas/p14#xywh=515,206,4035,6523",
+                    "@type": "sc:Canvas",
+                    "label": "雑誌創刊片紙 p.14",
+                    "metadata": [
+                        {
+                            "label": "Score",
+                            "value": 0
+                        },
+                        {
+                            "label": "所蔵",
+                            "value": "東京大学"
+                        }
+                    ],
+                    "thumbnail": "https://iiif.dl.itc.u-tokyo.ac.jp/repo/iiif-img/86384/515,206,4035,6523/,300/0/default.jpg"
+                },
+                {
+                    "@id": "https://iiif.dl.itc.u-tokyo.ac.jp/repo/iiif/fb04f8f6-a6f8-4503-997d-4e8bad511d1e/canvas/p15#xywh=206,541,4821,6961",
+                    "@type": "sc:Canvas",
+                    "label": "雑誌創刊片紙 p.15",
+                    "metadata": [
+                        {
+                            "label": "Score",
+                            "value": 0
+                        },
+                        {
+                            "label": "所蔵",
+                            "value": "東京大学"
+                        }
+                    ],
+                    "thumbnail": "https://iiif.dl.itc.u-tokyo.ac.jp/repo/iiif-img/86385/206,541,4821,6961/,300/0/default.jpg"
+                },
+                {
+                    "@id": "https://iiif.dl.itc.u-tokyo.ac.jp/repo/iiif/fb04f8f6-a6f8-4503-997d-4e8bad511d1e/canvas/p16#xywh=373,0,4487,7103",
+                    "@type": "sc:Canvas",
+                    "label": "雑誌創刊片紙 p.16",
+                    "metadata": [
+                        {
+                            "label": "Score",
+                            "value": 0
+                        },
+                        {
+                            "label": "所蔵",
+                            "value": "東京大学"
+                        }
+                    ],
+                    "thumbnail": "https://iiif.dl.itc.u-tokyo.ac.jp/repo/iiif-img/86386/373,0,4487,7103/,300/0/default.jpg"
+                }
+            ],
+            "within": {
+                "@id": "https://iiif.dl.itc.u-tokyo.ac.jp/repo/iiif/fb04f8f6-a6f8-4503-997d-4e8bad511d1e/manifest",
+                "@type": "sc:Manifest",
+                "label": "雑誌創刊片紙"
+            }
+        }
+    ]
+}

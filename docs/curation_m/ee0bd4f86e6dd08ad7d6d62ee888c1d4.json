@@ -1,0 +1,55 @@
+{
+    "@context": [
+        "http://iiif.io/api/presentation/2/context.json",
+        "http://codh.rois.ac.jp/iiif/curation/1/context.json"
+    ],
+    "@id": "https://nakamura196.github.io/gaikotsu-i/curation_m/ee0bd4f86e6dd08ad7d6d62ee888c1d4.json",
+    "@type": "cr:Curation",
+    "label": "Curating list",
+    "selections": [
+        {
+            "@id": "https://nakamura196.github.io/gaikotsu-i/curation_m/ee0bd4f86e6dd08ad7d6d62ee888c1d4.json/range1",
+            "@type": "sc:Range",
+            "label": "Manual curation by IIIF Curation Viewer",
+            "members": [
+                {
+                    "@id": "https://iiif.dl.itc.u-tokyo.ac.jp/repo/iiif/205cb2b5-5434-4109-9ba1-370235f63d02/canvas/p1#xywh=2709,1153,1404,2379",
+                    "@type": "sc:Canvas",
+                    "label": "宮武外骨宛ハガキ p.1",
+                    "metadata": [
+                        {
+                            "label": "Score",
+                            "value": 0
+                        },
+                        {
+                            "label": "所蔵",
+                            "value": "東京大学"
+                        }
+                    ],
+                    "thumbnail": "https://iiif.dl.itc.u-tokyo.ac.jp/repo/iiif-img/87623/2709,1153,1404,2379/,300/0/default.jpg"
+                },
+                {
+                    "@id": "https://iiif.dl.itc.u-tokyo.ac.jp/repo/iiif/205cb2b5-5434-4109-9ba1-370235f63d02/canvas/p2#xywh=2500,1008,1838,2605",
+                    "@type": "sc:Canvas",
+                    "label": "宮武外骨宛ハガキ p.2",
+                    "metadata": [
+                        {
+                            "label": "Score",
+                            "value": 0
+                        },
+                        {
+                            "label": "所蔵",
+                            "value": "東京大学"
+                        }
+                    ],
+                    "thumbnail": "https://iiif.dl.itc.u-tokyo.ac.jp/repo/iiif-img/87624/2500,1008,1838,2605/,300/0/default.jpg"
+                }
+            ],
+            "within": {
+                "@id": "https://iiif.dl.itc.u-tokyo.ac.jp/repo/iiif/205cb2b5-5434-4109-9ba1-370235f63d02/manifest",
+                "@type": "sc:Manifest",
+                "label": "宮武外骨宛ハガキ"
+            }
+        }
+    ]
+}

@@ -1,0 +1,63 @@
+{
+    "@context": [
+        "http://iiif.io/api/presentation/2/context.json",
+        "http://codh.rois.ac.jp/iiif/curation/1/context.json"
+    ],
+    "@id": "https://nakamura196.github.io/gaikotsu-i/curation_m/506f3913a17963acaf03f8e0b661e67f.json",
+    "@type": "cr:Curation",
+    "label": "Curating list",
+    "selections": [
+        {
+            "@id": "https://nakamura196.github.io/gaikotsu-i/curation_m/506f3913a17963acaf03f8e0b661e67f.json/range1",
+            "@type": "sc:Range",
+            "label": "Manual curation by IIIF Curation Viewer",
+            "members": [
+                {
+                    "@id": "https://iiif.dl.itc.u-tokyo.ac.jp/repo/iiif/5b8b05bc-c9ee-455b-85cc-ee2749b5dc7a/canvas/p1#xywh=2492,1387,1967,2008",
+                    "@type": "sc:Canvas",
+                    "label": "[「さをしか」ほか標題写] p.1",
+                    "metadata": [
+                        {
+                            "label": "Score",
+                            "value": 0
+                        },
+                        {
+                            "label": "所蔵",
+                            "value": "東京大学"
+                        },
+                        {
+                            "label": "機械タグ",
+                            "value": "Kitchenware"
+                        }
+                    ],
+                    "thumbnail": "https://iiif.dl.itc.u-tokyo.ac.jp/repo/iiif-img/86803/2492,1387,1967,2008/,300/0/default.jpg"
+                },
+                {
+                    "@id": "https://iiif.dl.itc.u-tokyo.ac.jp/repo/iiif/5b8b05bc-c9ee-455b-85cc-ee2749b5dc7a/canvas/p3#xywh=2217,1225,2121,2259",
+                    "@type": "sc:Canvas",
+                    "label": "[「さをしか」ほか標題写] p.3",
+                    "metadata": [
+                        {
+                            "label": "Score",
+                            "value": 0
+                        },
+                        {
+                            "label": "所蔵",
+                            "value": "東京大学"
+                        },
+                        {
+                            "label": "機械タグ",
+                            "value": "Animal"
+                        }
+                    ],
+                    "thumbnail": "https://iiif.dl.itc.u-tokyo.ac.jp/repo/iiif-img/86805/2217,1225,2121,2259/,300/0/default.jpg"
+                }
+            ],
+            "within": {
+                "@id": "https://iiif.dl.itc.u-tokyo.ac.jp/repo/iiif/5b8b05bc-c9ee-455b-85cc-ee2749b5dc7a/manifest",
+                "@type": "sc:Manifest",
+                "label": "[「さをしか」ほか標題写]"
+            }
+        }
+    ]
+}

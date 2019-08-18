@@ -1,0 +1,359 @@
+{
+    "@context": [
+        "http://iiif.io/api/presentation/2/context.json",
+        "http://codh.rois.ac.jp/iiif/curation/1/context.json"
+    ],
+    "@id": "https://nakamura196.github.io/gaikotsu-i/curation_m/34be275956b307a03a9d7bb380792fa0.json",
+    "@type": "cr:Curation",
+    "label": "Curating list",
+    "selections": [
+        {
+            "@id": "https://nakamura196.github.io/gaikotsu-i/curation_m/34be275956b307a03a9d7bb380792fa0.json/range1",
+            "@type": "sc:Range",
+            "label": "Manual curation by IIIF Curation Viewer",
+            "members": [
+                {
+                    "@id": "https://iiif.dl.itc.u-tokyo.ac.jp/repo/iiif/4e34bdd4-6afe-4a73-b846-e7105f569c16/canvas/p1#xywh=742,1156,3349,5005",
+                    "@type": "sc:Canvas",
+                    "label": "渉書雑抄此花 p.1",
+                    "metadata": [
+                        {
+                            "label": "Score",
+                            "value": 0
+                        },
+                        {
+                            "label": "所蔵",
+                            "value": "東京大学"
+                        }
+                    ],
+                    "thumbnail": "https://iiif.dl.itc.u-tokyo.ac.jp/repo/iiif-img/84236/742,1156,3349,5005/,300/0/default.jpg"
+                },
+                {
+                    "@id": "https://iiif.dl.itc.u-tokyo.ac.jp/repo/iiif/4e34bdd4-6afe-4a73-b846-e7105f569c16/canvas/p2#xywh=0,1522,1278,4371",
+                    "@type": "sc:Canvas",
+                    "label": "渉書雑抄此花 p.2",
+                    "metadata": [
+                        {
+                            "label": "Score",
+                            "value": 0
+                        },
+                        {
+                            "label": "所蔵",
+                            "value": "東京大学"
+                        }
+                    ],
+                    "thumbnail": "https://iiif.dl.itc.u-tokyo.ac.jp/repo/iiif-img/84237/0,1522,1278,4371/,300/0/default.jpg"
+                },
+                {
+                    "@id": "https://iiif.dl.itc.u-tokyo.ac.jp/repo/iiif/4e34bdd4-6afe-4a73-b846-e7105f569c16/canvas/p2#xywh=1400,1327,3032,4639",
+                    "@type": "sc:Canvas",
+                    "label": "渉書雑抄此花 p.2",
+                    "metadata": [
+                        {
+                            "label": "Score",
+                            "value": 0
+                        },
+                        {
+                            "label": "所蔵",
+                            "value": "東京大学"
+                        },
+                        {
+                            "label": "機械タグ",
+                            "value": "Animal"
+                        }
+                    ],
+                    "thumbnail": "https://iiif.dl.itc.u-tokyo.ac.jp/repo/iiif-img/84237/1400,1327,3032,4639/,300/0/default.jpg"
+                },
+                {
+                    "@id": "https://iiif.dl.itc.u-tokyo.ac.jp/repo/iiif/4e34bdd4-6afe-4a73-b846-e7105f569c16/canvas/p3#xywh=487,1254,3141,4968",
+                    "@type": "sc:Canvas",
+                    "label": "渉書雑抄此花 p.3",
+                    "metadata": [
+                        {
+                            "label": "Score",
+                            "value": 0
+                        },
+                        {
+                            "label": "所蔵",
+                            "value": "東京大学"
+                        }
+                    ],
+                    "thumbnail": "https://iiif.dl.itc.u-tokyo.ac.jp/repo/iiif-img/84238/487,1254,3141,4968/,300/0/default.jpg"
+                },
+                {
+                    "@id": "https://iiif.dl.itc.u-tokyo.ac.jp/repo/iiif/4e34bdd4-6afe-4a73-b846-e7105f569c16/canvas/p4#xywh=0,1315,4456,4907",
+                    "@type": "sc:Canvas",
+                    "label": "渉書雑抄此花 p.4",
+                    "metadata": [
+                        {
+                            "label": "Score",
+                            "value": 0
+                        },
+                        {
+                            "label": "所蔵",
+                            "value": "東京大学"
+                        },
+                        {
+                            "label": "機械タグ",
+                            "value": "Person"
+                        }
+                    ],
+                    "thumbnail": "https://iiif.dl.itc.u-tokyo.ac.jp/repo/iiif-img/84239/0,1315,4456,4907/,300/0/default.jpg"
+                },
+                {
+                    "@id": "https://iiif.dl.itc.u-tokyo.ac.jp/repo/iiif/4e34bdd4-6afe-4a73-b846-e7105f569c16/canvas/p5#xywh=462,1802,4140,3823",
+                    "@type": "sc:Canvas",
+                    "label": "渉書雑抄此花 p.5",
+                    "metadata": [
+                        {
+                            "label": "Score",
+                            "value": 0
+                        },
+                        {
+                            "label": "所蔵",
+                            "value": "東京大学"
+                        },
+                        {
+                            "label": "機械タグ",
+                            "value": "Person"
+                        }
+                    ],
+                    "thumbnail": "https://iiif.dl.itc.u-tokyo.ac.jp/repo/iiif-img/84240/462,1802,4140,3823/,300/0/default.jpg"
+                },
+                {
+                    "@id": "https://iiif.dl.itc.u-tokyo.ac.jp/repo/iiif/4e34bdd4-6afe-4a73-b846-e7105f569c16/canvas/p6#xywh=0,1095,4286,5382",
+                    "@type": "sc:Canvas",
+                    "label": "渉書雑抄此花 p.6",
+                    "metadata": [
+                        {
+                            "label": "Score",
+                            "value": 0
+                        },
+                        {
+                            "label": "所蔵",
+                            "value": "東京大学"
+                        },
+                        {
+                            "label": "機械タグ",
+                            "value": "Person"
+                        }
+                    ],
+                    "thumbnail": "https://iiif.dl.itc.u-tokyo.ac.jp/repo/iiif-img/84241/0,1095,4286,5382/,300/0/default.jpg"
+                },
+                {
+                    "@id": "https://iiif.dl.itc.u-tokyo.ac.jp/repo/iiif/4e34bdd4-6afe-4a73-b846-e7105f569c16/canvas/p7#xywh=414,1607,3019,4359",
+                    "@type": "sc:Canvas",
+                    "label": "渉書雑抄此花 p.7",
+                    "metadata": [
+                        {
+                            "label": "Score",
+                            "value": 0
+                        },
+                        {
+                            "label": "所蔵",
+                            "value": "東京大学"
+                        },
+                        {
+                            "label": "機械タグ",
+                            "value": "Person"
+                        }
+                    ],
+                    "thumbnail": "https://iiif.dl.itc.u-tokyo.ac.jp/repo/iiif-img/84242/414,1607,3019,4359/,300/0/default.jpg"
+                },
+                {
+                    "@id": "https://iiif.dl.itc.u-tokyo.ac.jp/repo/iiif/4e34bdd4-6afe-4a73-b846-e7105f569c16/canvas/p8#xywh=0,1168,4334,5334",
+                    "@type": "sc:Canvas",
+                    "label": "渉書雑抄此花 p.8",
+                    "metadata": [
+                        {
+                            "label": "Score",
+                            "value": 0
+                        },
+                        {
+                            "label": "所蔵",
+                            "value": "東京大学"
+                        },
+                        {
+                            "label": "機械タグ",
+                            "value": "Person"
+                        }
+                    ],
+                    "thumbnail": "https://iiif.dl.itc.u-tokyo.ac.jp/repo/iiif-img/84243/0,1168,4334,5334/,300/0/default.jpg"
+                },
+                {
+                    "@id": "https://iiif.dl.itc.u-tokyo.ac.jp/repo/iiif/4e34bdd4-6afe-4a73-b846-e7105f569c16/canvas/p9#xywh=267,1631,3166,4359",
+                    "@type": "sc:Canvas",
+                    "label": "渉書雑抄此花 p.9",
+                    "metadata": [
+                        {
+                            "label": "Score",
+                            "value": 0
+                        },
+                        {
+                            "label": "所蔵",
+                            "value": "東京大学"
+                        },
+                        {
+                            "label": "機械タグ",
+                            "value": "Person"
+                        }
+                    ],
+                    "thumbnail": "https://iiif.dl.itc.u-tokyo.ac.jp/repo/iiif-img/84244/267,1631,3166,4359/,300/0/default.jpg"
+                },
+                {
+                    "@id": "https://iiif.dl.itc.u-tokyo.ac.jp/repo/iiif/4e34bdd4-6afe-4a73-b846-e7105f569c16/canvas/p10#xywh=0,1181,4322,5236",
+                    "@type": "sc:Canvas",
+                    "label": "渉書雑抄此花 p.10",
+                    "metadata": [
+                        {
+                            "label": "Score",
+                            "value": 0
+                        },
+                        {
+                            "label": "所蔵",
+                            "value": "東京大学"
+                        },
+                        {
+                            "label": "機械タグ",
+                            "value": "Person"
+                        }
+                    ],
+                    "thumbnail": "https://iiif.dl.itc.u-tokyo.ac.jp/repo/iiif-img/84245/0,1181,4322,5236/,300/0/default.jpg"
+                },
+                {
+                    "@id": "https://iiif.dl.itc.u-tokyo.ac.jp/repo/iiif/4e34bdd4-6afe-4a73-b846-e7105f569c16/canvas/p11#xywh=414,1704,4310,4201",
+                    "@type": "sc:Canvas",
+                    "label": "渉書雑抄此花 p.11",
+                    "metadata": [
+                        {
+                            "label": "Score",
+                            "value": 0
+                        },
+                        {
+                            "label": "所蔵",
+                            "value": "東京大学"
+                        },
+                        {
+                            "label": "機械タグ",
+                            "value": "Person"
+                        }
+                    ],
+                    "thumbnail": "https://iiif.dl.itc.u-tokyo.ac.jp/repo/iiif-img/84246/414,1704,4310,4201/,300/0/default.jpg"
+                },
+                {
+                    "@id": "https://iiif.dl.itc.u-tokyo.ac.jp/repo/iiif/4e34bdd4-6afe-4a73-b846-e7105f569c16/canvas/p12#xywh=1120,1546,3409,4201",
+                    "@type": "sc:Canvas",
+                    "label": "渉書雑抄此花 p.12",
+                    "metadata": [
+                        {
+                            "label": "Score",
+                            "value": 0
+                        },
+                        {
+                            "label": "所蔵",
+                            "value": "東京大学"
+                        }
+                    ],
+                    "thumbnail": "https://iiif.dl.itc.u-tokyo.ac.jp/repo/iiif-img/84247/1120,1546,3409,4201/,300/0/default.jpg"
+                },
+                {
+                    "@id": "https://iiif.dl.itc.u-tokyo.ac.jp/repo/iiif/4e34bdd4-6afe-4a73-b846-e7105f569c16/canvas/p13#xywh=389,1388,3008,4712",
+                    "@type": "sc:Canvas",
+                    "label": "渉書雑抄此花 p.13",
+                    "metadata": [
+                        {
+                            "label": "Score",
+                            "value": 0
+                        },
+                        {
+                            "label": "所蔵",
+                            "value": "東京大学"
+                        },
+                        {
+                            "label": "機械タグ",
+                            "value": "Person"
+                        }
+                    ],
+                    "thumbnail": "https://iiif.dl.itc.u-tokyo.ac.jp/repo/iiif-img/84248/389,1388,3008,4712/,300/0/default.jpg"
+                },
+                {
+                    "@id": "https://iiif.dl.itc.u-tokyo.ac.jp/repo/iiif/4e34bdd4-6afe-4a73-b846-e7105f569c16/canvas/p14#xywh=1095,1436,3422,4445",
+                    "@type": "sc:Canvas",
+                    "label": "渉書雑抄此花 p.14",
+                    "metadata": [
+                        {
+                            "label": "Score",
+                            "value": 0
+                        },
+                        {
+                            "label": "所蔵",
+                            "value": "東京大学"
+                        },
+                        {
+                            "label": "機械タグ",
+                            "value": "Person"
+                        }
+                    ],
+                    "thumbnail": "https://iiif.dl.itc.u-tokyo.ac.jp/repo/iiif-img/84249/1095,1436,3422,4445/,300/0/default.jpg"
+                },
+                {
+                    "@id": "https://iiif.dl.itc.u-tokyo.ac.jp/repo/iiif/4e34bdd4-6afe-4a73-b846-e7105f569c16/canvas/p15#xywh=3677,1217,1193,4883",
+                    "@type": "sc:Canvas",
+                    "label": "渉書雑抄此花 p.15",
+                    "metadata": [
+                        {
+                            "label": "Score",
+                            "value": 0
+                        },
+                        {
+                            "label": "所蔵",
+                            "value": "東京大学"
+                        }
+                    ],
+                    "thumbnail": "https://iiif.dl.itc.u-tokyo.ac.jp/repo/iiif-img/84250/3677,1217,1193,4883/,300/0/default.jpg"
+                },
+                {
+                    "@id": "https://iiif.dl.itc.u-tokyo.ac.jp/repo/iiif/4e34bdd4-6afe-4a73-b846-e7105f569c16/canvas/p15#xywh=401,1229,3130,4859",
+                    "@type": "sc:Canvas",
+                    "label": "渉書雑抄此花 p.15",
+                    "metadata": [
+                        {
+                            "label": "Score",
+                            "value": 0
+                        },
+                        {
+                            "label": "所蔵",
+                            "value": "東京大学"
+                        }
+                    ],
+                    "thumbnail": "https://iiif.dl.itc.u-tokyo.ac.jp/repo/iiif-img/84250/401,1229,3130,4859/,300/0/default.jpg"
+                },
+                {
+                    "@id": "https://iiif.dl.itc.u-tokyo.ac.jp/repo/iiif/4e34bdd4-6afe-4a73-b846-e7105f569c16/canvas/p16#xywh=779,1315,3251,4627",
+                    "@type": "sc:Canvas",
+                    "label": "渉書雑抄此花 p.16",
+                    "metadata": [
+                        {
+                            "label": "Score",
+                            "value": 0
+                        },
+                        {
+                            "label": "所蔵",
+                            "value": "東京大学"
+                        },
+                        {
+                            "label": "機械タグ",
+                            "value": "Bird"
+                        }
+                    ],
+                    "thumbnail": "https://iiif.dl.itc.u-tokyo.ac.jp/repo/iiif-img/84251/779,1315,3251,4627/,300/0/default.jpg"
+                }
+            ],
+            "within": {
+                "@id": "https://iiif.dl.itc.u-tokyo.ac.jp/repo/iiif/4e34bdd4-6afe-4a73-b846-e7105f569c16/manifest",
+                "@type": "sc:Manifest",
+                "label": "渉書雑抄此花"
+            }
+        }
+    ]
+}

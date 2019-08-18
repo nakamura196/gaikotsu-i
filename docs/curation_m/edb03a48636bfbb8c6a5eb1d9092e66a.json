@@ -1,0 +1,71 @@
+{
+    "@context": [
+        "http://iiif.io/api/presentation/2/context.json",
+        "http://codh.rois.ac.jp/iiif/curation/1/context.json"
+    ],
+    "@id": "https://nakamura196.github.io/gaikotsu-i/curation_m/edb03a48636bfbb8c6a5eb1d9092e66a.json",
+    "@type": "cr:Curation",
+    "label": "Curating list",
+    "selections": [
+        {
+            "@id": "https://nakamura196.github.io/gaikotsu-i/curation_m/edb03a48636bfbb8c6a5eb1d9092e66a.json/range1",
+            "@type": "sc:Range",
+            "label": "Manual curation by IIIF Curation Viewer",
+            "members": [
+                {
+                    "@id": "https://iiif.dl.itc.u-tokyo.ac.jp/repo/iiif/c8d53d28-16d9-49bd-9b5e-a4971630f872/canvas/p2#xywh=341,476,4297,6384",
+                    "@type": "sc:Canvas",
+                    "label": "筆写原稿「福澤先生モ亦タ寢言アル乎(明治十二年一月二十八日發行『近時評論』第百七十三號所載)」 p.2",
+                    "metadata": [
+                        {
+                            "label": "Score",
+                            "value": 0
+                        },
+                        {
+                            "label": "所蔵",
+                            "value": "東京大学"
+                        }
+                    ],
+                    "thumbnail": "https://iiif.dl.itc.u-tokyo.ac.jp/repo/iiif-img/83226/341,476,4297,6384/,300/0/default.jpg"
+                },
+                {
+                    "@id": "https://iiif.dl.itc.u-tokyo.ac.jp/repo/iiif/c8d53d28-16d9-49bd-9b5e-a4971630f872/canvas/p3#xywh=341,598,4297,6225",
+                    "@type": "sc:Canvas",
+                    "label": "筆写原稿「福澤先生モ亦タ寢言アル乎(明治十二年一月二十八日發行『近時評論』第百七十三號所載)」 p.3",
+                    "metadata": [
+                        {
+                            "label": "Score",
+                            "value": 0
+                        },
+                        {
+                            "label": "所蔵",
+                            "value": "東京大学"
+                        }
+                    ],
+                    "thumbnail": "https://iiif.dl.itc.u-tokyo.ac.jp/repo/iiif-img/83227/341,598,4297,6225/,300/0/default.jpg"
+                },
+                {
+                    "@id": "https://iiif.dl.itc.u-tokyo.ac.jp/repo/iiif/c8d53d28-16d9-49bd-9b5e-a4971630f872/canvas/p5#xywh=537,610,3820,6042",
+                    "@type": "sc:Canvas",
+                    "label": "筆写原稿「福澤先生モ亦タ寢言アル乎(明治十二年一月二十八日發行『近時評論』第百七十三號所載)」 p.5",
+                    "metadata": [
+                        {
+                            "label": "Score",
+                            "value": 0
+                        },
+                        {
+                            "label": "所蔵",
+                            "value": "東京大学"
+                        }
+                    ],
+                    "thumbnail": "https://iiif.dl.itc.u-tokyo.ac.jp/repo/iiif-img/83229/537,610,3820,6042/,300/0/default.jpg"
+                }
+            ],
+            "within": {
+                "@id": "https://iiif.dl.itc.u-tokyo.ac.jp/repo/iiif/c8d53d28-16d9-49bd-9b5e-a4971630f872/manifest",
+                "@type": "sc:Manifest",
+                "label": "筆写原稿「福澤先生モ亦タ寢言アル乎(明治十二年一月二十八日發行『近時評論』第百七十三號所載)」"
+            }
+        }
+    ]
+}

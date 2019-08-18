@@ -1,0 +1,39 @@
+{
+    "@context": [
+        "http://iiif.io/api/presentation/2/context.json",
+        "http://codh.rois.ac.jp/iiif/curation/1/context.json"
+    ],
+    "@id": "https://nakamura196.github.io/gaikotsu-i/curation_m/126657ad1dff603f417c6596a98fd7b7.json",
+    "@type": "cr:Curation",
+    "label": "Curating list",
+    "selections": [
+        {
+            "@id": "https://nakamura196.github.io/gaikotsu-i/curation_m/126657ad1dff603f417c6596a98fd7b7.json/range1",
+            "@type": "sc:Range",
+            "label": "Manual curation by IIIF Curation Viewer",
+            "members": [
+                {
+                    "@id": "https://iiif.dl.itc.u-tokyo.ac.jp/repo/iiif/e6911495-c652-4663-8369-e7b8e62301e9/canvas/p1#xywh=1395,379,4145,4008",
+                    "@type": "sc:Canvas",
+                    "label": "[山陰関係新聞雑誌題字写] p.1",
+                    "metadata": [
+                        {
+                            "label": "Score",
+                            "value": 0
+                        },
+                        {
+                            "label": "所蔵",
+                            "value": "東京大学"
+                        }
+                    ],
+                    "thumbnail": "https://iiif.dl.itc.u-tokyo.ac.jp/repo/iiif-img/86780/1395,379,4145,4008/,300/0/default.jpg"
+                }
+            ],
+            "within": {
+                "@id": "https://iiif.dl.itc.u-tokyo.ac.jp/repo/iiif/e6911495-c652-4663-8369-e7b8e62301e9/manifest",
+                "@type": "sc:Manifest",
+                "label": "[山陰関係新聞雑誌題字写]"
+            }
+        }
+    ]
+}

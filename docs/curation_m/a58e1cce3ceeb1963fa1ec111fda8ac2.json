@@ -1,0 +1,71 @@
+{
+    "@context": [
+        "http://iiif.io/api/presentation/2/context.json",
+        "http://codh.rois.ac.jp/iiif/curation/1/context.json"
+    ],
+    "@id": "https://nakamura196.github.io/gaikotsu-i/curation_m/a58e1cce3ceeb1963fa1ec111fda8ac2.json",
+    "@type": "cr:Curation",
+    "label": "Curating list",
+    "selections": [
+        {
+            "@id": "https://nakamura196.github.io/gaikotsu-i/curation_m/a58e1cce3ceeb1963fa1ec111fda8ac2.json/range1",
+            "@type": "sc:Range",
+            "label": "Manual curation by IIIF Curation Viewer",
+            "members": [
+                {
+                    "@id": "https://iiif.dl.itc.u-tokyo.ac.jp/repo/iiif/4832ea20-8196-4785-abef-410480862383/canvas/p1#xywh=3217,2939,999,1432",
+                    "@type": "sc:Canvas",
+                    "label": "切抜[広告「滑稽新聞」46号] p.1",
+                    "metadata": [
+                        {
+                            "label": "Score",
+                            "value": 0
+                        },
+                        {
+                            "label": "所蔵",
+                            "value": "東京大学"
+                        }
+                    ],
+                    "thumbnail": "https://iiif.dl.itc.u-tokyo.ac.jp/repo/iiif-img/91527/3217,2939,999,1432/,300/0/default.jpg"
+                },
+                {
+                    "@id": "https://iiif.dl.itc.u-tokyo.ac.jp/repo/iiif/4832ea20-8196-4785-abef-410480862383/canvas/p1#xywh=2128,499,3217,2292",
+                    "@type": "sc:Canvas",
+                    "label": "切抜[広告「滑稽新聞」46号] p.1",
+                    "metadata": [
+                        {
+                            "label": "Score",
+                            "value": 0
+                        },
+                        {
+                            "label": "所蔵",
+                            "value": "東京大学"
+                        }
+                    ],
+                    "thumbnail": "https://iiif.dl.itc.u-tokyo.ac.jp/repo/iiif-img/91527/2128,499,3217,2292/,300/0/default.jpg"
+                },
+                {
+                    "@id": "https://iiif.dl.itc.u-tokyo.ac.jp/repo/iiif/4832ea20-8196-4785-abef-410480862383/canvas/p1#xywh=0,294,1874,4568",
+                    "@type": "sc:Canvas",
+                    "label": "切抜[広告「滑稽新聞」46号] p.1",
+                    "metadata": [
+                        {
+                            "label": "Score",
+                            "value": 0
+                        },
+                        {
+                            "label": "所蔵",
+                            "value": "東京大学"
+                        }
+                    ],
+                    "thumbnail": "https://iiif.dl.itc.u-tokyo.ac.jp/repo/iiif-img/91527/0,294,1874,4568/,300/0/default.jpg"
+                }
+            ],
+            "within": {
+                "@id": "https://iiif.dl.itc.u-tokyo.ac.jp/repo/iiif/4832ea20-8196-4785-abef-410480862383/manifest",
+                "@type": "sc:Manifest",
+                "label": "切抜[広告「滑稽新聞」46号]"
+            }
+        }
+    ]
+}

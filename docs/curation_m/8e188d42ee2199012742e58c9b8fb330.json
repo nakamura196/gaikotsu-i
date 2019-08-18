@@ -1,0 +1,55 @@
+{
+    "@context": [
+        "http://iiif.io/api/presentation/2/context.json",
+        "http://codh.rois.ac.jp/iiif/curation/1/context.json"
+    ],
+    "@id": "https://nakamura196.github.io/gaikotsu-i/curation_m/8e188d42ee2199012742e58c9b8fb330.json",
+    "@type": "cr:Curation",
+    "label": "Curating list",
+    "selections": [
+        {
+            "@id": "https://nakamura196.github.io/gaikotsu-i/curation_m/8e188d42ee2199012742e58c9b8fb330.json/range1",
+            "@type": "sc:Range",
+            "label": "Manual curation by IIIF Curation Viewer",
+            "members": [
+                {
+                    "@id": "https://iiif.dl.itc.u-tokyo.ac.jp/repo/iiif/fb43c011-f198-4f61-b35c-f2d23a60399f/canvas/p2#xywh=3669,467,1242,3638",
+                    "@type": "sc:Canvas",
+                    "label": "宮武外骨翁退職記念品を贈る会関係資料 p.2",
+                    "metadata": [
+                        {
+                            "label": "Score",
+                            "value": 0
+                        },
+                        {
+                            "label": "所蔵",
+                            "value": "東京大学"
+                        }
+                    ],
+                    "thumbnail": "https://iiif.dl.itc.u-tokyo.ac.jp/repo/iiif-img/87478/3669,467,1242,3638/,300/0/default.jpg"
+                },
+                {
+                    "@id": "https://iiif.dl.itc.u-tokyo.ac.jp/repo/iiif/fb43c011-f198-4f61-b35c-f2d23a60399f/canvas/p2#xywh=2282,580,1145,3315",
+                    "@type": "sc:Canvas",
+                    "label": "宮武外骨翁退職記念品を贈る会関係資料 p.2",
+                    "metadata": [
+                        {
+                            "label": "Score",
+                            "value": 0
+                        },
+                        {
+                            "label": "所蔵",
+                            "value": "東京大学"
+                        }
+                    ],
+                    "thumbnail": "https://iiif.dl.itc.u-tokyo.ac.jp/repo/iiif-img/87478/2282,580,1145,3315/,300/0/default.jpg"
+                }
+            ],
+            "within": {
+                "@id": "https://iiif.dl.itc.u-tokyo.ac.jp/repo/iiif/fb43c011-f198-4f61-b35c-f2d23a60399f/manifest",
+                "@type": "sc:Manifest",
+                "label": "宮武外骨翁退職記念品を贈る会関係資料"
+            }
+        }
+    ]
+}

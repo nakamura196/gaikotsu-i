@@ -1,0 +1,39 @@
+{
+    "@context": [
+        "http://iiif.io/api/presentation/2/context.json",
+        "http://codh.rois.ac.jp/iiif/curation/1/context.json"
+    ],
+    "@id": "https://nakamura196.github.io/gaikotsu-i/curation_m/aba190038de2b084bed88c3940e468cc.json",
+    "@type": "cr:Curation",
+    "label": "Curating list",
+    "selections": [
+        {
+            "@id": "https://nakamura196.github.io/gaikotsu-i/curation_m/aba190038de2b084bed88c3940e468cc.json/range1",
+            "@type": "sc:Range",
+            "label": "Manual curation by IIIF Curation Viewer",
+            "members": [
+                {
+                    "@id": "https://iiif.dl.itc.u-tokyo.ac.jp/repo/iiif/d6dcaf41-84df-4d5e-904d-09a2fc6323a2/canvas/p1#xywh=2556,1008,1750,2806",
+                    "@type": "sc:Canvas",
+                    "label": "千阪光子関係メモ p.1",
+                    "metadata": [
+                        {
+                            "label": "Score",
+                            "value": 0
+                        },
+                        {
+                            "label": "所蔵",
+                            "value": "東京大学"
+                        }
+                    ],
+                    "thumbnail": "https://iiif.dl.itc.u-tokyo.ac.jp/repo/iiif-img/87405/2556,1008,1750,2806/,300/0/default.jpg"
+                }
+            ],
+            "within": {
+                "@id": "https://iiif.dl.itc.u-tokyo.ac.jp/repo/iiif/d6dcaf41-84df-4d5e-904d-09a2fc6323a2/manifest",
+                "@type": "sc:Manifest",
+                "label": "千阪光子関係メモ"
+            }
+        }
+    ]
+}

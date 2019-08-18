@@ -1,0 +1,151 @@
+{
+    "@context": [
+        "http://iiif.io/api/presentation/2/context.json",
+        "http://codh.rois.ac.jp/iiif/curation/1/context.json"
+    ],
+    "@id": "https://nakamura196.github.io/gaikotsu-i/curation_m/f7e91ea79848b2c673f247446cff43b2.json",
+    "@type": "cr:Curation",
+    "label": "Curating list",
+    "selections": [
+        {
+            "@id": "https://nakamura196.github.io/gaikotsu-i/curation_m/f7e91ea79848b2c673f247446cff43b2.json/range1",
+            "@type": "sc:Range",
+            "label": "Manual curation by IIIF Curation Viewer",
+            "members": [
+                {
+                    "@id": "https://iiif.dl.itc.u-tokyo.ac.jp/repo/iiif/2b0d2b0b-45ce-483e-b439-ecf7692dedb7/canvas/p2#xywh=2387,798,2169,3274",
+                    "@type": "sc:Canvas",
+                    "label": "[新聞雑誌表紙写] p.2",
+                    "metadata": [
+                        {
+                            "label": "Score",
+                            "value": 0
+                        },
+                        {
+                            "label": "所蔵",
+                            "value": "東京大学"
+                        },
+                        {
+                            "label": "機械タグ",
+                            "value": "Animal"
+                        }
+                    ],
+                    "thumbnail": "https://iiif.dl.itc.u-tokyo.ac.jp/repo/iiif-img/86747/2387,798,2169,3274/,300/0/default.jpg"
+                },
+                {
+                    "@id": "https://iiif.dl.itc.u-tokyo.ac.jp/repo/iiif/2b0d2b0b-45ce-483e-b439-ecf7692dedb7/canvas/p4#xywh=2411,637,2290,3427",
+                    "@type": "sc:Canvas",
+                    "label": "[新聞雑誌表紙写] p.4",
+                    "metadata": [
+                        {
+                            "label": "Score",
+                            "value": 0
+                        },
+                        {
+                            "label": "所蔵",
+                            "value": "東京大学"
+                        },
+                        {
+                            "label": "機械タグ",
+                            "value": "Picture frame"
+                        }
+                    ],
+                    "thumbnail": "https://iiif.dl.itc.u-tokyo.ac.jp/repo/iiif-img/86749/2411,637,2290,3427/,300/0/default.jpg"
+                },
+                {
+                    "@id": "https://iiif.dl.itc.u-tokyo.ac.jp/repo/iiif/2b0d2b0b-45ce-483e-b439-ecf7692dedb7/canvas/p5#xywh=2532,943,1871,2758",
+                    "@type": "sc:Canvas",
+                    "label": "[新聞雑誌表紙写] p.5",
+                    "metadata": [
+                        {
+                            "label": "Score",
+                            "value": 0
+                        },
+                        {
+                            "label": "所蔵",
+                            "value": "東京大学"
+                        }
+                    ],
+                    "thumbnail": "https://iiif.dl.itc.u-tokyo.ac.jp/repo/iiif-img/86750/2532,943,1871,2758/,300/0/default.jpg"
+                },
+                {
+                    "@id": "https://iiif.dl.itc.u-tokyo.ac.jp/repo/iiif/2b0d2b0b-45ce-483e-b439-ecf7692dedb7/canvas/p6#xywh=2443,733,2000,3210",
+                    "@type": "sc:Canvas",
+                    "label": "[新聞雑誌表紙写] p.6",
+                    "metadata": [
+                        {
+                            "label": "Score",
+                            "value": 0
+                        },
+                        {
+                            "label": "所蔵",
+                            "value": "東京大学"
+                        }
+                    ],
+                    "thumbnail": "https://iiif.dl.itc.u-tokyo.ac.jp/repo/iiif-img/86751/2443,733,2000,3210/,300/0/default.jpg"
+                },
+                {
+                    "@id": "https://iiif.dl.itc.u-tokyo.ac.jp/repo/iiif/2b0d2b0b-45ce-483e-b439-ecf7692dedb7/canvas/p7#xywh=2290,532,2266,3621",
+                    "@type": "sc:Canvas",
+                    "label": "[新聞雑誌表紙写] p.7",
+                    "metadata": [
+                        {
+                            "label": "Score",
+                            "value": 0
+                        },
+                        {
+                            "label": "所蔵",
+                            "value": "東京大学"
+                        },
+                        {
+                            "label": "機械タグ",
+                            "value": "Person"
+                        }
+                    ],
+                    "thumbnail": "https://iiif.dl.itc.u-tokyo.ac.jp/repo/iiif-img/86752/2290,532,2266,3621/,300/0/default.jpg"
+                },
+                {
+                    "@id": "https://iiif.dl.itc.u-tokyo.ac.jp/repo/iiif/2b0d2b0b-45ce-483e-b439-ecf7692dedb7/canvas/p10#xywh=2395,621,2185,3274",
+                    "@type": "sc:Canvas",
+                    "label": "[新聞雑誌表紙写] p.10",
+                    "metadata": [
+                        {
+                            "label": "Score",
+                            "value": 0
+                        },
+                        {
+                            "label": "所蔵",
+                            "value": "東京大学"
+                        },
+                        {
+                            "label": "機械タグ",
+                            "value": "Animal"
+                        }
+                    ],
+                    "thumbnail": "https://iiif.dl.itc.u-tokyo.ac.jp/repo/iiif-img/86755/2395,621,2185,3274/,300/0/default.jpg"
+                },
+                {
+                    "@id": "https://iiif.dl.itc.u-tokyo.ac.jp/repo/iiif/2b0d2b0b-45ce-483e-b439-ecf7692dedb7/canvas/p12#xywh=2346,637,2186,3395",
+                    "@type": "sc:Canvas",
+                    "label": "[新聞雑誌表紙写] p.12",
+                    "metadata": [
+                        {
+                            "label": "Score",
+                            "value": 0
+                        },
+                        {
+                            "label": "所蔵",
+                            "value": "東京大学"
+                        }
+                    ],
+                    "thumbnail": "https://iiif.dl.itc.u-tokyo.ac.jp/repo/iiif-img/86757/2346,637,2186,3395/,300/0/default.jpg"
+                }
+            ],
+            "within": {
+                "@id": "https://iiif.dl.itc.u-tokyo.ac.jp/repo/iiif/2b0d2b0b-45ce-483e-b439-ecf7692dedb7/manifest",
+                "@type": "sc:Manifest",
+                "label": "[新聞雑誌表紙写]"
+            }
+        }
+    ]
+}

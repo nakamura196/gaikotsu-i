@@ -1,0 +1,759 @@
+{
+    "@context": [
+        "http://iiif.io/api/presentation/2/context.json",
+        "http://codh.rois.ac.jp/iiif/curation/1/context.json"
+    ],
+    "@id": "https://nakamura196.github.io/gaikotsu-i/curation_m/37317d5bcac9f401d6b9a26df86a4693.json",
+    "@type": "cr:Curation",
+    "label": "Curating list",
+    "selections": [
+        {
+            "@id": "https://nakamura196.github.io/gaikotsu-i/curation_m/37317d5bcac9f401d6b9a26df86a4693.json/range1",
+            "@type": "sc:Range",
+            "label": "Manual curation by IIIF Curation Viewer",
+            "members": [
+                {
+                    "@id": "https://iiif.dl.itc.u-tokyo.ac.jp/repo/iiif/a7e471f8-be89-4260-a9dc-1e613cf98a30/canvas/p2#xywh=2104,1354,2864,2089",
+                    "@type": "sc:Canvas",
+                    "label": "新案著作と講演 p.2",
+                    "metadata": [
+                        {
+                            "label": "Score",
+                            "value": 0
+                        },
+                        {
+                            "label": "所蔵",
+                            "value": "東京大学"
+                        }
+                    ],
+                    "thumbnail": "https://iiif.dl.itc.u-tokyo.ac.jp/repo/iiif-img/84099/2104,1354,2864,2089/,300/0/default.jpg"
+                },
+                {
+                    "@id": "https://iiif.dl.itc.u-tokyo.ac.jp/repo/iiif/a7e471f8-be89-4260-a9dc-1e613cf98a30/canvas/p3#xywh=2201,1419,2670,1960",
+                    "@type": "sc:Canvas",
+                    "label": "新案著作と講演 p.3",
+                    "metadata": [
+                        {
+                            "label": "Score",
+                            "value": 0
+                        },
+                        {
+                            "label": "所蔵",
+                            "value": "東京大学"
+                        }
+                    ],
+                    "thumbnail": "https://iiif.dl.itc.u-tokyo.ac.jp/repo/iiif-img/84100/2201,1419,2670,1960/,300/0/default.jpg"
+                },
+                {
+                    "@id": "https://iiif.dl.itc.u-tokyo.ac.jp/repo/iiif/a7e471f8-be89-4260-a9dc-1e613cf98a30/canvas/p4#xywh=2161,1411,2718,2000",
+                    "@type": "sc:Canvas",
+                    "label": "新案著作と講演 p.4",
+                    "metadata": [
+                        {
+                            "label": "Score",
+                            "value": 0
+                        },
+                        {
+                            "label": "所蔵",
+                            "value": "東京大学"
+                        }
+                    ],
+                    "thumbnail": "https://iiif.dl.itc.u-tokyo.ac.jp/repo/iiif-img/84101/2161,1411,2718,2000/,300/0/default.jpg"
+                },
+                {
+                    "@id": "https://iiif.dl.itc.u-tokyo.ac.jp/repo/iiif/a7e471f8-be89-4260-a9dc-1e613cf98a30/canvas/p5#xywh=2137,1427,2806,1944",
+                    "@type": "sc:Canvas",
+                    "label": "新案著作と講演 p.5",
+                    "metadata": [
+                        {
+                            "label": "Score",
+                            "value": 0
+                        },
+                        {
+                            "label": "所蔵",
+                            "value": "東京大学"
+                        }
+                    ],
+                    "thumbnail": "https://iiif.dl.itc.u-tokyo.ac.jp/repo/iiif-img/84102/2137,1427,2806,1944/,300/0/default.jpg"
+                },
+                {
+                    "@id": "https://iiif.dl.itc.u-tokyo.ac.jp/repo/iiif/a7e471f8-be89-4260-a9dc-1e613cf98a30/canvas/p6#xywh=2225,1411,2630,2000",
+                    "@type": "sc:Canvas",
+                    "label": "新案著作と講演 p.6",
+                    "metadata": [
+                        {
+                            "label": "Score",
+                            "value": 0
+                        },
+                        {
+                            "label": "所蔵",
+                            "value": "東京大学"
+                        }
+                    ],
+                    "thumbnail": "https://iiif.dl.itc.u-tokyo.ac.jp/repo/iiif-img/84103/2225,1411,2630,2000/,300/0/default.jpg"
+                },
+                {
+                    "@id": "https://iiif.dl.itc.u-tokyo.ac.jp/repo/iiif/a7e471f8-be89-4260-a9dc-1e613cf98a30/canvas/p7#xywh=2185,1435,2710,1976",
+                    "@type": "sc:Canvas",
+                    "label": "新案著作と講演 p.7",
+                    "metadata": [
+                        {
+                            "label": "Score",
+                            "value": 0
+                        },
+                        {
+                            "label": "所蔵",
+                            "value": "東京大学"
+                        }
+                    ],
+                    "thumbnail": "https://iiif.dl.itc.u-tokyo.ac.jp/repo/iiif-img/84104/2185,1435,2710,1976/,300/0/default.jpg"
+                },
+                {
+                    "@id": "https://iiif.dl.itc.u-tokyo.ac.jp/repo/iiif/a7e471f8-be89-4260-a9dc-1e613cf98a30/canvas/p8#xywh=2298,1492,2541,1863",
+                    "@type": "sc:Canvas",
+                    "label": "新案著作と講演 p.8",
+                    "metadata": [
+                        {
+                            "label": "Score",
+                            "value": 0
+                        },
+                        {
+                            "label": "所蔵",
+                            "value": "東京大学"
+                        }
+                    ],
+                    "thumbnail": "https://iiif.dl.itc.u-tokyo.ac.jp/repo/iiif-img/84105/2298,1492,2541,1863/,300/0/default.jpg"
+                },
+                {
+                    "@id": "https://iiif.dl.itc.u-tokyo.ac.jp/repo/iiif/a7e471f8-be89-4260-a9dc-1e613cf98a30/canvas/p9#xywh=2201,1443,2694,1912",
+                    "@type": "sc:Canvas",
+                    "label": "新案著作と講演 p.9",
+                    "metadata": [
+                        {
+                            "label": "Score",
+                            "value": 0
+                        },
+                        {
+                            "label": "所蔵",
+                            "value": "東京大学"
+                        }
+                    ],
+                    "thumbnail": "https://iiif.dl.itc.u-tokyo.ac.jp/repo/iiif-img/84106/2201,1443,2694,1912/,300/0/default.jpg"
+                },
+                {
+                    "@id": "https://iiif.dl.itc.u-tokyo.ac.jp/repo/iiif/a7e471f8-be89-4260-a9dc-1e613cf98a30/canvas/p10#xywh=2153,1475,2774,1823",
+                    "@type": "sc:Canvas",
+                    "label": "新案著作と講演 p.10",
+                    "metadata": [
+                        {
+                            "label": "Score",
+                            "value": 0
+                        },
+                        {
+                            "label": "所蔵",
+                            "value": "東京大学"
+                        }
+                    ],
+                    "thumbnail": "https://iiif.dl.itc.u-tokyo.ac.jp/repo/iiif-img/84107/2153,1475,2774,1823/,300/0/default.jpg"
+                },
+                {
+                    "@id": "https://iiif.dl.itc.u-tokyo.ac.jp/repo/iiif/a7e471f8-be89-4260-a9dc-1e613cf98a30/canvas/p11#xywh=2234,1475,2677,1823",
+                    "@type": "sc:Canvas",
+                    "label": "新案著作と講演 p.11",
+                    "metadata": [
+                        {
+                            "label": "Score",
+                            "value": 0
+                        },
+                        {
+                            "label": "所蔵",
+                            "value": "東京大学"
+                        }
+                    ],
+                    "thumbnail": "https://iiif.dl.itc.u-tokyo.ac.jp/repo/iiif-img/84108/2234,1475,2677,1823/,300/0/default.jpg"
+                },
+                {
+                    "@id": "https://iiif.dl.itc.u-tokyo.ac.jp/repo/iiif/a7e471f8-be89-4260-a9dc-1e613cf98a30/canvas/p12#xywh=2193,1451,2758,1871",
+                    "@type": "sc:Canvas",
+                    "label": "新案著作と講演 p.12",
+                    "metadata": [
+                        {
+                            "label": "Score",
+                            "value": 0
+                        },
+                        {
+                            "label": "所蔵",
+                            "value": "東京大学"
+                        }
+                    ],
+                    "thumbnail": "https://iiif.dl.itc.u-tokyo.ac.jp/repo/iiif-img/84109/2193,1451,2758,1871/,300/0/default.jpg"
+                },
+                {
+                    "@id": "https://iiif.dl.itc.u-tokyo.ac.jp/repo/iiif/a7e471f8-be89-4260-a9dc-1e613cf98a30/canvas/p13#xywh=2169,1435,2823,1895",
+                    "@type": "sc:Canvas",
+                    "label": "新案著作と講演 p.13",
+                    "metadata": [
+                        {
+                            "label": "Score",
+                            "value": 0
+                        },
+                        {
+                            "label": "所蔵",
+                            "value": "東京大学"
+                        }
+                    ],
+                    "thumbnail": "https://iiif.dl.itc.u-tokyo.ac.jp/repo/iiif-img/84110/2169,1435,2823,1895/,300/0/default.jpg"
+                },
+                {
+                    "@id": "https://iiif.dl.itc.u-tokyo.ac.jp/repo/iiif/a7e471f8-be89-4260-a9dc-1e613cf98a30/canvas/p14#xywh=2234,1467,2709,1855",
+                    "@type": "sc:Canvas",
+                    "label": "新案著作と講演 p.14",
+                    "metadata": [
+                        {
+                            "label": "Score",
+                            "value": 0
+                        },
+                        {
+                            "label": "所蔵",
+                            "value": "東京大学"
+                        }
+                    ],
+                    "thumbnail": "https://iiif.dl.itc.u-tokyo.ac.jp/repo/iiif-img/84111/2234,1467,2709,1855/,300/0/default.jpg"
+                },
+                {
+                    "@id": "https://iiif.dl.itc.u-tokyo.ac.jp/repo/iiif/a7e471f8-be89-4260-a9dc-1e613cf98a30/canvas/p15#xywh=2185,1443,2742,1903",
+                    "@type": "sc:Canvas",
+                    "label": "新案著作と講演 p.15",
+                    "metadata": [
+                        {
+                            "label": "Score",
+                            "value": 0
+                        },
+                        {
+                            "label": "所蔵",
+                            "value": "東京大学"
+                        }
+                    ],
+                    "thumbnail": "https://iiif.dl.itc.u-tokyo.ac.jp/repo/iiif-img/84112/2185,1443,2742,1903/,300/0/default.jpg"
+                },
+                {
+                    "@id": "https://iiif.dl.itc.u-tokyo.ac.jp/repo/iiif/a7e471f8-be89-4260-a9dc-1e613cf98a30/canvas/p16#xywh=2242,1411,2701,1919",
+                    "@type": "sc:Canvas",
+                    "label": "新案著作と講演 p.16",
+                    "metadata": [
+                        {
+                            "label": "Score",
+                            "value": 0
+                        },
+                        {
+                            "label": "所蔵",
+                            "value": "東京大学"
+                        }
+                    ],
+                    "thumbnail": "https://iiif.dl.itc.u-tokyo.ac.jp/repo/iiif-img/84113/2242,1411,2701,1919/,300/0/default.jpg"
+                },
+                {
+                    "@id": "https://iiif.dl.itc.u-tokyo.ac.jp/repo/iiif/a7e471f8-be89-4260-a9dc-1e613cf98a30/canvas/p17#xywh=2274,1451,2621,1871",
+                    "@type": "sc:Canvas",
+                    "label": "新案著作と講演 p.17",
+                    "metadata": [
+                        {
+                            "label": "Score",
+                            "value": 0
+                        },
+                        {
+                            "label": "所蔵",
+                            "value": "東京大学"
+                        }
+                    ],
+                    "thumbnail": "https://iiif.dl.itc.u-tokyo.ac.jp/repo/iiif-img/84114/2274,1451,2621,1871/,300/0/default.jpg"
+                },
+                {
+                    "@id": "https://iiif.dl.itc.u-tokyo.ac.jp/repo/iiif/a7e471f8-be89-4260-a9dc-1e613cf98a30/canvas/p18#xywh=2427,1435,2339,1928",
+                    "@type": "sc:Canvas",
+                    "label": "新案著作と講演 p.18",
+                    "metadata": [
+                        {
+                            "label": "Score",
+                            "value": 0
+                        },
+                        {
+                            "label": "所蔵",
+                            "value": "東京大学"
+                        }
+                    ],
+                    "thumbnail": "https://iiif.dl.itc.u-tokyo.ac.jp/repo/iiif-img/84115/2427,1435,2339,1928/,300/0/default.jpg"
+                },
+                {
+                    "@id": "https://iiif.dl.itc.u-tokyo.ac.jp/repo/iiif/a7e471f8-be89-4260-a9dc-1e613cf98a30/canvas/p19#xywh=2371,1411,2508,1911",
+                    "@type": "sc:Canvas",
+                    "label": "新案著作と講演 p.19",
+                    "metadata": [
+                        {
+                            "label": "Score",
+                            "value": 0
+                        },
+                        {
+                            "label": "所蔵",
+                            "value": "東京大学"
+                        }
+                    ],
+                    "thumbnail": "https://iiif.dl.itc.u-tokyo.ac.jp/repo/iiif-img/84116/2371,1411,2508,1911/,300/0/default.jpg"
+                },
+                {
+                    "@id": "https://iiif.dl.itc.u-tokyo.ac.jp/repo/iiif/a7e471f8-be89-4260-a9dc-1e613cf98a30/canvas/p20#xywh=2306,1403,2734,1927",
+                    "@type": "sc:Canvas",
+                    "label": "新案著作と講演 p.20",
+                    "metadata": [
+                        {
+                            "label": "Score",
+                            "value": 0
+                        },
+                        {
+                            "label": "所蔵",
+                            "value": "東京大学"
+                        }
+                    ],
+                    "thumbnail": "https://iiif.dl.itc.u-tokyo.ac.jp/repo/iiif-img/84117/2306,1403,2734,1927/,300/0/default.jpg"
+                },
+                {
+                    "@id": "https://iiif.dl.itc.u-tokyo.ac.jp/repo/iiif/a7e471f8-be89-4260-a9dc-1e613cf98a30/canvas/p21#xywh=2403,1459,2548,1887",
+                    "@type": "sc:Canvas",
+                    "label": "新案著作と講演 p.21",
+                    "metadata": [
+                        {
+                            "label": "Score",
+                            "value": 0
+                        },
+                        {
+                            "label": "所蔵",
+                            "value": "東京大学"
+                        }
+                    ],
+                    "thumbnail": "https://iiif.dl.itc.u-tokyo.ac.jp/repo/iiif-img/84118/2403,1459,2548,1887/,300/0/default.jpg"
+                },
+                {
+                    "@id": "https://iiif.dl.itc.u-tokyo.ac.jp/repo/iiif/a7e471f8-be89-4260-a9dc-1e613cf98a30/canvas/p22#xywh=2387,1459,2508,1912",
+                    "@type": "sc:Canvas",
+                    "label": "新案著作と講演 p.22",
+                    "metadata": [
+                        {
+                            "label": "Score",
+                            "value": 0
+                        },
+                        {
+                            "label": "所蔵",
+                            "value": "東京大学"
+                        }
+                    ],
+                    "thumbnail": "https://iiif.dl.itc.u-tokyo.ac.jp/repo/iiif-img/84119/2387,1459,2508,1912/,300/0/default.jpg"
+                },
+                {
+                    "@id": "https://iiif.dl.itc.u-tokyo.ac.jp/repo/iiif/a7e471f8-be89-4260-a9dc-1e613cf98a30/canvas/p23#xywh=2387,1403,2597,1960",
+                    "@type": "sc:Canvas",
+                    "label": "新案著作と講演 p.23",
+                    "metadata": [
+                        {
+                            "label": "Score",
+                            "value": 0
+                        },
+                        {
+                            "label": "所蔵",
+                            "value": "東京大学"
+                        }
+                    ],
+                    "thumbnail": "https://iiif.dl.itc.u-tokyo.ac.jp/repo/iiif-img/84120/2387,1403,2597,1960/,300/0/default.jpg"
+                },
+                {
+                    "@id": "https://iiif.dl.itc.u-tokyo.ac.jp/repo/iiif/a7e471f8-be89-4260-a9dc-1e613cf98a30/canvas/p24#xywh=2322,1379,2758,2008",
+                    "@type": "sc:Canvas",
+                    "label": "新案著作と講演 p.24",
+                    "metadata": [
+                        {
+                            "label": "Score",
+                            "value": 0
+                        },
+                        {
+                            "label": "所蔵",
+                            "value": "東京大学"
+                        }
+                    ],
+                    "thumbnail": "https://iiif.dl.itc.u-tokyo.ac.jp/repo/iiif-img/84121/2322,1379,2758,2008/,300/0/default.jpg"
+                },
+                {
+                    "@id": "https://iiif.dl.itc.u-tokyo.ac.jp/repo/iiif/a7e471f8-be89-4260-a9dc-1e613cf98a30/canvas/p25#xywh=2379,1371,2685,2048",
+                    "@type": "sc:Canvas",
+                    "label": "新案著作と講演 p.25",
+                    "metadata": [
+                        {
+                            "label": "Score",
+                            "value": 0
+                        },
+                        {
+                            "label": "所蔵",
+                            "value": "東京大学"
+                        }
+                    ],
+                    "thumbnail": "https://iiif.dl.itc.u-tokyo.ac.jp/repo/iiif-img/84122/2379,1371,2685,2048/,300/0/default.jpg"
+                },
+                {
+                    "@id": "https://iiif.dl.itc.u-tokyo.ac.jp/repo/iiif/a7e471f8-be89-4260-a9dc-1e613cf98a30/canvas/p26#xywh=2346,1145,2823,2371",
+                    "@type": "sc:Canvas",
+                    "label": "新案著作と講演 p.26",
+                    "metadata": [
+                        {
+                            "label": "Score",
+                            "value": 0
+                        },
+                        {
+                            "label": "所蔵",
+                            "value": "東京大学"
+                        }
+                    ],
+                    "thumbnail": "https://iiif.dl.itc.u-tokyo.ac.jp/repo/iiif-img/84123/2346,1145,2823,2371/,300/0/default.jpg"
+                },
+                {
+                    "@id": "https://iiif.dl.itc.u-tokyo.ac.jp/repo/iiif/a7e471f8-be89-4260-a9dc-1e613cf98a30/canvas/p27#xywh=2395,1338,2694,2121",
+                    "@type": "sc:Canvas",
+                    "label": "新案著作と講演 p.27",
+                    "metadata": [
+                        {
+                            "label": "Score",
+                            "value": 0
+                        },
+                        {
+                            "label": "所蔵",
+                            "value": "東京大学"
+                        }
+                    ],
+                    "thumbnail": "https://iiif.dl.itc.u-tokyo.ac.jp/repo/iiif-img/84124/2395,1338,2694,2121/,300/0/default.jpg"
+                },
+                {
+                    "@id": "https://iiif.dl.itc.u-tokyo.ac.jp/repo/iiif/a7e471f8-be89-4260-a9dc-1e613cf98a30/canvas/p28#xywh=2435,1322,2678,2129",
+                    "@type": "sc:Canvas",
+                    "label": "新案著作と講演 p.28",
+                    "metadata": [
+                        {
+                            "label": "Score",
+                            "value": 0
+                        },
+                        {
+                            "label": "所蔵",
+                            "value": "東京大学"
+                        }
+                    ],
+                    "thumbnail": "https://iiif.dl.itc.u-tokyo.ac.jp/repo/iiif-img/84125/2435,1322,2678,2129/,300/0/default.jpg"
+                },
+                {
+                    "@id": "https://iiif.dl.itc.u-tokyo.ac.jp/repo/iiif/a7e471f8-be89-4260-a9dc-1e613cf98a30/canvas/p29#xywh=2387,1298,2766,2186",
+                    "@type": "sc:Canvas",
+                    "label": "新案著作と講演 p.29",
+                    "metadata": [
+                        {
+                            "label": "Score",
+                            "value": 0
+                        },
+                        {
+                            "label": "所蔵",
+                            "value": "東京大学"
+                        }
+                    ],
+                    "thumbnail": "https://iiif.dl.itc.u-tokyo.ac.jp/repo/iiif-img/84126/2387,1298,2766,2186/,300/0/default.jpg"
+                },
+                {
+                    "@id": "https://iiif.dl.itc.u-tokyo.ac.jp/repo/iiif/a7e471f8-be89-4260-a9dc-1e613cf98a30/canvas/p30#xywh=2379,1177,2774,2339",
+                    "@type": "sc:Canvas",
+                    "label": "新案著作と講演 p.30",
+                    "metadata": [
+                        {
+                            "label": "Score",
+                            "value": 0
+                        },
+                        {
+                            "label": "所蔵",
+                            "value": "東京大学"
+                        }
+                    ],
+                    "thumbnail": "https://iiif.dl.itc.u-tokyo.ac.jp/repo/iiif-img/84127/2379,1177,2774,2339/,300/0/default.jpg"
+                },
+                {
+                    "@id": "https://iiif.dl.itc.u-tokyo.ac.jp/repo/iiif/a7e471f8-be89-4260-a9dc-1e613cf98a30/canvas/p31#xywh=2395,1330,2742,2081",
+                    "@type": "sc:Canvas",
+                    "label": "新案著作と講演 p.31",
+                    "metadata": [
+                        {
+                            "label": "Score",
+                            "value": 0
+                        },
+                        {
+                            "label": "所蔵",
+                            "value": "東京大学"
+                        }
+                    ],
+                    "thumbnail": "https://iiif.dl.itc.u-tokyo.ac.jp/repo/iiif-img/84128/2395,1330,2742,2081/,300/0/default.jpg"
+                },
+                {
+                    "@id": "https://iiif.dl.itc.u-tokyo.ac.jp/repo/iiif/a7e471f8-be89-4260-a9dc-1e613cf98a30/canvas/p32#xywh=2363,1161,2830,2355",
+                    "@type": "sc:Canvas",
+                    "label": "新案著作と講演 p.32",
+                    "metadata": [
+                        {
+                            "label": "Score",
+                            "value": 0
+                        },
+                        {
+                            "label": "所蔵",
+                            "value": "東京大学"
+                        }
+                    ],
+                    "thumbnail": "https://iiif.dl.itc.u-tokyo.ac.jp/repo/iiif-img/84129/2363,1161,2830,2355/,300/0/default.jpg"
+                },
+                {
+                    "@id": "https://iiif.dl.itc.u-tokyo.ac.jp/repo/iiif/a7e471f8-be89-4260-a9dc-1e613cf98a30/canvas/p33#xywh=2363,1177,2855,2315",
+                    "@type": "sc:Canvas",
+                    "label": "新案著作と講演 p.33",
+                    "metadata": [
+                        {
+                            "label": "Score",
+                            "value": 0
+                        },
+                        {
+                            "label": "所蔵",
+                            "value": "東京大学"
+                        }
+                    ],
+                    "thumbnail": "https://iiif.dl.itc.u-tokyo.ac.jp/repo/iiif-img/84130/2363,1177,2855,2315/,300/0/default.jpg"
+                },
+                {
+                    "@id": "https://iiif.dl.itc.u-tokyo.ac.jp/repo/iiif/a7e471f8-be89-4260-a9dc-1e613cf98a30/canvas/p34#xywh=2451,1282,2654,2218",
+                    "@type": "sc:Canvas",
+                    "label": "新案著作と講演 p.34",
+                    "metadata": [
+                        {
+                            "label": "Score",
+                            "value": 0
+                        },
+                        {
+                            "label": "所蔵",
+                            "value": "東京大学"
+                        }
+                    ],
+                    "thumbnail": "https://iiif.dl.itc.u-tokyo.ac.jp/repo/iiif-img/84131/2451,1282,2654,2218/,300/0/default.jpg"
+                },
+                {
+                    "@id": "https://iiif.dl.itc.u-tokyo.ac.jp/repo/iiif/a7e471f8-be89-4260-a9dc-1e613cf98a30/canvas/p35#xywh=2395,1145,2790,2363",
+                    "@type": "sc:Canvas",
+                    "label": "新案著作と講演 p.35",
+                    "metadata": [
+                        {
+                            "label": "Score",
+                            "value": 0
+                        },
+                        {
+                            "label": "所蔵",
+                            "value": "東京大学"
+                        }
+                    ],
+                    "thumbnail": "https://iiif.dl.itc.u-tokyo.ac.jp/repo/iiif-img/84132/2395,1145,2790,2363/,300/0/default.jpg"
+                },
+                {
+                    "@id": "https://iiif.dl.itc.u-tokyo.ac.jp/repo/iiif/a7e471f8-be89-4260-a9dc-1e613cf98a30/canvas/p36#xywh=2427,1266,2686,2218",
+                    "@type": "sc:Canvas",
+                    "label": "新案著作と講演 p.36",
+                    "metadata": [
+                        {
+                            "label": "Score",
+                            "value": 0
+                        },
+                        {
+                            "label": "所蔵",
+                            "value": "東京大学"
+                        }
+                    ],
+                    "thumbnail": "https://iiif.dl.itc.u-tokyo.ac.jp/repo/iiif-img/84133/2427,1266,2686,2218/,300/0/default.jpg"
+                },
+                {
+                    "@id": "https://iiif.dl.itc.u-tokyo.ac.jp/repo/iiif/a7e471f8-be89-4260-a9dc-1e613cf98a30/canvas/p37#xywh=2363,1161,2887,2315",
+                    "@type": "sc:Canvas",
+                    "label": "新案著作と講演 p.37",
+                    "metadata": [
+                        {
+                            "label": "Score",
+                            "value": 0
+                        },
+                        {
+                            "label": "所蔵",
+                            "value": "東京大学"
+                        }
+                    ],
+                    "thumbnail": "https://iiif.dl.itc.u-tokyo.ac.jp/repo/iiif-img/84134/2363,1161,2887,2315/,300/0/default.jpg"
+                },
+                {
+                    "@id": "https://iiif.dl.itc.u-tokyo.ac.jp/repo/iiif/a7e471f8-be89-4260-a9dc-1e613cf98a30/canvas/p38#xywh=2451,1153,2694,2371",
+                    "@type": "sc:Canvas",
+                    "label": "新案著作と講演 p.38",
+                    "metadata": [
+                        {
+                            "label": "Score",
+                            "value": 0
+                        },
+                        {
+                            "label": "所蔵",
+                            "value": "東京大学"
+                        }
+                    ],
+                    "thumbnail": "https://iiif.dl.itc.u-tokyo.ac.jp/repo/iiif-img/84135/2451,1153,2694,2371/,300/0/default.jpg"
+                },
+                {
+                    "@id": "https://iiif.dl.itc.u-tokyo.ac.jp/repo/iiif/a7e471f8-be89-4260-a9dc-1e613cf98a30/canvas/p39#xywh=2363,1209,2895,2242",
+                    "@type": "sc:Canvas",
+                    "label": "新案著作と講演 p.39",
+                    "metadata": [
+                        {
+                            "label": "Score",
+                            "value": 0
+                        },
+                        {
+                            "label": "所蔵",
+                            "value": "東京大学"
+                        }
+                    ],
+                    "thumbnail": "https://iiif.dl.itc.u-tokyo.ac.jp/repo/iiif-img/84136/2363,1209,2895,2242/,300/0/default.jpg"
+                },
+                {
+                    "@id": "https://iiif.dl.itc.u-tokyo.ac.jp/repo/iiif/a7e471f8-be89-4260-a9dc-1e613cf98a30/canvas/p40#xywh=2459,1169,2694,2331",
+                    "@type": "sc:Canvas",
+                    "label": "新案著作と講演 p.40",
+                    "metadata": [
+                        {
+                            "label": "Score",
+                            "value": 0
+                        },
+                        {
+                            "label": "所蔵",
+                            "value": "東京大学"
+                        }
+                    ],
+                    "thumbnail": "https://iiif.dl.itc.u-tokyo.ac.jp/repo/iiif-img/84137/2459,1169,2694,2331/,300/0/default.jpg"
+                },
+                {
+                    "@id": "https://iiif.dl.itc.u-tokyo.ac.jp/repo/iiif/a7e471f8-be89-4260-a9dc-1e613cf98a30/canvas/p41#xywh=2451,1153,2734,2347",
+                    "@type": "sc:Canvas",
+                    "label": "新案著作と講演 p.41",
+                    "metadata": [
+                        {
+                            "label": "Score",
+                            "value": 0
+                        },
+                        {
+                            "label": "所蔵",
+                            "value": "東京大学"
+                        }
+                    ],
+                    "thumbnail": "https://iiif.dl.itc.u-tokyo.ac.jp/repo/iiif-img/84138/2451,1153,2734,2347/,300/0/default.jpg"
+                },
+                {
+                    "@id": "https://iiif.dl.itc.u-tokyo.ac.jp/repo/iiif/a7e471f8-be89-4260-a9dc-1e613cf98a30/canvas/p42#xywh=2346,1306,2896,2202",
+                    "@type": "sc:Canvas",
+                    "label": "新案著作と講演 p.42",
+                    "metadata": [
+                        {
+                            "label": "Score",
+                            "value": 0
+                        },
+                        {
+                            "label": "所蔵",
+                            "value": "東京大学"
+                        }
+                    ],
+                    "thumbnail": "https://iiif.dl.itc.u-tokyo.ac.jp/repo/iiif-img/84139/2346,1306,2896,2202/,300/0/default.jpg"
+                },
+                {
+                    "@id": "https://iiif.dl.itc.u-tokyo.ac.jp/repo/iiif/a7e471f8-be89-4260-a9dc-1e613cf98a30/canvas/p43#xywh=2387,1250,2814,2250",
+                    "@type": "sc:Canvas",
+                    "label": "新案著作と講演 p.43",
+                    "metadata": [
+                        {
+                            "label": "Score",
+                            "value": 0
+                        },
+                        {
+                            "label": "所蔵",
+                            "value": "東京大学"
+                        }
+                    ],
+                    "thumbnail": "https://iiif.dl.itc.u-tokyo.ac.jp/repo/iiif-img/84140/2387,1250,2814,2250/,300/0/default.jpg"
+                },
+                {
+                    "@id": "https://iiif.dl.itc.u-tokyo.ac.jp/repo/iiif/a7e471f8-be89-4260-a9dc-1e613cf98a30/canvas/p44#xywh=2403,1306,2798,2145",
+                    "@type": "sc:Canvas",
+                    "label": "新案著作と講演 p.44",
+                    "metadata": [
+                        {
+                            "label": "Score",
+                            "value": 0
+                        },
+                        {
+                            "label": "所蔵",
+                            "value": "東京大学"
+                        }
+                    ],
+                    "thumbnail": "https://iiif.dl.itc.u-tokyo.ac.jp/repo/iiif-img/84141/2403,1306,2798,2145/,300/0/default.jpg"
+                },
+                {
+                    "@id": "https://iiif.dl.itc.u-tokyo.ac.jp/repo/iiif/a7e471f8-be89-4260-a9dc-1e613cf98a30/canvas/p45#xywh=2306,1121,3024,2387",
+                    "@type": "sc:Canvas",
+                    "label": "新案著作と講演 p.45",
+                    "metadata": [
+                        {
+                            "label": "Score",
+                            "value": 0
+                        },
+                        {
+                            "label": "所蔵",
+                            "value": "東京大学"
+                        }
+                    ],
+                    "thumbnail": "https://iiif.dl.itc.u-tokyo.ac.jp/repo/iiif-img/84142/2306,1121,3024,2387/,300/0/default.jpg"
+                },
+                {
+                    "@id": "https://iiif.dl.itc.u-tokyo.ac.jp/repo/iiif/a7e471f8-be89-4260-a9dc-1e613cf98a30/canvas/p46#xywh=2379,1379,2903,2024",
+                    "@type": "sc:Canvas",
+                    "label": "新案著作と講演 p.46",
+                    "metadata": [
+                        {
+                            "label": "Score",
+                            "value": 0
+                        },
+                        {
+                            "label": "所蔵",
+                            "value": "東京大学"
+                        }
+                    ],
+                    "thumbnail": "https://iiif.dl.itc.u-tokyo.ac.jp/repo/iiif-img/84143/2379,1379,2903,2024/,300/0/default.jpg"
+                },
+                {
+                    "@id": "https://iiif.dl.itc.u-tokyo.ac.jp/repo/iiif/a7e471f8-be89-4260-a9dc-1e613cf98a30/canvas/p47#xywh=2435,1153,2823,2371",
+                    "@type": "sc:Canvas",
+                    "label": "新案著作と講演 p.47",
+                    "metadata": [
+                        {
+                            "label": "Score",
+                            "value": 0
+                        },
+                        {
+                            "label": "所蔵",
+                            "value": "東京大学"
+                        }
+                    ],
+                    "thumbnail": "https://iiif.dl.itc.u-tokyo.ac.jp/repo/iiif-img/84144/2435,1153,2823,2371/,300/0/default.jpg"
+                }
+            ],
+            "within": {
+                "@id": "https://iiif.dl.itc.u-tokyo.ac.jp/repo/iiif/a7e471f8-be89-4260-a9dc-1e613cf98a30/manifest",
+                "@type": "sc:Manifest",
+                "label": "新案著作と講演"
+            }
+        }
+    ]
+}

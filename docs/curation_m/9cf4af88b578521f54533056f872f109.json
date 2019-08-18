@@ -1,0 +1,39 @@
+{
+    "@context": [
+        "http://iiif.io/api/presentation/2/context.json",
+        "http://codh.rois.ac.jp/iiif/curation/1/context.json"
+    ],
+    "@id": "https://nakamura196.github.io/gaikotsu-i/curation_m/9cf4af88b578521f54533056f872f109.json",
+    "@type": "cr:Curation",
+    "label": "Curating list",
+    "selections": [
+        {
+            "@id": "https://nakamura196.github.io/gaikotsu-i/curation_m/9cf4af88b578521f54533056f872f109.json/range1",
+            "@type": "sc:Range",
+            "label": "Manual curation by IIIF Curation Viewer",
+            "members": [
+                {
+                    "@id": "https://iiif.dl.itc.u-tokyo.ac.jp/repo/iiif/d0bd2718-aaf8-48ac-9baa-9622cc473378/canvas/p1#xywh=1758,1145,3597,2669",
+                    "@type": "sc:Canvas",
+                    "label": "雑誌頁(部分) p.1",
+                    "metadata": [
+                        {
+                            "label": "Score",
+                            "value": 0
+                        },
+                        {
+                            "label": "所蔵",
+                            "value": "東京大学"
+                        }
+                    ],
+                    "thumbnail": "https://iiif.dl.itc.u-tokyo.ac.jp/repo/iiif-img/84023/1758,1145,3597,2669/,300/0/default.jpg"
+                }
+            ],
+            "within": {
+                "@id": "https://iiif.dl.itc.u-tokyo.ac.jp/repo/iiif/d0bd2718-aaf8-48ac-9baa-9622cc473378/manifest",
+                "@type": "sc:Manifest",
+                "label": "雑誌頁(部分)"
+            }
+        }
+    ]
+}

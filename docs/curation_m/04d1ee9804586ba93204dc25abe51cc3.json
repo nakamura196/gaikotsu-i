@@ -1,0 +1,2119 @@
+{
+    "@context": [
+        "http://iiif.io/api/presentation/2/context.json",
+        "http://codh.rois.ac.jp/iiif/curation/1/context.json"
+    ],
+    "@id": "https://nakamura196.github.io/gaikotsu-i/curation_m/04d1ee9804586ba93204dc25abe51cc3.json",
+    "@type": "cr:Curation",
+    "label": "Curating list",
+    "selections": [
+        {
+            "@id": "https://nakamura196.github.io/gaikotsu-i/curation_m/04d1ee9804586ba93204dc25abe51cc3.json/range1",
+            "@type": "sc:Range",
+            "label": "Manual curation by IIIF Curation Viewer",
+            "members": [
+                {
+                    "@id": "https://iiif.dl.itc.u-tokyo.ac.jp/repo/iiif/0c63f130-6c84-4d20-907a-bd99af972d7a/canvas/p1#xywh=572,1475,3121,1767",
+                    "@type": "sc:Canvas",
+                    "label": "雅俗文庫 蔵書目録 p.1",
+                    "metadata": [
+                        {
+                            "label": "Score",
+                            "value": 0
+                        },
+                        {
+                            "label": "所蔵",
+                            "value": "東京大学"
+                        },
+                        {
+                            "label": "機械タグ",
+                            "value": "Bag"
+                        }
+                    ],
+                    "thumbnail": "https://iiif.dl.itc.u-tokyo.ac.jp/repo/iiif-img/82761/572,1475,3121,1767/,300/0/default.jpg"
+                },
+                {
+                    "@id": "https://iiif.dl.itc.u-tokyo.ac.jp/repo/iiif/0c63f130-6c84-4d20-907a-bd99af972d7a/canvas/p2#xywh=290,1677,5661,1387",
+                    "@type": "sc:Canvas",
+                    "label": "雅俗文庫 蔵書目録 p.2",
+                    "metadata": [
+                        {
+                            "label": "Score",
+                            "value": 0
+                        },
+                        {
+                            "label": "所蔵",
+                            "value": "東京大学"
+                        }
+                    ],
+                    "thumbnail": "https://iiif.dl.itc.u-tokyo.ac.jp/repo/iiif-img/82762/290,1677,5661,1387/,300/0/default.jpg"
+                },
+                {
+                    "@id": "https://iiif.dl.itc.u-tokyo.ac.jp/repo/iiif/0c63f130-6c84-4d20-907a-bd99af972d7a/canvas/p3#xywh=266,1750,3016,1282",
+                    "@type": "sc:Canvas",
+                    "label": "雅俗文庫 蔵書目録 p.3",
+                    "metadata": [
+                        {
+                            "label": "Score",
+                            "value": 0
+                        },
+                        {
+                            "label": "所蔵",
+                            "value": "東京大学"
+                        }
+                    ],
+                    "thumbnail": "https://iiif.dl.itc.u-tokyo.ac.jp/repo/iiif-img/82763/266,1750,3016,1282/,300/0/default.jpg"
+                },
+                {
+                    "@id": "https://iiif.dl.itc.u-tokyo.ac.jp/repo/iiif/0c63f130-6c84-4d20-907a-bd99af972d7a/canvas/p4#xywh=3298,1604,3218,1573",
+                    "@type": "sc:Canvas",
+                    "label": "雅俗文庫 蔵書目録 p.4",
+                    "metadata": [
+                        {
+                            "label": "Score",
+                            "value": 0
+                        },
+                        {
+                            "label": "所蔵",
+                            "value": "東京大学"
+                        }
+                    ],
+                    "thumbnail": "https://iiif.dl.itc.u-tokyo.ac.jp/repo/iiif-img/82764/3298,1604,3218,1573/,300/0/default.jpg"
+                },
+                {
+                    "@id": "https://iiif.dl.itc.u-tokyo.ac.jp/repo/iiif/0c63f130-6c84-4d20-907a-bd99af972d7a/canvas/p4#xywh=282,1766,2911,1266",
+                    "@type": "sc:Canvas",
+                    "label": "雅俗文庫 蔵書目録 p.4",
+                    "metadata": [
+                        {
+                            "label": "Score",
+                            "value": 0
+                        },
+                        {
+                            "label": "所蔵",
+                            "value": "東京大学"
+                        }
+                    ],
+                    "thumbnail": "https://iiif.dl.itc.u-tokyo.ac.jp/repo/iiif-img/82764/282,1766,2911,1266/,300/0/default.jpg"
+                },
+                {
+                    "@id": "https://iiif.dl.itc.u-tokyo.ac.jp/repo/iiif/0c63f130-6c84-4d20-907a-bd99af972d7a/canvas/p5#xywh=3258,1637,3194,1435",
+                    "@type": "sc:Canvas",
+                    "label": "雅俗文庫 蔵書目録 p.5",
+                    "metadata": [
+                        {
+                            "label": "Score",
+                            "value": 0
+                        },
+                        {
+                            "label": "所蔵",
+                            "value": "東京大学"
+                        }
+                    ],
+                    "thumbnail": "https://iiif.dl.itc.u-tokyo.ac.jp/repo/iiif-img/82765/3258,1637,3194,1435/,300/0/default.jpg"
+                },
+                {
+                    "@id": "https://iiif.dl.itc.u-tokyo.ac.jp/repo/iiif/0c63f130-6c84-4d20-907a-bd99af972d7a/canvas/p7#xywh=250,1766,2951,1218",
+                    "@type": "sc:Canvas",
+                    "label": "雅俗文庫 蔵書目録 p.7",
+                    "metadata": [
+                        {
+                            "label": "Score",
+                            "value": 0
+                        },
+                        {
+                            "label": "所蔵",
+                            "value": "東京大学"
+                        }
+                    ],
+                    "thumbnail": "https://iiif.dl.itc.u-tokyo.ac.jp/repo/iiif-img/82767/250,1766,2951,1218/,300/0/default.jpg"
+                },
+                {
+                    "@id": "https://iiif.dl.itc.u-tokyo.ac.jp/repo/iiif/0c63f130-6c84-4d20-907a-bd99af972d7a/canvas/p8#xywh=1185,1580,4791,1460",
+                    "@type": "sc:Canvas",
+                    "label": "雅俗文庫 蔵書目録 p.8",
+                    "metadata": [
+                        {
+                            "label": "Score",
+                            "value": 0
+                        },
+                        {
+                            "label": "所蔵",
+                            "value": "東京大学"
+                        }
+                    ],
+                    "thumbnail": "https://iiif.dl.itc.u-tokyo.ac.jp/repo/iiif-img/82768/1185,1580,4791,1460/,300/0/default.jpg"
+                },
+                {
+                    "@id": "https://iiif.dl.itc.u-tokyo.ac.jp/repo/iiif/0c63f130-6c84-4d20-907a-bd99af972d7a/canvas/p8#xywh=56,935,6887,3008",
+                    "@type": "sc:Canvas",
+                    "label": "雅俗文庫 蔵書目録 p.8",
+                    "metadata": [
+                        {
+                            "label": "Score",
+                            "value": 0
+                        },
+                        {
+                            "label": "所蔵",
+                            "value": "東京大学"
+                        }
+                    ],
+                    "thumbnail": "https://iiif.dl.itc.u-tokyo.ac.jp/repo/iiif-img/82768/56,935,6887,3008/,300/0/default.jpg"
+                },
+                {
+                    "@id": "https://iiif.dl.itc.u-tokyo.ac.jp/repo/iiif/0c63f130-6c84-4d20-907a-bd99af972d7a/canvas/p9#xywh=1193,1588,4775,1484",
+                    "@type": "sc:Canvas",
+                    "label": "雅俗文庫 蔵書目録 p.9",
+                    "metadata": [
+                        {
+                            "label": "Score",
+                            "value": 0
+                        },
+                        {
+                            "label": "所蔵",
+                            "value": "東京大学"
+                        }
+                    ],
+                    "thumbnail": "https://iiif.dl.itc.u-tokyo.ac.jp/repo/iiif-img/82769/1193,1588,4775,1484/,300/0/default.jpg"
+                },
+                {
+                    "@id": "https://iiif.dl.itc.u-tokyo.ac.jp/repo/iiif/0c63f130-6c84-4d20-907a-bd99af972d7a/canvas/p10#xywh=3419,1467,2847,1759",
+                    "@type": "sc:Canvas",
+                    "label": "雅俗文庫 蔵書目録 p.10",
+                    "metadata": [
+                        {
+                            "label": "Score",
+                            "value": 0
+                        },
+                        {
+                            "label": "所蔵",
+                            "value": "東京大学"
+                        }
+                    ],
+                    "thumbnail": "https://iiif.dl.itc.u-tokyo.ac.jp/repo/iiif-img/82770/3419,1467,2847,1759/,300/0/default.jpg"
+                },
+                {
+                    "@id": "https://iiif.dl.itc.u-tokyo.ac.jp/repo/iiif/0c63f130-6c84-4d20-907a-bd99af972d7a/canvas/p10#xywh=346,1758,2775,1242",
+                    "@type": "sc:Canvas",
+                    "label": "雅俗文庫 蔵書目録 p.10",
+                    "metadata": [
+                        {
+                            "label": "Score",
+                            "value": 0
+                        },
+                        {
+                            "label": "所蔵",
+                            "value": "東京大学"
+                        }
+                    ],
+                    "thumbnail": "https://iiif.dl.itc.u-tokyo.ac.jp/repo/iiif-img/82770/346,1758,2775,1242/,300/0/default.jpg"
+                },
+                {
+                    "@id": "https://iiif.dl.itc.u-tokyo.ac.jp/repo/iiif/0c63f130-6c84-4d20-907a-bd99af972d7a/canvas/p11#xywh=1177,1613,1750,1548",
+                    "@type": "sc:Canvas",
+                    "label": "雅俗文庫 蔵書目録 p.11",
+                    "metadata": [
+                        {
+                            "label": "Score",
+                            "value": 0
+                        },
+                        {
+                            "label": "所蔵",
+                            "value": "東京大学"
+                        }
+                    ],
+                    "thumbnail": "https://iiif.dl.itc.u-tokyo.ac.jp/repo/iiif-img/82771/1177,1613,1750,1548/,300/0/default.jpg"
+                },
+                {
+                    "@id": "https://iiif.dl.itc.u-tokyo.ac.jp/repo/iiif/0c63f130-6c84-4d20-907a-bd99af972d7a/canvas/p11#xywh=3427,1483,2887,1767",
+                    "@type": "sc:Canvas",
+                    "label": "雅俗文庫 蔵書目録 p.11",
+                    "metadata": [
+                        {
+                            "label": "Score",
+                            "value": 0
+                        },
+                        {
+                            "label": "所蔵",
+                            "value": "東京大学"
+                        }
+                    ],
+                    "thumbnail": "https://iiif.dl.itc.u-tokyo.ac.jp/repo/iiif-img/82771/3427,1483,2887,1767/,300/0/default.jpg"
+                },
+                {
+                    "@id": "https://iiif.dl.itc.u-tokyo.ac.jp/repo/iiif/0c63f130-6c84-4d20-907a-bd99af972d7a/canvas/p15#xywh=3516,1419,2524,1847",
+                    "@type": "sc:Canvas",
+                    "label": "雅俗文庫 蔵書目録 p.15",
+                    "metadata": [
+                        {
+                            "label": "Score",
+                            "value": 0
+                        },
+                        {
+                            "label": "所蔵",
+                            "value": "東京大学"
+                        }
+                    ],
+                    "thumbnail": "https://iiif.dl.itc.u-tokyo.ac.jp/repo/iiif-img/82775/3516,1419,2524,1847/,300/0/default.jpg"
+                },
+                {
+                    "@id": "https://iiif.dl.itc.u-tokyo.ac.jp/repo/iiif/0c63f130-6c84-4d20-907a-bd99af972d7a/canvas/p15#xywh=217,1766,3033,1193",
+                    "@type": "sc:Canvas",
+                    "label": "雅俗文庫 蔵書目録 p.15",
+                    "metadata": [
+                        {
+                            "label": "Score",
+                            "value": 0
+                        },
+                        {
+                            "label": "所蔵",
+                            "value": "東京大学"
+                        }
+                    ],
+                    "thumbnail": "https://iiif.dl.itc.u-tokyo.ac.jp/repo/iiif-img/82775/217,1766,3033,1193/,300/0/default.jpg"
+                },
+                {
+                    "@id": "https://iiif.dl.itc.u-tokyo.ac.jp/repo/iiif/0c63f130-6c84-4d20-907a-bd99af972d7a/canvas/p16#xywh=427,1685,2661,1363",
+                    "@type": "sc:Canvas",
+                    "label": "雅俗文庫 蔵書目録 p.16",
+                    "metadata": [
+                        {
+                            "label": "Score",
+                            "value": 0
+                        },
+                        {
+                            "label": "所蔵",
+                            "value": "東京大学"
+                        }
+                    ],
+                    "thumbnail": "https://iiif.dl.itc.u-tokyo.ac.jp/repo/iiif-img/82776/427,1685,2661,1363/,300/0/default.jpg"
+                },
+                {
+                    "@id": "https://iiif.dl.itc.u-tokyo.ac.jp/repo/iiif/0c63f130-6c84-4d20-907a-bd99af972d7a/canvas/p17#xywh=1330,1596,4460,1428",
+                    "@type": "sc:Canvas",
+                    "label": "雅俗文庫 蔵書目録 p.17",
+                    "metadata": [
+                        {
+                            "label": "Score",
+                            "value": 0
+                        },
+                        {
+                            "label": "所蔵",
+                            "value": "東京大学"
+                        }
+                    ],
+                    "thumbnail": "https://iiif.dl.itc.u-tokyo.ac.jp/repo/iiif-img/82777/1330,1596,4460,1428/,300/0/default.jpg"
+                },
+                {
+                    "@id": "https://iiif.dl.itc.u-tokyo.ac.jp/repo/iiif/0c63f130-6c84-4d20-907a-bd99af972d7a/canvas/p18#xywh=1088,1556,4936,1532",
+                    "@type": "sc:Canvas",
+                    "label": "雅俗文庫 蔵書目録 p.18",
+                    "metadata": [
+                        {
+                            "label": "Score",
+                            "value": 0
+                        },
+                        {
+                            "label": "所蔵",
+                            "value": "東京大学"
+                        }
+                    ],
+                    "thumbnail": "https://iiif.dl.itc.u-tokyo.ac.jp/repo/iiif-img/82778/1088,1556,4936,1532/,300/0/default.jpg"
+                },
+                {
+                    "@id": "https://iiif.dl.itc.u-tokyo.ac.jp/repo/iiif/0c63f130-6c84-4d20-907a-bd99af972d7a/canvas/p19#xywh=483,1653,2670,1395",
+                    "@type": "sc:Canvas",
+                    "label": "雅俗文庫 蔵書目録 p.19",
+                    "metadata": [
+                        {
+                            "label": "Score",
+                            "value": 0
+                        },
+                        {
+                            "label": "所蔵",
+                            "value": "東京大学"
+                        }
+                    ],
+                    "thumbnail": "https://iiif.dl.itc.u-tokyo.ac.jp/repo/iiif-img/82779/483,1653,2670,1395/,300/0/default.jpg"
+                },
+                {
+                    "@id": "https://iiif.dl.itc.u-tokyo.ac.jp/repo/iiif/0c63f130-6c84-4d20-907a-bd99af972d7a/canvas/p19#xywh=1088,1564,4984,1557",
+                    "@type": "sc:Canvas",
+                    "label": "雅俗文庫 蔵書目録 p.19",
+                    "metadata": [
+                        {
+                            "label": "Score",
+                            "value": 0
+                        },
+                        {
+                            "label": "所蔵",
+                            "value": "東京大学"
+                        }
+                    ],
+                    "thumbnail": "https://iiif.dl.itc.u-tokyo.ac.jp/repo/iiif-img/82779/1088,1564,4984,1557/,300/0/default.jpg"
+                },
+                {
+                    "@id": "https://iiif.dl.itc.u-tokyo.ac.jp/repo/iiif/0c63f130-6c84-4d20-907a-bd99af972d7a/canvas/p20#xywh=3500,1500,2750,1693",
+                    "@type": "sc:Canvas",
+                    "label": "雅俗文庫 蔵書目録 p.20",
+                    "metadata": [
+                        {
+                            "label": "Score",
+                            "value": 0
+                        },
+                        {
+                            "label": "所蔵",
+                            "value": "東京大学"
+                        }
+                    ],
+                    "thumbnail": "https://iiif.dl.itc.u-tokyo.ac.jp/repo/iiif-img/82780/3500,1500,2750,1693/,300/0/default.jpg"
+                },
+                {
+                    "@id": "https://iiif.dl.itc.u-tokyo.ac.jp/repo/iiif/0c63f130-6c84-4d20-907a-bd99af972d7a/canvas/p22#xywh=3492,1508,2726,1572",
+                    "@type": "sc:Canvas",
+                    "label": "雅俗文庫 蔵書目録 p.22",
+                    "metadata": [
+                        {
+                            "label": "Score",
+                            "value": 0
+                        },
+                        {
+                            "label": "所蔵",
+                            "value": "東京大学"
+                        }
+                    ],
+                    "thumbnail": "https://iiif.dl.itc.u-tokyo.ac.jp/repo/iiif-img/82782/3492,1508,2726,1572/,300/0/default.jpg"
+                },
+                {
+                    "@id": "https://iiif.dl.itc.u-tokyo.ac.jp/repo/iiif/0c63f130-6c84-4d20-907a-bd99af972d7a/canvas/p23#xywh=3774,1443,2686,1823",
+                    "@type": "sc:Canvas",
+                    "label": "雅俗文庫 蔵書目録 p.23",
+                    "metadata": [
+                        {
+                            "label": "Score",
+                            "value": 0
+                        },
+                        {
+                            "label": "所蔵",
+                            "value": "東京大学"
+                        }
+                    ],
+                    "thumbnail": "https://iiif.dl.itc.u-tokyo.ac.jp/repo/iiif-img/82783/3774,1443,2686,1823/,300/0/default.jpg"
+                },
+                {
+                    "@id": "https://iiif.dl.itc.u-tokyo.ac.jp/repo/iiif/0c63f130-6c84-4d20-907a-bd99af972d7a/canvas/p23#xywh=580,1717,2904,1315",
+                    "@type": "sc:Canvas",
+                    "label": "雅俗文庫 蔵書目録 p.23",
+                    "metadata": [
+                        {
+                            "label": "Score",
+                            "value": 0
+                        },
+                        {
+                            "label": "所蔵",
+                            "value": "東京大学"
+                        }
+                    ],
+                    "thumbnail": "https://iiif.dl.itc.u-tokyo.ac.jp/repo/iiif-img/82783/580,1717,2904,1315/,300/0/default.jpg"
+                },
+                {
+                    "@id": "https://iiif.dl.itc.u-tokyo.ac.jp/repo/iiif/0c63f130-6c84-4d20-907a-bd99af972d7a/canvas/p24#xywh=1403,1419,4524,1807",
+                    "@type": "sc:Canvas",
+                    "label": "雅俗文庫 蔵書目録 p.24",
+                    "metadata": [
+                        {
+                            "label": "Score",
+                            "value": 0
+                        },
+                        {
+                            "label": "所蔵",
+                            "value": "東京大学"
+                        }
+                    ],
+                    "thumbnail": "https://iiif.dl.itc.u-tokyo.ac.jp/repo/iiif-img/82784/1403,1419,4524,1807/,300/0/default.jpg"
+                },
+                {
+                    "@id": "https://iiif.dl.itc.u-tokyo.ac.jp/repo/iiif/0c63f130-6c84-4d20-907a-bd99af972d7a/canvas/p24#xywh=120,991,7065,2831",
+                    "@type": "sc:Canvas",
+                    "label": "雅俗文庫 蔵書目録 p.24",
+                    "metadata": [
+                        {
+                            "label": "Score",
+                            "value": 0
+                        },
+                        {
+                            "label": "所蔵",
+                            "value": "東京大学"
+                        }
+                    ],
+                    "thumbnail": "https://iiif.dl.itc.u-tokyo.ac.jp/repo/iiif-img/82784/120,991,7065,2831/,300/0/default.jpg"
+                },
+                {
+                    "@id": "https://iiif.dl.itc.u-tokyo.ac.jp/repo/iiif/0c63f130-6c84-4d20-907a-bd99af972d7a/canvas/p25#xywh=120,959,7017,2936",
+                    "@type": "sc:Canvas",
+                    "label": "雅俗文庫 蔵書目録 p.25",
+                    "metadata": [
+                        {
+                            "label": "Score",
+                            "value": 0
+                        },
+                        {
+                            "label": "所蔵",
+                            "value": "東京大学"
+                        }
+                    ],
+                    "thumbnail": "https://iiif.dl.itc.u-tokyo.ac.jp/repo/iiif-img/82785/120,959,7017,2936/,300/0/default.jpg"
+                },
+                {
+                    "@id": "https://iiif.dl.itc.u-tokyo.ac.jp/repo/iiif/0c63f130-6c84-4d20-907a-bd99af972d7a/canvas/p25#xywh=1290,1443,4726,1791",
+                    "@type": "sc:Canvas",
+                    "label": "雅俗文庫 蔵書目録 p.25",
+                    "metadata": [
+                        {
+                            "label": "Score",
+                            "value": 0
+                        },
+                        {
+                            "label": "所蔵",
+                            "value": "東京大学"
+                        }
+                    ],
+                    "thumbnail": "https://iiif.dl.itc.u-tokyo.ac.jp/repo/iiif-img/82785/1290,1443,4726,1791/,300/0/default.jpg"
+                },
+                {
+                    "@id": "https://iiif.dl.itc.u-tokyo.ac.jp/repo/iiif/0c63f130-6c84-4d20-907a-bd99af972d7a/canvas/p26#xywh=725,1572,5775,1516",
+                    "@type": "sc:Canvas",
+                    "label": "雅俗文庫 蔵書目録 p.26",
+                    "metadata": [
+                        {
+                            "label": "Score",
+                            "value": 0
+                        },
+                        {
+                            "label": "所蔵",
+                            "value": "東京大学"
+                        }
+                    ],
+                    "thumbnail": "https://iiif.dl.itc.u-tokyo.ac.jp/repo/iiif-img/82786/725,1572,5775,1516/,300/0/default.jpg"
+                },
+                {
+                    "@id": "https://iiif.dl.itc.u-tokyo.ac.jp/repo/iiif/0c63f130-6c84-4d20-907a-bd99af972d7a/canvas/p27#xywh=637,1540,5984,1613",
+                    "@type": "sc:Canvas",
+                    "label": "雅俗文庫 蔵書目録 p.27",
+                    "metadata": [
+                        {
+                            "label": "Score",
+                            "value": 0
+                        },
+                        {
+                            "label": "所蔵",
+                            "value": "東京大学"
+                        }
+                    ],
+                    "thumbnail": "https://iiif.dl.itc.u-tokyo.ac.jp/repo/iiif-img/82787/637,1540,5984,1613/,300/0/default.jpg"
+                },
+                {
+                    "@id": "https://iiif.dl.itc.u-tokyo.ac.jp/repo/iiif/0c63f130-6c84-4d20-907a-bd99af972d7a/canvas/p28#xywh=451,1564,6396,1597",
+                    "@type": "sc:Canvas",
+                    "label": "雅俗文庫 蔵書目録 p.28",
+                    "metadata": [
+                        {
+                            "label": "Score",
+                            "value": 0
+                        },
+                        {
+                            "label": "所蔵",
+                            "value": "東京大学"
+                        }
+                    ],
+                    "thumbnail": "https://iiif.dl.itc.u-tokyo.ac.jp/repo/iiif-img/82788/451,1564,6396,1597/,300/0/default.jpg"
+                },
+                {
+                    "@id": "https://iiif.dl.itc.u-tokyo.ac.jp/repo/iiif/0c63f130-6c84-4d20-907a-bd99af972d7a/canvas/p29#xywh=580,1629,6081,1451",
+                    "@type": "sc:Canvas",
+                    "label": "雅俗文庫 蔵書目録 p.29",
+                    "metadata": [
+                        {
+                            "label": "Score",
+                            "value": 0
+                        },
+                        {
+                            "label": "所蔵",
+                            "value": "東京大学"
+                        }
+                    ],
+                    "thumbnail": "https://iiif.dl.itc.u-tokyo.ac.jp/repo/iiif-img/82789/580,1629,6081,1451/,300/0/default.jpg"
+                },
+                {
+                    "@id": "https://iiif.dl.itc.u-tokyo.ac.jp/repo/iiif/0c63f130-6c84-4d20-907a-bd99af972d7a/canvas/p29#xywh=56,927,7186,2992",
+                    "@type": "sc:Canvas",
+                    "label": "雅俗文庫 蔵書目録 p.29",
+                    "metadata": [
+                        {
+                            "label": "Score",
+                            "value": 0
+                        },
+                        {
+                            "label": "所蔵",
+                            "value": "東京大学"
+                        }
+                    ],
+                    "thumbnail": "https://iiif.dl.itc.u-tokyo.ac.jp/repo/iiif-img/82789/56,927,7186,2992/,300/0/default.jpg"
+                },
+                {
+                    "@id": "https://iiif.dl.itc.u-tokyo.ac.jp/repo/iiif/0c63f130-6c84-4d20-907a-bd99af972d7a/canvas/p30#xywh=1983,1395,4517,1919",
+                    "@type": "sc:Canvas",
+                    "label": "雅俗文庫 蔵書目録 p.30",
+                    "metadata": [
+                        {
+                            "label": "Score",
+                            "value": 0
+                        },
+                        {
+                            "label": "所蔵",
+                            "value": "東京大学"
+                        }
+                    ],
+                    "thumbnail": "https://iiif.dl.itc.u-tokyo.ac.jp/repo/iiif-img/82790/1983,1395,4517,1919/,300/0/default.jpg"
+                },
+                {
+                    "@id": "https://iiif.dl.itc.u-tokyo.ac.jp/repo/iiif/0c63f130-6c84-4d20-907a-bd99af972d7a/canvas/p31#xywh=3750,1564,2774,1613",
+                    "@type": "sc:Canvas",
+                    "label": "雅俗文庫 蔵書目録 p.31",
+                    "metadata": [
+                        {
+                            "label": "Score",
+                            "value": 0
+                        },
+                        {
+                            "label": "所蔵",
+                            "value": "東京大学"
+                        }
+                    ],
+                    "thumbnail": "https://iiif.dl.itc.u-tokyo.ac.jp/repo/iiif-img/82791/3750,1564,2774,1613/,300/0/default.jpg"
+                },
+                {
+                    "@id": "https://iiif.dl.itc.u-tokyo.ac.jp/repo/iiif/0c63f130-6c84-4d20-907a-bd99af972d7a/canvas/p34#xywh=3459,1492,3299,1750",
+                    "@type": "sc:Canvas",
+                    "label": "雅俗文庫 蔵書目録 p.34",
+                    "metadata": [
+                        {
+                            "label": "Score",
+                            "value": 0
+                        },
+                        {
+                            "label": "所蔵",
+                            "value": "東京大学"
+                        }
+                    ],
+                    "thumbnail": "https://iiif.dl.itc.u-tokyo.ac.jp/repo/iiif-img/82794/3459,1492,3299,1750/,300/0/default.jpg"
+                },
+                {
+                    "@id": "https://iiif.dl.itc.u-tokyo.ac.jp/repo/iiif/0c63f130-6c84-4d20-907a-bd99af972d7a/canvas/p34#xywh=645,1709,2758,1339",
+                    "@type": "sc:Canvas",
+                    "label": "雅俗文庫 蔵書目録 p.34",
+                    "metadata": [
+                        {
+                            "label": "Score",
+                            "value": 0
+                        },
+                        {
+                            "label": "所蔵",
+                            "value": "東京大学"
+                        }
+                    ],
+                    "thumbnail": "https://iiif.dl.itc.u-tokyo.ac.jp/repo/iiif-img/82794/645,1709,2758,1339/,300/0/default.jpg"
+                },
+                {
+                    "@id": "https://iiif.dl.itc.u-tokyo.ac.jp/repo/iiif/0c63f130-6c84-4d20-907a-bd99af972d7a/canvas/p35#xywh=3492,1604,3153,1509",
+                    "@type": "sc:Canvas",
+                    "label": "雅俗文庫 蔵書目録 p.35",
+                    "metadata": [
+                        {
+                            "label": "Score",
+                            "value": 0
+                        },
+                        {
+                            "label": "所蔵",
+                            "value": "東京大学"
+                        }
+                    ],
+                    "thumbnail": "https://iiif.dl.itc.u-tokyo.ac.jp/repo/iiif-img/82795/3492,1604,3153,1509/,300/0/default.jpg"
+                },
+                {
+                    "@id": "https://iiif.dl.itc.u-tokyo.ac.jp/repo/iiif/0c63f130-6c84-4d20-907a-bd99af972d7a/canvas/p37#xywh=3693,1443,2952,1903",
+                    "@type": "sc:Canvas",
+                    "label": "雅俗文庫 蔵書目録 p.37",
+                    "metadata": [
+                        {
+                            "label": "Score",
+                            "value": 0
+                        },
+                        {
+                            "label": "所蔵",
+                            "value": "東京大学"
+                        }
+                    ],
+                    "thumbnail": "https://iiif.dl.itc.u-tokyo.ac.jp/repo/iiif-img/82797/3693,1443,2952,1903/,300/0/default.jpg"
+                },
+                {
+                    "@id": "https://iiif.dl.itc.u-tokyo.ac.jp/repo/iiif/0c63f130-6c84-4d20-907a-bd99af972d7a/canvas/p37#xywh=693,1669,2799,1403",
+                    "@type": "sc:Canvas",
+                    "label": "雅俗文庫 蔵書目録 p.37",
+                    "metadata": [
+                        {
+                            "label": "Score",
+                            "value": 0
+                        },
+                        {
+                            "label": "所蔵",
+                            "value": "東京大学"
+                        }
+                    ],
+                    "thumbnail": "https://iiif.dl.itc.u-tokyo.ac.jp/repo/iiif-img/82797/693,1669,2799,1403/,300/0/default.jpg"
+                },
+                {
+                    "@id": "https://iiif.dl.itc.u-tokyo.ac.jp/repo/iiif/0c63f130-6c84-4d20-907a-bd99af972d7a/canvas/p38#xywh=0,935,7242,2920",
+                    "@type": "sc:Canvas",
+                    "label": "雅俗文庫 蔵書目録 p.38",
+                    "metadata": [
+                        {
+                            "label": "Score",
+                            "value": 0
+                        },
+                        {
+                            "label": "所蔵",
+                            "value": "東京大学"
+                        }
+                    ],
+                    "thumbnail": "https://iiif.dl.itc.u-tokyo.ac.jp/repo/iiif-img/82798/0,935,7242,2920/,300/0/default.jpg"
+                },
+                {
+                    "@id": "https://iiif.dl.itc.u-tokyo.ac.jp/repo/iiif/0c63f130-6c84-4d20-907a-bd99af972d7a/canvas/p39#xywh=0,1129,7242,2588",
+                    "@type": "sc:Canvas",
+                    "label": "雅俗文庫 蔵書目録 p.39",
+                    "metadata": [
+                        {
+                            "label": "Score",
+                            "value": 0
+                        },
+                        {
+                            "label": "所蔵",
+                            "value": "東京大学"
+                        }
+                    ],
+                    "thumbnail": "https://iiif.dl.itc.u-tokyo.ac.jp/repo/iiif-img/82799/0,1129,7242,2588/,300/0/default.jpg"
+                },
+                {
+                    "@id": "https://iiif.dl.itc.u-tokyo.ac.jp/repo/iiif/0c63f130-6c84-4d20-907a-bd99af972d7a/canvas/p39#xywh=846,1653,5525,1443",
+                    "@type": "sc:Canvas",
+                    "label": "雅俗文庫 蔵書目録 p.39",
+                    "metadata": [
+                        {
+                            "label": "Score",
+                            "value": 0
+                        },
+                        {
+                            "label": "所蔵",
+                            "value": "東京大学"
+                        }
+                    ],
+                    "thumbnail": "https://iiif.dl.itc.u-tokyo.ac.jp/repo/iiif-img/82799/846,1653,5525,1443/,300/0/default.jpg"
+                },
+                {
+                    "@id": "https://iiif.dl.itc.u-tokyo.ac.jp/repo/iiif/0c63f130-6c84-4d20-907a-bd99af972d7a/canvas/p40#xywh=645,1637,5903,1435",
+                    "@type": "sc:Canvas",
+                    "label": "雅俗文庫 蔵書目録 p.40",
+                    "metadata": [
+                        {
+                            "label": "Score",
+                            "value": 0
+                        },
+                        {
+                            "label": "所蔵",
+                            "value": "東京大学"
+                        }
+                    ],
+                    "thumbnail": "https://iiif.dl.itc.u-tokyo.ac.jp/repo/iiif-img/82800/645,1637,5903,1435/,300/0/default.jpg"
+                },
+                {
+                    "@id": "https://iiif.dl.itc.u-tokyo.ac.jp/repo/iiif/0c63f130-6c84-4d20-907a-bd99af972d7a/canvas/p40#xywh=0,1024,7242,2774",
+                    "@type": "sc:Canvas",
+                    "label": "雅俗文庫 蔵書目録 p.40",
+                    "metadata": [
+                        {
+                            "label": "Score",
+                            "value": 0
+                        },
+                        {
+                            "label": "所蔵",
+                            "value": "東京大学"
+                        }
+                    ],
+                    "thumbnail": "https://iiif.dl.itc.u-tokyo.ac.jp/repo/iiif-img/82800/0,1024,7242,2774/,300/0/default.jpg"
+                },
+                {
+                    "@id": "https://iiif.dl.itc.u-tokyo.ac.jp/repo/iiif/0c63f130-6c84-4d20-907a-bd99af972d7a/canvas/p41#xywh=1185,1403,4928,1790",
+                    "@type": "sc:Canvas",
+                    "label": "雅俗文庫 蔵書目録 p.41",
+                    "metadata": [
+                        {
+                            "label": "Score",
+                            "value": 0
+                        },
+                        {
+                            "label": "所蔵",
+                            "value": "東京大学"
+                        }
+                    ],
+                    "thumbnail": "https://iiif.dl.itc.u-tokyo.ac.jp/repo/iiif-img/82801/1185,1403,4928,1790/,300/0/default.jpg"
+                },
+                {
+                    "@id": "https://iiif.dl.itc.u-tokyo.ac.jp/repo/iiif/0c63f130-6c84-4d20-907a-bd99af972d7a/canvas/p41#xywh=40,935,7202,2936",
+                    "@type": "sc:Canvas",
+                    "label": "雅俗文庫 蔵書目録 p.41",
+                    "metadata": [
+                        {
+                            "label": "Score",
+                            "value": 0
+                        },
+                        {
+                            "label": "所蔵",
+                            "value": "東京大学"
+                        }
+                    ],
+                    "thumbnail": "https://iiif.dl.itc.u-tokyo.ac.jp/repo/iiif-img/82801/40,935,7202,2936/,300/0/default.jpg"
+                },
+                {
+                    "@id": "https://iiif.dl.itc.u-tokyo.ac.jp/repo/iiif/0c63f130-6c84-4d20-907a-bd99af972d7a/canvas/p42#xywh=1250,1395,4806,1871",
+                    "@type": "sc:Canvas",
+                    "label": "雅俗文庫 蔵書目録 p.42",
+                    "metadata": [
+                        {
+                            "label": "Score",
+                            "value": 0
+                        },
+                        {
+                            "label": "所蔵",
+                            "value": "東京大学"
+                        }
+                    ],
+                    "thumbnail": "https://iiif.dl.itc.u-tokyo.ac.jp/repo/iiif-img/82802/1250,1395,4806,1871/,300/0/default.jpg"
+                },
+                {
+                    "@id": "https://iiif.dl.itc.u-tokyo.ac.jp/repo/iiif/0c63f130-6c84-4d20-907a-bd99af972d7a/canvas/p42#xywh=40,1008,7202,2822",
+                    "@type": "sc:Canvas",
+                    "label": "雅俗文庫 蔵書目録 p.42",
+                    "metadata": [
+                        {
+                            "label": "Score",
+                            "value": 0
+                        },
+                        {
+                            "label": "所蔵",
+                            "value": "東京大学"
+                        }
+                    ],
+                    "thumbnail": "https://iiif.dl.itc.u-tokyo.ac.jp/repo/iiif-img/82802/40,1008,7202,2822/,300/0/default.jpg"
+                },
+                {
+                    "@id": "https://iiif.dl.itc.u-tokyo.ac.jp/repo/iiif/0c63f130-6c84-4d20-907a-bd99af972d7a/canvas/p43#xywh=1362,1427,4598,1928",
+                    "@type": "sc:Canvas",
+                    "label": "雅俗文庫 蔵書目録 p.43",
+                    "metadata": [
+                        {
+                            "label": "Score",
+                            "value": 0
+                        },
+                        {
+                            "label": "所蔵",
+                            "value": "東京大学"
+                        }
+                    ],
+                    "thumbnail": "https://iiif.dl.itc.u-tokyo.ac.jp/repo/iiif-img/82803/1362,1427,4598,1928/,300/0/default.jpg"
+                },
+                {
+                    "@id": "https://iiif.dl.itc.u-tokyo.ac.jp/repo/iiif/0c63f130-6c84-4d20-907a-bd99af972d7a/canvas/p43#xywh=306,903,6750,3081",
+                    "@type": "sc:Canvas",
+                    "label": "雅俗文庫 蔵書目録 p.43",
+                    "metadata": [
+                        {
+                            "label": "Score",
+                            "value": 0
+                        },
+                        {
+                            "label": "所蔵",
+                            "value": "東京大学"
+                        }
+                    ],
+                    "thumbnail": "https://iiif.dl.itc.u-tokyo.ac.jp/repo/iiif-img/82803/306,903,6750,3081/,300/0/default.jpg"
+                },
+                {
+                    "@id": "https://iiif.dl.itc.u-tokyo.ac.jp/repo/iiif/0c63f130-6c84-4d20-907a-bd99af972d7a/canvas/p46#xywh=1314,1742,4492,1274",
+                    "@type": "sc:Canvas",
+                    "label": "雅俗文庫 蔵書目録 p.46",
+                    "metadata": [
+                        {
+                            "label": "Score",
+                            "value": 0
+                        },
+                        {
+                            "label": "所蔵",
+                            "value": "東京大学"
+                        }
+                    ],
+                    "thumbnail": "https://iiif.dl.itc.u-tokyo.ac.jp/repo/iiif-img/82806/1314,1742,4492,1274/,300/0/default.jpg"
+                },
+                {
+                    "@id": "https://iiif.dl.itc.u-tokyo.ac.jp/repo/iiif/0c63f130-6c84-4d20-907a-bd99af972d7a/canvas/p47#xywh=733,1661,2694,1427",
+                    "@type": "sc:Canvas",
+                    "label": "雅俗文庫 蔵書目録 p.47",
+                    "metadata": [
+                        {
+                            "label": "Score",
+                            "value": 0
+                        },
+                        {
+                            "label": "所蔵",
+                            "value": "東京大学"
+                        }
+                    ],
+                    "thumbnail": "https://iiif.dl.itc.u-tokyo.ac.jp/repo/iiif-img/82807/733,1661,2694,1427/,300/0/default.jpg"
+                },
+                {
+                    "@id": "https://iiif.dl.itc.u-tokyo.ac.jp/repo/iiif/0c63f130-6c84-4d20-907a-bd99af972d7a/canvas/p48#xywh=24,959,7218,2904",
+                    "@type": "sc:Canvas",
+                    "label": "雅俗文庫 蔵書目録 p.48",
+                    "metadata": [
+                        {
+                            "label": "Score",
+                            "value": 0
+                        },
+                        {
+                            "label": "所蔵",
+                            "value": "東京大学"
+                        }
+                    ],
+                    "thumbnail": "https://iiif.dl.itc.u-tokyo.ac.jp/repo/iiif-img/82808/24,959,7218,2904/,300/0/default.jpg"
+                },
+                {
+                    "@id": "https://iiif.dl.itc.u-tokyo.ac.jp/repo/iiif/0c63f130-6c84-4d20-907a-bd99af972d7a/canvas/p48#xywh=1233,1459,4848,1758",
+                    "@type": "sc:Canvas",
+                    "label": "雅俗文庫 蔵書目録 p.48",
+                    "metadata": [
+                        {
+                            "label": "Score",
+                            "value": 0
+                        },
+                        {
+                            "label": "所蔵",
+                            "value": "東京大学"
+                        }
+                    ],
+                    "thumbnail": "https://iiif.dl.itc.u-tokyo.ac.jp/repo/iiif-img/82808/1233,1459,4848,1758/,300/0/default.jpg"
+                },
+                {
+                    "@id": "https://iiif.dl.itc.u-tokyo.ac.jp/repo/iiif/0c63f130-6c84-4d20-907a-bd99af972d7a/canvas/p49#xywh=1338,1379,4718,1903",
+                    "@type": "sc:Canvas",
+                    "label": "雅俗文庫 蔵書目録 p.49",
+                    "metadata": [
+                        {
+                            "label": "Score",
+                            "value": 0
+                        },
+                        {
+                            "label": "所蔵",
+                            "value": "東京大学"
+                        }
+                    ],
+                    "thumbnail": "https://iiif.dl.itc.u-tokyo.ac.jp/repo/iiif-img/82809/1338,1379,4718,1903/,300/0/default.jpg"
+                },
+                {
+                    "@id": "https://iiif.dl.itc.u-tokyo.ac.jp/repo/iiif/0c63f130-6c84-4d20-907a-bd99af972d7a/canvas/p49#xywh=266,919,6919,3032",
+                    "@type": "sc:Canvas",
+                    "label": "雅俗文庫 蔵書目録 p.49",
+                    "metadata": [
+                        {
+                            "label": "Score",
+                            "value": 0
+                        },
+                        {
+                            "label": "所蔵",
+                            "value": "東京大学"
+                        }
+                    ],
+                    "thumbnail": "https://iiif.dl.itc.u-tokyo.ac.jp/repo/iiif-img/82809/266,919,6919,3032/,300/0/default.jpg"
+                },
+                {
+                    "@id": "https://iiif.dl.itc.u-tokyo.ac.jp/repo/iiif/0c63f130-6c84-4d20-907a-bd99af972d7a/canvas/p53#xywh=3669,1467,2920,1799",
+                    "@type": "sc:Canvas",
+                    "label": "雅俗文庫 蔵書目録 p.53",
+                    "metadata": [
+                        {
+                            "label": "Score",
+                            "value": 0
+                        },
+                        {
+                            "label": "所蔵",
+                            "value": "東京大学"
+                        }
+                    ],
+                    "thumbnail": "https://iiif.dl.itc.u-tokyo.ac.jp/repo/iiif-img/82813/3669,1467,2920,1799/,300/0/default.jpg"
+                },
+                {
+                    "@id": "https://iiif.dl.itc.u-tokyo.ac.jp/repo/iiif/0c63f130-6c84-4d20-907a-bd99af972d7a/canvas/p53#xywh=733,1677,2702,1363",
+                    "@type": "sc:Canvas",
+                    "label": "雅俗文庫 蔵書目録 p.53",
+                    "metadata": [
+                        {
+                            "label": "Score",
+                            "value": 0
+                        },
+                        {
+                            "label": "所蔵",
+                            "value": "東京大学"
+                        }
+                    ],
+                    "thumbnail": "https://iiif.dl.itc.u-tokyo.ac.jp/repo/iiif-img/82813/733,1677,2702,1363/,300/0/default.jpg"
+                },
+                {
+                    "@id": "https://iiif.dl.itc.u-tokyo.ac.jp/repo/iiif/0c63f130-6c84-4d20-907a-bd99af972d7a/canvas/p55#xywh=282,1016,6871,2814",
+                    "@type": "sc:Canvas",
+                    "label": "雅俗文庫 蔵書目録 p.55",
+                    "metadata": [
+                        {
+                            "label": "Score",
+                            "value": 0
+                        },
+                        {
+                            "label": "所蔵",
+                            "value": "東京大学"
+                        }
+                    ],
+                    "thumbnail": "https://iiif.dl.itc.u-tokyo.ac.jp/repo/iiif-img/82815/282,1016,6871,2814/,300/0/default.jpg"
+                },
+                {
+                    "@id": "https://iiif.dl.itc.u-tokyo.ac.jp/repo/iiif/0c63f130-6c84-4d20-907a-bd99af972d7a/canvas/p55#xywh=1258,1451,4895,1766",
+                    "@type": "sc:Canvas",
+                    "label": "雅俗文庫 蔵書目録 p.55",
+                    "metadata": [
+                        {
+                            "label": "Score",
+                            "value": 0
+                        },
+                        {
+                            "label": "所蔵",
+                            "value": "東京大学"
+                        },
+                        {
+                            "label": "機械タグ",
+                            "value": "Book"
+                        }
+                    ],
+                    "thumbnail": "https://iiif.dl.itc.u-tokyo.ac.jp/repo/iiif-img/82815/1258,1451,4895,1766/,300/0/default.jpg"
+                },
+                {
+                    "@id": "https://iiif.dl.itc.u-tokyo.ac.jp/repo/iiif/0c63f130-6c84-4d20-907a-bd99af972d7a/canvas/p56#xywh=3726,1588,2871,1629",
+                    "@type": "sc:Canvas",
+                    "label": "雅俗文庫 蔵書目録 p.56",
+                    "metadata": [
+                        {
+                            "label": "Score",
+                            "value": 0
+                        },
+                        {
+                            "label": "所蔵",
+                            "value": "東京大学"
+                        }
+                    ],
+                    "thumbnail": "https://iiif.dl.itc.u-tokyo.ac.jp/repo/iiif-img/82816/3726,1588,2871,1629/,300/0/default.jpg"
+                },
+                {
+                    "@id": "https://iiif.dl.itc.u-tokyo.ac.jp/repo/iiif/0c63f130-6c84-4d20-907a-bd99af972d7a/canvas/p58#xywh=822,1629,2629,1467",
+                    "@type": "sc:Canvas",
+                    "label": "雅俗文庫 蔵書目録 p.58",
+                    "metadata": [
+                        {
+                            "label": "Score",
+                            "value": 0
+                        },
+                        {
+                            "label": "所蔵",
+                            "value": "東京大学"
+                        }
+                    ],
+                    "thumbnail": "https://iiif.dl.itc.u-tokyo.ac.jp/repo/iiif-img/82818/822,1629,2629,1467/,300/0/default.jpg"
+                },
+                {
+                    "@id": "https://iiif.dl.itc.u-tokyo.ac.jp/repo/iiif/0c63f130-6c84-4d20-907a-bd99af972d7a/canvas/p59#xywh=3669,1524,3041,1710",
+                    "@type": "sc:Canvas",
+                    "label": "雅俗文庫 蔵書目録 p.59",
+                    "metadata": [
+                        {
+                            "label": "Score",
+                            "value": 0
+                        },
+                        {
+                            "label": "所蔵",
+                            "value": "東京大学"
+                        }
+                    ],
+                    "thumbnail": "https://iiif.dl.itc.u-tokyo.ac.jp/repo/iiif-img/82819/3669,1524,3041,1710/,300/0/default.jpg"
+                },
+                {
+                    "@id": "https://iiif.dl.itc.u-tokyo.ac.jp/repo/iiif/0c63f130-6c84-4d20-907a-bd99af972d7a/canvas/p60#xywh=806,1629,2686,1427",
+                    "@type": "sc:Canvas",
+                    "label": "雅俗文庫 蔵書目録 p.60",
+                    "metadata": [
+                        {
+                            "label": "Score",
+                            "value": 0
+                        },
+                        {
+                            "label": "所蔵",
+                            "value": "東京大学"
+                        }
+                    ],
+                    "thumbnail": "https://iiif.dl.itc.u-tokyo.ac.jp/repo/iiif-img/82820/806,1629,2686,1427/,300/0/default.jpg"
+                },
+                {
+                    "@id": "https://iiif.dl.itc.u-tokyo.ac.jp/repo/iiif/0c63f130-6c84-4d20-907a-bd99af972d7a/canvas/p61#xywh=3637,1532,3048,1669",
+                    "@type": "sc:Canvas",
+                    "label": "雅俗文庫 蔵書目録 p.61",
+                    "metadata": [
+                        {
+                            "label": "Score",
+                            "value": 0
+                        },
+                        {
+                            "label": "所蔵",
+                            "value": "東京大学"
+                        }
+                    ],
+                    "thumbnail": "https://iiif.dl.itc.u-tokyo.ac.jp/repo/iiif-img/82821/3637,1532,3048,1669/,300/0/default.jpg"
+                },
+                {
+                    "@id": "https://iiif.dl.itc.u-tokyo.ac.jp/repo/iiif/0c63f130-6c84-4d20-907a-bd99af972d7a/canvas/p64#xywh=822,1653,2895,1314",
+                    "@type": "sc:Canvas",
+                    "label": "雅俗文庫 蔵書目録 p.64",
+                    "metadata": [
+                        {
+                            "label": "Score",
+                            "value": 0
+                        },
+                        {
+                            "label": "所蔵",
+                            "value": "東京大学"
+                        }
+                    ],
+                    "thumbnail": "https://iiif.dl.itc.u-tokyo.ac.jp/repo/iiif-img/82824/822,1653,2895,1314/,300/0/default.jpg"
+                },
+                {
+                    "@id": "https://iiif.dl.itc.u-tokyo.ac.jp/repo/iiif/0c63f130-6c84-4d20-907a-bd99af972d7a/canvas/p65#xywh=435,1524,6500,1613",
+                    "@type": "sc:Canvas",
+                    "label": "雅俗文庫 蔵書目録 p.65",
+                    "metadata": [
+                        {
+                            "label": "Score",
+                            "value": 0
+                        },
+                        {
+                            "label": "所蔵",
+                            "value": "東京大学"
+                        }
+                    ],
+                    "thumbnail": "https://iiif.dl.itc.u-tokyo.ac.jp/repo/iiif-img/82825/435,1524,6500,1613/,300/0/default.jpg"
+                },
+                {
+                    "@id": "https://iiif.dl.itc.u-tokyo.ac.jp/repo/iiif/0c63f130-6c84-4d20-907a-bd99af972d7a/canvas/p66#xywh=32,943,7210,2984",
+                    "@type": "sc:Canvas",
+                    "label": "雅俗文庫 蔵書目録 p.66",
+                    "metadata": [
+                        {
+                            "label": "Score",
+                            "value": 0
+                        },
+                        {
+                            "label": "所蔵",
+                            "value": "東京大学"
+                        }
+                    ],
+                    "thumbnail": "https://iiif.dl.itc.u-tokyo.ac.jp/repo/iiif-img/82826/32,943,7210,2984/,300/0/default.jpg"
+                },
+                {
+                    "@id": "https://iiif.dl.itc.u-tokyo.ac.jp/repo/iiif/0c63f130-6c84-4d20-907a-bd99af972d7a/canvas/p66#xywh=1096,1427,5122,1807",
+                    "@type": "sc:Canvas",
+                    "label": "雅俗文庫 蔵書目録 p.66",
+                    "metadata": [
+                        {
+                            "label": "Score",
+                            "value": 0
+                        },
+                        {
+                            "label": "所蔵",
+                            "value": "東京大学"
+                        }
+                    ],
+                    "thumbnail": "https://iiif.dl.itc.u-tokyo.ac.jp/repo/iiif-img/82826/1096,1427,5122,1807/,300/0/default.jpg"
+                },
+                {
+                    "@id": "https://iiif.dl.itc.u-tokyo.ac.jp/repo/iiif/0c63f130-6c84-4d20-907a-bd99af972d7a/canvas/p67#xywh=274,895,6879,2976",
+                    "@type": "sc:Canvas",
+                    "label": "雅俗文庫 蔵書目録 p.67",
+                    "metadata": [
+                        {
+                            "label": "Score",
+                            "value": 0
+                        },
+                        {
+                            "label": "所蔵",
+                            "value": "東京大学"
+                        }
+                    ],
+                    "thumbnail": "https://iiif.dl.itc.u-tokyo.ac.jp/repo/iiif-img/82827/274,895,6879,2976/,300/0/default.jpg"
+                },
+                {
+                    "@id": "https://iiif.dl.itc.u-tokyo.ac.jp/repo/iiif/0c63f130-6c84-4d20-907a-bd99af972d7a/canvas/p67#xywh=790,1588,2540,1492",
+                    "@type": "sc:Canvas",
+                    "label": "雅俗文庫 蔵書目録 p.67",
+                    "metadata": [
+                        {
+                            "label": "Score",
+                            "value": 0
+                        },
+                        {
+                            "label": "所蔵",
+                            "value": "東京大学"
+                        }
+                    ],
+                    "thumbnail": "https://iiif.dl.itc.u-tokyo.ac.jp/repo/iiif-img/82827/790,1588,2540,1492/,300/0/default.jpg"
+                },
+                {
+                    "@id": "https://iiif.dl.itc.u-tokyo.ac.jp/repo/iiif/0c63f130-6c84-4d20-907a-bd99af972d7a/canvas/p68#xywh=266,1516,6863,1734",
+                    "@type": "sc:Canvas",
+                    "label": "雅俗文庫 蔵書目録 p.68",
+                    "metadata": [
+                        {
+                            "label": "Score",
+                            "value": 0
+                        },
+                        {
+                            "label": "所蔵",
+                            "value": "東京大学"
+                        }
+                    ],
+                    "thumbnail": "https://iiif.dl.itc.u-tokyo.ac.jp/repo/iiif-img/82828/266,1516,6863,1734/,300/0/default.jpg"
+                },
+                {
+                    "@id": "https://iiif.dl.itc.u-tokyo.ac.jp/repo/iiif/0c63f130-6c84-4d20-907a-bd99af972d7a/canvas/p69#xywh=629,1540,6081,1661",
+                    "@type": "sc:Canvas",
+                    "label": "雅俗文庫 蔵書目録 p.69",
+                    "metadata": [
+                        {
+                            "label": "Score",
+                            "value": 0
+                        },
+                        {
+                            "label": "所蔵",
+                            "value": "東京大学"
+                        }
+                    ],
+                    "thumbnail": "https://iiif.dl.itc.u-tokyo.ac.jp/repo/iiif-img/82829/629,1540,6081,1661/,300/0/default.jpg"
+                },
+                {
+                    "@id": "https://iiif.dl.itc.u-tokyo.ac.jp/repo/iiif/0c63f130-6c84-4d20-907a-bd99af972d7a/canvas/p71#xywh=8,1564,7234,1613",
+                    "@type": "sc:Canvas",
+                    "label": "雅俗文庫 蔵書目録 p.71",
+                    "metadata": [
+                        {
+                            "label": "Score",
+                            "value": 0
+                        },
+                        {
+                            "label": "所蔵",
+                            "value": "東京大学"
+                        }
+                    ],
+                    "thumbnail": "https://iiif.dl.itc.u-tokyo.ac.jp/repo/iiif-img/82831/8,1564,7234,1613/,300/0/default.jpg"
+                },
+                {
+                    "@id": "https://iiif.dl.itc.u-tokyo.ac.jp/repo/iiif/0c63f130-6c84-4d20-907a-bd99af972d7a/canvas/p72#xywh=250,887,6984,3072",
+                    "@type": "sc:Canvas",
+                    "label": "雅俗文庫 蔵書目録 p.72",
+                    "metadata": [
+                        {
+                            "label": "Score",
+                            "value": 0
+                        },
+                        {
+                            "label": "所蔵",
+                            "value": "東京大学"
+                        }
+                    ],
+                    "thumbnail": "https://iiif.dl.itc.u-tokyo.ac.jp/repo/iiif-img/82832/250,887,6984,3072/,300/0/default.jpg"
+                },
+                {
+                    "@id": "https://iiif.dl.itc.u-tokyo.ac.jp/repo/iiif/0c63f130-6c84-4d20-907a-bd99af972d7a/canvas/p72#xywh=1330,1451,4815,1766",
+                    "@type": "sc:Canvas",
+                    "label": "雅俗文庫 蔵書目録 p.72",
+                    "metadata": [
+                        {
+                            "label": "Score",
+                            "value": 0
+                        },
+                        {
+                            "label": "所蔵",
+                            "value": "東京大学"
+                        }
+                    ],
+                    "thumbnail": "https://iiif.dl.itc.u-tokyo.ac.jp/repo/iiif-img/82832/1330,1451,4815,1766/,300/0/default.jpg"
+                },
+                {
+                    "@id": "https://iiif.dl.itc.u-tokyo.ac.jp/repo/iiif/0c63f130-6c84-4d20-907a-bd99af972d7a/canvas/p73#xywh=282,895,6847,3089",
+                    "@type": "sc:Canvas",
+                    "label": "雅俗文庫 蔵書目録 p.73",
+                    "metadata": [
+                        {
+                            "label": "Score",
+                            "value": 0
+                        },
+                        {
+                            "label": "所蔵",
+                            "value": "東京大学"
+                        }
+                    ],
+                    "thumbnail": "https://iiif.dl.itc.u-tokyo.ac.jp/repo/iiif-img/82833/282,895,6847,3089/,300/0/default.jpg"
+                },
+                {
+                    "@id": "https://iiif.dl.itc.u-tokyo.ac.jp/repo/iiif/0c63f130-6c84-4d20-907a-bd99af972d7a/canvas/p73#xywh=1250,1475,4903,1807",
+                    "@type": "sc:Canvas",
+                    "label": "雅俗文庫 蔵書目録 p.73",
+                    "metadata": [
+                        {
+                            "label": "Score",
+                            "value": 0
+                        },
+                        {
+                            "label": "所蔵",
+                            "value": "東京大学"
+                        }
+                    ],
+                    "thumbnail": "https://iiif.dl.itc.u-tokyo.ac.jp/repo/iiif-img/82833/1250,1475,4903,1807/,300/0/default.jpg"
+                },
+                {
+                    "@id": "https://iiif.dl.itc.u-tokyo.ac.jp/repo/iiif/0c63f130-6c84-4d20-907a-bd99af972d7a/canvas/p74#xywh=314,846,6791,3113",
+                    "@type": "sc:Canvas",
+                    "label": "雅俗文庫 蔵書目録 p.74",
+                    "metadata": [
+                        {
+                            "label": "Score",
+                            "value": 0
+                        },
+                        {
+                            "label": "所蔵",
+                            "value": "東京大学"
+                        }
+                    ],
+                    "thumbnail": "https://iiif.dl.itc.u-tokyo.ac.jp/repo/iiif-img/82834/314,846,6791,3113/,300/0/default.jpg"
+                },
+                {
+                    "@id": "https://iiif.dl.itc.u-tokyo.ac.jp/repo/iiif/0c63f130-6c84-4d20-907a-bd99af972d7a/canvas/p74#xywh=1137,1387,5081,1855",
+                    "@type": "sc:Canvas",
+                    "label": "雅俗文庫 蔵書目録 p.74",
+                    "metadata": [
+                        {
+                            "label": "Score",
+                            "value": 0
+                        },
+                        {
+                            "label": "所蔵",
+                            "value": "東京大学"
+                        }
+                    ],
+                    "thumbnail": "https://iiif.dl.itc.u-tokyo.ac.jp/repo/iiif-img/82834/1137,1387,5081,1855/,300/0/default.jpg"
+                },
+                {
+                    "@id": "https://iiif.dl.itc.u-tokyo.ac.jp/repo/iiif/0c63f130-6c84-4d20-907a-bd99af972d7a/canvas/p75#xywh=338,854,6767,3146",
+                    "@type": "sc:Canvas",
+                    "label": "雅俗文庫 蔵書目録 p.75",
+                    "metadata": [
+                        {
+                            "label": "Score",
+                            "value": 0
+                        },
+                        {
+                            "label": "所蔵",
+                            "value": "東京大学"
+                        }
+                    ],
+                    "thumbnail": "https://iiif.dl.itc.u-tokyo.ac.jp/repo/iiif-img/82835/338,854,6767,3146/,300/0/default.jpg"
+                },
+                {
+                    "@id": "https://iiif.dl.itc.u-tokyo.ac.jp/repo/iiif/0c63f130-6c84-4d20-907a-bd99af972d7a/canvas/p75#xywh=1225,1387,4968,1911",
+                    "@type": "sc:Canvas",
+                    "label": "雅俗文庫 蔵書目録 p.75",
+                    "metadata": [
+                        {
+                            "label": "Score",
+                            "value": 0
+                        },
+                        {
+                            "label": "所蔵",
+                            "value": "東京大学"
+                        }
+                    ],
+                    "thumbnail": "https://iiif.dl.itc.u-tokyo.ac.jp/repo/iiif-img/82835/1225,1387,4968,1911/,300/0/default.jpg"
+                },
+                {
+                    "@id": "https://iiif.dl.itc.u-tokyo.ac.jp/repo/iiif/0c63f130-6c84-4d20-907a-bd99af972d7a/canvas/p76#xywh=274,798,6960,3250",
+                    "@type": "sc:Canvas",
+                    "label": "雅俗文庫 蔵書目録 p.76",
+                    "metadata": [
+                        {
+                            "label": "Score",
+                            "value": 0
+                        },
+                        {
+                            "label": "所蔵",
+                            "value": "東京大学"
+                        }
+                    ],
+                    "thumbnail": "https://iiif.dl.itc.u-tokyo.ac.jp/repo/iiif-img/82836/274,798,6960,3250/,300/0/default.jpg"
+                },
+                {
+                    "@id": "https://iiif.dl.itc.u-tokyo.ac.jp/repo/iiif/0c63f130-6c84-4d20-907a-bd99af972d7a/canvas/p76#xywh=1242,1411,4992,1839",
+                    "@type": "sc:Canvas",
+                    "label": "雅俗文庫 蔵書目録 p.76",
+                    "metadata": [
+                        {
+                            "label": "Score",
+                            "value": 0
+                        },
+                        {
+                            "label": "所蔵",
+                            "value": "東京大学"
+                        }
+                    ],
+                    "thumbnail": "https://iiif.dl.itc.u-tokyo.ac.jp/repo/iiif-img/82836/1242,1411,4992,1839/,300/0/default.jpg"
+                },
+                {
+                    "@id": "https://iiif.dl.itc.u-tokyo.ac.jp/repo/iiif/0c63f130-6c84-4d20-907a-bd99af972d7a/canvas/p77#xywh=129,935,6863,3081",
+                    "@type": "sc:Canvas",
+                    "label": "雅俗文庫 蔵書目録 p.77",
+                    "metadata": [
+                        {
+                            "label": "Score",
+                            "value": 0
+                        },
+                        {
+                            "label": "所蔵",
+                            "value": "東京大学"
+                        }
+                    ],
+                    "thumbnail": "https://iiif.dl.itc.u-tokyo.ac.jp/repo/iiif-img/82837/129,935,6863,3081/,300/0/default.jpg"
+                },
+                {
+                    "@id": "https://iiif.dl.itc.u-tokyo.ac.jp/repo/iiif/0c63f130-6c84-4d20-907a-bd99af972d7a/canvas/p78#xywh=0,1080,7242,2686",
+                    "@type": "sc:Canvas",
+                    "label": "雅俗文庫 蔵書目録 p.78",
+                    "metadata": [
+                        {
+                            "label": "Score",
+                            "value": 0
+                        },
+                        {
+                            "label": "所蔵",
+                            "value": "東京大学"
+                        }
+                    ],
+                    "thumbnail": "https://iiif.dl.itc.u-tokyo.ac.jp/repo/iiif-img/82838/0,1080,7242,2686/,300/0/default.jpg"
+                },
+                {
+                    "@id": "https://iiif.dl.itc.u-tokyo.ac.jp/repo/iiif/0c63f130-6c84-4d20-907a-bd99af972d7a/canvas/p79#xywh=1645,1588,4137,1452",
+                    "@type": "sc:Canvas",
+                    "label": "雅俗文庫 蔵書目録 p.79",
+                    "metadata": [
+                        {
+                            "label": "Score",
+                            "value": 0
+                        },
+                        {
+                            "label": "所蔵",
+                            "value": "東京大学"
+                        }
+                    ],
+                    "thumbnail": "https://iiif.dl.itc.u-tokyo.ac.jp/repo/iiif-img/82839/1645,1588,4137,1452/,300/0/default.jpg"
+                },
+                {
+                    "@id": "https://iiif.dl.itc.u-tokyo.ac.jp/repo/iiif/0c63f130-6c84-4d20-907a-bd99af972d7a/canvas/p80#xywh=459,838,6589,3154",
+                    "@type": "sc:Canvas",
+                    "label": "雅俗文庫 蔵書目録 p.80",
+                    "metadata": [
+                        {
+                            "label": "Score",
+                            "value": 0
+                        },
+                        {
+                            "label": "所蔵",
+                            "value": "東京大学"
+                        }
+                    ],
+                    "thumbnail": "https://iiif.dl.itc.u-tokyo.ac.jp/repo/iiif-img/82840/459,838,6589,3154/,300/0/default.jpg"
+                },
+                {
+                    "@id": "https://iiif.dl.itc.u-tokyo.ac.jp/repo/iiif/0c63f130-6c84-4d20-907a-bd99af972d7a/canvas/p80#xywh=1193,1435,5041,1799",
+                    "@type": "sc:Canvas",
+                    "label": "雅俗文庫 蔵書目録 p.80",
+                    "metadata": [
+                        {
+                            "label": "Score",
+                            "value": 0
+                        },
+                        {
+                            "label": "所蔵",
+                            "value": "東京大学"
+                        }
+                    ],
+                    "thumbnail": "https://iiif.dl.itc.u-tokyo.ac.jp/repo/iiif-img/82840/1193,1435,5041,1799/,300/0/default.jpg"
+                },
+                {
+                    "@id": "https://iiif.dl.itc.u-tokyo.ac.jp/repo/iiif/0c63f130-6c84-4d20-907a-bd99af972d7a/canvas/p81#xywh=290,846,6952,3178",
+                    "@type": "sc:Canvas",
+                    "label": "雅俗文庫 蔵書目録 p.81",
+                    "metadata": [
+                        {
+                            "label": "Score",
+                            "value": 0
+                        },
+                        {
+                            "label": "所蔵",
+                            "value": "東京大学"
+                        }
+                    ],
+                    "thumbnail": "https://iiif.dl.itc.u-tokyo.ac.jp/repo/iiif-img/82841/290,846,6952,3178/,300/0/default.jpg"
+                },
+                {
+                    "@id": "https://iiif.dl.itc.u-tokyo.ac.jp/repo/iiif/0c63f130-6c84-4d20-907a-bd99af972d7a/canvas/p81#xywh=1145,1467,5218,1767",
+                    "@type": "sc:Canvas",
+                    "label": "雅俗文庫 蔵書目録 p.81",
+                    "metadata": [
+                        {
+                            "label": "Score",
+                            "value": 0
+                        },
+                        {
+                            "label": "所蔵",
+                            "value": "東京大学"
+                        }
+                    ],
+                    "thumbnail": "https://iiif.dl.itc.u-tokyo.ac.jp/repo/iiif-img/82841/1145,1467,5218,1767/,300/0/default.jpg"
+                },
+                {
+                    "@id": "https://iiif.dl.itc.u-tokyo.ac.jp/repo/iiif/0c63f130-6c84-4d20-907a-bd99af972d7a/canvas/p82#xywh=330,927,6855,3000",
+                    "@type": "sc:Canvas",
+                    "label": "雅俗文庫 蔵書目録 p.82",
+                    "metadata": [
+                        {
+                            "label": "Score",
+                            "value": 0
+                        },
+                        {
+                            "label": "所蔵",
+                            "value": "東京大学"
+                        }
+                    ],
+                    "thumbnail": "https://iiif.dl.itc.u-tokyo.ac.jp/repo/iiif-img/82842/330,927,6855,3000/,300/0/default.jpg"
+                },
+                {
+                    "@id": "https://iiif.dl.itc.u-tokyo.ac.jp/repo/iiif/0c63f130-6c84-4d20-907a-bd99af972d7a/canvas/p82#xywh=1153,1475,5161,1742",
+                    "@type": "sc:Canvas",
+                    "label": "雅俗文庫 蔵書目録 p.82",
+                    "metadata": [
+                        {
+                            "label": "Score",
+                            "value": 0
+                        },
+                        {
+                            "label": "所蔵",
+                            "value": "東京大学"
+                        }
+                    ],
+                    "thumbnail": "https://iiif.dl.itc.u-tokyo.ac.jp/repo/iiif-img/82842/1153,1475,5161,1742/,300/0/default.jpg"
+                },
+                {
+                    "@id": "https://iiif.dl.itc.u-tokyo.ac.jp/repo/iiif/0c63f130-6c84-4d20-907a-bd99af972d7a/canvas/p83#xywh=451,887,6605,3032",
+                    "@type": "sc:Canvas",
+                    "label": "雅俗文庫 蔵書目録 p.83",
+                    "metadata": [
+                        {
+                            "label": "Score",
+                            "value": 0
+                        },
+                        {
+                            "label": "所蔵",
+                            "value": "東京大学"
+                        }
+                    ],
+                    "thumbnail": "https://iiif.dl.itc.u-tokyo.ac.jp/repo/iiif-img/82843/451,887,6605,3032/,300/0/default.jpg"
+                },
+                {
+                    "@id": "https://iiif.dl.itc.u-tokyo.ac.jp/repo/iiif/0c63f130-6c84-4d20-907a-bd99af972d7a/canvas/p83#xywh=1161,1459,5073,1742",
+                    "@type": "sc:Canvas",
+                    "label": "雅俗文庫 蔵書目録 p.83",
+                    "metadata": [
+                        {
+                            "label": "Score",
+                            "value": 0
+                        },
+                        {
+                            "label": "所蔵",
+                            "value": "東京大学"
+                        }
+                    ],
+                    "thumbnail": "https://iiif.dl.itc.u-tokyo.ac.jp/repo/iiif-img/82843/1161,1459,5073,1742/,300/0/default.jpg"
+                },
+                {
+                    "@id": "https://iiif.dl.itc.u-tokyo.ac.jp/repo/iiif/0c63f130-6c84-4d20-907a-bd99af972d7a/canvas/p84#xywh=1129,1508,5161,1758",
+                    "@type": "sc:Canvas",
+                    "label": "雅俗文庫 蔵書目録 p.84",
+                    "metadata": [
+                        {
+                            "label": "Score",
+                            "value": 0
+                        },
+                        {
+                            "label": "所蔵",
+                            "value": "東京大学"
+                        },
+                        {
+                            "label": "機械タグ",
+                            "value": "Book"
+                        }
+                    ],
+                    "thumbnail": "https://iiif.dl.itc.u-tokyo.ac.jp/repo/iiif-img/82844/1129,1508,5161,1758/,300/0/default.jpg"
+                },
+                {
+                    "@id": "https://iiif.dl.itc.u-tokyo.ac.jp/repo/iiif/0c63f130-6c84-4d20-907a-bd99af972d7a/canvas/p85#xywh=524,854,6492,3178",
+                    "@type": "sc:Canvas",
+                    "label": "雅俗文庫 蔵書目録 p.85",
+                    "metadata": [
+                        {
+                            "label": "Score",
+                            "value": 0
+                        },
+                        {
+                            "label": "所蔵",
+                            "value": "東京大学"
+                        }
+                    ],
+                    "thumbnail": "https://iiif.dl.itc.u-tokyo.ac.jp/repo/iiif-img/82845/524,854,6492,3178/,300/0/default.jpg"
+                },
+                {
+                    "@id": "https://iiif.dl.itc.u-tokyo.ac.jp/repo/iiif/0c63f130-6c84-4d20-907a-bd99af972d7a/canvas/p86#xywh=1104,1475,5251,1718",
+                    "@type": "sc:Canvas",
+                    "label": "雅俗文庫 蔵書目録 p.86",
+                    "metadata": [
+                        {
+                            "label": "Score",
+                            "value": 0
+                        },
+                        {
+                            "label": "所蔵",
+                            "value": "東京大学"
+                        }
+                    ],
+                    "thumbnail": "https://iiif.dl.itc.u-tokyo.ac.jp/repo/iiif-img/82846/1104,1475,5251,1718/,300/0/default.jpg"
+                },
+                {
+                    "@id": "https://iiif.dl.itc.u-tokyo.ac.jp/repo/iiif/0c63f130-6c84-4d20-907a-bd99af972d7a/canvas/p86#xywh=556,717,6444,3363",
+                    "@type": "sc:Canvas",
+                    "label": "雅俗文庫 蔵書目録 p.86",
+                    "metadata": [
+                        {
+                            "label": "Score",
+                            "value": 0
+                        },
+                        {
+                            "label": "所蔵",
+                            "value": "東京大学"
+                        }
+                    ],
+                    "thumbnail": "https://iiif.dl.itc.u-tokyo.ac.jp/repo/iiif-img/82846/556,717,6444,3363/,300/0/default.jpg"
+                },
+                {
+                    "@id": "https://iiif.dl.itc.u-tokyo.ac.jp/repo/iiif/0c63f130-6c84-4d20-907a-bd99af972d7a/canvas/p87#xywh=1064,1492,5347,1742",
+                    "@type": "sc:Canvas",
+                    "label": "雅俗文庫 蔵書目録 p.87",
+                    "metadata": [
+                        {
+                            "label": "Score",
+                            "value": 0
+                        },
+                        {
+                            "label": "所蔵",
+                            "value": "東京大学"
+                        }
+                    ],
+                    "thumbnail": "https://iiif.dl.itc.u-tokyo.ac.jp/repo/iiif-img/82847/1064,1492,5347,1742/,300/0/default.jpg"
+                },
+                {
+                    "@id": "https://iiif.dl.itc.u-tokyo.ac.jp/repo/iiif/0c63f130-6c84-4d20-907a-bd99af972d7a/canvas/p87#xywh=508,774,6565,3306",
+                    "@type": "sc:Canvas",
+                    "label": "雅俗文庫 蔵書目録 p.87",
+                    "metadata": [
+                        {
+                            "label": "Score",
+                            "value": 0
+                        },
+                        {
+                            "label": "所蔵",
+                            "value": "東京大学"
+                        }
+                    ],
+                    "thumbnail": "https://iiif.dl.itc.u-tokyo.ac.jp/repo/iiif-img/82847/508,774,6565,3306/,300/0/default.jpg"
+                },
+                {
+                    "@id": "https://iiif.dl.itc.u-tokyo.ac.jp/repo/iiif/0c63f130-6c84-4d20-907a-bd99af972d7a/canvas/p88#xywh=250,806,6992,3210",
+                    "@type": "sc:Canvas",
+                    "label": "雅俗文庫 蔵書目録 p.88",
+                    "metadata": [
+                        {
+                            "label": "Score",
+                            "value": 0
+                        },
+                        {
+                            "label": "所蔵",
+                            "value": "東京大学"
+                        }
+                    ],
+                    "thumbnail": "https://iiif.dl.itc.u-tokyo.ac.jp/repo/iiif-img/82848/250,806,6992,3210/,300/0/default.jpg"
+                },
+                {
+                    "@id": "https://iiif.dl.itc.u-tokyo.ac.jp/repo/iiif/0c63f130-6c84-4d20-907a-bd99af972d7a/canvas/p88#xywh=1024,1475,5452,1678",
+                    "@type": "sc:Canvas",
+                    "label": "雅俗文庫 蔵書目録 p.88",
+                    "metadata": [
+                        {
+                            "label": "Score",
+                            "value": 0
+                        },
+                        {
+                            "label": "所蔵",
+                            "value": "東京大学"
+                        }
+                    ],
+                    "thumbnail": "https://iiif.dl.itc.u-tokyo.ac.jp/repo/iiif-img/82848/1024,1475,5452,1678/,300/0/default.jpg"
+                },
+                {
+                    "@id": "https://iiif.dl.itc.u-tokyo.ac.jp/repo/iiif/0c63f130-6c84-4d20-907a-bd99af972d7a/canvas/p89#xywh=3847,1580,2782,1605",
+                    "@type": "sc:Canvas",
+                    "label": "雅俗文庫 蔵書目録 p.89",
+                    "metadata": [
+                        {
+                            "label": "Score",
+                            "value": 0
+                        },
+                        {
+                            "label": "所蔵",
+                            "value": "東京大学"
+                        }
+                    ],
+                    "thumbnail": "https://iiif.dl.itc.u-tokyo.ac.jp/repo/iiif-img/82849/3847,1580,2782,1605/,300/0/default.jpg"
+                },
+                {
+                    "@id": "https://iiif.dl.itc.u-tokyo.ac.jp/repo/iiif/0c63f130-6c84-4d20-907a-bd99af972d7a/canvas/p90#xywh=669,1637,3242,1411",
+                    "@type": "sc:Canvas",
+                    "label": "雅俗文庫 蔵書目録 p.90",
+                    "metadata": [
+                        {
+                            "label": "Score",
+                            "value": 0
+                        },
+                        {
+                            "label": "所蔵",
+                            "value": "東京大学"
+                        }
+                    ],
+                    "thumbnail": "https://iiif.dl.itc.u-tokyo.ac.jp/repo/iiif-img/82850/669,1637,3242,1411/,300/0/default.jpg"
+                },
+                {
+                    "@id": "https://iiif.dl.itc.u-tokyo.ac.jp/repo/iiif/0c63f130-6c84-4d20-907a-bd99af972d7a/canvas/p91#xywh=637,572,2935,1484",
+                    "@type": "sc:Canvas",
+                    "label": "雅俗文庫 蔵書目録 p.91",
+                    "metadata": [
+                        {
+                            "label": "Score",
+                            "value": 0
+                        },
+                        {
+                            "label": "所蔵",
+                            "value": "東京大学"
+                        }
+                    ],
+                    "thumbnail": "https://iiif.dl.itc.u-tokyo.ac.jp/repo/iiif-img/82851/637,572,2935,1484/,300/0/default.jpg"
+                },
+                {
+                    "@id": "https://iiif.dl.itc.u-tokyo.ac.jp/repo/iiif/0c63f130-6c84-4d20-907a-bd99af972d7a/canvas/p91#xywh=3621,362,3137,4420",
+                    "@type": "sc:Canvas",
+                    "label": "雅俗文庫 蔵書目録 p.91",
+                    "metadata": [
+                        {
+                            "label": "Score",
+                            "value": 0
+                        },
+                        {
+                            "label": "所蔵",
+                            "value": "東京大学"
+                        }
+                    ],
+                    "thumbnail": "https://iiif.dl.itc.u-tokyo.ac.jp/repo/iiif-img/82851/3621,362,3137,4420/,300/0/default.jpg"
+                },
+                {
+                    "@id": "https://iiif.dl.itc.u-tokyo.ac.jp/repo/iiif/0c63f130-6c84-4d20-907a-bd99af972d7a/canvas/p93#xywh=758,1701,2766,1420",
+                    "@type": "sc:Canvas",
+                    "label": "雅俗文庫 蔵書目録 p.93",
+                    "metadata": [
+                        {
+                            "label": "Score",
+                            "value": 0
+                        },
+                        {
+                            "label": "所蔵",
+                            "value": "東京大学"
+                        }
+                    ],
+                    "thumbnail": "https://iiif.dl.itc.u-tokyo.ac.jp/repo/iiif-img/82853/758,1701,2766,1420/,300/0/default.jpg"
+                },
+                {
+                    "@id": "https://iiif.dl.itc.u-tokyo.ac.jp/repo/iiif/0c63f130-6c84-4d20-907a-bd99af972d7a/canvas/p94#xywh=120,1048,7041,2758",
+                    "@type": "sc:Canvas",
+                    "label": "雅俗文庫 蔵書目録 p.94",
+                    "metadata": [
+                        {
+                            "label": "Score",
+                            "value": 0
+                        },
+                        {
+                            "label": "所蔵",
+                            "value": "東京大学"
+                        }
+                    ],
+                    "thumbnail": "https://iiif.dl.itc.u-tokyo.ac.jp/repo/iiif-img/82854/120,1048,7041,2758/,300/0/default.jpg"
+                },
+                {
+                    "@id": "https://iiif.dl.itc.u-tokyo.ac.jp/repo/iiif/0c63f130-6c84-4d20-907a-bd99af972d7a/canvas/p96#xywh=701,1717,2895,1347",
+                    "@type": "sc:Canvas",
+                    "label": "雅俗文庫 蔵書目録 p.96",
+                    "metadata": [
+                        {
+                            "label": "Score",
+                            "value": 0
+                        },
+                        {
+                            "label": "所蔵",
+                            "value": "東京大学"
+                        }
+                    ],
+                    "thumbnail": "https://iiif.dl.itc.u-tokyo.ac.jp/repo/iiif-img/82856/701,1717,2895,1347/,300/0/default.jpg"
+                },
+                {
+                    "@id": "https://iiif.dl.itc.u-tokyo.ac.jp/repo/iiif/0c63f130-6c84-4d20-907a-bd99af972d7a/canvas/p97#xywh=1242,1443,4887,1839",
+                    "@type": "sc:Canvas",
+                    "label": "雅俗文庫 蔵書目録 p.97",
+                    "metadata": [
+                        {
+                            "label": "Score",
+                            "value": 0
+                        },
+                        {
+                            "label": "所蔵",
+                            "value": "東京大学"
+                        }
+                    ],
+                    "thumbnail": "https://iiif.dl.itc.u-tokyo.ac.jp/repo/iiif-img/82857/1242,1443,4887,1839/,300/0/default.jpg"
+                },
+                {
+                    "@id": "https://iiif.dl.itc.u-tokyo.ac.jp/repo/iiif/0c63f130-6c84-4d20-907a-bd99af972d7a/canvas/p98#xywh=354,1548,6614,1653",
+                    "@type": "sc:Canvas",
+                    "label": "雅俗文庫 蔵書目録 p.98",
+                    "metadata": [
+                        {
+                            "label": "Score",
+                            "value": 0
+                        },
+                        {
+                            "label": "所蔵",
+                            "value": "東京大学"
+                        }
+                    ],
+                    "thumbnail": "https://iiif.dl.itc.u-tokyo.ac.jp/repo/iiif-img/82858/354,1548,6614,1653/,300/0/default.jpg"
+                },
+                {
+                    "@id": "https://iiif.dl.itc.u-tokyo.ac.jp/repo/iiif/0c63f130-6c84-4d20-907a-bd99af972d7a/canvas/p101#xywh=0,1604,7242,1597",
+                    "@type": "sc:Canvas",
+                    "label": "雅俗文庫 蔵書目録 p.101",
+                    "metadata": [
+                        {
+                            "label": "Score",
+                            "value": 0
+                        },
+                        {
+                            "label": "所蔵",
+                            "value": "東京大学"
+                        },
+                        {
+                            "label": "機械タグ",
+                            "value": "Book"
+                        }
+                    ],
+                    "thumbnail": "https://iiif.dl.itc.u-tokyo.ac.jp/repo/iiif-img/82861/0,1604,7242,1597/,300/0/default.jpg"
+                },
+                {
+                    "@id": "https://iiif.dl.itc.u-tokyo.ac.jp/repo/iiif/0c63f130-6c84-4d20-907a-bd99af972d7a/canvas/p102#xywh=1282,1508,4887,1718",
+                    "@type": "sc:Canvas",
+                    "label": "雅俗文庫 蔵書目録 p.102",
+                    "metadata": [
+                        {
+                            "label": "Score",
+                            "value": 0
+                        },
+                        {
+                            "label": "所蔵",
+                            "value": "東京大学"
+                        }
+                    ],
+                    "thumbnail": "https://iiif.dl.itc.u-tokyo.ac.jp/repo/iiif-img/82862/1282,1508,4887,1718/,300/0/default.jpg"
+                },
+                {
+                    "@id": "https://iiif.dl.itc.u-tokyo.ac.jp/repo/iiif/0c63f130-6c84-4d20-907a-bd99af972d7a/canvas/p102#xywh=233,1008,7009,2782",
+                    "@type": "sc:Canvas",
+                    "label": "雅俗文庫 蔵書目録 p.102",
+                    "metadata": [
+                        {
+                            "label": "Score",
+                            "value": 0
+                        },
+                        {
+                            "label": "所蔵",
+                            "value": "東京大学"
+                        }
+                    ],
+                    "thumbnail": "https://iiif.dl.itc.u-tokyo.ac.jp/repo/iiif-img/82862/233,1008,7009,2782/,300/0/default.jpg"
+                },
+                {
+                    "@id": "https://iiif.dl.itc.u-tokyo.ac.jp/repo/iiif/0c63f130-6c84-4d20-907a-bd99af972d7a/canvas/p103#xywh=362,1000,6775,2774",
+                    "@type": "sc:Canvas",
+                    "label": "雅俗文庫 蔵書目録 p.103",
+                    "metadata": [
+                        {
+                            "label": "Score",
+                            "value": 0
+                        },
+                        {
+                            "label": "所蔵",
+                            "value": "東京大学"
+                        }
+                    ],
+                    "thumbnail": "https://iiif.dl.itc.u-tokyo.ac.jp/repo/iiif-img/82863/362,1000,6775,2774/,300/0/default.jpg"
+                },
+                {
+                    "@id": "https://iiif.dl.itc.u-tokyo.ac.jp/repo/iiif/0c63f130-6c84-4d20-907a-bd99af972d7a/canvas/p103#xywh=1129,1540,5218,1605",
+                    "@type": "sc:Canvas",
+                    "label": "雅俗文庫 蔵書目録 p.103",
+                    "metadata": [
+                        {
+                            "label": "Score",
+                            "value": 0
+                        },
+                        {
+                            "label": "所蔵",
+                            "value": "東京大学"
+                        }
+                    ],
+                    "thumbnail": "https://iiif.dl.itc.u-tokyo.ac.jp/repo/iiif-img/82863/1129,1540,5218,1605/,300/0/default.jpg"
+                },
+                {
+                    "@id": "https://iiif.dl.itc.u-tokyo.ac.jp/repo/iiif/0c63f130-6c84-4d20-907a-bd99af972d7a/canvas/p104#xywh=1193,1475,5121,1718",
+                    "@type": "sc:Canvas",
+                    "label": "雅俗文庫 蔵書目録 p.104",
+                    "metadata": [
+                        {
+                            "label": "Score",
+                            "value": 0
+                        },
+                        {
+                            "label": "所蔵",
+                            "value": "東京大学"
+                        }
+                    ],
+                    "thumbnail": "https://iiif.dl.itc.u-tokyo.ac.jp/repo/iiif-img/82864/1193,1475,5121,1718/,300/0/default.jpg"
+                },
+                {
+                    "@id": "https://iiif.dl.itc.u-tokyo.ac.jp/repo/iiif/0c63f130-6c84-4d20-907a-bd99af972d7a/canvas/p104#xywh=411,871,6734,3048",
+                    "@type": "sc:Canvas",
+                    "label": "雅俗文庫 蔵書目録 p.104",
+                    "metadata": [
+                        {
+                            "label": "Score",
+                            "value": 0
+                        },
+                        {
+                            "label": "所蔵",
+                            "value": "東京大学"
+                        }
+                    ],
+                    "thumbnail": "https://iiif.dl.itc.u-tokyo.ac.jp/repo/iiif-img/82864/411,871,6734,3048/,300/0/default.jpg"
+                },
+                {
+                    "@id": "https://iiif.dl.itc.u-tokyo.ac.jp/repo/iiif/0c63f130-6c84-4d20-907a-bd99af972d7a/canvas/p106#xywh=0,1629,7242,1572",
+                    "@type": "sc:Canvas",
+                    "label": "雅俗文庫 蔵書目録 p.106",
+                    "metadata": [
+                        {
+                            "label": "Score",
+                            "value": 0
+                        },
+                        {
+                            "label": "所蔵",
+                            "value": "東京大学"
+                        }
+                    ],
+                    "thumbnail": "https://iiif.dl.itc.u-tokyo.ac.jp/repo/iiif-img/82866/0,1629,7242,1572/,300/0/default.jpg"
+                },
+                {
+                    "@id": "https://iiif.dl.itc.u-tokyo.ac.jp/repo/iiif/0c63f130-6c84-4d20-907a-bd99af972d7a/canvas/p107#xywh=3750,411,3032,4073",
+                    "@type": "sc:Canvas",
+                    "label": "雅俗文庫 蔵書目録 p.107",
+                    "metadata": [
+                        {
+                            "label": "Score",
+                            "value": 0
+                        },
+                        {
+                            "label": "所蔵",
+                            "value": "東京大学"
+                        }
+                    ],
+                    "thumbnail": "https://iiif.dl.itc.u-tokyo.ac.jp/repo/iiif-img/82867/3750,411,3032,4073/,300/0/default.jpg"
+                },
+                {
+                    "@id": "https://iiif.dl.itc.u-tokyo.ac.jp/repo/iiif/0c63f130-6c84-4d20-907a-bd99af972d7a/canvas/p107#xywh=717,145,5960,4419",
+                    "@type": "sc:Canvas",
+                    "label": "雅俗文庫 蔵書目録 p.107",
+                    "metadata": [
+                        {
+                            "label": "Score",
+                            "value": 0
+                        },
+                        {
+                            "label": "所蔵",
+                            "value": "東京大学"
+                        }
+                    ],
+                    "thumbnail": "https://iiif.dl.itc.u-tokyo.ac.jp/repo/iiif-img/82867/717,145,5960,4419/,300/0/default.jpg"
+                },
+                {
+                    "@id": "https://iiif.dl.itc.u-tokyo.ac.jp/repo/iiif/0c63f130-6c84-4d20-907a-bd99af972d7a/canvas/p108#xywh=758,1701,2750,1379",
+                    "@type": "sc:Canvas",
+                    "label": "雅俗文庫 蔵書目録 p.108",
+                    "metadata": [
+                        {
+                            "label": "Score",
+                            "value": 0
+                        },
+                        {
+                            "label": "所蔵",
+                            "value": "東京大学"
+                        }
+                    ],
+                    "thumbnail": "https://iiif.dl.itc.u-tokyo.ac.jp/repo/iiif-img/82868/758,1701,2750,1379/,300/0/default.jpg"
+                },
+                {
+                    "@id": "https://iiif.dl.itc.u-tokyo.ac.jp/repo/iiif/0c63f130-6c84-4d20-907a-bd99af972d7a/canvas/p109#xywh=564,104,3121,4735",
+                    "@type": "sc:Canvas",
+                    "label": "雅俗文庫 蔵書目録 p.109",
+                    "metadata": [
+                        {
+                            "label": "Score",
+                            "value": 0
+                        },
+                        {
+                            "label": "所蔵",
+                            "value": "東京大学"
+                        }
+                    ],
+                    "thumbnail": "https://iiif.dl.itc.u-tokyo.ac.jp/repo/iiif-img/82869/564,104,3121,4735/,300/0/default.jpg"
+                },
+                {
+                    "@id": "https://iiif.dl.itc.u-tokyo.ac.jp/repo/iiif/0c63f130-6c84-4d20-907a-bd99af972d7a/canvas/p109#xywh=3774,500,2855,1548",
+                    "@type": "sc:Canvas",
+                    "label": "雅俗文庫 蔵書目録 p.109",
+                    "metadata": [
+                        {
+                            "label": "Score",
+                            "value": 0
+                        },
+                        {
+                            "label": "所蔵",
+                            "value": "東京大学"
+                        }
+                    ],
+                    "thumbnail": "https://iiif.dl.itc.u-tokyo.ac.jp/repo/iiif-img/82869/3774,500,2855,1548/,300/0/default.jpg"
+                },
+                {
+                    "@id": "https://iiif.dl.itc.u-tokyo.ac.jp/repo/iiif/0c63f130-6c84-4d20-907a-bd99af972d7a/canvas/p110#xywh=3661,250,2960,4451",
+                    "@type": "sc:Canvas",
+                    "label": "雅俗文庫 蔵書目録 p.110",
+                    "metadata": [
+                        {
+                            "label": "Score",
+                            "value": 0
+                        },
+                        {
+                            "label": "所蔵",
+                            "value": "東京大学"
+                        }
+                    ],
+                    "thumbnail": "https://iiif.dl.itc.u-tokyo.ac.jp/repo/iiif-img/82870/3661,250,2960,4451/,300/0/default.jpg"
+                },
+                {
+                    "@id": "https://iiif.dl.itc.u-tokyo.ac.jp/repo/iiif/0c63f130-6c84-4d20-907a-bd99af972d7a/canvas/p111#xywh=48,1604,7194,1565",
+                    "@type": "sc:Canvas",
+                    "label": "雅俗文庫 蔵書目録 p.111",
+                    "metadata": [
+                        {
+                            "label": "Score",
+                            "value": 0
+                        },
+                        {
+                            "label": "所蔵",
+                            "value": "東京大学"
+                        }
+                    ],
+                    "thumbnail": "https://iiif.dl.itc.u-tokyo.ac.jp/repo/iiif-img/82871/48,1604,7194,1565/,300/0/default.jpg"
+                },
+                {
+                    "@id": "https://iiif.dl.itc.u-tokyo.ac.jp/repo/iiif/0c63f130-6c84-4d20-907a-bd99af972d7a/canvas/p115#xywh=3234,1451,3153,1766",
+                    "@type": "sc:Canvas",
+                    "label": "雅俗文庫 蔵書目録 p.115",
+                    "metadata": [
+                        {
+                            "label": "Score",
+                            "value": 0
+                        },
+                        {
+                            "label": "所蔵",
+                            "value": "東京大学"
+                        }
+                    ],
+                    "thumbnail": "https://iiif.dl.itc.u-tokyo.ac.jp/repo/iiif-img/82875/3234,1451,3153,1766/,300/0/default.jpg"
+                }
+            ],
+            "within": {
+                "@id": "https://iiif.dl.itc.u-tokyo.ac.jp/repo/iiif/0c63f130-6c84-4d20-907a-bd99af972d7a/manifest",
+                "@type": "sc:Manifest",
+                "label": "雅俗文庫 蔵書目録"
+            }
+        }
+    ]
+}

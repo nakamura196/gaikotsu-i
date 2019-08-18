@@ -1,0 +1,327 @@
+{
+    "@context": [
+        "http://iiif.io/api/presentation/2/context.json",
+        "http://codh.rois.ac.jp/iiif/curation/1/context.json"
+    ],
+    "@id": "https://nakamura196.github.io/gaikotsu-i/curation_m/0cdf9dfb3cdad4ca94021a7a4f27d24b.json",
+    "@type": "cr:Curation",
+    "label": "Curating list",
+    "selections": [
+        {
+            "@id": "https://nakamura196.github.io/gaikotsu-i/curation_m/0cdf9dfb3cdad4ca94021a7a4f27d24b.json/range1",
+            "@type": "sc:Range",
+            "label": "Manual curation by IIIF Curation Viewer",
+            "members": [
+                {
+                    "@id": "https://iiif.dl.itc.u-tokyo.ac.jp/repo/iiif/9eed9721-e58f-468e-b872-6ca70ce96f17/canvas/p1#xywh=1169,1629,2460,1645",
+                    "@type": "sc:Canvas",
+                    "label": "川柳學 組織案 p.1",
+                    "metadata": [
+                        {
+                            "label": "Score",
+                            "value": 0
+                        },
+                        {
+                            "label": "所蔵",
+                            "value": "東京大学"
+                        }
+                    ],
+                    "thumbnail": "https://iiif.dl.itc.u-tokyo.ac.jp/repo/iiif-img/84744/1169,1629,2460,1645/,300/0/default.jpg"
+                },
+                {
+                    "@id": "https://iiif.dl.itc.u-tokyo.ac.jp/repo/iiif/9eed9721-e58f-468e-b872-6ca70ce96f17/canvas/p2#xywh=1621,1508,4097,1830",
+                    "@type": "sc:Canvas",
+                    "label": "川柳學 組織案 p.2",
+                    "metadata": [
+                        {
+                            "label": "Score",
+                            "value": 0
+                        },
+                        {
+                            "label": "所蔵",
+                            "value": "東京大学"
+                        }
+                    ],
+                    "thumbnail": "https://iiif.dl.itc.u-tokyo.ac.jp/repo/iiif-img/84745/1621,1508,4097,1830/,300/0/default.jpg"
+                },
+                {
+                    "@id": "https://iiif.dl.itc.u-tokyo.ac.jp/repo/iiif/9eed9721-e58f-468e-b872-6ca70ce96f17/canvas/p4#xywh=1298,1459,4694,1855",
+                    "@type": "sc:Canvas",
+                    "label": "川柳學 組織案 p.4",
+                    "metadata": [
+                        {
+                            "label": "Score",
+                            "value": 0
+                        },
+                        {
+                            "label": "所蔵",
+                            "value": "東京大学"
+                        }
+                    ],
+                    "thumbnail": "https://iiif.dl.itc.u-tokyo.ac.jp/repo/iiif-img/84747/1298,1459,4694,1855/,300/0/default.jpg"
+                },
+                {
+                    "@id": "https://iiif.dl.itc.u-tokyo.ac.jp/repo/iiif/9eed9721-e58f-468e-b872-6ca70ce96f17/canvas/p5#xywh=1419,1467,4452,1823",
+                    "@type": "sc:Canvas",
+                    "label": "川柳學 組織案 p.5",
+                    "metadata": [
+                        {
+                            "label": "Score",
+                            "value": 0
+                        },
+                        {
+                            "label": "所蔵",
+                            "value": "東京大学"
+                        }
+                    ],
+                    "thumbnail": "https://iiif.dl.itc.u-tokyo.ac.jp/repo/iiif-img/84748/1419,1467,4452,1823/,300/0/default.jpg"
+                },
+                {
+                    "@id": "https://iiif.dl.itc.u-tokyo.ac.jp/repo/iiif/9eed9721-e58f-468e-b872-6ca70ce96f17/canvas/p6#xywh=1306,1475,4621,1823",
+                    "@type": "sc:Canvas",
+                    "label": "川柳學 組織案 p.6",
+                    "metadata": [
+                        {
+                            "label": "Score",
+                            "value": 0
+                        },
+                        {
+                            "label": "所蔵",
+                            "value": "東京大学"
+                        }
+                    ],
+                    "thumbnail": "https://iiif.dl.itc.u-tokyo.ac.jp/repo/iiif-img/84749/1306,1475,4621,1823/,300/0/default.jpg"
+                },
+                {
+                    "@id": "https://iiif.dl.itc.u-tokyo.ac.jp/repo/iiif/9eed9721-e58f-468e-b872-6ca70ce96f17/canvas/p7#xywh=1435,1459,4444,1887",
+                    "@type": "sc:Canvas",
+                    "label": "川柳學 組織案 p.7",
+                    "metadata": [
+                        {
+                            "label": "Score",
+                            "value": 0
+                        },
+                        {
+                            "label": "所蔵",
+                            "value": "東京大学"
+                        }
+                    ],
+                    "thumbnail": "https://iiif.dl.itc.u-tokyo.ac.jp/repo/iiif-img/84750/1435,1459,4444,1887/,300/0/default.jpg"
+                },
+                {
+                    "@id": "https://iiif.dl.itc.u-tokyo.ac.jp/repo/iiif/9eed9721-e58f-468e-b872-6ca70ce96f17/canvas/p8#xywh=1483,1475,4404,1847",
+                    "@type": "sc:Canvas",
+                    "label": "川柳學 組織案 p.8",
+                    "metadata": [
+                        {
+                            "label": "Score",
+                            "value": 0
+                        },
+                        {
+                            "label": "所蔵",
+                            "value": "東京大学"
+                        }
+                    ],
+                    "thumbnail": "https://iiif.dl.itc.u-tokyo.ac.jp/repo/iiif-img/84751/1483,1475,4404,1847/,300/0/default.jpg"
+                },
+                {
+                    "@id": "https://iiif.dl.itc.u-tokyo.ac.jp/repo/iiif/9eed9721-e58f-468e-b872-6ca70ce96f17/canvas/p9#xywh=1338,1387,4694,1984",
+                    "@type": "sc:Canvas",
+                    "label": "川柳學 組織案 p.9",
+                    "metadata": [
+                        {
+                            "label": "Score",
+                            "value": 0
+                        },
+                        {
+                            "label": "所蔵",
+                            "value": "東京大学"
+                        }
+                    ],
+                    "thumbnail": "https://iiif.dl.itc.u-tokyo.ac.jp/repo/iiif-img/84752/1338,1387,4694,1984/,300/0/default.jpg"
+                },
+                {
+                    "@id": "https://iiif.dl.itc.u-tokyo.ac.jp/repo/iiif/9eed9721-e58f-468e-b872-6ca70ce96f17/canvas/p10#xywh=1314,1443,4686,1871",
+                    "@type": "sc:Canvas",
+                    "label": "川柳學 組織案 p.10",
+                    "metadata": [
+                        {
+                            "label": "Score",
+                            "value": 0
+                        },
+                        {
+                            "label": "所蔵",
+                            "value": "東京大学"
+                        }
+                    ],
+                    "thumbnail": "https://iiif.dl.itc.u-tokyo.ac.jp/repo/iiif-img/84753/1314,1443,4686,1871/,300/0/default.jpg"
+                },
+                {
+                    "@id": "https://iiif.dl.itc.u-tokyo.ac.jp/repo/iiif/9eed9721-e58f-468e-b872-6ca70ce96f17/canvas/p11#xywh=1298,1258,4686,2137",
+                    "@type": "sc:Canvas",
+                    "label": "川柳學 組織案 p.11",
+                    "metadata": [
+                        {
+                            "label": "Score",
+                            "value": 0
+                        },
+                        {
+                            "label": "所蔵",
+                            "value": "東京大学"
+                        }
+                    ],
+                    "thumbnail": "https://iiif.dl.itc.u-tokyo.ac.jp/repo/iiif-img/84754/1298,1258,4686,2137/,300/0/default.jpg"
+                },
+                {
+                    "@id": "https://iiif.dl.itc.u-tokyo.ac.jp/repo/iiif/9eed9721-e58f-468e-b872-6ca70ce96f17/canvas/p13#xywh=1403,1403,4581,1960",
+                    "@type": "sc:Canvas",
+                    "label": "川柳學 組織案 p.13",
+                    "metadata": [
+                        {
+                            "label": "Score",
+                            "value": 0
+                        },
+                        {
+                            "label": "所蔵",
+                            "value": "東京大学"
+                        }
+                    ],
+                    "thumbnail": "https://iiif.dl.itc.u-tokyo.ac.jp/repo/iiif-img/84756/1403,1403,4581,1960/,300/0/default.jpg"
+                },
+                {
+                    "@id": "https://iiif.dl.itc.u-tokyo.ac.jp/repo/iiif/9eed9721-e58f-468e-b872-6ca70ce96f17/canvas/p14#xywh=1443,1411,4533,1960",
+                    "@type": "sc:Canvas",
+                    "label": "川柳學 組織案 p.14",
+                    "metadata": [
+                        {
+                            "label": "Score",
+                            "value": 0
+                        },
+                        {
+                            "label": "所蔵",
+                            "value": "東京大学"
+                        }
+                    ],
+                    "thumbnail": "https://iiif.dl.itc.u-tokyo.ac.jp/repo/iiif-img/84757/1443,1411,4533,1960/,300/0/default.jpg"
+                },
+                {
+                    "@id": "https://iiif.dl.itc.u-tokyo.ac.jp/repo/iiif/9eed9721-e58f-468e-b872-6ca70ce96f17/canvas/p15#xywh=411,1677,2984,1282",
+                    "@type": "sc:Canvas",
+                    "label": "川柳學 組織案 p.15",
+                    "metadata": [
+                        {
+                            "label": "Score",
+                            "value": 0
+                        },
+                        {
+                            "label": "所蔵",
+                            "value": "東京大学"
+                        }
+                    ],
+                    "thumbnail": "https://iiif.dl.itc.u-tokyo.ac.jp/repo/iiif-img/84758/411,1677,2984,1282/,300/0/default.jpg"
+                },
+                {
+                    "@id": "https://iiif.dl.itc.u-tokyo.ac.jp/repo/iiif/9eed9721-e58f-468e-b872-6ca70ce96f17/canvas/p15#xywh=1516,1338,5032,2033",
+                    "@type": "sc:Canvas",
+                    "label": "川柳學 組織案 p.15",
+                    "metadata": [
+                        {
+                            "label": "Score",
+                            "value": 0
+                        },
+                        {
+                            "label": "所蔵",
+                            "value": "東京大学"
+                        }
+                    ],
+                    "thumbnail": "https://iiif.dl.itc.u-tokyo.ac.jp/repo/iiif-img/84758/1516,1338,5032,2033/,300/0/default.jpg"
+                },
+                {
+                    "@id": "https://iiif.dl.itc.u-tokyo.ac.jp/repo/iiif/9eed9721-e58f-468e-b872-6ca70ce96f17/canvas/p16#xywh=1153,1387,4815,2000",
+                    "@type": "sc:Canvas",
+                    "label": "川柳學 組織案 p.16",
+                    "metadata": [
+                        {
+                            "label": "Score",
+                            "value": 0
+                        },
+                        {
+                            "label": "所蔵",
+                            "value": "東京大学"
+                        }
+                    ],
+                    "thumbnail": "https://iiif.dl.itc.u-tokyo.ac.jp/repo/iiif-img/84759/1153,1387,4815,2000/,300/0/default.jpg"
+                },
+                {
+                    "@id": "https://iiif.dl.itc.u-tokyo.ac.jp/repo/iiif/9eed9721-e58f-468e-b872-6ca70ce96f17/canvas/p17#xywh=1072,1492,4767,1806",
+                    "@type": "sc:Canvas",
+                    "label": "川柳學 組織案 p.17",
+                    "metadata": [
+                        {
+                            "label": "Score",
+                            "value": 0
+                        },
+                        {
+                            "label": "所蔵",
+                            "value": "東京大学"
+                        }
+                    ],
+                    "thumbnail": "https://iiif.dl.itc.u-tokyo.ac.jp/repo/iiif-img/84760/1072,1492,4767,1806/,300/0/default.jpg"
+                },
+                {
+                    "@id": "https://iiif.dl.itc.u-tokyo.ac.jp/repo/iiif/9eed9721-e58f-468e-b872-6ca70ce96f17/canvas/p18#xywh=1040,1354,4960,2025",
+                    "@type": "sc:Canvas",
+                    "label": "川柳學 組織案 p.18",
+                    "metadata": [
+                        {
+                            "label": "Score",
+                            "value": 0
+                        },
+                        {
+                            "label": "所蔵",
+                            "value": "東京大学"
+                        }
+                    ],
+                    "thumbnail": "https://iiif.dl.itc.u-tokyo.ac.jp/repo/iiif-img/84761/1040,1354,4960,2025/,300/0/default.jpg"
+                },
+                {
+                    "@id": "https://iiif.dl.itc.u-tokyo.ac.jp/repo/iiif/9eed9721-e58f-468e-b872-6ca70ce96f17/canvas/p19#xywh=1000,1395,5064,2000",
+                    "@type": "sc:Canvas",
+                    "label": "川柳學 組織案 p.19",
+                    "metadata": [
+                        {
+                            "label": "Score",
+                            "value": 0
+                        },
+                        {
+                            "label": "所蔵",
+                            "value": "東京大学"
+                        }
+                    ],
+                    "thumbnail": "https://iiif.dl.itc.u-tokyo.ac.jp/repo/iiif-img/84762/1000,1395,5064,2000/,300/0/default.jpg"
+                },
+                {
+                    "@id": "https://iiif.dl.itc.u-tokyo.ac.jp/repo/iiif/9eed9721-e58f-468e-b872-6ca70ce96f17/canvas/p20#xywh=3234,1613,2855,1613",
+                    "@type": "sc:Canvas",
+                    "label": "川柳學 組織案 p.20",
+                    "metadata": [
+                        {
+                            "label": "Score",
+                            "value": 0
+                        },
+                        {
+                            "label": "所蔵",
+                            "value": "東京大学"
+                        }
+                    ],
+                    "thumbnail": "https://iiif.dl.itc.u-tokyo.ac.jp/repo/iiif-img/84763/3234,1613,2855,1613/,300/0/default.jpg"
+                }
+            ],
+            "within": {
+                "@id": "https://iiif.dl.itc.u-tokyo.ac.jp/repo/iiif/9eed9721-e58f-468e-b872-6ca70ce96f17/manifest",
+                "@type": "sc:Manifest",
+                "label": "川柳學 組織案"
+            }
+        }
+    ]
+}

@@ -1,0 +1,39 @@
+{
+    "@context": [
+        "http://iiif.io/api/presentation/2/context.json",
+        "http://codh.rois.ac.jp/iiif/curation/1/context.json"
+    ],
+    "@id": "https://nakamura196.github.io/gaikotsu-i/curation_m/7fff120a9e8a8bc189577a42c52b291c.json",
+    "@type": "cr:Curation",
+    "label": "Curating list",
+    "selections": [
+        {
+            "@id": "https://nakamura196.github.io/gaikotsu-i/curation_m/7fff120a9e8a8bc189577a42c52b291c.json/range1",
+            "@type": "sc:Range",
+            "label": "Manual curation by IIIF Curation Viewer",
+            "members": [
+                {
+                    "@id": "https://iiif.dl.itc.u-tokyo.ac.jp/repo/iiif/1f3d64c0-30de-4af0-9bd0-20bbce73a799/canvas/p1#xywh=1153,959,4831,2944",
+                    "@type": "sc:Canvas",
+                    "label": "[「新愛知」標題 図版原稿・印刷物] p.1",
+                    "metadata": [
+                        {
+                            "label": "Score",
+                            "value": 0
+                        },
+                        {
+                            "label": "所蔵",
+                            "value": "東京大学"
+                        }
+                    ],
+                    "thumbnail": "https://iiif.dl.itc.u-tokyo.ac.jp/repo/iiif-img/86786/1153,959,4831,2944/,300/0/default.jpg"
+                }
+            ],
+            "within": {
+                "@id": "https://iiif.dl.itc.u-tokyo.ac.jp/repo/iiif/1f3d64c0-30de-4af0-9bd0-20bbce73a799/manifest",
+                "@type": "sc:Manifest",
+                "label": "[「新愛知」標題 図版原稿・印刷物]"
+            }
+        }
+    ]
+}

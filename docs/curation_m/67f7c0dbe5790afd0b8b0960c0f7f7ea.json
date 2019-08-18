@@ -1,0 +1,55 @@
+{
+    "@context": [
+        "http://iiif.io/api/presentation/2/context.json",
+        "http://codh.rois.ac.jp/iiif/curation/1/context.json"
+    ],
+    "@id": "https://nakamura196.github.io/gaikotsu-i/curation_m/67f7c0dbe5790afd0b8b0960c0f7f7ea.json",
+    "@type": "cr:Curation",
+    "label": "Curating list",
+    "selections": [
+        {
+            "@id": "https://nakamura196.github.io/gaikotsu-i/curation_m/67f7c0dbe5790afd0b8b0960c0f7f7ea.json/range1",
+            "@type": "sc:Range",
+            "label": "Manual curation by IIIF Curation Viewer",
+            "members": [
+                {
+                    "@id": "https://iiif.dl.itc.u-tokyo.ac.jp/repo/iiif/42dae3df-18bf-45f3-b0da-5b5b4564c795/canvas/p1#xywh=1137,8,4827,4868",
+                    "@type": "sc:Canvas",
+                    "label": "郵便報知新聞 p.1",
+                    "metadata": [
+                        {
+                            "label": "Score",
+                            "value": 0
+                        },
+                        {
+                            "label": "所蔵",
+                            "value": "東京大学"
+                        }
+                    ],
+                    "thumbnail": "https://iiif.dl.itc.u-tokyo.ac.jp/repo/iiif-img/85587/1137,8,4827,4868/,300/0/default.jpg"
+                },
+                {
+                    "@id": "https://iiif.dl.itc.u-tokyo.ac.jp/repo/iiif/42dae3df-18bf-45f3-b0da-5b5b4564c795/canvas/p4#xywh=853,0,5737,4575",
+                    "@type": "sc:Canvas",
+                    "label": "郵便報知新聞 p.4",
+                    "metadata": [
+                        {
+                            "label": "Score",
+                            "value": 0
+                        },
+                        {
+                            "label": "所蔵",
+                            "value": "東京大学"
+                        }
+                    ],
+                    "thumbnail": "https://iiif.dl.itc.u-tokyo.ac.jp/repo/iiif-img/85590/853,0,5737,4575/,300/0/default.jpg"
+                }
+            ],
+            "within": {
+                "@id": "https://iiif.dl.itc.u-tokyo.ac.jp/repo/iiif/42dae3df-18bf-45f3-b0da-5b5b4564c795/manifest",
+                "@type": "sc:Manifest",
+                "label": "郵便報知新聞"
+            }
+        }
+    ]
+}

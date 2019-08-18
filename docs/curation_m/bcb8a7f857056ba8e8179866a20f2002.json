@@ -1,0 +1,219 @@
+{
+    "@context": [
+        "http://iiif.io/api/presentation/2/context.json",
+        "http://codh.rois.ac.jp/iiif/curation/1/context.json"
+    ],
+    "@id": "https://nakamura196.github.io/gaikotsu-i/curation_m/bcb8a7f857056ba8e8179866a20f2002.json",
+    "@type": "cr:Curation",
+    "label": "Curating list",
+    "selections": [
+        {
+            "@id": "https://nakamura196.github.io/gaikotsu-i/curation_m/bcb8a7f857056ba8e8179866a20f2002.json/range1",
+            "@type": "sc:Range",
+            "label": "Manual curation by IIIF Curation Viewer",
+            "members": [
+                {
+                    "@id": "https://iiif.dl.itc.u-tokyo.ac.jp/repo/iiif/cda0a3e6-c297-4bf3-9ce6-5f73b6172b30/canvas/p1#xywh=2194,3787,3340,1089",
+                    "@type": "sc:Canvas",
+                    "label": "新聞切抜き(大正7年8月14日) p.1",
+                    "metadata": [
+                        {
+                            "label": "Score",
+                            "value": 0
+                        },
+                        {
+                            "label": "所蔵",
+                            "value": "東京大学"
+                        },
+                        {
+                            "label": "機械タグ",
+                            "value": "Person"
+                        }
+                    ],
+                    "thumbnail": "https://iiif.dl.itc.u-tokyo.ac.jp/repo/iiif-img/87044/2194,3787,3340,1089/,300/0/default.jpg"
+                },
+                {
+                    "@id": "https://iiif.dl.itc.u-tokyo.ac.jp/repo/iiif/cda0a3e6-c297-4bf3-9ce6-5f73b6172b30/canvas/p1#xywh=138,89,6956,4787",
+                    "@type": "sc:Canvas",
+                    "label": "新聞切抜き(大正7年8月14日) p.1",
+                    "metadata": [
+                        {
+                            "label": "Score",
+                            "value": 0
+                        },
+                        {
+                            "label": "所蔵",
+                            "value": "東京大学"
+                        }
+                    ],
+                    "thumbnail": "https://iiif.dl.itc.u-tokyo.ac.jp/repo/iiif-img/87044/138,89,6956,4787/,300/0/default.jpg"
+                },
+                {
+                    "@id": "https://iiif.dl.itc.u-tokyo.ac.jp/repo/iiif/cda0a3e6-c297-4bf3-9ce6-5f73b6172b30/canvas/p3#xywh=788,48,5875,4828",
+                    "@type": "sc:Canvas",
+                    "label": "新聞切抜き(大正7年8月14日) p.3",
+                    "metadata": [
+                        {
+                            "label": "Score",
+                            "value": 0
+                        },
+                        {
+                            "label": "所蔵",
+                            "value": "東京大学"
+                        }
+                    ],
+                    "thumbnail": "https://iiif.dl.itc.u-tokyo.ac.jp/repo/iiif-img/87046/788,48,5875,4828/,300/0/default.jpg"
+                },
+                {
+                    "@id": "https://iiif.dl.itc.u-tokyo.ac.jp/repo/iiif/cda0a3e6-c297-4bf3-9ce6-5f73b6172b30/canvas/p5#xywh=6176,24,1121,1016",
+                    "@type": "sc:Canvas",
+                    "label": "新聞切抜き(大正7年8月14日) p.5",
+                    "metadata": [
+                        {
+                            "label": "Score",
+                            "value": 0
+                        },
+                        {
+                            "label": "所蔵",
+                            "value": "東京大学"
+                        }
+                    ],
+                    "thumbnail": "https://iiif.dl.itc.u-tokyo.ac.jp/repo/iiif-img/87048/6176,24,1121,1016/,300/0/default.jpg"
+                },
+                {
+                    "@id": "https://iiif.dl.itc.u-tokyo.ac.jp/repo/iiif/cda0a3e6-c297-4bf3-9ce6-5f73b6172b30/canvas/p5#xywh=495,219,6477,4453",
+                    "@type": "sc:Canvas",
+                    "label": "新聞切抜き(大正7年8月14日) p.5",
+                    "metadata": [
+                        {
+                            "label": "Score",
+                            "value": 0
+                        },
+                        {
+                            "label": "所蔵",
+                            "value": "東京大学"
+                        },
+                        {
+                            "label": "機械タグ",
+                            "value": "Person"
+                        }
+                    ],
+                    "thumbnail": "https://iiif.dl.itc.u-tokyo.ac.jp/repo/iiif-img/87048/495,219,6477,4453/,300/0/default.jpg"
+                },
+                {
+                    "@id": "https://iiif.dl.itc.u-tokyo.ac.jp/repo/iiif/cda0a3e6-c297-4bf3-9ce6-5f73b6172b30/canvas/p6#xywh=300,0,6851,4453",
+                    "@type": "sc:Canvas",
+                    "label": "新聞切抜き(大正7年8月14日) p.6",
+                    "metadata": [
+                        {
+                            "label": "Score",
+                            "value": 0
+                        },
+                        {
+                            "label": "所蔵",
+                            "value": "東京大学"
+                        },
+                        {
+                            "label": "機械タグ",
+                            "value": "Person"
+                        }
+                    ],
+                    "thumbnail": "https://iiif.dl.itc.u-tokyo.ac.jp/repo/iiif-img/87049/300,0,6851,4453/,300/0/default.jpg"
+                },
+                {
+                    "@id": "https://iiif.dl.itc.u-tokyo.ac.jp/repo/iiif/cda0a3e6-c297-4bf3-9ce6-5f73b6172b30/canvas/p11#xywh=5274,0,2023,1470",
+                    "@type": "sc:Canvas",
+                    "label": "新聞切抜き(大正7年8月14日) p.11",
+                    "metadata": [
+                        {
+                            "label": "Score",
+                            "value": 0
+                        },
+                        {
+                            "label": "所蔵",
+                            "value": "東京大学"
+                        }
+                    ],
+                    "thumbnail": "https://iiif.dl.itc.u-tokyo.ac.jp/repo/iiif-img/87054/5274,0,2023,1470/,300/0/default.jpg"
+                },
+                {
+                    "@id": "https://iiif.dl.itc.u-tokyo.ac.jp/repo/iiif/cda0a3e6-c297-4bf3-9ce6-5f73b6172b30/canvas/p11#xywh=2194,341,3957,3356",
+                    "@type": "sc:Canvas",
+                    "label": "新聞切抜き(大正7年8月14日) p.11",
+                    "metadata": [
+                        {
+                            "label": "Score",
+                            "value": 0
+                        },
+                        {
+                            "label": "所蔵",
+                            "value": "東京大学"
+                        }
+                    ],
+                    "thumbnail": "https://iiif.dl.itc.u-tokyo.ac.jp/repo/iiif-img/87054/2194,341,3957,3356/,300/0/default.jpg"
+                },
+                {
+                    "@id": "https://iiif.dl.itc.u-tokyo.ac.jp/repo/iiif/cda0a3e6-c297-4bf3-9ce6-5f73b6172b30/canvas/p12#xywh=5883,0,1414,1219",
+                    "@type": "sc:Canvas",
+                    "label": "新聞切抜き(大正7年8月14日) p.12",
+                    "metadata": [
+                        {
+                            "label": "Score",
+                            "value": 0
+                        },
+                        {
+                            "label": "所蔵",
+                            "value": "東京大学"
+                        }
+                    ],
+                    "thumbnail": "https://iiif.dl.itc.u-tokyo.ac.jp/repo/iiif-img/87055/5883,0,1414,1219/,300/0/default.jpg"
+                },
+                {
+                    "@id": "https://iiif.dl.itc.u-tokyo.ac.jp/repo/iiif/cda0a3e6-c297-4bf3-9ce6-5f73b6172b30/canvas/p12#xywh=926,446,5689,3942",
+                    "@type": "sc:Canvas",
+                    "label": "新聞切抜き(大正7年8月14日) p.12",
+                    "metadata": [
+                        {
+                            "label": "Score",
+                            "value": 0
+                        },
+                        {
+                            "label": "所蔵",
+                            "value": "東京大学"
+                        },
+                        {
+                            "label": "機械タグ",
+                            "value": "Person"
+                        }
+                    ],
+                    "thumbnail": "https://iiif.dl.itc.u-tokyo.ac.jp/repo/iiif-img/87055/926,446,5689,3942/,300/0/default.jpg"
+                },
+                {
+                    "@id": "https://iiif.dl.itc.u-tokyo.ac.jp/repo/iiif/cda0a3e6-c297-4bf3-9ce6-5f73b6172b30/canvas/p15#xywh=739,0,6006,4656",
+                    "@type": "sc:Canvas",
+                    "label": "新聞切抜き(大正7年8月14日) p.15",
+                    "metadata": [
+                        {
+                            "label": "Score",
+                            "value": 0
+                        },
+                        {
+                            "label": "所蔵",
+                            "value": "東京大学"
+                        },
+                        {
+                            "label": "機械タグ",
+                            "value": "House"
+                        }
+                    ],
+                    "thumbnail": "https://iiif.dl.itc.u-tokyo.ac.jp/repo/iiif-img/87058/739,0,6006,4656/,300/0/default.jpg"
+                }
+            ],
+            "within": {
+                "@id": "https://iiif.dl.itc.u-tokyo.ac.jp/repo/iiif/cda0a3e6-c297-4bf3-9ce6-5f73b6172b30/manifest",
+                "@type": "sc:Manifest",
+                "label": "新聞切抜き(大正7年8月14日)"
+            }
+        }
+    ]
+}

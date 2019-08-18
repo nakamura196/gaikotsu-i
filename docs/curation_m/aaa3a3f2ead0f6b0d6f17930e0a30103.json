@@ -1,0 +1,55 @@
+{
+    "@context": [
+        "http://iiif.io/api/presentation/2/context.json",
+        "http://codh.rois.ac.jp/iiif/curation/1/context.json"
+    ],
+    "@id": "https://nakamura196.github.io/gaikotsu-i/curation_m/aaa3a3f2ead0f6b0d6f17930e0a30103.json",
+    "@type": "cr:Curation",
+    "label": "Curating list",
+    "selections": [
+        {
+            "@id": "https://nakamura196.github.io/gaikotsu-i/curation_m/aaa3a3f2ead0f6b0d6f17930e0a30103.json/range1",
+            "@type": "sc:Range",
+            "label": "Manual curation by IIIF Curation Viewer",
+            "members": [
+                {
+                    "@id": "https://iiif.dl.itc.u-tokyo.ac.jp/repo/iiif/7ce6bd5f-4505-4bce-a611-5030445ebd84/canvas/p3#xywh=838,379,5436,4290",
+                    "@type": "sc:Canvas",
+                    "label": "抜書[「府藩県制史」(宮武外骨著)書評] p.3",
+                    "metadata": [
+                        {
+                            "label": "Score",
+                            "value": 0
+                        },
+                        {
+                            "label": "所蔵",
+                            "value": "東京大学"
+                        }
+                    ],
+                    "thumbnail": "https://iiif.dl.itc.u-tokyo.ac.jp/repo/iiif-img/86849/838,379,5436,4290/,300/0/default.jpg"
+                },
+                {
+                    "@id": "https://iiif.dl.itc.u-tokyo.ac.jp/repo/iiif/7ce6bd5f-4505-4bce-a611-5030445ebd84/canvas/p4#xywh=3476,596,2588,3767",
+                    "@type": "sc:Canvas",
+                    "label": "抜書[「府藩県制史」(宮武外骨著)書評] p.4",
+                    "metadata": [
+                        {
+                            "label": "Score",
+                            "value": 0
+                        },
+                        {
+                            "label": "所蔵",
+                            "value": "東京大学"
+                        }
+                    ],
+                    "thumbnail": "https://iiif.dl.itc.u-tokyo.ac.jp/repo/iiif-img/86850/3476,596,2588,3767/,300/0/default.jpg"
+                }
+            ],
+            "within": {
+                "@id": "https://iiif.dl.itc.u-tokyo.ac.jp/repo/iiif/7ce6bd5f-4505-4bce-a611-5030445ebd84/manifest",
+                "@type": "sc:Manifest",
+                "label": "抜書[「府藩県制史」(宮武外骨著)書評]"
+            }
+        }
+    ]
+}

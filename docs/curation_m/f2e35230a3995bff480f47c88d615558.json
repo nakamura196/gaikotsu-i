@@ -1,0 +1,631 @@
+{
+    "@context": [
+        "http://iiif.io/api/presentation/2/context.json",
+        "http://codh.rois.ac.jp/iiif/curation/1/context.json"
+    ],
+    "@id": "https://nakamura196.github.io/gaikotsu-i/curation_m/f2e35230a3995bff480f47c88d615558.json",
+    "@type": "cr:Curation",
+    "label": "Curating list",
+    "selections": [
+        {
+            "@id": "https://nakamura196.github.io/gaikotsu-i/curation_m/f2e35230a3995bff480f47c88d615558.json/range1",
+            "@type": "sc:Range",
+            "label": "Manual curation by IIIF Curation Viewer",
+            "members": [
+                {
+                    "@id": "https://iiif.dl.itc.u-tokyo.ac.jp/repo/iiif/32fdef2b-a418-4cea-9f0a-07c42ac4270e/canvas/p2#xywh=3717,661,2097,3629",
+                    "@type": "sc:Canvas",
+                    "label": "氏名の題號,新聞雜誌同名異物録,發行せざりし新聞雜誌表,新聞雜誌改題表,記者投書家變名録 p.2",
+                    "metadata": [
+                        {
+                            "label": "Score",
+                            "value": 0
+                        },
+                        {
+                            "label": "所蔵",
+                            "value": "東京大学"
+                        }
+                    ],
+                    "thumbnail": "https://iiif.dl.itc.u-tokyo.ac.jp/repo/iiif-img/85696/3717,661,2097,3629/,300/0/default.jpg"
+                },
+                {
+                    "@id": "https://iiif.dl.itc.u-tokyo.ac.jp/repo/iiif/32fdef2b-a418-4cea-9f0a-07c42ac4270e/canvas/p2#xywh=1387,806,2048,3347",
+                    "@type": "sc:Canvas",
+                    "label": "氏名の題號,新聞雜誌同名異物録,發行せざりし新聞雜誌表,新聞雜誌改題表,記者投書家變名録 p.2",
+                    "metadata": [
+                        {
+                            "label": "Score",
+                            "value": 0
+                        },
+                        {
+                            "label": "所蔵",
+                            "value": "東京大学"
+                        }
+                    ],
+                    "thumbnail": "https://iiif.dl.itc.u-tokyo.ac.jp/repo/iiif-img/85696/1387,806,2048,3347/,300/0/default.jpg"
+                },
+                {
+                    "@id": "https://iiif.dl.itc.u-tokyo.ac.jp/repo/iiif/32fdef2b-a418-4cea-9f0a-07c42ac4270e/canvas/p4#xywh=1387,814,4395,3476",
+                    "@type": "sc:Canvas",
+                    "label": "氏名の題號,新聞雜誌同名異物録,發行せざりし新聞雜誌表,新聞雜誌改題表,記者投書家變名録 p.4",
+                    "metadata": [
+                        {
+                            "label": "Score",
+                            "value": 0
+                        },
+                        {
+                            "label": "所蔵",
+                            "value": "東京大学"
+                        }
+                    ],
+                    "thumbnail": "https://iiif.dl.itc.u-tokyo.ac.jp/repo/iiif-img/85698/1387,814,4395,3476/,300/0/default.jpg"
+                },
+                {
+                    "@id": "https://iiif.dl.itc.u-tokyo.ac.jp/repo/iiif/32fdef2b-a418-4cea-9f0a-07c42ac4270e/canvas/p5#xywh=1290,895,4589,3202",
+                    "@type": "sc:Canvas",
+                    "label": "氏名の題號,新聞雜誌同名異物録,發行せざりし新聞雜誌表,新聞雜誌改題表,記者投書家變名録 p.5",
+                    "metadata": [
+                        {
+                            "label": "Score",
+                            "value": 0
+                        },
+                        {
+                            "label": "所蔵",
+                            "value": "東京大学"
+                        }
+                    ],
+                    "thumbnail": "https://iiif.dl.itc.u-tokyo.ac.jp/repo/iiif-img/85699/1290,895,4589,3202/,300/0/default.jpg"
+                },
+                {
+                    "@id": "https://iiif.dl.itc.u-tokyo.ac.jp/repo/iiif/32fdef2b-a418-4cea-9f0a-07c42ac4270e/canvas/p7#xywh=1250,790,2201,3500",
+                    "@type": "sc:Canvas",
+                    "label": "氏名の題號,新聞雜誌同名異物録,發行せざりし新聞雜誌表,新聞雜誌改題表,記者投書家變名録 p.7",
+                    "metadata": [
+                        {
+                            "label": "Score",
+                            "value": 0
+                        },
+                        {
+                            "label": "所蔵",
+                            "value": "東京大学"
+                        }
+                    ],
+                    "thumbnail": "https://iiif.dl.itc.u-tokyo.ac.jp/repo/iiif-img/85701/1250,790,2201,3500/,300/0/default.jpg"
+                },
+                {
+                    "@id": "https://iiif.dl.itc.u-tokyo.ac.jp/repo/iiif/32fdef2b-a418-4cea-9f0a-07c42ac4270e/canvas/p9#xywh=1322,782,4573,3347",
+                    "@type": "sc:Canvas",
+                    "label": "氏名の題號,新聞雜誌同名異物録,發行せざりし新聞雜誌表,新聞雜誌改題表,記者投書家變名録 p.9",
+                    "metadata": [
+                        {
+                            "label": "Score",
+                            "value": 0
+                        },
+                        {
+                            "label": "所蔵",
+                            "value": "東京大学"
+                        }
+                    ],
+                    "thumbnail": "https://iiif.dl.itc.u-tokyo.ac.jp/repo/iiif-img/85703/1322,782,4573,3347/,300/0/default.jpg"
+                },
+                {
+                    "@id": "https://iiif.dl.itc.u-tokyo.ac.jp/repo/iiif/32fdef2b-a418-4cea-9f0a-07c42ac4270e/canvas/p11#xywh=1354,766,4436,3460",
+                    "@type": "sc:Canvas",
+                    "label": "氏名の題號,新聞雜誌同名異物録,發行せざりし新聞雜誌表,新聞雜誌改題表,記者投書家變名録 p.11",
+                    "metadata": [
+                        {
+                            "label": "Score",
+                            "value": 0
+                        },
+                        {
+                            "label": "所蔵",
+                            "value": "東京大学"
+                        }
+                    ],
+                    "thumbnail": "https://iiif.dl.itc.u-tokyo.ac.jp/repo/iiif-img/85705/1354,766,4436,3460/,300/0/default.jpg"
+                },
+                {
+                    "@id": "https://iiif.dl.itc.u-tokyo.ac.jp/repo/iiif/32fdef2b-a418-4cea-9f0a-07c42ac4270e/canvas/p12#xywh=1338,685,4581,3565",
+                    "@type": "sc:Canvas",
+                    "label": "氏名の題號,新聞雜誌同名異物録,發行せざりし新聞雜誌表,新聞雜誌改題表,記者投書家變名録 p.12",
+                    "metadata": [
+                        {
+                            "label": "Score",
+                            "value": 0
+                        },
+                        {
+                            "label": "所蔵",
+                            "value": "東京大学"
+                        }
+                    ],
+                    "thumbnail": "https://iiif.dl.itc.u-tokyo.ac.jp/repo/iiif-img/85706/1338,685,4581,3565/,300/0/default.jpg"
+                },
+                {
+                    "@id": "https://iiif.dl.itc.u-tokyo.ac.jp/repo/iiif/32fdef2b-a418-4cea-9f0a-07c42ac4270e/canvas/p13#xywh=1306,677,4524,3573",
+                    "@type": "sc:Canvas",
+                    "label": "氏名の題號,新聞雜誌同名異物録,發行せざりし新聞雜誌表,新聞雜誌改題表,記者投書家變名録 p.13",
+                    "metadata": [
+                        {
+                            "label": "Score",
+                            "value": 0
+                        },
+                        {
+                            "label": "所蔵",
+                            "value": "東京大学"
+                        }
+                    ],
+                    "thumbnail": "https://iiif.dl.itc.u-tokyo.ac.jp/repo/iiif-img/85707/1306,677,4524,3573/,300/0/default.jpg"
+                },
+                {
+                    "@id": "https://iiif.dl.itc.u-tokyo.ac.jp/repo/iiif/32fdef2b-a418-4cea-9f0a-07c42ac4270e/canvas/p14#xywh=1338,766,4565,3516",
+                    "@type": "sc:Canvas",
+                    "label": "氏名の題號,新聞雜誌同名異物録,發行せざりし新聞雜誌表,新聞雜誌改題表,記者投書家變名録 p.14",
+                    "metadata": [
+                        {
+                            "label": "Score",
+                            "value": 0
+                        },
+                        {
+                            "label": "所蔵",
+                            "value": "東京大学"
+                        }
+                    ],
+                    "thumbnail": "https://iiif.dl.itc.u-tokyo.ac.jp/repo/iiif-img/85708/1338,766,4565,3516/,300/0/default.jpg"
+                },
+                {
+                    "@id": "https://iiif.dl.itc.u-tokyo.ac.jp/repo/iiif/32fdef2b-a418-4cea-9f0a-07c42ac4270e/canvas/p16#xywh=1451,709,4283,3525",
+                    "@type": "sc:Canvas",
+                    "label": "氏名の題號,新聞雜誌同名異物録,發行せざりし新聞雜誌表,新聞雜誌改題表,記者投書家變名録 p.16",
+                    "metadata": [
+                        {
+                            "label": "Score",
+                            "value": 0
+                        },
+                        {
+                            "label": "所蔵",
+                            "value": "東京大学"
+                        }
+                    ],
+                    "thumbnail": "https://iiif.dl.itc.u-tokyo.ac.jp/repo/iiif-img/85710/1451,709,4283,3525/,300/0/default.jpg"
+                },
+                {
+                    "@id": "https://iiif.dl.itc.u-tokyo.ac.jp/repo/iiif/32fdef2b-a418-4cea-9f0a-07c42ac4270e/canvas/p17#xywh=3669,709,2331,3557",
+                    "@type": "sc:Canvas",
+                    "label": "氏名の題號,新聞雜誌同名異物録,發行せざりし新聞雜誌表,新聞雜誌改題表,記者投書家變名録 p.17",
+                    "metadata": [
+                        {
+                            "label": "Score",
+                            "value": 0
+                        },
+                        {
+                            "label": "所蔵",
+                            "value": "東京大学"
+                        }
+                    ],
+                    "thumbnail": "https://iiif.dl.itc.u-tokyo.ac.jp/repo/iiif-img/85711/3669,709,2331,3557/,300/0/default.jpg"
+                },
+                {
+                    "@id": "https://iiif.dl.itc.u-tokyo.ac.jp/repo/iiif/32fdef2b-a418-4cea-9f0a-07c42ac4270e/canvas/p17#xywh=1613,782,4072,3347",
+                    "@type": "sc:Canvas",
+                    "label": "氏名の題號,新聞雜誌同名異物録,發行せざりし新聞雜誌表,新聞雜誌改題表,記者投書家變名録 p.17",
+                    "metadata": [
+                        {
+                            "label": "Score",
+                            "value": 0
+                        },
+                        {
+                            "label": "所蔵",
+                            "value": "東京大学"
+                        }
+                    ],
+                    "thumbnail": "https://iiif.dl.itc.u-tokyo.ac.jp/repo/iiif-img/85711/1613,782,4072,3347/,300/0/default.jpg"
+                },
+                {
+                    "@id": "https://iiif.dl.itc.u-tokyo.ac.jp/repo/iiif/32fdef2b-a418-4cea-9f0a-07c42ac4270e/canvas/p17#xywh=1435,548,2081,3710",
+                    "@type": "sc:Canvas",
+                    "label": "氏名の題號,新聞雜誌同名異物録,發行せざりし新聞雜誌表,新聞雜誌改題表,記者投書家變名録 p.17",
+                    "metadata": [
+                        {
+                            "label": "Score",
+                            "value": 0
+                        },
+                        {
+                            "label": "所蔵",
+                            "value": "東京大学"
+                        }
+                    ],
+                    "thumbnail": "https://iiif.dl.itc.u-tokyo.ac.jp/repo/iiif-img/85711/1435,548,2081,3710/,300/0/default.jpg"
+                },
+                {
+                    "@id": "https://iiif.dl.itc.u-tokyo.ac.jp/repo/iiif/32fdef2b-a418-4cea-9f0a-07c42ac4270e/canvas/p18#xywh=3653,766,2363,3419",
+                    "@type": "sc:Canvas",
+                    "label": "氏名の題號,新聞雜誌同名異物録,發行せざりし新聞雜誌表,新聞雜誌改題表,記者投書家變名録 p.18",
+                    "metadata": [
+                        {
+                            "label": "Score",
+                            "value": 0
+                        },
+                        {
+                            "label": "所蔵",
+                            "value": "東京大学"
+                        }
+                    ],
+                    "thumbnail": "https://iiif.dl.itc.u-tokyo.ac.jp/repo/iiif-img/85712/3653,766,2363,3419/,300/0/default.jpg"
+                },
+                {
+                    "@id": "https://iiif.dl.itc.u-tokyo.ac.jp/repo/iiif/32fdef2b-a418-4cea-9f0a-07c42ac4270e/canvas/p18#xywh=1645,830,4024,3242",
+                    "@type": "sc:Canvas",
+                    "label": "氏名の題號,新聞雜誌同名異物録,發行せざりし新聞雜誌表,新聞雜誌改題表,記者投書家變名録 p.18",
+                    "metadata": [
+                        {
+                            "label": "Score",
+                            "value": 0
+                        },
+                        {
+                            "label": "所蔵",
+                            "value": "東京大学"
+                        }
+                    ],
+                    "thumbnail": "https://iiif.dl.itc.u-tokyo.ac.jp/repo/iiif-img/85712/1645,830,4024,3242/,300/0/default.jpg"
+                },
+                {
+                    "@id": "https://iiif.dl.itc.u-tokyo.ac.jp/repo/iiif/32fdef2b-a418-4cea-9f0a-07c42ac4270e/canvas/p18#xywh=1427,540,2186,3694",
+                    "@type": "sc:Canvas",
+                    "label": "氏名の題號,新聞雜誌同名異物録,發行せざりし新聞雜誌表,新聞雜誌改題表,記者投書家變名録 p.18",
+                    "metadata": [
+                        {
+                            "label": "Score",
+                            "value": 0
+                        },
+                        {
+                            "label": "所蔵",
+                            "value": "東京大学"
+                        }
+                    ],
+                    "thumbnail": "https://iiif.dl.itc.u-tokyo.ac.jp/repo/iiif-img/85712/1427,540,2186,3694/,300/0/default.jpg"
+                },
+                {
+                    "@id": "https://iiif.dl.itc.u-tokyo.ac.jp/repo/iiif/32fdef2b-a418-4cea-9f0a-07c42ac4270e/canvas/p19#xywh=1419,733,4452,3484",
+                    "@type": "sc:Canvas",
+                    "label": "氏名の題號,新聞雜誌同名異物録,發行せざりし新聞雜誌表,新聞雜誌改題表,記者投書家變名録 p.19",
+                    "metadata": [
+                        {
+                            "label": "Score",
+                            "value": 0
+                        },
+                        {
+                            "label": "所蔵",
+                            "value": "東京大学"
+                        }
+                    ],
+                    "thumbnail": "https://iiif.dl.itc.u-tokyo.ac.jp/repo/iiif-img/85713/1419,733,4452,3484/,300/0/default.jpg"
+                },
+                {
+                    "@id": "https://iiif.dl.itc.u-tokyo.ac.jp/repo/iiif/32fdef2b-a418-4cea-9f0a-07c42ac4270e/canvas/p23#xywh=1354,209,4968,4476",
+                    "@type": "sc:Canvas",
+                    "label": "氏名の題號,新聞雜誌同名異物録,發行せざりし新聞雜誌表,新聞雜誌改題表,記者投書家變名録 p.23",
+                    "metadata": [
+                        {
+                            "label": "Score",
+                            "value": 0
+                        },
+                        {
+                            "label": "所蔵",
+                            "value": "東京大学"
+                        }
+                    ],
+                    "thumbnail": "https://iiif.dl.itc.u-tokyo.ac.jp/repo/iiif-img/85717/1354,209,4968,4476/,300/0/default.jpg"
+                },
+                {
+                    "@id": "https://iiif.dl.itc.u-tokyo.ac.jp/repo/iiif/32fdef2b-a418-4cea-9f0a-07c42ac4270e/canvas/p24#xywh=3750,725,2193,3363",
+                    "@type": "sc:Canvas",
+                    "label": "氏名の題號,新聞雜誌同名異物録,發行せざりし新聞雜誌表,新聞雜誌改題表,記者投書家變名録 p.24",
+                    "metadata": [
+                        {
+                            "label": "Score",
+                            "value": 0
+                        },
+                        {
+                            "label": "所蔵",
+                            "value": "東京大学"
+                        }
+                    ],
+                    "thumbnail": "https://iiif.dl.itc.u-tokyo.ac.jp/repo/iiif-img/85718/3750,725,2193,3363/,300/0/default.jpg"
+                },
+                {
+                    "@id": "https://iiif.dl.itc.u-tokyo.ac.jp/repo/iiif/32fdef2b-a418-4cea-9f0a-07c42ac4270e/canvas/p24#xywh=1596,645,4170,3597",
+                    "@type": "sc:Canvas",
+                    "label": "氏名の題號,新聞雜誌同名異物録,發行せざりし新聞雜誌表,新聞雜誌改題表,記者投書家變名録 p.24",
+                    "metadata": [
+                        {
+                            "label": "Score",
+                            "value": 0
+                        },
+                        {
+                            "label": "所蔵",
+                            "value": "東京大学"
+                        }
+                    ],
+                    "thumbnail": "https://iiif.dl.itc.u-tokyo.ac.jp/repo/iiif-img/85718/1596,645,4170,3597/,300/0/default.jpg"
+                },
+                {
+                    "@id": "https://iiif.dl.itc.u-tokyo.ac.jp/repo/iiif/32fdef2b-a418-4cea-9f0a-07c42ac4270e/canvas/p25#xywh=1282,701,4774,3468",
+                    "@type": "sc:Canvas",
+                    "label": "氏名の題號,新聞雜誌同名異物録,發行せざりし新聞雜誌表,新聞雜誌改題表,記者投書家變名録 p.25",
+                    "metadata": [
+                        {
+                            "label": "Score",
+                            "value": 0
+                        },
+                        {
+                            "label": "所蔵",
+                            "value": "東京大学"
+                        }
+                    ],
+                    "thumbnail": "https://iiif.dl.itc.u-tokyo.ac.jp/repo/iiif-img/85719/1282,701,4774,3468/,300/0/default.jpg"
+                },
+                {
+                    "@id": "https://iiif.dl.itc.u-tokyo.ac.jp/repo/iiif/32fdef2b-a418-4cea-9f0a-07c42ac4270e/canvas/p27#xywh=1395,693,4605,3516",
+                    "@type": "sc:Canvas",
+                    "label": "氏名の題號,新聞雜誌同名異物録,發行せざりし新聞雜誌表,新聞雜誌改題表,記者投書家變名録 p.27",
+                    "metadata": [
+                        {
+                            "label": "Score",
+                            "value": 0
+                        },
+                        {
+                            "label": "所蔵",
+                            "value": "東京大学"
+                        }
+                    ],
+                    "thumbnail": "https://iiif.dl.itc.u-tokyo.ac.jp/repo/iiif-img/85721/1395,693,4605,3516/,300/0/default.jpg"
+                },
+                {
+                    "@id": "https://iiif.dl.itc.u-tokyo.ac.jp/repo/iiif/32fdef2b-a418-4cea-9f0a-07c42ac4270e/canvas/p30#xywh=1371,548,4621,3799",
+                    "@type": "sc:Canvas",
+                    "label": "氏名の題號,新聞雜誌同名異物録,發行せざりし新聞雜誌表,新聞雜誌改題表,記者投書家變名録 p.30",
+                    "metadata": [
+                        {
+                            "label": "Score",
+                            "value": 0
+                        },
+                        {
+                            "label": "所蔵",
+                            "value": "東京大学"
+                        }
+                    ],
+                    "thumbnail": "https://iiif.dl.itc.u-tokyo.ac.jp/repo/iiif-img/85724/1371,548,4621,3799/,300/0/default.jpg"
+                },
+                {
+                    "@id": "https://iiif.dl.itc.u-tokyo.ac.jp/repo/iiif/32fdef2b-a418-4cea-9f0a-07c42ac4270e/canvas/p31#xywh=1306,475,4726,3823",
+                    "@type": "sc:Canvas",
+                    "label": "氏名の題號,新聞雜誌同名異物録,發行せざりし新聞雜誌表,新聞雜誌改題表,記者投書家變名録 p.31",
+                    "metadata": [
+                        {
+                            "label": "Score",
+                            "value": 0
+                        },
+                        {
+                            "label": "所蔵",
+                            "value": "東京大学"
+                        }
+                    ],
+                    "thumbnail": "https://iiif.dl.itc.u-tokyo.ac.jp/repo/iiif-img/85725/1306,475,4726,3823/,300/0/default.jpg"
+                },
+                {
+                    "@id": "https://iiif.dl.itc.u-tokyo.ac.jp/repo/iiif/32fdef2b-a418-4cea-9f0a-07c42ac4270e/canvas/p32#xywh=1572,790,4355,3363",
+                    "@type": "sc:Canvas",
+                    "label": "氏名の題號,新聞雜誌同名異物録,發行せざりし新聞雜誌表,新聞雜誌改題表,記者投書家變名録 p.32",
+                    "metadata": [
+                        {
+                            "label": "Score",
+                            "value": 0
+                        },
+                        {
+                            "label": "所蔵",
+                            "value": "東京大学"
+                        }
+                    ],
+                    "thumbnail": "https://iiif.dl.itc.u-tokyo.ac.jp/repo/iiif-img/85726/1572,790,4355,3363/,300/0/default.jpg"
+                },
+                {
+                    "@id": "https://iiif.dl.itc.u-tokyo.ac.jp/repo/iiif/32fdef2b-a418-4cea-9f0a-07c42ac4270e/canvas/p37#xywh=1540,701,4395,3581",
+                    "@type": "sc:Canvas",
+                    "label": "氏名の題號,新聞雜誌同名異物録,發行せざりし新聞雜誌表,新聞雜誌改題表,記者投書家變名録 p.37",
+                    "metadata": [
+                        {
+                            "label": "Score",
+                            "value": 0
+                        },
+                        {
+                            "label": "所蔵",
+                            "value": "東京大学"
+                        }
+                    ],
+                    "thumbnail": "https://iiif.dl.itc.u-tokyo.ac.jp/repo/iiif-img/85731/1540,701,4395,3581/,300/0/default.jpg"
+                },
+                {
+                    "@id": "https://iiif.dl.itc.u-tokyo.ac.jp/repo/iiif/32fdef2b-a418-4cea-9f0a-07c42ac4270e/canvas/p38#xywh=1467,653,4589,3573",
+                    "@type": "sc:Canvas",
+                    "label": "氏名の題號,新聞雜誌同名異物録,發行せざりし新聞雜誌表,新聞雜誌改題表,記者投書家變名録 p.38",
+                    "metadata": [
+                        {
+                            "label": "Score",
+                            "value": 0
+                        },
+                        {
+                            "label": "所蔵",
+                            "value": "東京大学"
+                        }
+                    ],
+                    "thumbnail": "https://iiif.dl.itc.u-tokyo.ac.jp/repo/iiif-img/85732/1467,653,4589,3573/,300/0/default.jpg"
+                },
+                {
+                    "@id": "https://iiif.dl.itc.u-tokyo.ac.jp/repo/iiif/32fdef2b-a418-4cea-9f0a-07c42ac4270e/canvas/p39#xywh=1290,733,4928,3525",
+                    "@type": "sc:Canvas",
+                    "label": "氏名の題號,新聞雜誌同名異物録,發行せざりし新聞雜誌表,新聞雜誌改題表,記者投書家變名録 p.39",
+                    "metadata": [
+                        {
+                            "label": "Score",
+                            "value": 0
+                        },
+                        {
+                            "label": "所蔵",
+                            "value": "東京大学"
+                        }
+                    ],
+                    "thumbnail": "https://iiif.dl.itc.u-tokyo.ac.jp/repo/iiif-img/85733/1290,733,4928,3525/,300/0/default.jpg"
+                },
+                {
+                    "@id": "https://iiif.dl.itc.u-tokyo.ac.jp/repo/iiif/32fdef2b-a418-4cea-9f0a-07c42ac4270e/canvas/p46#xywh=3338,282,2888,4097",
+                    "@type": "sc:Canvas",
+                    "label": "氏名の題號,新聞雜誌同名異物録,發行せざりし新聞雜誌表,新聞雜誌改題表,記者投書家變名録 p.46",
+                    "metadata": [
+                        {
+                            "label": "Score",
+                            "value": 0
+                        },
+                        {
+                            "label": "所蔵",
+                            "value": "東京大学"
+                        }
+                    ],
+                    "thumbnail": "https://iiif.dl.itc.u-tokyo.ac.jp/repo/iiif-img/85740/3338,282,2888,4097/,300/0/default.jpg"
+                },
+                {
+                    "@id": "https://iiif.dl.itc.u-tokyo.ac.jp/repo/iiif/32fdef2b-a418-4cea-9f0a-07c42ac4270e/canvas/p47#xywh=4661,217,2202,4299",
+                    "@type": "sc:Canvas",
+                    "label": "氏名の題號,新聞雜誌同名異物録,發行せざりし新聞雜誌表,新聞雜誌改題表,記者投書家變名録 p.47",
+                    "metadata": [
+                        {
+                            "label": "Score",
+                            "value": 0
+                        },
+                        {
+                            "label": "所蔵",
+                            "value": "東京大学"
+                        }
+                    ],
+                    "thumbnail": "https://iiif.dl.itc.u-tokyo.ac.jp/repo/iiif-img/85741/4661,217,2202,4299/,300/0/default.jpg"
+                },
+                {
+                    "@id": "https://iiif.dl.itc.u-tokyo.ac.jp/repo/iiif/32fdef2b-a418-4cea-9f0a-07c42ac4270e/canvas/p47#xywh=1903,556,2605,3436",
+                    "@type": "sc:Canvas",
+                    "label": "氏名の題號,新聞雜誌同名異物録,發行せざりし新聞雜誌表,新聞雜誌改題表,記者投書家變名録 p.47",
+                    "metadata": [
+                        {
+                            "label": "Score",
+                            "value": 0
+                        },
+                        {
+                            "label": "所蔵",
+                            "value": "東京大学"
+                        }
+                    ],
+                    "thumbnail": "https://iiif.dl.itc.u-tokyo.ac.jp/repo/iiif-img/85741/1903,556,2605,3436/,300/0/default.jpg"
+                },
+                {
+                    "@id": "https://iiif.dl.itc.u-tokyo.ac.jp/repo/iiif/32fdef2b-a418-4cea-9f0a-07c42ac4270e/canvas/p48#xywh=2435,0,2783,621",
+                    "@type": "sc:Canvas",
+                    "label": "氏名の題號,新聞雜誌同名異物録,發行せざりし新聞雜誌表,新聞雜誌改題表,記者投書家變名録 p.48",
+                    "metadata": [
+                        {
+                            "label": "Score",
+                            "value": 0
+                        },
+                        {
+                            "label": "所蔵",
+                            "value": "東京大学"
+                        }
+                    ],
+                    "thumbnail": "https://iiif.dl.itc.u-tokyo.ac.jp/repo/iiif-img/85742/2435,0,2783,621/,300/0/default.jpg"
+                },
+                {
+                    "@id": "https://iiif.dl.itc.u-tokyo.ac.jp/repo/iiif/32fdef2b-a418-4cea-9f0a-07c42ac4270e/canvas/p48#xywh=2419,580,2815,3484",
+                    "@type": "sc:Canvas",
+                    "label": "氏名の題號,新聞雜誌同名異物録,發行せざりし新聞雜誌表,新聞雜誌改題表,記者投書家變名録 p.48",
+                    "metadata": [
+                        {
+                            "label": "Score",
+                            "value": 0
+                        },
+                        {
+                            "label": "所蔵",
+                            "value": "東京大学"
+                        }
+                    ],
+                    "thumbnail": "https://iiif.dl.itc.u-tokyo.ac.jp/repo/iiif-img/85742/2419,580,2815,3484/,300/0/default.jpg"
+                },
+                {
+                    "@id": "https://iiif.dl.itc.u-tokyo.ac.jp/repo/iiif/32fdef2b-a418-4cea-9f0a-07c42ac4270e/canvas/p49#xywh=2419,612,2726,3460",
+                    "@type": "sc:Canvas",
+                    "label": "氏名の題號,新聞雜誌同名異物録,發行せざりし新聞雜誌表,新聞雜誌改題表,記者投書家變名録 p.49",
+                    "metadata": [
+                        {
+                            "label": "Score",
+                            "value": 0
+                        },
+                        {
+                            "label": "所蔵",
+                            "value": "東京大学"
+                        }
+                    ],
+                    "thumbnail": "https://iiif.dl.itc.u-tokyo.ac.jp/repo/iiif-img/85743/2419,612,2726,3460/,300/0/default.jpg"
+                },
+                {
+                    "@id": "https://iiif.dl.itc.u-tokyo.ac.jp/repo/iiif/32fdef2b-a418-4cea-9f0a-07c42ac4270e/canvas/p50#xywh=4718,145,2121,4387",
+                    "@type": "sc:Canvas",
+                    "label": "氏名の題號,新聞雜誌同名異物録,發行せざりし新聞雜誌表,新聞雜誌改題表,記者投書家變名録 p.50",
+                    "metadata": [
+                        {
+                            "label": "Score",
+                            "value": 0
+                        },
+                        {
+                            "label": "所蔵",
+                            "value": "東京大学"
+                        }
+                    ],
+                    "thumbnail": "https://iiif.dl.itc.u-tokyo.ac.jp/repo/iiif-img/85744/4718,145,2121,4387/,300/0/default.jpg"
+                },
+                {
+                    "@id": "https://iiif.dl.itc.u-tokyo.ac.jp/repo/iiif/32fdef2b-a418-4cea-9f0a-07c42ac4270e/canvas/p50#xywh=2000,508,2500,3629",
+                    "@type": "sc:Canvas",
+                    "label": "氏名の題號,新聞雜誌同名異物録,發行せざりし新聞雜誌表,新聞雜誌改題表,記者投書家變名録 p.50",
+                    "metadata": [
+                        {
+                            "label": "Score",
+                            "value": 0
+                        },
+                        {
+                            "label": "所蔵",
+                            "value": "東京大学"
+                        }
+                    ],
+                    "thumbnail": "https://iiif.dl.itc.u-tokyo.ac.jp/repo/iiif-img/85744/2000,508,2500,3629/,300/0/default.jpg"
+                },
+                {
+                    "@id": "https://iiif.dl.itc.u-tokyo.ac.jp/repo/iiif/32fdef2b-a418-4cea-9f0a-07c42ac4270e/canvas/p51#xywh=1895,532,2653,3444",
+                    "@type": "sc:Canvas",
+                    "label": "氏名の題號,新聞雜誌同名異物録,發行せざりし新聞雜誌表,新聞雜誌改題表,記者投書家變名録 p.51",
+                    "metadata": [
+                        {
+                            "label": "Score",
+                            "value": 0
+                        },
+                        {
+                            "label": "所蔵",
+                            "value": "東京大学"
+                        }
+                    ],
+                    "thumbnail": "https://iiif.dl.itc.u-tokyo.ac.jp/repo/iiif-img/85745/1895,532,2653,3444/,300/0/default.jpg"
+                }
+            ],
+            "within": {
+                "@id": "https://iiif.dl.itc.u-tokyo.ac.jp/repo/iiif/32fdef2b-a418-4cea-9f0a-07c42ac4270e/manifest",
+                "@type": "sc:Manifest",
+                "label": "氏名の題號,新聞雜誌同名異物録,發行せざりし新聞雜誌表,新聞雜誌改題表,記者投書家變名録"
+            }
+        }
+    ]
+}

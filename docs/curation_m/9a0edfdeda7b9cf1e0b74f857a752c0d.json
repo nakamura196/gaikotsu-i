@@ -1,0 +1,1135 @@
+{
+    "@context": [
+        "http://iiif.io/api/presentation/2/context.json",
+        "http://codh.rois.ac.jp/iiif/curation/1/context.json"
+    ],
+    "@id": "https://nakamura196.github.io/gaikotsu-i/curation_m/9a0edfdeda7b9cf1e0b74f857a752c0d.json",
+    "@type": "cr:Curation",
+    "label": "Curating list",
+    "selections": [
+        {
+            "@id": "https://nakamura196.github.io/gaikotsu-i/curation_m/9a0edfdeda7b9cf1e0b74f857a752c0d.json/range1",
+            "@type": "sc:Range",
+            "label": "Manual curation by IIIF Curation Viewer",
+            "members": [
+                {
+                    "@id": "https://iiif.dl.itc.u-tokyo.ac.jp/repo/iiif/5e8b47d7-efff-4b4d-9113-8fa6a0fb991c/canvas/p1#xywh=2121,137,2887,4572",
+                    "@type": "sc:Canvas",
+                    "label": "大正9年衆議院議員立候補者(第14回)宮武外骨以外(推薦書・宣言書等) p.1",
+                    "metadata": [
+                        {
+                            "label": "Score",
+                            "value": 0
+                        },
+                        {
+                            "label": "所蔵",
+                            "value": "東京大学"
+                        }
+                    ],
+                    "thumbnail": "https://iiif.dl.itc.u-tokyo.ac.jp/repo/iiif-img/87971/2121,137,2887,4572/,300/0/default.jpg"
+                },
+                {
+                    "@id": "https://iiif.dl.itc.u-tokyo.ac.jp/repo/iiif/5e8b47d7-efff-4b4d-9113-8fa6a0fb991c/canvas/p3#xywh=2242,1758,959,1605",
+                    "@type": "sc:Canvas",
+                    "label": "大正9年衆議院議員立候補者(第14回)宮武外骨以外(推薦書・宣言書等) p.3",
+                    "metadata": [
+                        {
+                            "label": "Score",
+                            "value": 0
+                        },
+                        {
+                            "label": "所蔵",
+                            "value": "東京大学"
+                        }
+                    ],
+                    "thumbnail": "https://iiif.dl.itc.u-tokyo.ac.jp/repo/iiif-img/87973/2242,1758,959,1605/,300/0/default.jpg"
+                },
+                {
+                    "@id": "https://iiif.dl.itc.u-tokyo.ac.jp/repo/iiif/5e8b47d7-efff-4b4d-9113-8fa6a0fb991c/canvas/p4#xywh=1943,951,3129,2670",
+                    "@type": "sc:Canvas",
+                    "label": "大正9年衆議院議員立候補者(第14回)宮武外骨以外(推薦書・宣言書等) p.4",
+                    "metadata": [
+                        {
+                            "label": "Score",
+                            "value": 0
+                        },
+                        {
+                            "label": "所蔵",
+                            "value": "東京大学"
+                        }
+                    ],
+                    "thumbnail": "https://iiif.dl.itc.u-tokyo.ac.jp/repo/iiif-img/87974/1943,951,3129,2670/,300/0/default.jpg"
+                },
+                {
+                    "@id": "https://iiif.dl.itc.u-tokyo.ac.jp/repo/iiif/5e8b47d7-efff-4b4d-9113-8fa6a0fb991c/canvas/p7#xywh=2750,838,1355,3105",
+                    "@type": "sc:Canvas",
+                    "label": "大正9年衆議院議員立候補者(第14回)宮武外骨以外(推薦書・宣言書等) p.7",
+                    "metadata": [
+                        {
+                            "label": "Score",
+                            "value": 0
+                        },
+                        {
+                            "label": "所蔵",
+                            "value": "東京大学"
+                        }
+                    ],
+                    "thumbnail": "https://iiif.dl.itc.u-tokyo.ac.jp/repo/iiif-img/87977/2750,838,1355,3105/,300/0/default.jpg"
+                },
+                {
+                    "@id": "https://iiif.dl.itc.u-tokyo.ac.jp/repo/iiif/5e8b47d7-efff-4b4d-9113-8fa6a0fb991c/canvas/p8#xywh=2734,685,1459,3347",
+                    "@type": "sc:Canvas",
+                    "label": "大正9年衆議院議員立候補者(第14回)宮武外骨以外(推薦書・宣言書等) p.8",
+                    "metadata": [
+                        {
+                            "label": "Score",
+                            "value": 0
+                        },
+                        {
+                            "label": "所蔵",
+                            "value": "東京大学"
+                        }
+                    ],
+                    "thumbnail": "https://iiif.dl.itc.u-tokyo.ac.jp/repo/iiif-img/87978/2734,685,1459,3347/,300/0/default.jpg"
+                },
+                {
+                    "@id": "https://iiif.dl.itc.u-tokyo.ac.jp/repo/iiif/5e8b47d7-efff-4b4d-9113-8fa6a0fb991c/canvas/p10#xywh=1177,491,6008,3920",
+                    "@type": "sc:Canvas",
+                    "label": "大正9年衆議院議員立候補者(第14回)宮武外骨以外(推薦書・宣言書等) p.10",
+                    "metadata": [
+                        {
+                            "label": "Score",
+                            "value": 0
+                        },
+                        {
+                            "label": "所蔵",
+                            "value": "東京大学"
+                        }
+                    ],
+                    "thumbnail": "https://iiif.dl.itc.u-tokyo.ac.jp/repo/iiif-img/87980/1177,491,6008,3920/,300/0/default.jpg"
+                },
+                {
+                    "@id": "https://iiif.dl.itc.u-tokyo.ac.jp/repo/iiif/5e8b47d7-efff-4b4d-9113-8fa6a0fb991c/canvas/p12#xywh=637,741,6605,3468",
+                    "@type": "sc:Canvas",
+                    "label": "大正9年衆議院議員立候補者(第14回)宮武外骨以外(推薦書・宣言書等) p.12",
+                    "metadata": [
+                        {
+                            "label": "Score",
+                            "value": 0
+                        },
+                        {
+                            "label": "所蔵",
+                            "value": "東京大学"
+                        }
+                    ],
+                    "thumbnail": "https://iiif.dl.itc.u-tokyo.ac.jp/repo/iiif-img/87982/637,741,6605,3468/,300/0/default.jpg"
+                },
+                {
+                    "@id": "https://iiif.dl.itc.u-tokyo.ac.jp/repo/iiif/5e8b47d7-efff-4b4d-9113-8fa6a0fb991c/canvas/p14#xywh=225,621,7017,3758",
+                    "@type": "sc:Canvas",
+                    "label": "大正9年衆議院議員立候補者(第14回)宮武外骨以外(推薦書・宣言書等) p.14",
+                    "metadata": [
+                        {
+                            "label": "Score",
+                            "value": 0
+                        },
+                        {
+                            "label": "所蔵",
+                            "value": "東京大学"
+                        }
+                    ],
+                    "thumbnail": "https://iiif.dl.itc.u-tokyo.ac.jp/repo/iiif-img/87984/225,621,7017,3758/,300/0/default.jpg"
+                },
+                {
+                    "@id": "https://iiif.dl.itc.u-tokyo.ac.jp/repo/iiif/5e8b47d7-efff-4b4d-9113-8fa6a0fb991c/canvas/p15#xywh=2822,1008,1500,2484",
+                    "@type": "sc:Canvas",
+                    "label": "大正9年衆議院議員立候補者(第14回)宮武外骨以外(推薦書・宣言書等) p.15",
+                    "metadata": [
+                        {
+                            "label": "Score",
+                            "value": 0
+                        },
+                        {
+                            "label": "所蔵",
+                            "value": "東京大学"
+                        }
+                    ],
+                    "thumbnail": "https://iiif.dl.itc.u-tokyo.ac.jp/repo/iiif-img/87985/2822,1008,1500,2484/,300/0/default.jpg"
+                },
+                {
+                    "@id": "https://iiif.dl.itc.u-tokyo.ac.jp/repo/iiif/5e8b47d7-efff-4b4d-9113-8fa6a0fb991c/canvas/p18#xywh=2750,693,1411,3412",
+                    "@type": "sc:Canvas",
+                    "label": "大正9年衆議院議員立候補者(第14回)宮武外骨以外(推薦書・宣言書等) p.18",
+                    "metadata": [
+                        {
+                            "label": "Score",
+                            "value": 0
+                        },
+                        {
+                            "label": "所蔵",
+                            "value": "東京大学"
+                        }
+                    ],
+                    "thumbnail": "https://iiif.dl.itc.u-tokyo.ac.jp/repo/iiif-img/87988/2750,693,1411,3412/,300/0/default.jpg"
+                },
+                {
+                    "@id": "https://iiif.dl.itc.u-tokyo.ac.jp/repo/iiif/5e8b47d7-efff-4b4d-9113-8fa6a0fb991c/canvas/p19#xywh=2774,604,1419,3565",
+                    "@type": "sc:Canvas",
+                    "label": "大正9年衆議院議員立候補者(第14回)宮武外骨以外(推薦書・宣言書等) p.19",
+                    "metadata": [
+                        {
+                            "label": "Score",
+                            "value": 0
+                        },
+                        {
+                            "label": "所蔵",
+                            "value": "東京大学"
+                        }
+                    ],
+                    "thumbnail": "https://iiif.dl.itc.u-tokyo.ac.jp/repo/iiif-img/87989/2774,604,1419,3565/,300/0/default.jpg"
+                },
+                {
+                    "@id": "https://iiif.dl.itc.u-tokyo.ac.jp/repo/iiif/5e8b47d7-efff-4b4d-9113-8fa6a0fb991c/canvas/p20#xywh=8,540,6952,3734",
+                    "@type": "sc:Canvas",
+                    "label": "大正9年衆議院議員立候補者(第14回)宮武外骨以外(推薦書・宣言書等) p.20",
+                    "metadata": [
+                        {
+                            "label": "Score",
+                            "value": 0
+                        },
+                        {
+                            "label": "所蔵",
+                            "value": "東京大学"
+                        }
+                    ],
+                    "thumbnail": "https://iiif.dl.itc.u-tokyo.ac.jp/repo/iiif-img/87990/8,540,6952,3734/,300/0/default.jpg"
+                },
+                {
+                    "@id": "https://iiif.dl.itc.u-tokyo.ac.jp/repo/iiif/5e8b47d7-efff-4b4d-9113-8fa6a0fb991c/canvas/p21#xywh=322,556,6920,3589",
+                    "@type": "sc:Canvas",
+                    "label": "大正9年衆議院議員立候補者(第14回)宮武外骨以外(推薦書・宣言書等) p.21",
+                    "metadata": [
+                        {
+                            "label": "Score",
+                            "value": 0
+                        },
+                        {
+                            "label": "所蔵",
+                            "value": "東京大学"
+                        }
+                    ],
+                    "thumbnail": "https://iiif.dl.itc.u-tokyo.ac.jp/repo/iiif-img/87991/322,556,6920,3589/,300/0/default.jpg"
+                },
+                {
+                    "@id": "https://iiif.dl.itc.u-tokyo.ac.jp/repo/iiif/5e8b47d7-efff-4b4d-9113-8fa6a0fb991c/canvas/p22#xywh=2072,516,2178,3734",
+                    "@type": "sc:Canvas",
+                    "label": "大正9年衆議院議員立候補者(第14回)宮武外骨以外(推薦書・宣言書等) p.22",
+                    "metadata": [
+                        {
+                            "label": "Score",
+                            "value": 0
+                        },
+                        {
+                            "label": "所蔵",
+                            "value": "東京大学"
+                        }
+                    ],
+                    "thumbnail": "https://iiif.dl.itc.u-tokyo.ac.jp/repo/iiif-img/87992/2072,516,2178,3734/,300/0/default.jpg"
+                },
+                {
+                    "@id": "https://iiif.dl.itc.u-tokyo.ac.jp/repo/iiif/5e8b47d7-efff-4b4d-9113-8fa6a0fb991c/canvas/p26#xywh=2443,1532,1315,2532",
+                    "@type": "sc:Canvas",
+                    "label": "大正9年衆議院議員立候補者(第14回)宮武外骨以外(推薦書・宣言書等) p.26",
+                    "metadata": [
+                        {
+                            "label": "Score",
+                            "value": 0
+                        },
+                        {
+                            "label": "所蔵",
+                            "value": "東京大学"
+                        }
+                    ],
+                    "thumbnail": "https://iiif.dl.itc.u-tokyo.ac.jp/repo/iiif-img/87996/2443,1532,1315,2532/,300/0/default.jpg"
+                },
+                {
+                    "@id": "https://iiif.dl.itc.u-tokyo.ac.jp/repo/iiif/5e8b47d7-efff-4b4d-9113-8fa6a0fb991c/canvas/p27#xywh=3105,96,1290,928",
+                    "@type": "sc:Canvas",
+                    "label": "大正9年衆議院議員立候補者(第14回)宮武外骨以外(推薦書・宣言書等) p.27",
+                    "metadata": [
+                        {
+                            "label": "Score",
+                            "value": 0
+                        },
+                        {
+                            "label": "所蔵",
+                            "value": "東京大学"
+                        }
+                    ],
+                    "thumbnail": "https://iiif.dl.itc.u-tokyo.ac.jp/repo/iiif-img/87997/3105,96,1290,928/,300/0/default.jpg"
+                },
+                {
+                    "@id": "https://iiif.dl.itc.u-tokyo.ac.jp/repo/iiif/5e8b47d7-efff-4b4d-9113-8fa6a0fb991c/canvas/p28#xywh=1411,943,4161,2645",
+                    "@type": "sc:Canvas",
+                    "label": "大正9年衆議院議員立候補者(第14回)宮武外骨以外(推薦書・宣言書等) p.28",
+                    "metadata": [
+                        {
+                            "label": "Score",
+                            "value": 0
+                        },
+                        {
+                            "label": "所蔵",
+                            "value": "東京大学"
+                        }
+                    ],
+                    "thumbnail": "https://iiif.dl.itc.u-tokyo.ac.jp/repo/iiif-img/87998/1411,943,4161,2645/,300/0/default.jpg"
+                },
+                {
+                    "@id": "https://iiif.dl.itc.u-tokyo.ac.jp/repo/iiif/5e8b47d7-efff-4b4d-9113-8fa6a0fb991c/canvas/p31#xywh=2879,1169,1572,2379",
+                    "@type": "sc:Canvas",
+                    "label": "大正9年衆議院議員立候補者(第14回)宮武外骨以外(推薦書・宣言書等) p.31",
+                    "metadata": [
+                        {
+                            "label": "Score",
+                            "value": 0
+                        },
+                        {
+                            "label": "所蔵",
+                            "value": "東京大学"
+                        }
+                    ],
+                    "thumbnail": "https://iiif.dl.itc.u-tokyo.ac.jp/repo/iiif-img/88001/2879,1169,1572,2379/,300/0/default.jpg"
+                },
+                {
+                    "@id": "https://iiif.dl.itc.u-tokyo.ac.jp/repo/iiif/5e8b47d7-efff-4b4d-9113-8fa6a0fb991c/canvas/p33#xywh=2742,1193,1338,2283",
+                    "@type": "sc:Canvas",
+                    "label": "大正9年衆議院議員立候補者(第14回)宮武外骨以外(推薦書・宣言書等) p.33",
+                    "metadata": [
+                        {
+                            "label": "Score",
+                            "value": 0
+                        },
+                        {
+                            "label": "所蔵",
+                            "value": "東京大学"
+                        }
+                    ],
+                    "thumbnail": "https://iiif.dl.itc.u-tokyo.ac.jp/repo/iiif-img/88003/2742,1193,1338,2283/,300/0/default.jpg"
+                },
+                {
+                    "@id": "https://iiif.dl.itc.u-tokyo.ac.jp/repo/iiif/5e8b47d7-efff-4b4d-9113-8fa6a0fb991c/canvas/p37#xywh=1774,1161,1774,2556",
+                    "@type": "sc:Canvas",
+                    "label": "大正9年衆議院議員立候補者(第14回)宮武外骨以外(推薦書・宣言書等) p.37",
+                    "metadata": [
+                        {
+                            "label": "Score",
+                            "value": 0
+                        },
+                        {
+                            "label": "所蔵",
+                            "value": "東京大学"
+                        }
+                    ],
+                    "thumbnail": "https://iiif.dl.itc.u-tokyo.ac.jp/repo/iiif-img/88007/1774,1161,1774,2556/,300/0/default.jpg"
+                },
+                {
+                    "@id": "https://iiif.dl.itc.u-tokyo.ac.jp/repo/iiif/5e8b47d7-efff-4b4d-9113-8fa6a0fb991c/canvas/p40#xywh=1725,1032,3484,2847",
+                    "@type": "sc:Canvas",
+                    "label": "大正9年衆議院議員立候補者(第14回)宮武外骨以外(推薦書・宣言書等) p.40",
+                    "metadata": [
+                        {
+                            "label": "Score",
+                            "value": 0
+                        },
+                        {
+                            "label": "所蔵",
+                            "value": "東京大学"
+                        }
+                    ],
+                    "thumbnail": "https://iiif.dl.itc.u-tokyo.ac.jp/repo/iiif-img/88010/1725,1032,3484,2847/,300/0/default.jpg"
+                },
+                {
+                    "@id": "https://iiif.dl.itc.u-tokyo.ac.jp/repo/iiif/5e8b47d7-efff-4b4d-9113-8fa6a0fb991c/canvas/p41#xywh=1814,1024,3323,2855",
+                    "@type": "sc:Canvas",
+                    "label": "大正9年衆議院議員立候補者(第14回)宮武外骨以外(推薦書・宣言書等) p.41",
+                    "metadata": [
+                        {
+                            "label": "Score",
+                            "value": 0
+                        },
+                        {
+                            "label": "所蔵",
+                            "value": "東京大学"
+                        }
+                    ],
+                    "thumbnail": "https://iiif.dl.itc.u-tokyo.ac.jp/repo/iiif-img/88011/1814,1024,3323,2855/,300/0/default.jpg"
+                },
+                {
+                    "@id": "https://iiif.dl.itc.u-tokyo.ac.jp/repo/iiif/5e8b47d7-efff-4b4d-9113-8fa6a0fb991c/canvas/p43#xywh=1758,983,3387,2864",
+                    "@type": "sc:Canvas",
+                    "label": "大正9年衆議院議員立候補者(第14回)宮武外骨以外(推薦書・宣言書等) p.43",
+                    "metadata": [
+                        {
+                            "label": "Score",
+                            "value": 0
+                        },
+                        {
+                            "label": "所蔵",
+                            "value": "東京大学"
+                        }
+                    ],
+                    "thumbnail": "https://iiif.dl.itc.u-tokyo.ac.jp/repo/iiif-img/88013/1758,983,3387,2864/,300/0/default.jpg"
+                },
+                {
+                    "@id": "https://iiif.dl.itc.u-tokyo.ac.jp/repo/iiif/5e8b47d7-efff-4b4d-9113-8fa6a0fb991c/canvas/p45#xywh=1790,951,3339,2936",
+                    "@type": "sc:Canvas",
+                    "label": "大正9年衆議院議員立候補者(第14回)宮武外骨以外(推薦書・宣言書等) p.45",
+                    "metadata": [
+                        {
+                            "label": "Score",
+                            "value": 0
+                        },
+                        {
+                            "label": "所蔵",
+                            "value": "東京大学"
+                        }
+                    ],
+                    "thumbnail": "https://iiif.dl.itc.u-tokyo.ac.jp/repo/iiif-img/88015/1790,951,3339,2936/,300/0/default.jpg"
+                },
+                {
+                    "@id": "https://iiif.dl.itc.u-tokyo.ac.jp/repo/iiif/5e8b47d7-efff-4b4d-9113-8fa6a0fb991c/canvas/p46#xywh=1685,1024,3524,2839",
+                    "@type": "sc:Canvas",
+                    "label": "大正9年衆議院議員立候補者(第14回)宮武外骨以外(推薦書・宣言書等) p.46",
+                    "metadata": [
+                        {
+                            "label": "Score",
+                            "value": 0
+                        },
+                        {
+                            "label": "所蔵",
+                            "value": "東京大学"
+                        }
+                    ],
+                    "thumbnail": "https://iiif.dl.itc.u-tokyo.ac.jp/repo/iiif-img/88016/1685,1024,3524,2839/,300/0/default.jpg"
+                },
+                {
+                    "@id": "https://iiif.dl.itc.u-tokyo.ac.jp/repo/iiif/5e8b47d7-efff-4b4d-9113-8fa6a0fb991c/canvas/p47#xywh=1774,959,3339,2896",
+                    "@type": "sc:Canvas",
+                    "label": "大正9年衆議院議員立候補者(第14回)宮武外骨以外(推薦書・宣言書等) p.47",
+                    "metadata": [
+                        {
+                            "label": "Score",
+                            "value": 0
+                        },
+                        {
+                            "label": "所蔵",
+                            "value": "東京大学"
+                        }
+                    ],
+                    "thumbnail": "https://iiif.dl.itc.u-tokyo.ac.jp/repo/iiif-img/88017/1774,959,3339,2896/,300/0/default.jpg"
+                },
+                {
+                    "@id": "https://iiif.dl.itc.u-tokyo.ac.jp/repo/iiif/5e8b47d7-efff-4b4d-9113-8fa6a0fb991c/canvas/p49#xywh=1750,991,3459,2904",
+                    "@type": "sc:Canvas",
+                    "label": "大正9年衆議院議員立候補者(第14回)宮武外骨以外(推薦書・宣言書等) p.49",
+                    "metadata": [
+                        {
+                            "label": "Score",
+                            "value": 0
+                        },
+                        {
+                            "label": "所蔵",
+                            "value": "東京大学"
+                        }
+                    ],
+                    "thumbnail": "https://iiif.dl.itc.u-tokyo.ac.jp/repo/iiif-img/88019/1750,991,3459,2904/,300/0/default.jpg"
+                },
+                {
+                    "@id": "https://iiif.dl.itc.u-tokyo.ac.jp/repo/iiif/5e8b47d7-efff-4b4d-9113-8fa6a0fb991c/canvas/p50#xywh=1766,1048,3411,2799",
+                    "@type": "sc:Canvas",
+                    "label": "大正9年衆議院議員立候補者(第14回)宮武外骨以外(推薦書・宣言書等) p.50",
+                    "metadata": [
+                        {
+                            "label": "Score",
+                            "value": 0
+                        },
+                        {
+                            "label": "所蔵",
+                            "value": "東京大学"
+                        }
+                    ],
+                    "thumbnail": "https://iiif.dl.itc.u-tokyo.ac.jp/repo/iiif-img/88020/1766,1048,3411,2799/,300/0/default.jpg"
+                },
+                {
+                    "@id": "https://iiif.dl.itc.u-tokyo.ac.jp/repo/iiif/5e8b47d7-efff-4b4d-9113-8fa6a0fb991c/canvas/p53#xywh=1782,1032,3379,2831",
+                    "@type": "sc:Canvas",
+                    "label": "大正9年衆議院議員立候補者(第14回)宮武外骨以外(推薦書・宣言書等) p.53",
+                    "metadata": [
+                        {
+                            "label": "Score",
+                            "value": 0
+                        },
+                        {
+                            "label": "所蔵",
+                            "value": "東京大学"
+                        }
+                    ],
+                    "thumbnail": "https://iiif.dl.itc.u-tokyo.ac.jp/repo/iiif-img/88023/1782,1032,3379,2831/,300/0/default.jpg"
+                },
+                {
+                    "@id": "https://iiif.dl.itc.u-tokyo.ac.jp/repo/iiif/5e8b47d7-efff-4b4d-9113-8fa6a0fb991c/canvas/p55#xywh=1766,983,3379,2864",
+                    "@type": "sc:Canvas",
+                    "label": "大正9年衆議院議員立候補者(第14回)宮武外骨以外(推薦書・宣言書等) p.55",
+                    "metadata": [
+                        {
+                            "label": "Score",
+                            "value": 0
+                        },
+                        {
+                            "label": "所蔵",
+                            "value": "東京大学"
+                        }
+                    ],
+                    "thumbnail": "https://iiif.dl.itc.u-tokyo.ac.jp/repo/iiif-img/88025/1766,983,3379,2864/,300/0/default.jpg"
+                },
+                {
+                    "@id": "https://iiif.dl.itc.u-tokyo.ac.jp/repo/iiif/5e8b47d7-efff-4b4d-9113-8fa6a0fb991c/canvas/p58#xywh=3129,1048,2242,2710",
+                    "@type": "sc:Canvas",
+                    "label": "大正9年衆議院議員立候補者(第14回)宮武外骨以外(推薦書・宣言書等) p.58",
+                    "metadata": [
+                        {
+                            "label": "Score",
+                            "value": 0
+                        },
+                        {
+                            "label": "所蔵",
+                            "value": "東京大学"
+                        }
+                    ],
+                    "thumbnail": "https://iiif.dl.itc.u-tokyo.ac.jp/repo/iiif-img/88028/3129,1048,2242,2710/,300/0/default.jpg"
+                },
+                {
+                    "@id": "https://iiif.dl.itc.u-tokyo.ac.jp/repo/iiif/5e8b47d7-efff-4b4d-9113-8fa6a0fb991c/canvas/p59#xywh=2064,1395,1145,2266",
+                    "@type": "sc:Canvas",
+                    "label": "大正9年衆議院議員立候補者(第14回)宮武外骨以外(推薦書・宣言書等) p.59",
+                    "metadata": [
+                        {
+                            "label": "Score",
+                            "value": 0
+                        },
+                        {
+                            "label": "所蔵",
+                            "value": "東京大学"
+                        },
+                        {
+                            "label": "機械タグ",
+                            "value": "Person"
+                        }
+                    ],
+                    "thumbnail": "https://iiif.dl.itc.u-tokyo.ac.jp/repo/iiif-img/88029/2064,1395,1145,2266/,300/0/default.jpg"
+                },
+                {
+                    "@id": "https://iiif.dl.itc.u-tokyo.ac.jp/repo/iiif/5e8b47d7-efff-4b4d-9113-8fa6a0fb991c/canvas/p59#xywh=3193,871,1250,2242",
+                    "@type": "sc:Canvas",
+                    "label": "大正9年衆議院議員立候補者(第14回)宮武外骨以外(推薦書・宣言書等) p.59",
+                    "metadata": [
+                        {
+                            "label": "Score",
+                            "value": 0
+                        },
+                        {
+                            "label": "所蔵",
+                            "value": "東京大学"
+                        }
+                    ],
+                    "thumbnail": "https://iiif.dl.itc.u-tokyo.ac.jp/repo/iiif-img/88029/3193,871,1250,2242/,300/0/default.jpg"
+                },
+                {
+                    "@id": "https://iiif.dl.itc.u-tokyo.ac.jp/repo/iiif/5e8b47d7-efff-4b4d-9113-8fa6a0fb991c/canvas/p62#xywh=2725,717,1436,3307",
+                    "@type": "sc:Canvas",
+                    "label": "大正9年衆議院議員立候補者(第14回)宮武外骨以外(推薦書・宣言書等) p.62",
+                    "metadata": [
+                        {
+                            "label": "Score",
+                            "value": 0
+                        },
+                        {
+                            "label": "所蔵",
+                            "value": "東京大学"
+                        }
+                    ],
+                    "thumbnail": "https://iiif.dl.itc.u-tokyo.ac.jp/repo/iiif-img/88032/2725,717,1436,3307/,300/0/default.jpg"
+                },
+                {
+                    "@id": "https://iiif.dl.itc.u-tokyo.ac.jp/repo/iiif/5e8b47d7-efff-4b4d-9113-8fa6a0fb991c/canvas/p64#xywh=790,411,6452,3887",
+                    "@type": "sc:Canvas",
+                    "label": "大正9年衆議院議員立候補者(第14回)宮武外骨以外(推薦書・宣言書等) p.64",
+                    "metadata": [
+                        {
+                            "label": "Score",
+                            "value": 0
+                        },
+                        {
+                            "label": "所蔵",
+                            "value": "東京大学"
+                        }
+                    ],
+                    "thumbnail": "https://iiif.dl.itc.u-tokyo.ac.jp/repo/iiif-img/88034/790,411,6452,3887/,300/0/default.jpg"
+                },
+                {
+                    "@id": "https://iiif.dl.itc.u-tokyo.ac.jp/repo/iiif/5e8b47d7-efff-4b4d-9113-8fa6a0fb991c/canvas/p67#xywh=2258,548,1403,3565",
+                    "@type": "sc:Canvas",
+                    "label": "大正9年衆議院議員立候補者(第14回)宮武外骨以外(推薦書・宣言書等) p.67",
+                    "metadata": [
+                        {
+                            "label": "Score",
+                            "value": 0
+                        },
+                        {
+                            "label": "所蔵",
+                            "value": "東京大学"
+                        }
+                    ],
+                    "thumbnail": "https://iiif.dl.itc.u-tokyo.ac.jp/repo/iiif-img/88037/2258,548,1403,3565/,300/0/default.jpg"
+                },
+                {
+                    "@id": "https://iiif.dl.itc.u-tokyo.ac.jp/repo/iiif/5e8b47d7-efff-4b4d-9113-8fa6a0fb991c/canvas/p67#xywh=3492,1000,1177,3016",
+                    "@type": "sc:Canvas",
+                    "label": "大正9年衆議院議員立候補者(第14回)宮武外骨以外(推薦書・宣言書等) p.67",
+                    "metadata": [
+                        {
+                            "label": "Score",
+                            "value": 0
+                        },
+                        {
+                            "label": "所蔵",
+                            "value": "東京大学"
+                        }
+                    ],
+                    "thumbnail": "https://iiif.dl.itc.u-tokyo.ac.jp/repo/iiif-img/88037/3492,1000,1177,3016/,300/0/default.jpg"
+                },
+                {
+                    "@id": "https://iiif.dl.itc.u-tokyo.ac.jp/repo/iiif/5e8b47d7-efff-4b4d-9113-8fa6a0fb991c/canvas/p73#xywh=2717,814,1404,3194",
+                    "@type": "sc:Canvas",
+                    "label": "大正9年衆議院議員立候補者(第14回)宮武外骨以外(推薦書・宣言書等) p.73",
+                    "metadata": [
+                        {
+                            "label": "Score",
+                            "value": 0
+                        },
+                        {
+                            "label": "所蔵",
+                            "value": "東京大学"
+                        }
+                    ],
+                    "thumbnail": "https://iiif.dl.itc.u-tokyo.ac.jp/repo/iiif-img/88043/2717,814,1404,3194/,300/0/default.jpg"
+                },
+                {
+                    "@id": "https://iiif.dl.itc.u-tokyo.ac.jp/repo/iiif/5e8b47d7-efff-4b4d-9113-8fa6a0fb991c/canvas/p79#xywh=2677,564,1484,3524",
+                    "@type": "sc:Canvas",
+                    "label": "大正9年衆議院議員立候補者(第14回)宮武外骨以外(推薦書・宣言書等) p.79",
+                    "metadata": [
+                        {
+                            "label": "Score",
+                            "value": 0
+                        },
+                        {
+                            "label": "所蔵",
+                            "value": "東京大学"
+                        }
+                    ],
+                    "thumbnail": "https://iiif.dl.itc.u-tokyo.ac.jp/repo/iiif-img/88049/2677,564,1484,3524/,300/0/default.jpg"
+                },
+                {
+                    "@id": "https://iiif.dl.itc.u-tokyo.ac.jp/repo/iiif/5e8b47d7-efff-4b4d-9113-8fa6a0fb991c/canvas/p80#xywh=0,524,7073,3677",
+                    "@type": "sc:Canvas",
+                    "label": "大正9年衆議院議員立候補者(第14回)宮武外骨以外(推薦書・宣言書等) p.80",
+                    "metadata": [
+                        {
+                            "label": "Score",
+                            "value": 0
+                        },
+                        {
+                            "label": "所蔵",
+                            "value": "東京大学"
+                        }
+                    ],
+                    "thumbnail": "https://iiif.dl.itc.u-tokyo.ac.jp/repo/iiif-img/88050/0,524,7073,3677/,300/0/default.jpg"
+                },
+                {
+                    "@id": "https://iiif.dl.itc.u-tokyo.ac.jp/repo/iiif/5e8b47d7-efff-4b4d-9113-8fa6a0fb991c/canvas/p81#xywh=1169,572,6073,3468",
+                    "@type": "sc:Canvas",
+                    "label": "大正9年衆議院議員立候補者(第14回)宮武外骨以外(推薦書・宣言書等) p.81",
+                    "metadata": [
+                        {
+                            "label": "Score",
+                            "value": 0
+                        },
+                        {
+                            "label": "所蔵",
+                            "value": "東京大学"
+                        }
+                    ],
+                    "thumbnail": "https://iiif.dl.itc.u-tokyo.ac.jp/repo/iiif-img/88051/1169,572,6073,3468/,300/0/default.jpg"
+                },
+                {
+                    "@id": "https://iiif.dl.itc.u-tokyo.ac.jp/repo/iiif/5e8b47d7-efff-4b4d-9113-8fa6a0fb991c/canvas/p82#xywh=2911,1201,1250,2202",
+                    "@type": "sc:Canvas",
+                    "label": "大正9年衆議院議員立候補者(第14回)宮武外骨以外(推薦書・宣言書等) p.82",
+                    "metadata": [
+                        {
+                            "label": "Score",
+                            "value": 0
+                        },
+                        {
+                            "label": "所蔵",
+                            "value": "東京大学"
+                        }
+                    ],
+                    "thumbnail": "https://iiif.dl.itc.u-tokyo.ac.jp/repo/iiif-img/88052/2911,1201,1250,2202/,300/0/default.jpg"
+                },
+                {
+                    "@id": "https://iiif.dl.itc.u-tokyo.ac.jp/repo/iiif/5e8b47d7-efff-4b4d-9113-8fa6a0fb991c/canvas/p83#xywh=2161,532,1686,3581",
+                    "@type": "sc:Canvas",
+                    "label": "大正9年衆議院議員立候補者(第14回)宮武外骨以外(推薦書・宣言書等) p.83",
+                    "metadata": [
+                        {
+                            "label": "Score",
+                            "value": 0
+                        },
+                        {
+                            "label": "所蔵",
+                            "value": "東京大学"
+                        }
+                    ],
+                    "thumbnail": "https://iiif.dl.itc.u-tokyo.ac.jp/repo/iiif-img/88053/2161,532,1686,3581/,300/0/default.jpg"
+                },
+                {
+                    "@id": "https://iiif.dl.itc.u-tokyo.ac.jp/repo/iiif/5e8b47d7-efff-4b4d-9113-8fa6a0fb991c/canvas/p84#xywh=2742,653,1371,3347",
+                    "@type": "sc:Canvas",
+                    "label": "大正9年衆議院議員立候補者(第14回)宮武外骨以外(推薦書・宣言書等) p.84",
+                    "metadata": [
+                        {
+                            "label": "Score",
+                            "value": 0
+                        },
+                        {
+                            "label": "所蔵",
+                            "value": "東京大学"
+                        }
+                    ],
+                    "thumbnail": "https://iiif.dl.itc.u-tokyo.ac.jp/repo/iiif-img/88054/2742,653,1371,3347/,300/0/default.jpg"
+                },
+                {
+                    "@id": "https://iiif.dl.itc.u-tokyo.ac.jp/repo/iiif/5e8b47d7-efff-4b4d-9113-8fa6a0fb991c/canvas/p85#xywh=2742,500,1411,3588",
+                    "@type": "sc:Canvas",
+                    "label": "大正9年衆議院議員立候補者(第14回)宮武外骨以外(推薦書・宣言書等) p.85",
+                    "metadata": [
+                        {
+                            "label": "Score",
+                            "value": 0
+                        },
+                        {
+                            "label": "所蔵",
+                            "value": "東京大学"
+                        }
+                    ],
+                    "thumbnail": "https://iiif.dl.itc.u-tokyo.ac.jp/repo/iiif-img/88055/2742,500,1411,3588/,300/0/default.jpg"
+                },
+                {
+                    "@id": "https://iiif.dl.itc.u-tokyo.ac.jp/repo/iiif/5e8b47d7-efff-4b4d-9113-8fa6a0fb991c/canvas/p86#xywh=0,766,7234,3532",
+                    "@type": "sc:Canvas",
+                    "label": "大正9年衆議院議員立候補者(第14回)宮武外骨以外(推薦書・宣言書等) p.86",
+                    "metadata": [
+                        {
+                            "label": "Score",
+                            "value": 0
+                        },
+                        {
+                            "label": "所蔵",
+                            "value": "東京大学"
+                        }
+                    ],
+                    "thumbnail": "https://iiif.dl.itc.u-tokyo.ac.jp/repo/iiif-img/88056/0,766,7234,3532/,300/0/default.jpg"
+                },
+                {
+                    "@id": "https://iiif.dl.itc.u-tokyo.ac.jp/repo/iiif/5e8b47d7-efff-4b4d-9113-8fa6a0fb991c/canvas/p90#xywh=2911,1016,1347,2403",
+                    "@type": "sc:Canvas",
+                    "label": "大正9年衆議院議員立候補者(第14回)宮武外骨以外(推薦書・宣言書等) p.90",
+                    "metadata": [
+                        {
+                            "label": "Score",
+                            "value": 0
+                        },
+                        {
+                            "label": "所蔵",
+                            "value": "東京大学"
+                        }
+                    ],
+                    "thumbnail": "https://iiif.dl.itc.u-tokyo.ac.jp/repo/iiif-img/88060/2911,1016,1347,2403/,300/0/default.jpg"
+                },
+                {
+                    "@id": "https://iiif.dl.itc.u-tokyo.ac.jp/repo/iiif/5e8b47d7-efff-4b4d-9113-8fa6a0fb991c/canvas/p93#xywh=2411,1306,1097,2137",
+                    "@type": "sc:Canvas",
+                    "label": "大正9年衆議院議員立候補者(第14回)宮武外骨以外(推薦書・宣言書等) p.93",
+                    "metadata": [
+                        {
+                            "label": "Score",
+                            "value": 0
+                        },
+                        {
+                            "label": "所蔵",
+                            "value": "東京大学"
+                        },
+                        {
+                            "label": "機械タグ",
+                            "value": "Person"
+                        },
+                        {
+                            "label": "機械タグ",
+                            "value": "Man"
+                        }
+                    ],
+                    "thumbnail": "https://iiif.dl.itc.u-tokyo.ac.jp/repo/iiif-img/88063/2411,1306,1097,2137/,300/0/default.jpg"
+                },
+                {
+                    "@id": "https://iiif.dl.itc.u-tokyo.ac.jp/repo/iiif/5e8b47d7-efff-4b4d-9113-8fa6a0fb991c/canvas/p95#xywh=2500,1475,2234,1896",
+                    "@type": "sc:Canvas",
+                    "label": "大正9年衆議院議員立候補者(第14回)宮武外骨以外(推薦書・宣言書等) p.95",
+                    "metadata": [
+                        {
+                            "label": "Score",
+                            "value": 0
+                        },
+                        {
+                            "label": "所蔵",
+                            "value": "東京大学"
+                        }
+                    ],
+                    "thumbnail": "https://iiif.dl.itc.u-tokyo.ac.jp/repo/iiif-img/88065/2500,1475,2234,1896/,300/0/default.jpg"
+                },
+                {
+                    "@id": "https://iiif.dl.itc.u-tokyo.ac.jp/repo/iiif/5e8b47d7-efff-4b4d-9113-8fa6a0fb991c/canvas/p96#xywh=2467,1435,2291,1992",
+                    "@type": "sc:Canvas",
+                    "label": "大正9年衆議院議員立候補者(第14回)宮武外骨以外(推薦書・宣言書等) p.96",
+                    "metadata": [
+                        {
+                            "label": "Score",
+                            "value": 0
+                        },
+                        {
+                            "label": "所蔵",
+                            "value": "東京大学"
+                        }
+                    ],
+                    "thumbnail": "https://iiif.dl.itc.u-tokyo.ac.jp/repo/iiif-img/88066/2467,1435,2291,1992/,300/0/default.jpg"
+                },
+                {
+                    "@id": "https://iiif.dl.itc.u-tokyo.ac.jp/repo/iiif/5e8b47d7-efff-4b4d-9113-8fa6a0fb991c/canvas/p99#xywh=2500,1371,2242,2145",
+                    "@type": "sc:Canvas",
+                    "label": "大正9年衆議院議員立候補者(第14回)宮武外骨以外(推薦書・宣言書等) p.99",
+                    "metadata": [
+                        {
+                            "label": "Score",
+                            "value": 0
+                        },
+                        {
+                            "label": "所蔵",
+                            "value": "東京大学"
+                        }
+                    ],
+                    "thumbnail": "https://iiif.dl.itc.u-tokyo.ac.jp/repo/iiif-img/88069/2500,1371,2242,2145/,300/0/default.jpg"
+                },
+                {
+                    "@id": "https://iiif.dl.itc.u-tokyo.ac.jp/repo/iiif/5e8b47d7-efff-4b4d-9113-8fa6a0fb991c/canvas/p101#xywh=2524,1338,2137,2121",
+                    "@type": "sc:Canvas",
+                    "label": "大正9年衆議院議員立候補者(第14回)宮武外骨以外(推薦書・宣言書等) p.101",
+                    "metadata": [
+                        {
+                            "label": "Score",
+                            "value": 0
+                        },
+                        {
+                            "label": "所蔵",
+                            "value": "東京大学"
+                        }
+                    ],
+                    "thumbnail": "https://iiif.dl.itc.u-tokyo.ac.jp/repo/iiif-img/88071/2524,1338,2137,2121/,300/0/default.jpg"
+                },
+                {
+                    "@id": "https://iiif.dl.itc.u-tokyo.ac.jp/repo/iiif/5e8b47d7-efff-4b4d-9113-8fa6a0fb991c/canvas/p102#xywh=2524,1443,2177,1887",
+                    "@type": "sc:Canvas",
+                    "label": "大正9年衆議院議員立候補者(第14回)宮武外骨以外(推薦書・宣言書等) p.102",
+                    "metadata": [
+                        {
+                            "label": "Score",
+                            "value": 0
+                        },
+                        {
+                            "label": "所蔵",
+                            "value": "東京大学"
+                        }
+                    ],
+                    "thumbnail": "https://iiif.dl.itc.u-tokyo.ac.jp/repo/iiif-img/88072/2524,1443,2177,1887/,300/0/default.jpg"
+                },
+                {
+                    "@id": "https://iiif.dl.itc.u-tokyo.ac.jp/repo/iiif/5e8b47d7-efff-4b4d-9113-8fa6a0fb991c/canvas/p104#xywh=2500,1338,2193,2121",
+                    "@type": "sc:Canvas",
+                    "label": "大正9年衆議院議員立候補者(第14回)宮武外骨以外(推薦書・宣言書等) p.104",
+                    "metadata": [
+                        {
+                            "label": "Score",
+                            "value": 0
+                        },
+                        {
+                            "label": "所蔵",
+                            "value": "東京大学"
+                        }
+                    ],
+                    "thumbnail": "https://iiif.dl.itc.u-tokyo.ac.jp/repo/iiif-img/88074/2500,1338,2193,2121/,300/0/default.jpg"
+                },
+                {
+                    "@id": "https://iiif.dl.itc.u-tokyo.ac.jp/repo/iiif/5e8b47d7-efff-4b4d-9113-8fa6a0fb991c/canvas/p105#xywh=2492,1338,2290,2081",
+                    "@type": "sc:Canvas",
+                    "label": "大正9年衆議院議員立候補者(第14回)宮武外骨以外(推薦書・宣言書等) p.105",
+                    "metadata": [
+                        {
+                            "label": "Score",
+                            "value": 0
+                        },
+                        {
+                            "label": "所蔵",
+                            "value": "東京大学"
+                        }
+                    ],
+                    "thumbnail": "https://iiif.dl.itc.u-tokyo.ac.jp/repo/iiif-img/88075/2492,1338,2290,2081/,300/0/default.jpg"
+                },
+                {
+                    "@id": "https://iiif.dl.itc.u-tokyo.ac.jp/repo/iiif/5e8b47d7-efff-4b4d-9113-8fa6a0fb991c/canvas/p106#xywh=2484,1338,2242,2170",
+                    "@type": "sc:Canvas",
+                    "label": "大正9年衆議院議員立候補者(第14回)宮武外骨以外(推薦書・宣言書等) p.106",
+                    "metadata": [
+                        {
+                            "label": "Score",
+                            "value": 0
+                        },
+                        {
+                            "label": "所蔵",
+                            "value": "東京大学"
+                        }
+                    ],
+                    "thumbnail": "https://iiif.dl.itc.u-tokyo.ac.jp/repo/iiif-img/88076/2484,1338,2242,2170/,300/0/default.jpg"
+                },
+                {
+                    "@id": "https://iiif.dl.itc.u-tokyo.ac.jp/repo/iiif/5e8b47d7-efff-4b4d-9113-8fa6a0fb991c/canvas/p109#xywh=2580,1362,2146,2073",
+                    "@type": "sc:Canvas",
+                    "label": "大正9年衆議院議員立候補者(第14回)宮武外骨以外(推薦書・宣言書等) p.109",
+                    "metadata": [
+                        {
+                            "label": "Score",
+                            "value": 0
+                        },
+                        {
+                            "label": "所蔵",
+                            "value": "東京大学"
+                        }
+                    ],
+                    "thumbnail": "https://iiif.dl.itc.u-tokyo.ac.jp/repo/iiif-img/88079/2580,1362,2146,2073/,300/0/default.jpg"
+                },
+                {
+                    "@id": "https://iiif.dl.itc.u-tokyo.ac.jp/repo/iiif/5e8b47d7-efff-4b4d-9113-8fa6a0fb991c/canvas/p124#xywh=2750,1556,1500,1911",
+                    "@type": "sc:Canvas",
+                    "label": "大正9年衆議院議員立候補者(第14回)宮武外骨以外(推薦書・宣言書等) p.124",
+                    "metadata": [
+                        {
+                            "label": "Score",
+                            "value": 0
+                        },
+                        {
+                            "label": "所蔵",
+                            "value": "東京大学"
+                        },
+                        {
+                            "label": "機械タグ",
+                            "value": "Kitchenware"
+                        },
+                        {
+                            "label": "機械タグ",
+                            "value": "Tableware"
+                        }
+                    ],
+                    "thumbnail": "https://iiif.dl.itc.u-tokyo.ac.jp/repo/iiif-img/88094/2750,1556,1500,1911/,300/0/default.jpg"
+                },
+                {
+                    "@id": "https://iiif.dl.itc.u-tokyo.ac.jp/repo/iiif/5e8b47d7-efff-4b4d-9113-8fa6a0fb991c/canvas/p127#xywh=2798,959,1500,2226",
+                    "@type": "sc:Canvas",
+                    "label": "大正9年衆議院議員立候補者(第14回)宮武外骨以外(推薦書・宣言書等) p.127",
+                    "metadata": [
+                        {
+                            "label": "Score",
+                            "value": 0
+                        },
+                        {
+                            "label": "所蔵",
+                            "value": "東京大学"
+                        }
+                    ],
+                    "thumbnail": "https://iiif.dl.itc.u-tokyo.ac.jp/repo/iiif-img/88097/2798,959,1500,2226/,300/0/default.jpg"
+                },
+                {
+                    "@id": "https://iiif.dl.itc.u-tokyo.ac.jp/repo/iiif/5e8b47d7-efff-4b4d-9113-8fa6a0fb991c/canvas/p129#xywh=2822,1064,1589,2662",
+                    "@type": "sc:Canvas",
+                    "label": "大正9年衆議院議員立候補者(第14回)宮武外骨以外(推薦書・宣言書等) p.129",
+                    "metadata": [
+                        {
+                            "label": "Score",
+                            "value": 0
+                        },
+                        {
+                            "label": "所蔵",
+                            "value": "東京大学"
+                        }
+                    ],
+                    "thumbnail": "https://iiif.dl.itc.u-tokyo.ac.jp/repo/iiif-img/88099/2822,1064,1589,2662/,300/0/default.jpg"
+                },
+                {
+                    "@id": "https://iiif.dl.itc.u-tokyo.ac.jp/repo/iiif/5e8b47d7-efff-4b4d-9113-8fa6a0fb991c/canvas/p131#xywh=3532,967,1097,3250",
+                    "@type": "sc:Canvas",
+                    "label": "大正9年衆議院議員立候補者(第14回)宮武外骨以外(推薦書・宣言書等) p.131",
+                    "metadata": [
+                        {
+                            "label": "Score",
+                            "value": 0
+                        },
+                        {
+                            "label": "所蔵",
+                            "value": "東京大学"
+                        }
+                    ],
+                    "thumbnail": "https://iiif.dl.itc.u-tokyo.ac.jp/repo/iiif-img/88101/3532,967,1097,3250/,300/0/default.jpg"
+                },
+                {
+                    "@id": "https://iiif.dl.itc.u-tokyo.ac.jp/repo/iiif/5e8b47d7-efff-4b4d-9113-8fa6a0fb991c/canvas/p131#xywh=2193,548,1581,3516",
+                    "@type": "sc:Canvas",
+                    "label": "大正9年衆議院議員立候補者(第14回)宮武外骨以外(推薦書・宣言書等) p.131",
+                    "metadata": [
+                        {
+                            "label": "Score",
+                            "value": 0
+                        },
+                        {
+                            "label": "所蔵",
+                            "value": "東京大学"
+                        }
+                    ],
+                    "thumbnail": "https://iiif.dl.itc.u-tokyo.ac.jp/repo/iiif-img/88101/2193,548,1581,3516/,300/0/default.jpg"
+                },
+                {
+                    "@id": "https://iiif.dl.itc.u-tokyo.ac.jp/repo/iiif/5e8b47d7-efff-4b4d-9113-8fa6a0fb991c/canvas/p133#xywh=2750,701,1443,3436",
+                    "@type": "sc:Canvas",
+                    "label": "大正9年衆議院議員立候補者(第14回)宮武外骨以外(推薦書・宣言書等) p.133",
+                    "metadata": [
+                        {
+                            "label": "Score",
+                            "value": 0
+                        },
+                        {
+                            "label": "所蔵",
+                            "value": "東京大学"
+                        }
+                    ],
+                    "thumbnail": "https://iiif.dl.itc.u-tokyo.ac.jp/repo/iiif-img/88103/2750,701,1443,3436/,300/0/default.jpg"
+                },
+                {
+                    "@id": "https://iiif.dl.itc.u-tokyo.ac.jp/repo/iiif/5e8b47d7-efff-4b4d-9113-8fa6a0fb991c/canvas/p134#xywh=0,548,6766,3540",
+                    "@type": "sc:Canvas",
+                    "label": "大正9年衆議院議員立候補者(第14回)宮武外骨以外(推薦書・宣言書等) p.134",
+                    "metadata": [
+                        {
+                            "label": "Score",
+                            "value": 0
+                        },
+                        {
+                            "label": "所蔵",
+                            "value": "東京大学"
+                        }
+                    ],
+                    "thumbnail": "https://iiif.dl.itc.u-tokyo.ac.jp/repo/iiif-img/88104/0,548,6766,3540/,300/0/default.jpg"
+                },
+                {
+                    "@id": "https://iiif.dl.itc.u-tokyo.ac.jp/repo/iiif/5e8b47d7-efff-4b4d-9113-8fa6a0fb991c/canvas/p135#xywh=887,572,6355,3468",
+                    "@type": "sc:Canvas",
+                    "label": "大正9年衆議院議員立候補者(第14回)宮武外骨以外(推薦書・宣言書等) p.135",
+                    "metadata": [
+                        {
+                            "label": "Score",
+                            "value": 0
+                        },
+                        {
+                            "label": "所蔵",
+                            "value": "東京大学"
+                        }
+                    ],
+                    "thumbnail": "https://iiif.dl.itc.u-tokyo.ac.jp/repo/iiif-img/88105/887,572,6355,3468/,300/0/default.jpg"
+                },
+                {
+                    "@id": "https://iiif.dl.itc.u-tokyo.ac.jp/repo/iiif/5e8b47d7-efff-4b4d-9113-8fa6a0fb991c/canvas/p140#xywh=2451,1419,1637,2137",
+                    "@type": "sc:Canvas",
+                    "label": "大正9年衆議院議員立候補者(第14回)宮武外骨以外(推薦書・宣言書等) p.140",
+                    "metadata": [
+                        {
+                            "label": "Score",
+                            "value": 0
+                        },
+                        {
+                            "label": "所蔵",
+                            "value": "東京大学"
+                        },
+                        {
+                            "label": "機械タグ",
+                            "value": "Animal"
+                        }
+                    ],
+                    "thumbnail": "https://iiif.dl.itc.u-tokyo.ac.jp/repo/iiif-img/88110/2451,1419,1637,2137/,300/0/default.jpg"
+                },
+                {
+                    "@id": "https://iiif.dl.itc.u-tokyo.ac.jp/repo/iiif/5e8b47d7-efff-4b4d-9113-8fa6a0fb991c/canvas/p141#xywh=3758,677,1040,3718",
+                    "@type": "sc:Canvas",
+                    "label": "大正9年衆議院議員立候補者(第14回)宮武外骨以外(推薦書・宣言書等) p.141",
+                    "metadata": [
+                        {
+                            "label": "Score",
+                            "value": 0
+                        },
+                        {
+                            "label": "所蔵",
+                            "value": "東京大学"
+                        }
+                    ],
+                    "thumbnail": "https://iiif.dl.itc.u-tokyo.ac.jp/repo/iiif-img/88111/3758,677,1040,3718/,300/0/default.jpg"
+                },
+                {
+                    "@id": "https://iiif.dl.itc.u-tokyo.ac.jp/repo/iiif/5e8b47d7-efff-4b4d-9113-8fa6a0fb991c/canvas/p141#xywh=2177,475,1597,3597",
+                    "@type": "sc:Canvas",
+                    "label": "大正9年衆議院議員立候補者(第14回)宮武外骨以外(推薦書・宣言書等) p.141",
+                    "metadata": [
+                        {
+                            "label": "Score",
+                            "value": 0
+                        },
+                        {
+                            "label": "所蔵",
+                            "value": "東京大学"
+                        }
+                    ],
+                    "thumbnail": "https://iiif.dl.itc.u-tokyo.ac.jp/repo/iiif-img/88111/2177,475,1597,3597/,300/0/default.jpg"
+                }
+            ],
+            "within": {
+                "@id": "https://iiif.dl.itc.u-tokyo.ac.jp/repo/iiif/5e8b47d7-efff-4b4d-9113-8fa6a0fb991c/manifest",
+                "@type": "sc:Manifest",
+                "label": "大正9年衆議院議員立候補者(第14回)宮武外骨以外(推薦書・宣言書等)"
+            }
+        }
+    ]
+}

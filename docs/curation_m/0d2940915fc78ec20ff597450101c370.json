@@ -1,0 +1,167 @@
+{
+    "@context": [
+        "http://iiif.io/api/presentation/2/context.json",
+        "http://codh.rois.ac.jp/iiif/curation/1/context.json"
+    ],
+    "@id": "https://nakamura196.github.io/gaikotsu-i/curation_m/0d2940915fc78ec20ff597450101c370.json",
+    "@type": "cr:Curation",
+    "label": "Curating list",
+    "selections": [
+        {
+            "@id": "https://nakamura196.github.io/gaikotsu-i/curation_m/0d2940915fc78ec20ff597450101c370.json/range1",
+            "@type": "sc:Range",
+            "label": "Manual curation by IIIF Curation Viewer",
+            "members": [
+                {
+                    "@id": "https://iiif.dl.itc.u-tokyo.ac.jp/repo/iiif/1c8473e0-0c84-4601-a2b7-ea85bfc0e5e6/canvas/p1#xywh=1274,96,2669,4339",
+                    "@type": "sc:Canvas",
+                    "label": "徳川時代 絶版圖書展覽目録 p.1",
+                    "metadata": [
+                        {
+                            "label": "Score",
+                            "value": 0
+                        },
+                        {
+                            "label": "所蔵",
+                            "value": "東京大学"
+                        }
+                    ],
+                    "thumbnail": "https://iiif.dl.itc.u-tokyo.ac.jp/repo/iiif-img/82710/1274,96,2669,4339/,300/0/default.jpg"
+                },
+                {
+                    "@id": "https://iiif.dl.itc.u-tokyo.ac.jp/repo/iiif/1c8473e0-0c84-4601-a2b7-ea85bfc0e5e6/canvas/p2#xywh=1508,959,3879,3170",
+                    "@type": "sc:Canvas",
+                    "label": "徳川時代 絶版圖書展覽目録 p.2",
+                    "metadata": [
+                        {
+                            "label": "Score",
+                            "value": 0
+                        },
+                        {
+                            "label": "所蔵",
+                            "value": "東京大学"
+                        }
+                    ],
+                    "thumbnail": "https://iiif.dl.itc.u-tokyo.ac.jp/repo/iiif-img/82711/1508,959,3879,3170/,300/0/default.jpg"
+                },
+                {
+                    "@id": "https://iiif.dl.itc.u-tokyo.ac.jp/repo/iiif/1c8473e0-0c84-4601-a2b7-ea85bfc0e5e6/canvas/p2#xywh=3677,709,2049,3694",
+                    "@type": "sc:Canvas",
+                    "label": "徳川時代 絶版圖書展覽目録 p.2",
+                    "metadata": [
+                        {
+                            "label": "Score",
+                            "value": 0
+                        },
+                        {
+                            "label": "所蔵",
+                            "value": "東京大学"
+                        }
+                    ],
+                    "thumbnail": "https://iiif.dl.itc.u-tokyo.ac.jp/repo/iiif-img/82711/3677,709,2049,3694/,300/0/default.jpg"
+                },
+                {
+                    "@id": "https://iiif.dl.itc.u-tokyo.ac.jp/repo/iiif/1c8473e0-0c84-4601-a2b7-ea85bfc0e5e6/canvas/p3#xywh=951,725,4670,3589",
+                    "@type": "sc:Canvas",
+                    "label": "徳川時代 絶版圖書展覽目録 p.3",
+                    "metadata": [
+                        {
+                            "label": "Score",
+                            "value": 0
+                        },
+                        {
+                            "label": "所蔵",
+                            "value": "東京大学"
+                        }
+                    ],
+                    "thumbnail": "https://iiif.dl.itc.u-tokyo.ac.jp/repo/iiif-img/82712/951,725,4670,3589/,300/0/default.jpg"
+                },
+                {
+                    "@id": "https://iiif.dl.itc.u-tokyo.ac.jp/repo/iiif/1c8473e0-0c84-4601-a2b7-ea85bfc0e5e6/canvas/p6#xywh=3322,56,2839,4629",
+                    "@type": "sc:Canvas",
+                    "label": "徳川時代 絶版圖書展覽目録 p.6",
+                    "metadata": [
+                        {
+                            "label": "Score",
+                            "value": 0
+                        },
+                        {
+                            "label": "所蔵",
+                            "value": "東京大学"
+                        }
+                    ],
+                    "thumbnail": "https://iiif.dl.itc.u-tokyo.ac.jp/repo/iiif-img/82715/3322,56,2839,4629/,300/0/default.jpg"
+                },
+                {
+                    "@id": "https://iiif.dl.itc.u-tokyo.ac.jp/repo/iiif/1c8473e0-0c84-4601-a2b7-ea85bfc0e5e6/canvas/p8#xywh=1266,693,3710,3508",
+                    "@type": "sc:Canvas",
+                    "label": "徳川時代 絶版圖書展覽目録 p.8",
+                    "metadata": [
+                        {
+                            "label": "Score",
+                            "value": 0
+                        },
+                        {
+                            "label": "所蔵",
+                            "value": "東京大学"
+                        }
+                    ],
+                    "thumbnail": "https://iiif.dl.itc.u-tokyo.ac.jp/repo/iiif-img/82717/1266,693,3710,3508/,300/0/default.jpg"
+                },
+                {
+                    "@id": "https://iiif.dl.itc.u-tokyo.ac.jp/repo/iiif/1c8473e0-0c84-4601-a2b7-ea85bfc0e5e6/canvas/p9#xywh=1193,556,3984,3629",
+                    "@type": "sc:Canvas",
+                    "label": "徳川時代 絶版圖書展覽目録 p.9",
+                    "metadata": [
+                        {
+                            "label": "Score",
+                            "value": 0
+                        },
+                        {
+                            "label": "所蔵",
+                            "value": "東京大学"
+                        }
+                    ],
+                    "thumbnail": "https://iiif.dl.itc.u-tokyo.ac.jp/repo/iiif-img/82718/1193,556,3984,3629/,300/0/default.jpg"
+                },
+                {
+                    "@id": "https://iiif.dl.itc.u-tokyo.ac.jp/repo/iiif/1c8473e0-0c84-4601-a2b7-ea85bfc0e5e6/canvas/p10#xywh=1322,564,3734,3597",
+                    "@type": "sc:Canvas",
+                    "label": "徳川時代 絶版圖書展覽目録 p.10",
+                    "metadata": [
+                        {
+                            "label": "Score",
+                            "value": 0
+                        },
+                        {
+                            "label": "所蔵",
+                            "value": "東京大学"
+                        }
+                    ],
+                    "thumbnail": "https://iiif.dl.itc.u-tokyo.ac.jp/repo/iiif-img/82719/1322,564,3734,3597/,300/0/default.jpg"
+                },
+                {
+                    "@id": "https://iiif.dl.itc.u-tokyo.ac.jp/repo/iiif/1c8473e0-0c84-4601-a2b7-ea85bfc0e5e6/canvas/p11#xywh=1233,814,4065,3186",
+                    "@type": "sc:Canvas",
+                    "label": "徳川時代 絶版圖書展覽目録 p.11",
+                    "metadata": [
+                        {
+                            "label": "Score",
+                            "value": 0
+                        },
+                        {
+                            "label": "所蔵",
+                            "value": "東京大学"
+                        }
+                    ],
+                    "thumbnail": "https://iiif.dl.itc.u-tokyo.ac.jp/repo/iiif-img/82720/1233,814,4065,3186/,300/0/default.jpg"
+                }
+            ],
+            "within": {
+                "@id": "https://iiif.dl.itc.u-tokyo.ac.jp/repo/iiif/1c8473e0-0c84-4601-a2b7-ea85bfc0e5e6/manifest",
+                "@type": "sc:Manifest",
+                "label": "徳川時代 絶版圖書展覽目録"
+            }
+        }
+    ]
+}

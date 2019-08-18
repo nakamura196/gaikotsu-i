@@ -1,0 +1,287 @@
+{
+    "@context": [
+        "http://iiif.io/api/presentation/2/context.json",
+        "http://codh.rois.ac.jp/iiif/curation/1/context.json"
+    ],
+    "@id": "https://nakamura196.github.io/gaikotsu-i/curation_m/abac9a095900d572ac79e2e234deebae.json",
+    "@type": "cr:Curation",
+    "label": "Curating list",
+    "selections": [
+        {
+            "@id": "https://nakamura196.github.io/gaikotsu-i/curation_m/abac9a095900d572ac79e2e234deebae.json/range1",
+            "@type": "sc:Range",
+            "label": "Manual curation by IIIF Curation Viewer",
+            "members": [
+                {
+                    "@id": "https://iiif.dl.itc.u-tokyo.ac.jp/repo/iiif/64f71938-0b94-4371-90a5-4f2d4a77f12b/canvas/p2#xywh=959,621,2299,3379",
+                    "@type": "sc:Canvas",
+                    "label": "秘密出版物全集 p.2",
+                    "metadata": [
+                        {
+                            "label": "Score",
+                            "value": 0
+                        },
+                        {
+                            "label": "所蔵",
+                            "value": "東京大学"
+                        }
+                    ],
+                    "thumbnail": "https://iiif.dl.itc.u-tokyo.ac.jp/repo/iiif-img/85758/959,621,2299,3379/,300/0/default.jpg"
+                },
+                {
+                    "@id": "https://iiif.dl.itc.u-tokyo.ac.jp/repo/iiif/64f71938-0b94-4371-90a5-4f2d4a77f12b/canvas/p3#xywh=766,169,5395,4492",
+                    "@type": "sc:Canvas",
+                    "label": "秘密出版物全集 p.3",
+                    "metadata": [
+                        {
+                            "label": "Score",
+                            "value": 0
+                        },
+                        {
+                            "label": "所蔵",
+                            "value": "東京大学"
+                        },
+                        {
+                            "label": "機械タグ",
+                            "value": "Picture frame"
+                        }
+                    ],
+                    "thumbnail": "https://iiif.dl.itc.u-tokyo.ac.jp/repo/iiif-img/85759/766,169,5395,4492/,300/0/default.jpg"
+                },
+                {
+                    "@id": "https://iiif.dl.itc.u-tokyo.ac.jp/repo/iiif/64f71938-0b94-4371-90a5-4f2d4a77f12b/canvas/p7#xywh=572,459,5799,3912",
+                    "@type": "sc:Canvas",
+                    "label": "秘密出版物全集 p.7",
+                    "metadata": [
+                        {
+                            "label": "Score",
+                            "value": 0
+                        },
+                        {
+                            "label": "所蔵",
+                            "value": "東京大学"
+                        }
+                    ],
+                    "thumbnail": "https://iiif.dl.itc.u-tokyo.ac.jp/repo/iiif-img/85763/572,459,5799,3912/,300/0/default.jpg"
+                },
+                {
+                    "@id": "https://iiif.dl.itc.u-tokyo.ac.jp/repo/iiif/64f71938-0b94-4371-90a5-4f2d4a77f12b/canvas/p8#xywh=661,427,5653,3863",
+                    "@type": "sc:Canvas",
+                    "label": "秘密出版物全集 p.8",
+                    "metadata": [
+                        {
+                            "label": "Score",
+                            "value": 0
+                        },
+                        {
+                            "label": "所蔵",
+                            "value": "東京大学"
+                        },
+                        {
+                            "label": "機械タグ",
+                            "value": "Door"
+                        }
+                    ],
+                    "thumbnail": "https://iiif.dl.itc.u-tokyo.ac.jp/repo/iiif-img/85764/661,427,5653,3863/,300/0/default.jpg"
+                },
+                {
+                    "@id": "https://iiif.dl.itc.u-tokyo.ac.jp/repo/iiif/64f71938-0b94-4371-90a5-4f2d4a77f12b/canvas/p11#xywh=871,524,4548,3637",
+                    "@type": "sc:Canvas",
+                    "label": "秘密出版物全集 p.11",
+                    "metadata": [
+                        {
+                            "label": "Score",
+                            "value": 0
+                        },
+                        {
+                            "label": "所蔵",
+                            "value": "東京大学"
+                        }
+                    ],
+                    "thumbnail": "https://iiif.dl.itc.u-tokyo.ac.jp/repo/iiif-img/85767/871,524,4548,3637/,300/0/default.jpg"
+                },
+                {
+                    "@id": "https://iiif.dl.itc.u-tokyo.ac.jp/repo/iiif/64f71938-0b94-4371-90a5-4f2d4a77f12b/canvas/p12#xywh=1016,645,2226,3395",
+                    "@type": "sc:Canvas",
+                    "label": "秘密出版物全集 p.12",
+                    "metadata": [
+                        {
+                            "label": "Score",
+                            "value": 0
+                        },
+                        {
+                            "label": "所蔵",
+                            "value": "東京大学"
+                        }
+                    ],
+                    "thumbnail": "https://iiif.dl.itc.u-tokyo.ac.jp/repo/iiif-img/85768/1016,645,2226,3395/,300/0/default.jpg"
+                },
+                {
+                    "@id": "https://iiif.dl.itc.u-tokyo.ac.jp/repo/iiif/64f71938-0b94-4371-90a5-4f2d4a77f12b/canvas/p14#xywh=2903,475,2702,3807",
+                    "@type": "sc:Canvas",
+                    "label": "秘密出版物全集 p.14",
+                    "metadata": [
+                        {
+                            "label": "Score",
+                            "value": 0
+                        },
+                        {
+                            "label": "所蔵",
+                            "value": "東京大学"
+                        }
+                    ],
+                    "thumbnail": "https://iiif.dl.itc.u-tokyo.ac.jp/repo/iiif-img/85770/2903,475,2702,3807/,300/0/default.jpg"
+                },
+                {
+                    "@id": "https://iiif.dl.itc.u-tokyo.ac.jp/repo/iiif/64f71938-0b94-4371-90a5-4f2d4a77f12b/canvas/p18#xywh=758,282,5524,3871",
+                    "@type": "sc:Canvas",
+                    "label": "秘密出版物全集 p.18",
+                    "metadata": [
+                        {
+                            "label": "Score",
+                            "value": 0
+                        },
+                        {
+                            "label": "所蔵",
+                            "value": "東京大学"
+                        }
+                    ],
+                    "thumbnail": "https://iiif.dl.itc.u-tokyo.ac.jp/repo/iiif-img/85774/758,282,5524,3871/,300/0/default.jpg"
+                },
+                {
+                    "@id": "https://iiif.dl.itc.u-tokyo.ac.jp/repo/iiif/64f71938-0b94-4371-90a5-4f2d4a77f12b/canvas/p19#xywh=1024,677,2072,3331",
+                    "@type": "sc:Canvas",
+                    "label": "秘密出版物全集 p.19",
+                    "metadata": [
+                        {
+                            "label": "Score",
+                            "value": 0
+                        },
+                        {
+                            "label": "所蔵",
+                            "value": "東京大学"
+                        }
+                    ],
+                    "thumbnail": "https://iiif.dl.itc.u-tokyo.ac.jp/repo/iiif-img/85775/1024,677,2072,3331/,300/0/default.jpg"
+                },
+                {
+                    "@id": "https://iiif.dl.itc.u-tokyo.ac.jp/repo/iiif/64f71938-0b94-4371-90a5-4f2d4a77f12b/canvas/p19#xywh=685,370,5516,4049",
+                    "@type": "sc:Canvas",
+                    "label": "秘密出版物全集 p.19",
+                    "metadata": [
+                        {
+                            "label": "Score",
+                            "value": 0
+                        },
+                        {
+                            "label": "所蔵",
+                            "value": "東京大学"
+                        }
+                    ],
+                    "thumbnail": "https://iiif.dl.itc.u-tokyo.ac.jp/repo/iiif-img/85775/685,370,5516,4049/,300/0/default.jpg"
+                },
+                {
+                    "@id": "https://iiif.dl.itc.u-tokyo.ac.jp/repo/iiif/64f71938-0b94-4371-90a5-4f2d4a77f12b/canvas/p20#xywh=1000,225,5250,4267",
+                    "@type": "sc:Canvas",
+                    "label": "秘密出版物全集 p.20",
+                    "metadata": [
+                        {
+                            "label": "Score",
+                            "value": 0
+                        },
+                        {
+                            "label": "所蔵",
+                            "value": "東京大学"
+                        }
+                    ],
+                    "thumbnail": "https://iiif.dl.itc.u-tokyo.ac.jp/repo/iiif-img/85776/1000,225,5250,4267/,300/0/default.jpg"
+                },
+                {
+                    "@id": "https://iiif.dl.itc.u-tokyo.ac.jp/repo/iiif/64f71938-0b94-4371-90a5-4f2d4a77f12b/canvas/p22#xywh=653,193,5621,4565",
+                    "@type": "sc:Canvas",
+                    "label": "秘密出版物全集 p.22",
+                    "metadata": [
+                        {
+                            "label": "Score",
+                            "value": 0
+                        },
+                        {
+                            "label": "所蔵",
+                            "value": "東京大学"
+                        },
+                        {
+                            "label": "機械タグ",
+                            "value": "Picture frame"
+                        }
+                    ],
+                    "thumbnail": "https://iiif.dl.itc.u-tokyo.ac.jp/repo/iiif-img/85778/653,193,5621,4565/,300/0/default.jpg"
+                },
+                {
+                    "@id": "https://iiif.dl.itc.u-tokyo.ac.jp/repo/iiif/64f71938-0b94-4371-90a5-4f2d4a77f12b/canvas/p25#xywh=3024,629,2573,3484",
+                    "@type": "sc:Canvas",
+                    "label": "秘密出版物全集 p.25",
+                    "metadata": [
+                        {
+                            "label": "Score",
+                            "value": 0
+                        },
+                        {
+                            "label": "所蔵",
+                            "value": "東京大学"
+                        }
+                    ],
+                    "thumbnail": "https://iiif.dl.itc.u-tokyo.ac.jp/repo/iiif-img/85781/3024,629,2573,3484/,300/0/default.jpg"
+                },
+                {
+                    "@id": "https://iiif.dl.itc.u-tokyo.ac.jp/repo/iiif/64f71938-0b94-4371-90a5-4f2d4a77f12b/canvas/p25#xywh=1532,201,5178,4242",
+                    "@type": "sc:Canvas",
+                    "label": "秘密出版物全集 p.25",
+                    "metadata": [
+                        {
+                            "label": "Score",
+                            "value": 0
+                        },
+                        {
+                            "label": "所蔵",
+                            "value": "東京大学"
+                        },
+                        {
+                            "label": "機械タグ",
+                            "value": "Mirror"
+                        }
+                    ],
+                    "thumbnail": "https://iiif.dl.itc.u-tokyo.ac.jp/repo/iiif-img/85781/1532,201,5178,4242/,300/0/default.jpg"
+                },
+                {
+                    "@id": "https://iiif.dl.itc.u-tokyo.ac.jp/repo/iiif/64f71938-0b94-4371-90a5-4f2d4a77f12b/canvas/p26#xywh=3330,516,2492,3710",
+                    "@type": "sc:Canvas",
+                    "label": "秘密出版物全集 p.26",
+                    "metadata": [
+                        {
+                            "label": "Score",
+                            "value": 0
+                        },
+                        {
+                            "label": "所蔵",
+                            "value": "東京大学"
+                        },
+                        {
+                            "label": "機械タグ",
+                            "value": "Animal"
+                        },
+                        {
+                            "label": "機械タグ",
+                            "value": "Bird"
+                        }
+                    ],
+                    "thumbnail": "https://iiif.dl.itc.u-tokyo.ac.jp/repo/iiif-img/85782/3330,516,2492,3710/,300/0/default.jpg"
+                }
+            ],
+            "within": {
+                "@id": "https://iiif.dl.itc.u-tokyo.ac.jp/repo/iiif/64f71938-0b94-4371-90a5-4f2d4a77f12b/manifest",
+                "@type": "sc:Manifest",
+                "label": "秘密出版物全集"
+            }
+        }
+    ]
+}

@@ -1,0 +1,39 @@
+{
+    "@context": [
+        "http://iiif.io/api/presentation/2/context.json",
+        "http://codh.rois.ac.jp/iiif/curation/1/context.json"
+    ],
+    "@id": "https://nakamura196.github.io/gaikotsu-i/curation_m/707ed5d1532a810f5cc9f68b07369c4a.json",
+    "@type": "cr:Curation",
+    "label": "Curating list",
+    "selections": [
+        {
+            "@id": "https://nakamura196.github.io/gaikotsu-i/curation_m/707ed5d1532a810f5cc9f68b07369c4a.json/range1",
+            "@type": "sc:Range",
+            "label": "Manual curation by IIIF Curation Viewer",
+            "members": [
+                {
+                    "@id": "https://iiif.dl.itc.u-tokyo.ac.jp/repo/iiif/2e2175cc-bc99-497e-a058-baef01d19eea/canvas/p2#xywh=2431,769,2636,3242",
+                    "@type": "sc:Canvas",
+                    "label": "[広告「興味雑誌 奇」] p.2",
+                    "metadata": [
+                        {
+                            "label": "Score",
+                            "value": 0
+                        },
+                        {
+                            "label": "所蔵",
+                            "value": "東京大学"
+                        }
+                    ],
+                    "thumbnail": "https://iiif.dl.itc.u-tokyo.ac.jp/repo/iiif-img/86486/2431,769,2636,3242/,300/0/default.jpg"
+                }
+            ],
+            "within": {
+                "@id": "https://iiif.dl.itc.u-tokyo.ac.jp/repo/iiif/2e2175cc-bc99-497e-a058-baef01d19eea/manifest",
+                "@type": "sc:Manifest",
+                "label": "[広告「興味雑誌 奇」]"
+            }
+        }
+    ]
+}

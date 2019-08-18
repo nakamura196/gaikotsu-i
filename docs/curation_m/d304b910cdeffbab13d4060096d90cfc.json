@@ -1,0 +1,787 @@
+{
+    "@context": [
+        "http://iiif.io/api/presentation/2/context.json",
+        "http://codh.rois.ac.jp/iiif/curation/1/context.json"
+    ],
+    "@id": "https://nakamura196.github.io/gaikotsu-i/curation_m/d304b910cdeffbab13d4060096d90cfc.json",
+    "@type": "cr:Curation",
+    "label": "Curating list",
+    "selections": [
+        {
+            "@id": "https://nakamura196.github.io/gaikotsu-i/curation_m/d304b910cdeffbab13d4060096d90cfc.json/range1",
+            "@type": "sc:Range",
+            "label": "Manual curation by IIIF Curation Viewer",
+            "members": [
+                {
+                    "@id": "https://iiif.dl.itc.u-tokyo.ac.jp/repo/iiif/394db6dc-8cee-4bda-97c6-0f537533fea7/canvas/p1#xywh=709,1298,4799,2436",
+                    "@type": "sc:Canvas",
+                    "label": "[石碑関係新聞雑誌切抜類] p.1",
+                    "metadata": [
+                        {
+                            "label": "Score",
+                            "value": 0
+                        },
+                        {
+                            "label": "所蔵",
+                            "value": "東京大学"
+                        }
+                    ],
+                    "thumbnail": "https://iiif.dl.itc.u-tokyo.ac.jp/repo/iiif-img/84030/709,1298,4799,2436/,300/0/default.jpg"
+                },
+                {
+                    "@id": "https://iiif.dl.itc.u-tokyo.ac.jp/repo/iiif/394db6dc-8cee-4bda-97c6-0f537533fea7/canvas/p2#xywh=1225,1129,4638,2645",
+                    "@type": "sc:Canvas",
+                    "label": "[石碑関係新聞雑誌切抜類] p.2",
+                    "metadata": [
+                        {
+                            "label": "Score",
+                            "value": 0
+                        },
+                        {
+                            "label": "所蔵",
+                            "value": "東京大学"
+                        },
+                        {
+                            "label": "機械タグ",
+                            "value": "Ruler"
+                        }
+                    ],
+                    "thumbnail": "https://iiif.dl.itc.u-tokyo.ac.jp/repo/iiif-img/84031/1225,1129,4638,2645/,300/0/default.jpg"
+                },
+                {
+                    "@id": "https://iiif.dl.itc.u-tokyo.ac.jp/repo/iiif/394db6dc-8cee-4bda-97c6-0f537533fea7/canvas/p3#xywh=709,1621,5089,1806",
+                    "@type": "sc:Canvas",
+                    "label": "[石碑関係新聞雑誌切抜類] p.3",
+                    "metadata": [
+                        {
+                            "label": "Score",
+                            "value": 0
+                        },
+                        {
+                            "label": "所蔵",
+                            "value": "東京大学"
+                        }
+                    ],
+                    "thumbnail": "https://iiif.dl.itc.u-tokyo.ac.jp/repo/iiif-img/84032/709,1621,5089,1806/,300/0/default.jpg"
+                },
+                {
+                    "@id": "https://iiif.dl.itc.u-tokyo.ac.jp/repo/iiif/394db6dc-8cee-4bda-97c6-0f537533fea7/canvas/p4#xywh=935,1516,5016,1951",
+                    "@type": "sc:Canvas",
+                    "label": "[石碑関係新聞雑誌切抜類] p.4",
+                    "metadata": [
+                        {
+                            "label": "Score",
+                            "value": 0
+                        },
+                        {
+                            "label": "所蔵",
+                            "value": "東京大学"
+                        }
+                    ],
+                    "thumbnail": "https://iiif.dl.itc.u-tokyo.ac.jp/repo/iiif-img/84033/935,1516,5016,1951/,300/0/default.jpg"
+                },
+                {
+                    "@id": "https://iiif.dl.itc.u-tokyo.ac.jp/repo/iiif/394db6dc-8cee-4bda-97c6-0f537533fea7/canvas/p5#xywh=379,661,6468,3831",
+                    "@type": "sc:Canvas",
+                    "label": "[石碑関係新聞雑誌切抜類] p.5",
+                    "metadata": [
+                        {
+                            "label": "Score",
+                            "value": 0
+                        },
+                        {
+                            "label": "所蔵",
+                            "value": "東京大学"
+                        }
+                    ],
+                    "thumbnail": "https://iiif.dl.itc.u-tokyo.ac.jp/repo/iiif-img/84034/379,661,6468,3831/,300/0/default.jpg"
+                },
+                {
+                    "@id": "https://iiif.dl.itc.u-tokyo.ac.jp/repo/iiif/394db6dc-8cee-4bda-97c6-0f537533fea7/canvas/p6#xywh=338,790,6557,3629",
+                    "@type": "sc:Canvas",
+                    "label": "[石碑関係新聞雑誌切抜類] p.6",
+                    "metadata": [
+                        {
+                            "label": "Score",
+                            "value": 0
+                        },
+                        {
+                            "label": "所蔵",
+                            "value": "東京大学"
+                        }
+                    ],
+                    "thumbnail": "https://iiif.dl.itc.u-tokyo.ac.jp/repo/iiif-img/84035/338,790,6557,3629/,300/0/default.jpg"
+                },
+                {
+                    "@id": "https://iiif.dl.itc.u-tokyo.ac.jp/repo/iiif/394db6dc-8cee-4bda-97c6-0f537533fea7/canvas/p7#xywh=201,419,6775,4355",
+                    "@type": "sc:Canvas",
+                    "label": "[石碑関係新聞雑誌切抜類] p.7",
+                    "metadata": [
+                        {
+                            "label": "Score",
+                            "value": 0
+                        },
+                        {
+                            "label": "所蔵",
+                            "value": "東京大学"
+                        }
+                    ],
+                    "thumbnail": "https://iiif.dl.itc.u-tokyo.ac.jp/repo/iiif-img/84036/201,419,6775,4355/,300/0/default.jpg"
+                },
+                {
+                    "@id": "https://iiif.dl.itc.u-tokyo.ac.jp/repo/iiif/394db6dc-8cee-4bda-97c6-0f537533fea7/canvas/p8#xywh=0,774,7113,3556",
+                    "@type": "sc:Canvas",
+                    "label": "[石碑関係新聞雑誌切抜類] p.8",
+                    "metadata": [
+                        {
+                            "label": "Score",
+                            "value": 0
+                        },
+                        {
+                            "label": "所蔵",
+                            "value": "東京大学"
+                        }
+                    ],
+                    "thumbnail": "https://iiif.dl.itc.u-tokyo.ac.jp/repo/iiif-img/84037/0,774,7113,3556/,300/0/default.jpg"
+                },
+                {
+                    "@id": "https://iiif.dl.itc.u-tokyo.ac.jp/repo/iiif/394db6dc-8cee-4bda-97c6-0f537533fea7/canvas/p9#xywh=2419,427,2420,3734",
+                    "@type": "sc:Canvas",
+                    "label": "[石碑関係新聞雑誌切抜類] p.9",
+                    "metadata": [
+                        {
+                            "label": "Score",
+                            "value": 0
+                        },
+                        {
+                            "label": "所蔵",
+                            "value": "東京大学"
+                        }
+                    ],
+                    "thumbnail": "https://iiif.dl.itc.u-tokyo.ac.jp/repo/iiif-img/84038/2419,427,2420,3734/,300/0/default.jpg"
+                },
+                {
+                    "@id": "https://iiif.dl.itc.u-tokyo.ac.jp/repo/iiif/394db6dc-8cee-4bda-97c6-0f537533fea7/canvas/p10#xywh=2322,403,2605,3758",
+                    "@type": "sc:Canvas",
+                    "label": "[石碑関係新聞雑誌切抜類] p.10",
+                    "metadata": [
+                        {
+                            "label": "Score",
+                            "value": 0
+                        },
+                        {
+                            "label": "所蔵",
+                            "value": "東京大学"
+                        }
+                    ],
+                    "thumbnail": "https://iiif.dl.itc.u-tokyo.ac.jp/repo/iiif-img/84039/2322,403,2605,3758/,300/0/default.jpg"
+                },
+                {
+                    "@id": "https://iiif.dl.itc.u-tokyo.ac.jp/repo/iiif/394db6dc-8cee-4bda-97c6-0f537533fea7/canvas/p11#xywh=1717,1629,3597,1766",
+                    "@type": "sc:Canvas",
+                    "label": "[石碑関係新聞雑誌切抜類] p.11",
+                    "metadata": [
+                        {
+                            "label": "Score",
+                            "value": 0
+                        },
+                        {
+                            "label": "所蔵",
+                            "value": "東京大学"
+                        }
+                    ],
+                    "thumbnail": "https://iiif.dl.itc.u-tokyo.ac.jp/repo/iiif-img/84040/1717,1629,3597,1766/,300/0/default.jpg"
+                },
+                {
+                    "@id": "https://iiif.dl.itc.u-tokyo.ac.jp/repo/iiif/394db6dc-8cee-4bda-97c6-0f537533fea7/canvas/p12#xywh=2064,1500,3137,1967",
+                    "@type": "sc:Canvas",
+                    "label": "[石碑関係新聞雑誌切抜類] p.12",
+                    "metadata": [
+                        {
+                            "label": "Score",
+                            "value": 0
+                        },
+                        {
+                            "label": "所蔵",
+                            "value": "東京大学"
+                        }
+                    ],
+                    "thumbnail": "https://iiif.dl.itc.u-tokyo.ac.jp/repo/iiif-img/84041/2064,1500,3137,1967/,300/0/default.jpg"
+                },
+                {
+                    "@id": "https://iiif.dl.itc.u-tokyo.ac.jp/repo/iiif/394db6dc-8cee-4bda-97c6-0f537533fea7/canvas/p13#xywh=1943,1492,3081,1879",
+                    "@type": "sc:Canvas",
+                    "label": "[石碑関係新聞雑誌切抜類] p.13",
+                    "metadata": [
+                        {
+                            "label": "Score",
+                            "value": 0
+                        },
+                        {
+                            "label": "所蔵",
+                            "value": "東京大学"
+                        }
+                    ],
+                    "thumbnail": "https://iiif.dl.itc.u-tokyo.ac.jp/repo/iiif-img/84042/1943,1492,3081,1879/,300/0/default.jpg"
+                },
+                {
+                    "@id": "https://iiif.dl.itc.u-tokyo.ac.jp/repo/iiif/394db6dc-8cee-4bda-97c6-0f537533fea7/canvas/p14#xywh=2104,1588,3001,1783",
+                    "@type": "sc:Canvas",
+                    "label": "[石碑関係新聞雑誌切抜類] p.14",
+                    "metadata": [
+                        {
+                            "label": "Score",
+                            "value": 0
+                        },
+                        {
+                            "label": "所蔵",
+                            "value": "東京大学"
+                        }
+                    ],
+                    "thumbnail": "https://iiif.dl.itc.u-tokyo.ac.jp/repo/iiif-img/84043/2104,1588,3001,1783/,300/0/default.jpg"
+                },
+                {
+                    "@id": "https://iiif.dl.itc.u-tokyo.ac.jp/repo/iiif/394db6dc-8cee-4bda-97c6-0f537533fea7/canvas/p15#xywh=2346,1588,2533,1605",
+                    "@type": "sc:Canvas",
+                    "label": "[石碑関係新聞雑誌切抜類] p.15",
+                    "metadata": [
+                        {
+                            "label": "Score",
+                            "value": 0
+                        },
+                        {
+                            "label": "所蔵",
+                            "value": "東京大学"
+                        }
+                    ],
+                    "thumbnail": "https://iiif.dl.itc.u-tokyo.ac.jp/repo/iiif-img/84044/2346,1588,2533,1605/,300/0/default.jpg"
+                },
+                {
+                    "@id": "https://iiif.dl.itc.u-tokyo.ac.jp/repo/iiif/394db6dc-8cee-4bda-97c6-0f537533fea7/canvas/p16#xywh=2274,1693,2589,1492",
+                    "@type": "sc:Canvas",
+                    "label": "[石碑関係新聞雑誌切抜類] p.16",
+                    "metadata": [
+                        {
+                            "label": "Score",
+                            "value": 0
+                        },
+                        {
+                            "label": "所蔵",
+                            "value": "東京大学"
+                        }
+                    ],
+                    "thumbnail": "https://iiif.dl.itc.u-tokyo.ac.jp/repo/iiif-img/84045/2274,1693,2589,1492/,300/0/default.jpg"
+                },
+                {
+                    "@id": "https://iiif.dl.itc.u-tokyo.ac.jp/repo/iiif/394db6dc-8cee-4bda-97c6-0f537533fea7/canvas/p17#xywh=2435,1580,2452,1662",
+                    "@type": "sc:Canvas",
+                    "label": "[石碑関係新聞雑誌切抜類] p.17",
+                    "metadata": [
+                        {
+                            "label": "Score",
+                            "value": 0
+                        },
+                        {
+                            "label": "所蔵",
+                            "value": "東京大学"
+                        }
+                    ],
+                    "thumbnail": "https://iiif.dl.itc.u-tokyo.ac.jp/repo/iiif-img/84046/2435,1580,2452,1662/,300/0/default.jpg"
+                },
+                {
+                    "@id": "https://iiif.dl.itc.u-tokyo.ac.jp/repo/iiif/394db6dc-8cee-4bda-97c6-0f537533fea7/canvas/p18#xywh=2484,1661,2185,1548",
+                    "@type": "sc:Canvas",
+                    "label": "[石碑関係新聞雑誌切抜類] p.18",
+                    "metadata": [
+                        {
+                            "label": "Score",
+                            "value": 0
+                        },
+                        {
+                            "label": "所蔵",
+                            "value": "東京大学"
+                        }
+                    ],
+                    "thumbnail": "https://iiif.dl.itc.u-tokyo.ac.jp/repo/iiif-img/84047/2484,1661,2185,1548/,300/0/default.jpg"
+                },
+                {
+                    "@id": "https://iiif.dl.itc.u-tokyo.ac.jp/repo/iiif/394db6dc-8cee-4bda-97c6-0f537533fea7/canvas/p19#xywh=2242,1677,2685,1516",
+                    "@type": "sc:Canvas",
+                    "label": "[石碑関係新聞雑誌切抜類] p.19",
+                    "metadata": [
+                        {
+                            "label": "Score",
+                            "value": 0
+                        },
+                        {
+                            "label": "所蔵",
+                            "value": "東京大学"
+                        }
+                    ],
+                    "thumbnail": "https://iiif.dl.itc.u-tokyo.ac.jp/repo/iiif-img/84048/2242,1677,2685,1516/,300/0/default.jpg"
+                },
+                {
+                    "@id": "https://iiif.dl.itc.u-tokyo.ac.jp/repo/iiif/394db6dc-8cee-4bda-97c6-0f537533fea7/canvas/p20#xywh=2314,1830,2444,1283",
+                    "@type": "sc:Canvas",
+                    "label": "[石碑関係新聞雑誌切抜類] p.20",
+                    "metadata": [
+                        {
+                            "label": "Score",
+                            "value": 0
+                        },
+                        {
+                            "label": "所蔵",
+                            "value": "東京大学"
+                        }
+                    ],
+                    "thumbnail": "https://iiif.dl.itc.u-tokyo.ac.jp/repo/iiif-img/84049/2314,1830,2444,1283/,300/0/default.jpg"
+                },
+                {
+                    "@id": "https://iiif.dl.itc.u-tokyo.ac.jp/repo/iiif/394db6dc-8cee-4bda-97c6-0f537533fea7/canvas/p21#xywh=2709,1661,1807,1589",
+                    "@type": "sc:Canvas",
+                    "label": "[石碑関係新聞雑誌切抜類] p.21",
+                    "metadata": [
+                        {
+                            "label": "Score",
+                            "value": 0
+                        },
+                        {
+                            "label": "所蔵",
+                            "value": "東京大学"
+                        }
+                    ],
+                    "thumbnail": "https://iiif.dl.itc.u-tokyo.ac.jp/repo/iiif-img/84050/2709,1661,1807,1589/,300/0/default.jpg"
+                },
+                {
+                    "@id": "https://iiif.dl.itc.u-tokyo.ac.jp/repo/iiif/394db6dc-8cee-4bda-97c6-0f537533fea7/canvas/p22#xywh=2524,1709,1903,1508",
+                    "@type": "sc:Canvas",
+                    "label": "[石碑関係新聞雑誌切抜類] p.22",
+                    "metadata": [
+                        {
+                            "label": "Score",
+                            "value": 0
+                        },
+                        {
+                            "label": "所蔵",
+                            "value": "東京大学"
+                        }
+                    ],
+                    "thumbnail": "https://iiif.dl.itc.u-tokyo.ac.jp/repo/iiif-img/84051/2524,1709,1903,1508/,300/0/default.jpg"
+                },
+                {
+                    "@id": "https://iiif.dl.itc.u-tokyo.ac.jp/repo/iiif/394db6dc-8cee-4bda-97c6-0f537533fea7/canvas/p25#xywh=2701,1653,1815,1452",
+                    "@type": "sc:Canvas",
+                    "label": "[石碑関係新聞雑誌切抜類] p.25",
+                    "metadata": [
+                        {
+                            "label": "Score",
+                            "value": 0
+                        },
+                        {
+                            "label": "所蔵",
+                            "value": "東京大学"
+                        }
+                    ],
+                    "thumbnail": "https://iiif.dl.itc.u-tokyo.ac.jp/repo/iiif-img/84054/2701,1653,1815,1452/,300/0/default.jpg"
+                },
+                {
+                    "@id": "https://iiif.dl.itc.u-tokyo.ac.jp/repo/iiif/394db6dc-8cee-4bda-97c6-0f537533fea7/canvas/p26#xywh=2508,1717,1968,1379",
+                    "@type": "sc:Canvas",
+                    "label": "[石碑関係新聞雑誌切抜類] p.26",
+                    "metadata": [
+                        {
+                            "label": "Score",
+                            "value": 0
+                        },
+                        {
+                            "label": "所蔵",
+                            "value": "東京大学"
+                        }
+                    ],
+                    "thumbnail": "https://iiif.dl.itc.u-tokyo.ac.jp/repo/iiif-img/84055/2508,1717,1968,1379/,300/0/default.jpg"
+                },
+                {
+                    "@id": "https://iiif.dl.itc.u-tokyo.ac.jp/repo/iiif/394db6dc-8cee-4bda-97c6-0f537533fea7/canvas/p31#xywh=2661,1685,1823,1428",
+                    "@type": "sc:Canvas",
+                    "label": "[石碑関係新聞雑誌切抜類] p.31",
+                    "metadata": [
+                        {
+                            "label": "Score",
+                            "value": 0
+                        },
+                        {
+                            "label": "所蔵",
+                            "value": "東京大学"
+                        }
+                    ],
+                    "thumbnail": "https://iiif.dl.itc.u-tokyo.ac.jp/repo/iiif-img/84060/2661,1685,1823,1428/,300/0/default.jpg"
+                },
+                {
+                    "@id": "https://iiif.dl.itc.u-tokyo.ac.jp/repo/iiif/394db6dc-8cee-4bda-97c6-0f537533fea7/canvas/p36#xywh=3266,1435,798,2073",
+                    "@type": "sc:Canvas",
+                    "label": "[石碑関係新聞雑誌切抜類] p.36",
+                    "metadata": [
+                        {
+                            "label": "Score",
+                            "value": 0
+                        },
+                        {
+                            "label": "所蔵",
+                            "value": "東京大学"
+                        }
+                    ],
+                    "thumbnail": "https://iiif.dl.itc.u-tokyo.ac.jp/repo/iiif-img/84065/3266,1435,798,2073/,300/0/default.jpg"
+                },
+                {
+                    "@id": "https://iiif.dl.itc.u-tokyo.ac.jp/repo/iiif/394db6dc-8cee-4bda-97c6-0f537533fea7/canvas/p37#xywh=1184,1135,2428,4991",
+                    "@type": "sc:Canvas",
+                    "label": "[石碑関係新聞雑誌切抜類] p.37",
+                    "metadata": [
+                        {
+                            "label": "Score",
+                            "value": 0
+                        },
+                        {
+                            "label": "所蔵",
+                            "value": "東京大学"
+                        }
+                    ],
+                    "thumbnail": "https://iiif.dl.itc.u-tokyo.ac.jp/repo/iiif-img/84066/1184,1135,2428,4991/,300/0/default.jpg"
+                },
+                {
+                    "@id": "https://iiif.dl.itc.u-tokyo.ac.jp/repo/iiif/394db6dc-8cee-4bda-97c6-0f537533fea7/canvas/p38#xywh=1063,1111,2549,5124",
+                    "@type": "sc:Canvas",
+                    "label": "[石碑関係新聞雑誌切抜類] p.38",
+                    "metadata": [
+                        {
+                            "label": "Score",
+                            "value": 0
+                        },
+                        {
+                            "label": "所蔵",
+                            "value": "東京大学"
+                        },
+                        {
+                            "label": "機械タグ",
+                            "value": "Person"
+                        }
+                    ],
+                    "thumbnail": "https://iiif.dl.itc.u-tokyo.ac.jp/repo/iiif-img/84067/1063,1111,2549,5124/,300/0/default.jpg"
+                },
+                {
+                    "@id": "https://iiif.dl.itc.u-tokyo.ac.jp/repo/iiif/394db6dc-8cee-4bda-97c6-0f537533fea7/canvas/p39#xywh=2395,0,2492,4839",
+                    "@type": "sc:Canvas",
+                    "label": "[石碑関係新聞雑誌切抜類] p.39",
+                    "metadata": [
+                        {
+                            "label": "Score",
+                            "value": 0
+                        },
+                        {
+                            "label": "所蔵",
+                            "value": "東京大学"
+                        },
+                        {
+                            "label": "機械タグ",
+                            "value": "Person"
+                        }
+                    ],
+                    "thumbnail": "https://iiif.dl.itc.u-tokyo.ac.jp/repo/iiif-img/84068/2395,0,2492,4839/,300/0/default.jpg"
+                },
+                {
+                    "@id": "https://iiif.dl.itc.u-tokyo.ac.jp/repo/iiif/394db6dc-8cee-4bda-97c6-0f537533fea7/canvas/p40#xywh=2435,0,2355,4758",
+                    "@type": "sc:Canvas",
+                    "label": "[石碑関係新聞雑誌切抜類] p.40",
+                    "metadata": [
+                        {
+                            "label": "Score",
+                            "value": 0
+                        },
+                        {
+                            "label": "所蔵",
+                            "value": "東京大学"
+                        }
+                    ],
+                    "thumbnail": "https://iiif.dl.itc.u-tokyo.ac.jp/repo/iiif-img/84069/2435,0,2355,4758/,300/0/default.jpg"
+                },
+                {
+                    "@id": "https://iiif.dl.itc.u-tokyo.ac.jp/repo/iiif/394db6dc-8cee-4bda-97c6-0f537533fea7/canvas/p41#xywh=2645,1677,1992,1645",
+                    "@type": "sc:Canvas",
+                    "label": "[石碑関係新聞雑誌切抜類] p.41",
+                    "metadata": [
+                        {
+                            "label": "Score",
+                            "value": 0
+                        },
+                        {
+                            "label": "所蔵",
+                            "value": "東京大学"
+                        },
+                        {
+                            "label": "機械タグ",
+                            "value": "Person"
+                        }
+                    ],
+                    "thumbnail": "https://iiif.dl.itc.u-tokyo.ac.jp/repo/iiif-img/84070/2645,1677,1992,1645/,300/0/default.jpg"
+                },
+                {
+                    "@id": "https://iiif.dl.itc.u-tokyo.ac.jp/repo/iiif/394db6dc-8cee-4bda-97c6-0f537533fea7/canvas/p42#xywh=2516,1621,2000,1669",
+                    "@type": "sc:Canvas",
+                    "label": "[石碑関係新聞雑誌切抜類] p.42",
+                    "metadata": [
+                        {
+                            "label": "Score",
+                            "value": 0
+                        },
+                        {
+                            "label": "所蔵",
+                            "value": "東京大学"
+                        }
+                    ],
+                    "thumbnail": "https://iiif.dl.itc.u-tokyo.ac.jp/repo/iiif-img/84071/2516,1621,2000,1669/,300/0/default.jpg"
+                },
+                {
+                    "@id": "https://iiif.dl.itc.u-tokyo.ac.jp/repo/iiif/394db6dc-8cee-4bda-97c6-0f537533fea7/canvas/p43#xywh=2701,1548,1807,1734",
+                    "@type": "sc:Canvas",
+                    "label": "[石碑関係新聞雑誌切抜類] p.43",
+                    "metadata": [
+                        {
+                            "label": "Score",
+                            "value": 0
+                        },
+                        {
+                            "label": "所蔵",
+                            "value": "東京大学"
+                        },
+                        {
+                            "label": "機械タグ",
+                            "value": "Person"
+                        }
+                    ],
+                    "thumbnail": "https://iiif.dl.itc.u-tokyo.ac.jp/repo/iiif-img/84072/2701,1548,1807,1734/,300/0/default.jpg"
+                },
+                {
+                    "@id": "https://iiif.dl.itc.u-tokyo.ac.jp/repo/iiif/394db6dc-8cee-4bda-97c6-0f537533fea7/canvas/p44#xywh=2629,1548,1919,1710",
+                    "@type": "sc:Canvas",
+                    "label": "[石碑関係新聞雑誌切抜類] p.44",
+                    "metadata": [
+                        {
+                            "label": "Score",
+                            "value": 0
+                        },
+                        {
+                            "label": "所蔵",
+                            "value": "東京大学"
+                        }
+                    ],
+                    "thumbnail": "https://iiif.dl.itc.u-tokyo.ac.jp/repo/iiif-img/84073/2629,1548,1919,1710/,300/0/default.jpg"
+                },
+                {
+                    "@id": "https://iiif.dl.itc.u-tokyo.ac.jp/repo/iiif/394db6dc-8cee-4bda-97c6-0f537533fea7/canvas/p45#xywh=2637,1750,1951,1250",
+                    "@type": "sc:Canvas",
+                    "label": "[石碑関係新聞雑誌切抜類] p.45",
+                    "metadata": [
+                        {
+                            "label": "Score",
+                            "value": 0
+                        },
+                        {
+                            "label": "所蔵",
+                            "value": "東京大学"
+                        },
+                        {
+                            "label": "機械タグ",
+                            "value": "Person"
+                        },
+                        {
+                            "label": "機械タグ",
+                            "value": "Man"
+                        },
+                        {
+                            "label": "機械タグ",
+                            "value": "Clothing"
+                        }
+                    ],
+                    "thumbnail": "https://iiif.dl.itc.u-tokyo.ac.jp/repo/iiif-img/84074/2637,1750,1951,1250/,300/0/default.jpg"
+                },
+                {
+                    "@id": "https://iiif.dl.itc.u-tokyo.ac.jp/repo/iiif/394db6dc-8cee-4bda-97c6-0f537533fea7/canvas/p46#xywh=2524,1863,2161,1008",
+                    "@type": "sc:Canvas",
+                    "label": "[石碑関係新聞雑誌切抜類] p.46",
+                    "metadata": [
+                        {
+                            "label": "Score",
+                            "value": 0
+                        },
+                        {
+                            "label": "所蔵",
+                            "value": "東京大学"
+                        }
+                    ],
+                    "thumbnail": "https://iiif.dl.itc.u-tokyo.ac.jp/repo/iiif-img/84075/2524,1863,2161,1008/,300/0/default.jpg"
+                },
+                {
+                    "@id": "https://iiif.dl.itc.u-tokyo.ac.jp/repo/iiif/394db6dc-8cee-4bda-97c6-0f537533fea7/canvas/p47#xywh=2411,1758,2323,1298",
+                    "@type": "sc:Canvas",
+                    "label": "[石碑関係新聞雑誌切抜類] p.47",
+                    "metadata": [
+                        {
+                            "label": "Score",
+                            "value": 0
+                        },
+                        {
+                            "label": "所蔵",
+                            "value": "東京大学"
+                        },
+                        {
+                            "label": "機械タグ",
+                            "value": "Person"
+                        }
+                    ],
+                    "thumbnail": "https://iiif.dl.itc.u-tokyo.ac.jp/repo/iiif-img/84076/2411,1758,2323,1298/,300/0/default.jpg"
+                },
+                {
+                    "@id": "https://iiif.dl.itc.u-tokyo.ac.jp/repo/iiif/394db6dc-8cee-4bda-97c6-0f537533fea7/canvas/p48#xywh=2419,1709,2371,1404",
+                    "@type": "sc:Canvas",
+                    "label": "[石碑関係新聞雑誌切抜類] p.48",
+                    "metadata": [
+                        {
+                            "label": "Score",
+                            "value": 0
+                        },
+                        {
+                            "label": "所蔵",
+                            "value": "東京大学"
+                        }
+                    ],
+                    "thumbnail": "https://iiif.dl.itc.u-tokyo.ac.jp/repo/iiif-img/84077/2419,1709,2371,1404/,300/0/default.jpg"
+                },
+                {
+                    "@id": "https://iiif.dl.itc.u-tokyo.ac.jp/repo/iiif/394db6dc-8cee-4bda-97c6-0f537533fea7/canvas/p49#xywh=1280,1172,2393,4736",
+                    "@type": "sc:Canvas",
+                    "label": "[石碑関係新聞雑誌切抜類] p.49",
+                    "metadata": [
+                        {
+                            "label": "Score",
+                            "value": 0
+                        },
+                        {
+                            "label": "所蔵",
+                            "value": "東京大学"
+                        }
+                    ],
+                    "thumbnail": "https://iiif.dl.itc.u-tokyo.ac.jp/repo/iiif-img/84078/1280,1172,2393,4736/,300/0/default.jpg"
+                },
+                {
+                    "@id": "https://iiif.dl.itc.u-tokyo.ac.jp/repo/iiif/394db6dc-8cee-4bda-97c6-0f537533fea7/canvas/p50#xywh=1256,1051,2236,5002",
+                    "@type": "sc:Canvas",
+                    "label": "[石碑関係新聞雑誌切抜類] p.50",
+                    "metadata": [
+                        {
+                            "label": "Score",
+                            "value": 0
+                        },
+                        {
+                            "label": "所蔵",
+                            "value": "東京大学"
+                        }
+                    ],
+                    "thumbnail": "https://iiif.dl.itc.u-tokyo.ac.jp/repo/iiif-img/84079/1256,1051,2236,5002/,300/0/default.jpg"
+                },
+                {
+                    "@id": "https://iiif.dl.itc.u-tokyo.ac.jp/repo/iiif/394db6dc-8cee-4bda-97c6-0f537533fea7/canvas/p52#xywh=3258,991,782,2928",
+                    "@type": "sc:Canvas",
+                    "label": "[石碑関係新聞雑誌切抜類] p.52",
+                    "metadata": [
+                        {
+                            "label": "Score",
+                            "value": 0
+                        },
+                        {
+                            "label": "所蔵",
+                            "value": "東京大学"
+                        }
+                    ],
+                    "thumbnail": "https://iiif.dl.itc.u-tokyo.ac.jp/repo/iiif-img/84081/3258,991,782,2928/,300/0/default.jpg"
+                },
+                {
+                    "@id": "https://iiif.dl.itc.u-tokyo.ac.jp/repo/iiif/394db6dc-8cee-4bda-97c6-0f537533fea7/canvas/p61#xywh=2725,1371,1743,1959",
+                    "@type": "sc:Canvas",
+                    "label": "[石碑関係新聞雑誌切抜類] p.61",
+                    "metadata": [
+                        {
+                            "label": "Score",
+                            "value": 0
+                        },
+                        {
+                            "label": "所蔵",
+                            "value": "東京大学"
+                        },
+                        {
+                            "label": "機械タグ",
+                            "value": "Person"
+                        }
+                    ],
+                    "thumbnail": "https://iiif.dl.itc.u-tokyo.ac.jp/repo/iiif-img/84090/2725,1371,1743,1959/,300/0/default.jpg"
+                },
+                {
+                    "@id": "https://iiif.dl.itc.u-tokyo.ac.jp/repo/iiif/394db6dc-8cee-4bda-97c6-0f537533fea7/canvas/p62#xywh=2806,1475,1645,1871",
+                    "@type": "sc:Canvas",
+                    "label": "[石碑関係新聞雑誌切抜類] p.62",
+                    "metadata": [
+                        {
+                            "label": "Score",
+                            "value": 0
+                        },
+                        {
+                            "label": "所蔵",
+                            "value": "東京大学"
+                        }
+                    ],
+                    "thumbnail": "https://iiif.dl.itc.u-tokyo.ac.jp/repo/iiif-img/84091/2806,1475,1645,1871/,300/0/default.jpg"
+                },
+                {
+                    "@id": "https://iiif.dl.itc.u-tokyo.ac.jp/repo/iiif/394db6dc-8cee-4bda-97c6-0f537533fea7/canvas/p63#xywh=2322,1742,2323,1427",
+                    "@type": "sc:Canvas",
+                    "label": "[石碑関係新聞雑誌切抜類] p.63",
+                    "metadata": [
+                        {
+                            "label": "Score",
+                            "value": 0
+                        },
+                        {
+                            "label": "所蔵",
+                            "value": "東京大学"
+                        },
+                        {
+                            "label": "機械タグ",
+                            "value": "Person"
+                        }
+                    ],
+                    "thumbnail": "https://iiif.dl.itc.u-tokyo.ac.jp/repo/iiif-img/84092/2322,1742,2323,1427/,300/0/default.jpg"
+                },
+                {
+                    "@id": "https://iiif.dl.itc.u-tokyo.ac.jp/repo/iiif/394db6dc-8cee-4bda-97c6-0f537533fea7/canvas/p64#xywh=2451,1669,2258,1452",
+                    "@type": "sc:Canvas",
+                    "label": "[石碑関係新聞雑誌切抜類] p.64",
+                    "metadata": [
+                        {
+                            "label": "Score",
+                            "value": 0
+                        },
+                        {
+                            "label": "所蔵",
+                            "value": "東京大学"
+                        }
+                    ],
+                    "thumbnail": "https://iiif.dl.itc.u-tokyo.ac.jp/repo/iiif-img/84093/2451,1669,2258,1452/,300/0/default.jpg"
+                }
+            ],
+            "within": {
+                "@id": "https://iiif.dl.itc.u-tokyo.ac.jp/repo/iiif/394db6dc-8cee-4bda-97c6-0f537533fea7/manifest",
+                "@type": "sc:Manifest",
+                "label": "[石碑関係新聞雑誌切抜類]"
+            }
+        }
+    ]
+}

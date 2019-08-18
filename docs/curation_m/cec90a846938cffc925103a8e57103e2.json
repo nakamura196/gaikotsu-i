@@ -1,0 +1,103 @@
+{
+    "@context": [
+        "http://iiif.io/api/presentation/2/context.json",
+        "http://codh.rois.ac.jp/iiif/curation/1/context.json"
+    ],
+    "@id": "https://nakamura196.github.io/gaikotsu-i/curation_m/cec90a846938cffc925103a8e57103e2.json",
+    "@type": "cr:Curation",
+    "label": "Curating list",
+    "selections": [
+        {
+            "@id": "https://nakamura196.github.io/gaikotsu-i/curation_m/cec90a846938cffc925103a8e57103e2.json/range1",
+            "@type": "sc:Range",
+            "label": "Manual curation by IIIF Curation Viewer",
+            "members": [
+                {
+                    "@id": "https://iiif.dl.itc.u-tokyo.ac.jp/repo/iiif/ec6db7ad-d1ef-491b-8656-5dabcc0bd017/canvas/p2#xywh=1693,975,3783,2984",
+                    "@type": "sc:Canvas",
+                    "label": "「近事評論」195号(慶應義塾生徒諸君ニ告グ) p.2",
+                    "metadata": [
+                        {
+                            "label": "Score",
+                            "value": 0
+                        },
+                        {
+                            "label": "所蔵",
+                            "value": "東京大学"
+                        }
+                    ],
+                    "thumbnail": "https://iiif.dl.itc.u-tokyo.ac.jp/repo/iiif-img/83231/1693,975,3783,2984/,300/0/default.jpg"
+                },
+                {
+                    "@id": "https://iiif.dl.itc.u-tokyo.ac.jp/repo/iiif/ec6db7ad-d1ef-491b-8656-5dabcc0bd017/canvas/p3#xywh=1693,1008,3791,2895",
+                    "@type": "sc:Canvas",
+                    "label": "「近事評論」195号(慶應義塾生徒諸君ニ告グ) p.3",
+                    "metadata": [
+                        {
+                            "label": "Score",
+                            "value": 0
+                        },
+                        {
+                            "label": "所蔵",
+                            "value": "東京大学"
+                        }
+                    ],
+                    "thumbnail": "https://iiif.dl.itc.u-tokyo.ac.jp/repo/iiif-img/83232/1693,1008,3791,2895/,300/0/default.jpg"
+                },
+                {
+                    "@id": "https://iiif.dl.itc.u-tokyo.ac.jp/repo/iiif/ec6db7ad-d1ef-491b-8656-5dabcc0bd017/canvas/p4#xywh=1693,1032,3831,2847",
+                    "@type": "sc:Canvas",
+                    "label": "「近事評論」195号(慶應義塾生徒諸君ニ告グ) p.4",
+                    "metadata": [
+                        {
+                            "label": "Score",
+                            "value": 0
+                        },
+                        {
+                            "label": "所蔵",
+                            "value": "東京大学"
+                        }
+                    ],
+                    "thumbnail": "https://iiif.dl.itc.u-tokyo.ac.jp/repo/iiif-img/83233/1693,1032,3831,2847/,300/0/default.jpg"
+                },
+                {
+                    "@id": "https://iiif.dl.itc.u-tokyo.ac.jp/repo/iiif/ec6db7ad-d1ef-491b-8656-5dabcc0bd017/canvas/p6#xywh=1725,1000,3767,2911",
+                    "@type": "sc:Canvas",
+                    "label": "「近事評論」195号(慶應義塾生徒諸君ニ告グ) p.6",
+                    "metadata": [
+                        {
+                            "label": "Score",
+                            "value": 0
+                        },
+                        {
+                            "label": "所蔵",
+                            "value": "東京大学"
+                        }
+                    ],
+                    "thumbnail": "https://iiif.dl.itc.u-tokyo.ac.jp/repo/iiif-img/83235/1725,1000,3767,2911/,300/0/default.jpg"
+                },
+                {
+                    "@id": "https://iiif.dl.itc.u-tokyo.ac.jp/repo/iiif/ec6db7ad-d1ef-491b-8656-5dabcc0bd017/canvas/p10#xywh=1693,1008,3823,2879",
+                    "@type": "sc:Canvas",
+                    "label": "「近事評論」195号(慶應義塾生徒諸君ニ告グ) p.10",
+                    "metadata": [
+                        {
+                            "label": "Score",
+                            "value": 0
+                        },
+                        {
+                            "label": "所蔵",
+                            "value": "東京大学"
+                        }
+                    ],
+                    "thumbnail": "https://iiif.dl.itc.u-tokyo.ac.jp/repo/iiif-img/83239/1693,1008,3823,2879/,300/0/default.jpg"
+                }
+            ],
+            "within": {
+                "@id": "https://iiif.dl.itc.u-tokyo.ac.jp/repo/iiif/ec6db7ad-d1ef-491b-8656-5dabcc0bd017/manifest",
+                "@type": "sc:Manifest",
+                "label": "「近事評論」195号(慶應義塾生徒諸君ニ告グ)"
+            }
+        }
+    ]
+}

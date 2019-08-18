@@ -1,0 +1,55 @@
+{
+    "@context": [
+        "http://iiif.io/api/presentation/2/context.json",
+        "http://codh.rois.ac.jp/iiif/curation/1/context.json"
+    ],
+    "@id": "https://nakamura196.github.io/gaikotsu-i/curation_m/61856d619eab62bd77fc42aad9ed107c.json",
+    "@type": "cr:Curation",
+    "label": "Curating list",
+    "selections": [
+        {
+            "@id": "https://nakamura196.github.io/gaikotsu-i/curation_m/61856d619eab62bd77fc42aad9ed107c.json/range1",
+            "@type": "sc:Range",
+            "label": "Manual curation by IIIF Curation Viewer",
+            "members": [
+                {
+                    "@id": "https://iiif.dl.itc.u-tokyo.ac.jp/repo/iiif/be090766-9601-4b27-961a-914ee824d7a8/canvas/p1#xywh=1416,1031,1555,3553",
+                    "@type": "sc:Canvas",
+                    "label": "[多年御愛顧の諸氏へ] p.1",
+                    "metadata": [
+                        {
+                            "label": "Score",
+                            "value": 0
+                        },
+                        {
+                            "label": "所蔵",
+                            "value": "東京大学"
+                        }
+                    ],
+                    "thumbnail": "https://iiif.dl.itc.u-tokyo.ac.jp/repo/iiif-img/86417/1416,1031,1555,3553/,300/0/default.jpg"
+                },
+                {
+                    "@id": "https://iiif.dl.itc.u-tokyo.ac.jp/repo/iiif/be090766-9601-4b27-961a-914ee824d7a8/canvas/p1#xywh=3143,114,3258,4331",
+                    "@type": "sc:Canvas",
+                    "label": "[多年御愛顧の諸氏へ] p.1",
+                    "metadata": [
+                        {
+                            "label": "Score",
+                            "value": 0
+                        },
+                        {
+                            "label": "所蔵",
+                            "value": "東京大学"
+                        }
+                    ],
+                    "thumbnail": "https://iiif.dl.itc.u-tokyo.ac.jp/repo/iiif-img/86417/3143,114,3258,4331/,300/0/default.jpg"
+                }
+            ],
+            "within": {
+                "@id": "https://iiif.dl.itc.u-tokyo.ac.jp/repo/iiif/be090766-9601-4b27-961a-914ee824d7a8/manifest",
+                "@type": "sc:Manifest",
+                "label": "[多年御愛顧の諸氏へ]"
+            }
+        }
+    ]
+}

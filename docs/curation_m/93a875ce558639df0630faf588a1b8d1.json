@@ -1,0 +1,151 @@
+{
+    "@context": [
+        "http://iiif.io/api/presentation/2/context.json",
+        "http://codh.rois.ac.jp/iiif/curation/1/context.json"
+    ],
+    "@id": "https://nakamura196.github.io/gaikotsu-i/curation_m/93a875ce558639df0630faf588a1b8d1.json",
+    "@type": "cr:Curation",
+    "label": "Curating list",
+    "selections": [
+        {
+            "@id": "https://nakamura196.github.io/gaikotsu-i/curation_m/93a875ce558639df0630faf588a1b8d1.json/range1",
+            "@type": "sc:Range",
+            "label": "Manual curation by IIIF Curation Viewer",
+            "members": [
+                {
+                    "@id": "https://iiif.dl.itc.u-tokyo.ac.jp/repo/iiif/67e34776-51f7-4ca1-951b-b4462a6f620e/canvas/p1#xywh=1903,1008,1911,2992",
+                    "@type": "sc:Canvas",
+                    "label": "「扶桑新誌」168号(福澤諭吉先生不日重官ニ登用セラレントストハ果シテ信耶) p.1",
+                    "metadata": [
+                        {
+                            "label": "Score",
+                            "value": 0
+                        },
+                        {
+                            "label": "所蔵",
+                            "value": "東京大学"
+                        }
+                    ],
+                    "thumbnail": "https://iiif.dl.itc.u-tokyo.ac.jp/repo/iiif-img/83340/1903,1008,1911,2992/,300/0/default.jpg"
+                },
+                {
+                    "@id": "https://iiif.dl.itc.u-tokyo.ac.jp/repo/iiif/67e34776-51f7-4ca1-951b-b4462a6f620e/canvas/p3#xywh=1822,1201,3597,2597",
+                    "@type": "sc:Canvas",
+                    "label": "「扶桑新誌」168号(福澤諭吉先生不日重官ニ登用セラレントストハ果シテ信耶) p.3",
+                    "metadata": [
+                        {
+                            "label": "Score",
+                            "value": 0
+                        },
+                        {
+                            "label": "所蔵",
+                            "value": "東京大学"
+                        }
+                    ],
+                    "thumbnail": "https://iiif.dl.itc.u-tokyo.ac.jp/repo/iiif-img/83342/1822,1201,3597,2597/,300/0/default.jpg"
+                },
+                {
+                    "@id": "https://iiif.dl.itc.u-tokyo.ac.jp/repo/iiif/67e34776-51f7-4ca1-951b-b4462a6f620e/canvas/p6#xywh=1838,1209,3630,2589",
+                    "@type": "sc:Canvas",
+                    "label": "「扶桑新誌」168号(福澤諭吉先生不日重官ニ登用セラレントストハ果シテ信耶) p.6",
+                    "metadata": [
+                        {
+                            "label": "Score",
+                            "value": 0
+                        },
+                        {
+                            "label": "所蔵",
+                            "value": "東京大学"
+                        }
+                    ],
+                    "thumbnail": "https://iiif.dl.itc.u-tokyo.ac.jp/repo/iiif-img/83345/1838,1209,3630,2589/,300/0/default.jpg"
+                },
+                {
+                    "@id": "https://iiif.dl.itc.u-tokyo.ac.jp/repo/iiif/67e34776-51f7-4ca1-951b-b4462a6f620e/canvas/p8#xywh=1766,1161,3790,2645",
+                    "@type": "sc:Canvas",
+                    "label": "「扶桑新誌」168号(福澤諭吉先生不日重官ニ登用セラレントストハ果シテ信耶) p.8",
+                    "metadata": [
+                        {
+                            "label": "Score",
+                            "value": 0
+                        },
+                        {
+                            "label": "所蔵",
+                            "value": "東京大学"
+                        }
+                    ],
+                    "thumbnail": "https://iiif.dl.itc.u-tokyo.ac.jp/repo/iiif-img/83347/1766,1161,3790,2645/,300/0/default.jpg"
+                },
+                {
+                    "@id": "https://iiif.dl.itc.u-tokyo.ac.jp/repo/iiif/67e34776-51f7-4ca1-951b-b4462a6f620e/canvas/p9#xywh=1798,1185,3702,2589",
+                    "@type": "sc:Canvas",
+                    "label": "「扶桑新誌」168号(福澤諭吉先生不日重官ニ登用セラレントストハ果シテ信耶) p.9",
+                    "metadata": [
+                        {
+                            "label": "Score",
+                            "value": 0
+                        },
+                        {
+                            "label": "所蔵",
+                            "value": "東京大学"
+                        }
+                    ],
+                    "thumbnail": "https://iiif.dl.itc.u-tokyo.ac.jp/repo/iiif-img/83348/1798,1185,3702,2589/,300/0/default.jpg"
+                },
+                {
+                    "@id": "https://iiif.dl.itc.u-tokyo.ac.jp/repo/iiif/67e34776-51f7-4ca1-951b-b4462a6f620e/canvas/p10#xywh=2000,1129,1605,2677",
+                    "@type": "sc:Canvas",
+                    "label": "「扶桑新誌」168号(福澤諭吉先生不日重官ニ登用セラレントストハ果シテ信耶) p.10",
+                    "metadata": [
+                        {
+                            "label": "Score",
+                            "value": 0
+                        },
+                        {
+                            "label": "所蔵",
+                            "value": "東京大学"
+                        }
+                    ],
+                    "thumbnail": "https://iiif.dl.itc.u-tokyo.ac.jp/repo/iiif-img/83349/2000,1129,1605,2677/,300/0/default.jpg"
+                },
+                {
+                    "@id": "https://iiif.dl.itc.u-tokyo.ac.jp/repo/iiif/67e34776-51f7-4ca1-951b-b4462a6f620e/canvas/p10#xywh=1750,1153,3814,2589",
+                    "@type": "sc:Canvas",
+                    "label": "「扶桑新誌」168号(福澤諭吉先生不日重官ニ登用セラレントストハ果シテ信耶) p.10",
+                    "metadata": [
+                        {
+                            "label": "Score",
+                            "value": 0
+                        },
+                        {
+                            "label": "所蔵",
+                            "value": "東京大学"
+                        }
+                    ],
+                    "thumbnail": "https://iiif.dl.itc.u-tokyo.ac.jp/repo/iiif-img/83349/1750,1153,3814,2589/,300/0/default.jpg"
+                },
+                {
+                    "@id": "https://iiif.dl.itc.u-tokyo.ac.jp/repo/iiif/67e34776-51f7-4ca1-951b-b4462a6f620e/canvas/p11#xywh=3484,975,2056,2992",
+                    "@type": "sc:Canvas",
+                    "label": "「扶桑新誌」168号(福澤諭吉先生不日重官ニ登用セラレントストハ果シテ信耶) p.11",
+                    "metadata": [
+                        {
+                            "label": "Score",
+                            "value": 0
+                        },
+                        {
+                            "label": "所蔵",
+                            "value": "東京大学"
+                        }
+                    ],
+                    "thumbnail": "https://iiif.dl.itc.u-tokyo.ac.jp/repo/iiif-img/83350/3484,975,2056,2992/,300/0/default.jpg"
+                }
+            ],
+            "within": {
+                "@id": "https://iiif.dl.itc.u-tokyo.ac.jp/repo/iiif/67e34776-51f7-4ca1-951b-b4462a6f620e/manifest",
+                "@type": "sc:Manifest",
+                "label": "「扶桑新誌」168号(福澤諭吉先生不日重官ニ登用セラレントストハ果シテ信耶)"
+            }
+        }
+    ]
+}

@@ -1,0 +1,199 @@
+{
+    "@context": [
+        "http://iiif.io/api/presentation/2/context.json",
+        "http://codh.rois.ac.jp/iiif/curation/1/context.json"
+    ],
+    "@id": "https://nakamura196.github.io/gaikotsu-i/curation_m/411553b06b987e461db2d09a0033b9b0.json",
+    "@type": "cr:Curation",
+    "label": "Curating list",
+    "selections": [
+        {
+            "@id": "https://nakamura196.github.io/gaikotsu-i/curation_m/411553b06b987e461db2d09a0033b9b0.json/range1",
+            "@type": "sc:Range",
+            "label": "Manual curation by IIIF Curation Viewer",
+            "members": [
+                {
+                    "@id": "https://iiif.dl.itc.u-tokyo.ac.jp/repo/iiif/25f33b7b-b237-45c2-afc6-72e9a057bfac/canvas/p2#xywh=532,387,6024,3871",
+                    "@type": "sc:Canvas",
+                    "label": "井上河内守正直 p.2",
+                    "metadata": [
+                        {
+                            "label": "Score",
+                            "value": 0
+                        },
+                        {
+                            "label": "所蔵",
+                            "value": "東京大学"
+                        }
+                    ],
+                    "thumbnail": "https://iiif.dl.itc.u-tokyo.ac.jp/repo/iiif-img/87190/532,387,6024,3871/,300/0/default.jpg"
+                },
+                {
+                    "@id": "https://iiif.dl.itc.u-tokyo.ac.jp/repo/iiif/25f33b7b-b237-45c2-afc6-72e9a057bfac/canvas/p4#xywh=3435,282,2452,4089",
+                    "@type": "sc:Canvas",
+                    "label": "井上河内守正直 p.4",
+                    "metadata": [
+                        {
+                            "label": "Score",
+                            "value": 0
+                        },
+                        {
+                            "label": "所蔵",
+                            "value": "東京大学"
+                        }
+                    ],
+                    "thumbnail": "https://iiif.dl.itc.u-tokyo.ac.jp/repo/iiif-img/87192/3435,282,2452,4089/,300/0/default.jpg"
+                },
+                {
+                    "@id": "https://iiif.dl.itc.u-tokyo.ac.jp/repo/iiif/25f33b7b-b237-45c2-afc6-72e9a057bfac/canvas/p4#xywh=1104,475,1952,3662",
+                    "@type": "sc:Canvas",
+                    "label": "井上河内守正直 p.4",
+                    "metadata": [
+                        {
+                            "label": "Score",
+                            "value": 0
+                        },
+                        {
+                            "label": "所蔵",
+                            "value": "東京大学"
+                        }
+                    ],
+                    "thumbnail": "https://iiif.dl.itc.u-tokyo.ac.jp/repo/iiif-img/87192/1104,475,1952,3662/,300/0/default.jpg"
+                },
+                {
+                    "@id": "https://iiif.dl.itc.u-tokyo.ac.jp/repo/iiif/25f33b7b-b237-45c2-afc6-72e9a057bfac/canvas/p7#xywh=3685,459,2000,3879",
+                    "@type": "sc:Canvas",
+                    "label": "井上河内守正直 p.7",
+                    "metadata": [
+                        {
+                            "label": "Score",
+                            "value": 0
+                        },
+                        {
+                            "label": "所蔵",
+                            "value": "東京大学"
+                        }
+                    ],
+                    "thumbnail": "https://iiif.dl.itc.u-tokyo.ac.jp/repo/iiif-img/87195/3685,459,2000,3879/,300/0/default.jpg"
+                },
+                {
+                    "@id": "https://iiif.dl.itc.u-tokyo.ac.jp/repo/iiif/25f33b7b-b237-45c2-afc6-72e9a057bfac/canvas/p7#xywh=862,467,2533,3807",
+                    "@type": "sc:Canvas",
+                    "label": "井上河内守正直 p.7",
+                    "metadata": [
+                        {
+                            "label": "Score",
+                            "value": 0
+                        },
+                        {
+                            "label": "所蔵",
+                            "value": "東京大学"
+                        }
+                    ],
+                    "thumbnail": "https://iiif.dl.itc.u-tokyo.ac.jp/repo/iiif-img/87195/862,467,2533,3807/,300/0/default.jpg"
+                },
+                {
+                    "@id": "https://iiif.dl.itc.u-tokyo.ac.jp/repo/iiif/25f33b7b-b237-45c2-afc6-72e9a057bfac/canvas/p8#xywh=846,72,4468,2831",
+                    "@type": "sc:Canvas",
+                    "label": "井上河内守正直 p.8",
+                    "metadata": [
+                        {
+                            "label": "Score",
+                            "value": 0
+                        },
+                        {
+                            "label": "所蔵",
+                            "value": "東京大学"
+                        }
+                    ],
+                    "thumbnail": "https://iiif.dl.itc.u-tokyo.ac.jp/repo/iiif-img/87196/846,72,4468,2831/,300/0/default.jpg"
+                },
+                {
+                    "@id": "https://iiif.dl.itc.u-tokyo.ac.jp/repo/iiif/25f33b7b-b237-45c2-afc6-72e9a057bfac/canvas/p9#xywh=1314,500,4355,3572",
+                    "@type": "sc:Canvas",
+                    "label": "井上河内守正直 p.9",
+                    "metadata": [
+                        {
+                            "label": "Score",
+                            "value": 0
+                        },
+                        {
+                            "label": "所蔵",
+                            "value": "東京大学"
+                        }
+                    ],
+                    "thumbnail": "https://iiif.dl.itc.u-tokyo.ac.jp/repo/iiif-img/87197/1314,500,4355,3572/,300/0/default.jpg"
+                },
+                {
+                    "@id": "https://iiif.dl.itc.u-tokyo.ac.jp/repo/iiif/25f33b7b-b237-45c2-afc6-72e9a057bfac/canvas/p10#xywh=3484,387,2306,4072",
+                    "@type": "sc:Canvas",
+                    "label": "井上河内守正直 p.10",
+                    "metadata": [
+                        {
+                            "label": "Score",
+                            "value": 0
+                        },
+                        {
+                            "label": "所蔵",
+                            "value": "東京大学"
+                        }
+                    ],
+                    "thumbnail": "https://iiif.dl.itc.u-tokyo.ac.jp/repo/iiif-img/87198/3484,387,2306,4072/,300/0/default.jpg"
+                },
+                {
+                    "@id": "https://iiif.dl.itc.u-tokyo.ac.jp/repo/iiif/25f33b7b-b237-45c2-afc6-72e9a057bfac/canvas/p10#xywh=725,427,2654,3823",
+                    "@type": "sc:Canvas",
+                    "label": "井上河内守正直 p.10",
+                    "metadata": [
+                        {
+                            "label": "Score",
+                            "value": 0
+                        },
+                        {
+                            "label": "所蔵",
+                            "value": "東京大学"
+                        }
+                    ],
+                    "thumbnail": "https://iiif.dl.itc.u-tokyo.ac.jp/repo/iiif-img/87198/725,427,2654,3823/,300/0/default.jpg"
+                },
+                {
+                    "@id": "https://iiif.dl.itc.u-tokyo.ac.jp/repo/iiif/25f33b7b-b237-45c2-afc6-72e9a057bfac/canvas/p13#xywh=3524,306,2436,4105",
+                    "@type": "sc:Canvas",
+                    "label": "井上河内守正直 p.13",
+                    "metadata": [
+                        {
+                            "label": "Score",
+                            "value": 0
+                        },
+                        {
+                            "label": "所蔵",
+                            "value": "東京大学"
+                        }
+                    ],
+                    "thumbnail": "https://iiif.dl.itc.u-tokyo.ac.jp/repo/iiif-img/87201/3524,306,2436,4105/,300/0/default.jpg"
+                },
+                {
+                    "@id": "https://iiif.dl.itc.u-tokyo.ac.jp/repo/iiif/25f33b7b-b237-45c2-afc6-72e9a057bfac/canvas/p14#xywh=3129,241,3048,4275",
+                    "@type": "sc:Canvas",
+                    "label": "井上河内守正直 p.14",
+                    "metadata": [
+                        {
+                            "label": "Score",
+                            "value": 0
+                        },
+                        {
+                            "label": "所蔵",
+                            "value": "東京大学"
+                        }
+                    ],
+                    "thumbnail": "https://iiif.dl.itc.u-tokyo.ac.jp/repo/iiif-img/87202/3129,241,3048,4275/,300/0/default.jpg"
+                }
+            ],
+            "within": {
+                "@id": "https://iiif.dl.itc.u-tokyo.ac.jp/repo/iiif/25f33b7b-b237-45c2-afc6-72e9a057bfac/manifest",
+                "@type": "sc:Manifest",
+                "label": "井上河内守正直"
+            }
+        }
+    ]
+}

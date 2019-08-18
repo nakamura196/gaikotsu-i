@@ -1,0 +1,39 @@
+{
+    "@context": [
+        "http://iiif.io/api/presentation/2/context.json",
+        "http://codh.rois.ac.jp/iiif/curation/1/context.json"
+    ],
+    "@id": "https://nakamura196.github.io/gaikotsu-i/curation_m/8f32269497c26c6dccece7ab8cbc3727.json",
+    "@type": "cr:Curation",
+    "label": "Curating list",
+    "selections": [
+        {
+            "@id": "https://nakamura196.github.io/gaikotsu-i/curation_m/8f32269497c26c6dccece7ab8cbc3727.json/range1",
+            "@type": "sc:Range",
+            "label": "Manual curation by IIIF Curation Viewer",
+            "members": [
+                {
+                    "@id": "https://iiif.dl.itc.u-tokyo.ac.jp/repo/iiif/a863a7eb-bf61-420d-8a30-165bcbb01a29/canvas/p1#xywh=1300,422,4738,4372",
+                    "@type": "sc:Canvas",
+                    "label": "大審院申渡記事 p.1",
+                    "metadata": [
+                        {
+                            "label": "Score",
+                            "value": 0
+                        },
+                        {
+                            "label": "所蔵",
+                            "value": "東京大学"
+                        }
+                    ],
+                    "thumbnail": "https://iiif.dl.itc.u-tokyo.ac.jp/repo/iiif-img/85607/1300,422,4738,4372/,300/0/default.jpg"
+                }
+            ],
+            "within": {
+                "@id": "https://iiif.dl.itc.u-tokyo.ac.jp/repo/iiif/a863a7eb-bf61-420d-8a30-165bcbb01a29/manifest",
+                "@type": "sc:Manifest",
+                "label": "大審院申渡記事"
+            }
+        }
+    ]
+}

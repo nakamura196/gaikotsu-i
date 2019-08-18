@@ -1,0 +1,511 @@
+{
+    "@context": [
+        "http://iiif.io/api/presentation/2/context.json",
+        "http://codh.rois.ac.jp/iiif/curation/1/context.json"
+    ],
+    "@id": "https://nakamura196.github.io/gaikotsu-i/curation_m/c33863f65c129a371e7727dd0199b8d9.json",
+    "@type": "cr:Curation",
+    "label": "Curating list",
+    "selections": [
+        {
+            "@id": "https://nakamura196.github.io/gaikotsu-i/curation_m/c33863f65c129a371e7727dd0199b8d9.json/range1",
+            "@type": "sc:Range",
+            "label": "Manual curation by IIIF Curation Viewer",
+            "members": [
+                {
+                    "@id": "https://iiif.dl.itc.u-tokyo.ac.jp/repo/iiif/f9b12318-7587-4590-a898-002efd81511f/canvas/p1#xywh=1242,1524,2508,1774",
+                    "@type": "sc:Canvas",
+                    "label": "[全国官員録一覧] p.1",
+                    "metadata": [
+                        {
+                            "label": "Score",
+                            "value": 0
+                        },
+                        {
+                            "label": "所蔵",
+                            "value": "東京大学"
+                        }
+                    ],
+                    "thumbnail": "https://iiif.dl.itc.u-tokyo.ac.jp/repo/iiif-img/84397/1242,1524,2508,1774/,300/0/default.jpg"
+                },
+                {
+                    "@id": "https://iiif.dl.itc.u-tokyo.ac.jp/repo/iiif/f9b12318-7587-4590-a898-002efd81511f/canvas/p2#xywh=1346,1395,4670,1919",
+                    "@type": "sc:Canvas",
+                    "label": "[全国官員録一覧] p.2",
+                    "metadata": [
+                        {
+                            "label": "Score",
+                            "value": 0
+                        },
+                        {
+                            "label": "所蔵",
+                            "value": "東京大学"
+                        }
+                    ],
+                    "thumbnail": "https://iiif.dl.itc.u-tokyo.ac.jp/repo/iiif-img/84398/1346,1395,4670,1919/,300/0/default.jpg"
+                },
+                {
+                    "@id": "https://iiif.dl.itc.u-tokyo.ac.jp/repo/iiif/f9b12318-7587-4590-a898-002efd81511f/canvas/p3#xywh=1459,1475,4565,1815",
+                    "@type": "sc:Canvas",
+                    "label": "[全国官員録一覧] p.3",
+                    "metadata": [
+                        {
+                            "label": "Score",
+                            "value": 0
+                        },
+                        {
+                            "label": "所蔵",
+                            "value": "東京大学"
+                        }
+                    ],
+                    "thumbnail": "https://iiif.dl.itc.u-tokyo.ac.jp/repo/iiif-img/84399/1459,1475,4565,1815/,300/0/default.jpg"
+                },
+                {
+                    "@id": "https://iiif.dl.itc.u-tokyo.ac.jp/repo/iiif/f9b12318-7587-4590-a898-002efd81511f/canvas/p4#xywh=1475,1435,4452,1863",
+                    "@type": "sc:Canvas",
+                    "label": "[全国官員録一覧] p.4",
+                    "metadata": [
+                        {
+                            "label": "Score",
+                            "value": 0
+                        },
+                        {
+                            "label": "所蔵",
+                            "value": "東京大学"
+                        }
+                    ],
+                    "thumbnail": "https://iiif.dl.itc.u-tokyo.ac.jp/repo/iiif-img/84400/1475,1435,4452,1863/,300/0/default.jpg"
+                },
+                {
+                    "@id": "https://iiif.dl.itc.u-tokyo.ac.jp/repo/iiif/f9b12318-7587-4590-a898-002efd81511f/canvas/p5#xywh=1508,1467,4516,1823",
+                    "@type": "sc:Canvas",
+                    "label": "[全国官員録一覧] p.5",
+                    "metadata": [
+                        {
+                            "label": "Score",
+                            "value": 0
+                        },
+                        {
+                            "label": "所蔵",
+                            "value": "東京大学"
+                        }
+                    ],
+                    "thumbnail": "https://iiif.dl.itc.u-tokyo.ac.jp/repo/iiif-img/84401/1508,1467,4516,1823/,300/0/default.jpg"
+                },
+                {
+                    "@id": "https://iiif.dl.itc.u-tokyo.ac.jp/repo/iiif/f9b12318-7587-4590-a898-002efd81511f/canvas/p6#xywh=1596,1435,4404,1839",
+                    "@type": "sc:Canvas",
+                    "label": "[全国官員録一覧] p.6",
+                    "metadata": [
+                        {
+                            "label": "Score",
+                            "value": 0
+                        },
+                        {
+                            "label": "所蔵",
+                            "value": "東京大学"
+                        }
+                    ],
+                    "thumbnail": "https://iiif.dl.itc.u-tokyo.ac.jp/repo/iiif-img/84402/1596,1435,4404,1839/,300/0/default.jpg"
+                },
+                {
+                    "@id": "https://iiif.dl.itc.u-tokyo.ac.jp/repo/iiif/f9b12318-7587-4590-a898-002efd81511f/canvas/p7#xywh=1604,1443,4307,1871",
+                    "@type": "sc:Canvas",
+                    "label": "[全国官員録一覧] p.7",
+                    "metadata": [
+                        {
+                            "label": "Score",
+                            "value": 0
+                        },
+                        {
+                            "label": "所蔵",
+                            "value": "東京大学"
+                        }
+                    ],
+                    "thumbnail": "https://iiif.dl.itc.u-tokyo.ac.jp/repo/iiif-img/84403/1604,1443,4307,1871/,300/0/default.jpg"
+                },
+                {
+                    "@id": "https://iiif.dl.itc.u-tokyo.ac.jp/repo/iiif/f9b12318-7587-4590-a898-002efd81511f/canvas/p8#xywh=1588,1435,4380,1863",
+                    "@type": "sc:Canvas",
+                    "label": "[全国官員録一覧] p.8",
+                    "metadata": [
+                        {
+                            "label": "Score",
+                            "value": 0
+                        },
+                        {
+                            "label": "所蔵",
+                            "value": "東京大学"
+                        },
+                        {
+                            "label": "機械タグ",
+                            "value": "Door"
+                        }
+                    ],
+                    "thumbnail": "https://iiif.dl.itc.u-tokyo.ac.jp/repo/iiif-img/84404/1588,1435,4380,1863/,300/0/default.jpg"
+                },
+                {
+                    "@id": "https://iiif.dl.itc.u-tokyo.ac.jp/repo/iiif/f9b12318-7587-4590-a898-002efd81511f/canvas/p9#xywh=1564,1459,4404,1823",
+                    "@type": "sc:Canvas",
+                    "label": "[全国官員録一覧] p.9",
+                    "metadata": [
+                        {
+                            "label": "Score",
+                            "value": 0
+                        },
+                        {
+                            "label": "所蔵",
+                            "value": "東京大学"
+                        }
+                    ],
+                    "thumbnail": "https://iiif.dl.itc.u-tokyo.ac.jp/repo/iiif-img/84405/1564,1459,4404,1823/,300/0/default.jpg"
+                },
+                {
+                    "@id": "https://iiif.dl.itc.u-tokyo.ac.jp/repo/iiif/f9b12318-7587-4590-a898-002efd81511f/canvas/p10#xywh=1500,1467,4581,1855",
+                    "@type": "sc:Canvas",
+                    "label": "[全国官員録一覧] p.10",
+                    "metadata": [
+                        {
+                            "label": "Score",
+                            "value": 0
+                        },
+                        {
+                            "label": "所蔵",
+                            "value": "東京大学"
+                        }
+                    ],
+                    "thumbnail": "https://iiif.dl.itc.u-tokyo.ac.jp/repo/iiif-img/84406/1500,1467,4581,1855/,300/0/default.jpg"
+                },
+                {
+                    "@id": "https://iiif.dl.itc.u-tokyo.ac.jp/repo/iiif/f9b12318-7587-4590-a898-002efd81511f/canvas/p11#xywh=1419,1403,4694,1919",
+                    "@type": "sc:Canvas",
+                    "label": "[全国官員録一覧] p.11",
+                    "metadata": [
+                        {
+                            "label": "Score",
+                            "value": 0
+                        },
+                        {
+                            "label": "所蔵",
+                            "value": "東京大学"
+                        }
+                    ],
+                    "thumbnail": "https://iiif.dl.itc.u-tokyo.ac.jp/repo/iiif-img/84407/1419,1403,4694,1919/,300/0/default.jpg"
+                },
+                {
+                    "@id": "https://iiif.dl.itc.u-tokyo.ac.jp/repo/iiif/f9b12318-7587-4590-a898-002efd81511f/canvas/p12#xywh=1451,1500,4654,1766",
+                    "@type": "sc:Canvas",
+                    "label": "[全国官員録一覧] p.12",
+                    "metadata": [
+                        {
+                            "label": "Score",
+                            "value": 0
+                        },
+                        {
+                            "label": "所蔵",
+                            "value": "東京大学"
+                        }
+                    ],
+                    "thumbnail": "https://iiif.dl.itc.u-tokyo.ac.jp/repo/iiif-img/84408/1451,1500,4654,1766/,300/0/default.jpg"
+                },
+                {
+                    "@id": "https://iiif.dl.itc.u-tokyo.ac.jp/repo/iiif/f9b12318-7587-4590-a898-002efd81511f/canvas/p13#xywh=1532,1540,4460,1718",
+                    "@type": "sc:Canvas",
+                    "label": "[全国官員録一覧] p.13",
+                    "metadata": [
+                        {
+                            "label": "Score",
+                            "value": 0
+                        },
+                        {
+                            "label": "所蔵",
+                            "value": "東京大学"
+                        }
+                    ],
+                    "thumbnail": "https://iiif.dl.itc.u-tokyo.ac.jp/repo/iiif-img/84409/1532,1540,4460,1718/,300/0/default.jpg"
+                },
+                {
+                    "@id": "https://iiif.dl.itc.u-tokyo.ac.jp/repo/iiif/f9b12318-7587-4590-a898-002efd81511f/canvas/p14#xywh=1451,1419,4646,1863",
+                    "@type": "sc:Canvas",
+                    "label": "[全国官員録一覧] p.14",
+                    "metadata": [
+                        {
+                            "label": "Score",
+                            "value": 0
+                        },
+                        {
+                            "label": "所蔵",
+                            "value": "東京大学"
+                        },
+                        {
+                            "label": "機械タグ",
+                            "value": "Door"
+                        }
+                    ],
+                    "thumbnail": "https://iiif.dl.itc.u-tokyo.ac.jp/repo/iiif-img/84410/1451,1419,4646,1863/,300/0/default.jpg"
+                },
+                {
+                    "@id": "https://iiif.dl.itc.u-tokyo.ac.jp/repo/iiif/f9b12318-7587-4590-a898-002efd81511f/canvas/p15#xywh=1483,1483,4533,1815",
+                    "@type": "sc:Canvas",
+                    "label": "[全国官員録一覧] p.15",
+                    "metadata": [
+                        {
+                            "label": "Score",
+                            "value": 0
+                        },
+                        {
+                            "label": "所蔵",
+                            "value": "東京大学"
+                        }
+                    ],
+                    "thumbnail": "https://iiif.dl.itc.u-tokyo.ac.jp/repo/iiif-img/84411/1483,1483,4533,1815/,300/0/default.jpg"
+                },
+                {
+                    "@id": "https://iiif.dl.itc.u-tokyo.ac.jp/repo/iiif/f9b12318-7587-4590-a898-002efd81511f/canvas/p16#xywh=1483,1467,4525,1871",
+                    "@type": "sc:Canvas",
+                    "label": "[全国官員録一覧] p.16",
+                    "metadata": [
+                        {
+                            "label": "Score",
+                            "value": 0
+                        },
+                        {
+                            "label": "所蔵",
+                            "value": "東京大学"
+                        }
+                    ],
+                    "thumbnail": "https://iiif.dl.itc.u-tokyo.ac.jp/repo/iiif-img/84412/1483,1467,4525,1871/,300/0/default.jpg"
+                },
+                {
+                    "@id": "https://iiif.dl.itc.u-tokyo.ac.jp/repo/iiif/f9b12318-7587-4590-a898-002efd81511f/canvas/p17#xywh=1516,1475,4435,1823",
+                    "@type": "sc:Canvas",
+                    "label": "[全国官員録一覧] p.17",
+                    "metadata": [
+                        {
+                            "label": "Score",
+                            "value": 0
+                        },
+                        {
+                            "label": "所蔵",
+                            "value": "東京大学"
+                        }
+                    ],
+                    "thumbnail": "https://iiif.dl.itc.u-tokyo.ac.jp/repo/iiif-img/84413/1516,1475,4435,1823/,300/0/default.jpg"
+                },
+                {
+                    "@id": "https://iiif.dl.itc.u-tokyo.ac.jp/repo/iiif/f9b12318-7587-4590-a898-002efd81511f/canvas/p18#xywh=1500,1387,4500,1935",
+                    "@type": "sc:Canvas",
+                    "label": "[全国官員録一覧] p.18",
+                    "metadata": [
+                        {
+                            "label": "Score",
+                            "value": 0
+                        },
+                        {
+                            "label": "所蔵",
+                            "value": "東京大学"
+                        }
+                    ],
+                    "thumbnail": "https://iiif.dl.itc.u-tokyo.ac.jp/repo/iiif-img/84414/1500,1387,4500,1935/,300/0/default.jpg"
+                },
+                {
+                    "@id": "https://iiif.dl.itc.u-tokyo.ac.jp/repo/iiif/f9b12318-7587-4590-a898-002efd81511f/canvas/p19#xywh=1556,1395,4347,1960",
+                    "@type": "sc:Canvas",
+                    "label": "[全国官員録一覧] p.19",
+                    "metadata": [
+                        {
+                            "label": "Score",
+                            "value": 0
+                        },
+                        {
+                            "label": "所蔵",
+                            "value": "東京大学"
+                        }
+                    ],
+                    "thumbnail": "https://iiif.dl.itc.u-tokyo.ac.jp/repo/iiif-img/84415/1556,1395,4347,1960/,300/0/default.jpg"
+                },
+                {
+                    "@id": "https://iiif.dl.itc.u-tokyo.ac.jp/repo/iiif/f9b12318-7587-4590-a898-002efd81511f/canvas/p20#xywh=1475,1362,4630,1960",
+                    "@type": "sc:Canvas",
+                    "label": "[全国官員録一覧] p.20",
+                    "metadata": [
+                        {
+                            "label": "Score",
+                            "value": 0
+                        },
+                        {
+                            "label": "所蔵",
+                            "value": "東京大学"
+                        }
+                    ],
+                    "thumbnail": "https://iiif.dl.itc.u-tokyo.ac.jp/repo/iiif-img/84416/1475,1362,4630,1960/,300/0/default.jpg"
+                },
+                {
+                    "@id": "https://iiif.dl.itc.u-tokyo.ac.jp/repo/iiif/f9b12318-7587-4590-a898-002efd81511f/canvas/p21#xywh=1532,1362,4540,1984",
+                    "@type": "sc:Canvas",
+                    "label": "[全国官員録一覧] p.21",
+                    "metadata": [
+                        {
+                            "label": "Score",
+                            "value": 0
+                        },
+                        {
+                            "label": "所蔵",
+                            "value": "東京大学"
+                        }
+                    ],
+                    "thumbnail": "https://iiif.dl.itc.u-tokyo.ac.jp/repo/iiif-img/84417/1532,1362,4540,1984/,300/0/default.jpg"
+                },
+                {
+                    "@id": "https://iiif.dl.itc.u-tokyo.ac.jp/repo/iiif/f9b12318-7587-4590-a898-002efd81511f/canvas/p22#xywh=1596,1354,4436,2009",
+                    "@type": "sc:Canvas",
+                    "label": "[全国官員録一覧] p.22",
+                    "metadata": [
+                        {
+                            "label": "Score",
+                            "value": 0
+                        },
+                        {
+                            "label": "所蔵",
+                            "value": "東京大学"
+                        }
+                    ],
+                    "thumbnail": "https://iiif.dl.itc.u-tokyo.ac.jp/repo/iiif-img/84418/1596,1354,4436,2009/,300/0/default.jpg"
+                },
+                {
+                    "@id": "https://iiif.dl.itc.u-tokyo.ac.jp/repo/iiif/f9b12318-7587-4590-a898-002efd81511f/canvas/p23#xywh=1572,1395,4428,1960",
+                    "@type": "sc:Canvas",
+                    "label": "[全国官員録一覧] p.23",
+                    "metadata": [
+                        {
+                            "label": "Score",
+                            "value": 0
+                        },
+                        {
+                            "label": "所蔵",
+                            "value": "東京大学"
+                        }
+                    ],
+                    "thumbnail": "https://iiif.dl.itc.u-tokyo.ac.jp/repo/iiif-img/84419/1572,1395,4428,1960/,300/0/default.jpg"
+                },
+                {
+                    "@id": "https://iiif.dl.itc.u-tokyo.ac.jp/repo/iiif/f9b12318-7587-4590-a898-002efd81511f/canvas/p24#xywh=1475,1403,4678,1919",
+                    "@type": "sc:Canvas",
+                    "label": "[全国官員録一覧] p.24",
+                    "metadata": [
+                        {
+                            "label": "Score",
+                            "value": 0
+                        },
+                        {
+                            "label": "所蔵",
+                            "value": "東京大学"
+                        }
+                    ],
+                    "thumbnail": "https://iiif.dl.itc.u-tokyo.ac.jp/repo/iiif-img/84420/1475,1403,4678,1919/,300/0/default.jpg"
+                },
+                {
+                    "@id": "https://iiif.dl.itc.u-tokyo.ac.jp/repo/iiif/f9b12318-7587-4590-a898-002efd81511f/canvas/p25#xywh=1540,1314,4549,2065",
+                    "@type": "sc:Canvas",
+                    "label": "[全国官員録一覧] p.25",
+                    "metadata": [
+                        {
+                            "label": "Score",
+                            "value": 0
+                        },
+                        {
+                            "label": "所蔵",
+                            "value": "東京大学"
+                        }
+                    ],
+                    "thumbnail": "https://iiif.dl.itc.u-tokyo.ac.jp/repo/iiif-img/84421/1540,1314,4549,2065/,300/0/default.jpg"
+                },
+                {
+                    "@id": "https://iiif.dl.itc.u-tokyo.ac.jp/repo/iiif/f9b12318-7587-4590-a898-002efd81511f/canvas/p26#xywh=1540,1330,4557,2041",
+                    "@type": "sc:Canvas",
+                    "label": "[全国官員録一覧] p.26",
+                    "metadata": [
+                        {
+                            "label": "Score",
+                            "value": 0
+                        },
+                        {
+                            "label": "所蔵",
+                            "value": "東京大学"
+                        }
+                    ],
+                    "thumbnail": "https://iiif.dl.itc.u-tokyo.ac.jp/repo/iiif-img/84422/1540,1330,4557,2041/,300/0/default.jpg"
+                },
+                {
+                    "@id": "https://iiif.dl.itc.u-tokyo.ac.jp/repo/iiif/f9b12318-7587-4590-a898-002efd81511f/canvas/p27#xywh=1387,1362,4847,1952",
+                    "@type": "sc:Canvas",
+                    "label": "[全国官員録一覧] p.27",
+                    "metadata": [
+                        {
+                            "label": "Score",
+                            "value": 0
+                        },
+                        {
+                            "label": "所蔵",
+                            "value": "東京大学"
+                        }
+                    ],
+                    "thumbnail": "https://iiif.dl.itc.u-tokyo.ac.jp/repo/iiif-img/84423/1387,1362,4847,1952/,300/0/default.jpg"
+                },
+                {
+                    "@id": "https://iiif.dl.itc.u-tokyo.ac.jp/repo/iiif/f9b12318-7587-4590-a898-002efd81511f/canvas/p28#xywh=1387,1379,4855,1903",
+                    "@type": "sc:Canvas",
+                    "label": "[全国官員録一覧] p.28",
+                    "metadata": [
+                        {
+                            "label": "Score",
+                            "value": 0
+                        },
+                        {
+                            "label": "所蔵",
+                            "value": "東京大学"
+                        }
+                    ],
+                    "thumbnail": "https://iiif.dl.itc.u-tokyo.ac.jp/repo/iiif-img/84424/1387,1379,4855,1903/,300/0/default.jpg"
+                },
+                {
+                    "@id": "https://iiif.dl.itc.u-tokyo.ac.jp/repo/iiif/f9b12318-7587-4590-a898-002efd81511f/canvas/p29#xywh=1492,1371,4943,1992",
+                    "@type": "sc:Canvas",
+                    "label": "[全国官員録一覧] p.29",
+                    "metadata": [
+                        {
+                            "label": "Score",
+                            "value": 0
+                        },
+                        {
+                            "label": "所蔵",
+                            "value": "東京大学"
+                        }
+                    ],
+                    "thumbnail": "https://iiif.dl.itc.u-tokyo.ac.jp/repo/iiif-img/84425/1492,1371,4943,1992/,300/0/default.jpg"
+                },
+                {
+                    "@id": "https://iiif.dl.itc.u-tokyo.ac.jp/repo/iiif/f9b12318-7587-4590-a898-002efd81511f/canvas/p30#xywh=3476,1580,2677,1662",
+                    "@type": "sc:Canvas",
+                    "label": "[全国官員録一覧] p.30",
+                    "metadata": [
+                        {
+                            "label": "Score",
+                            "value": 0
+                        },
+                        {
+                            "label": "所蔵",
+                            "value": "東京大学"
+                        }
+                    ],
+                    "thumbnail": "https://iiif.dl.itc.u-tokyo.ac.jp/repo/iiif-img/84426/3476,1580,2677,1662/,300/0/default.jpg"
+                }
+            ],
+            "within": {
+                "@id": "https://iiif.dl.itc.u-tokyo.ac.jp/repo/iiif/f9b12318-7587-4590-a898-002efd81511f/manifest",
+                "@type": "sc:Manifest",
+                "label": "[全国官員録一覧]"
+            }
+        }
+    ]
+}

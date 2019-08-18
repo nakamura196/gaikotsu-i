@@ -1,0 +1,1538 @@
+{
+    "@context": "http://iiif.io/api/presentation/2/context.json",
+    "@id": "https://nakamura196.github.io/gaikotsu-i/collection/curation_m.json",
+    "@type": "cr:Collection",
+    "curations": [
+        {
+            "@context": "http://iiif.io/api/presentation/2/context.json",
+            "@id": "https://nakamura196.github.io/gaikotsu-i/curation_m/f92b8b6b6d18207487f1c1451a4d23d7.json",
+            "@type": "cr:Curation",
+            "label": "筆写原稿「國會ハ自然ニ開クベシト某總代人ニ答ヘタル福澤先生ノ一語ハ頓智カ遁辞カ(明治十三年八月十三日發行『近時評論』第二百八十四號所載)」"
+        },
+        {
+            "@context": "http://iiif.io/api/presentation/2/context.json",
+            "@id": "https://nakamura196.github.io/gaikotsu-i/curation_m/d304b910cdeffbab13d4060096d90cfc.json",
+            "@type": "cr:Curation",
+            "label": "[石碑関係新聞雑誌切抜類]"
+        },
+        {
+            "@context": "http://iiif.io/api/presentation/2/context.json",
+            "@id": "https://nakamura196.github.io/gaikotsu-i/curation_m/383053a15efd9f8c1dae2e92ca8da371.json",
+            "@type": "cr:Curation",
+            "label": "府藩県 視聴随筆 甲"
+        },
+        {
+            "@context": "http://iiif.io/api/presentation/2/context.json",
+            "@id": "https://nakamura196.github.io/gaikotsu-i/curation_m/506f3913a17963acaf03f8e0b661e67f.json",
+            "@type": "cr:Curation",
+            "label": "[「さをしか」ほか標題写]"
+        },
+        {
+            "@context": "http://iiif.io/api/presentation/2/context.json",
+            "@id": "https://nakamura196.github.io/gaikotsu-i/curation_m/c25065cfc2af7819540cde7e0e7f0f79.json",
+            "@type": "cr:Curation",
+            "label": "「古今奇語集成」頁(部分)"
+        },
+        {
+            "@context": "http://iiif.io/api/presentation/2/context.json",
+            "@id": "https://nakamura196.github.io/gaikotsu-i/curation_m/f2e82e1b315845a7fe0877ce8d26ee85.json",
+            "@type": "cr:Curation",
+            "label": "三字標題日刊新聞"
+        },
+        {
+            "@context": "http://iiif.io/api/presentation/2/context.json",
+            "@id": "https://nakamura196.github.io/gaikotsu-i/curation_m/26f3987cde8c2133aa4c42f6f3cb2c41.json",
+            "@type": "cr:Curation",
+            "label": "切抜[頓智協会開設広告]"
+        },
+        {
+            "@context": "http://iiif.io/api/presentation/2/context.json",
+            "@id": "https://nakamura196.github.io/gaikotsu-i/curation_m/3b0a7344d4241380dade9e95e07c9055.json",
+            "@type": "cr:Curation",
+            "label": "甲第拾七号"
+        },
+        {
+            "@context": "http://iiif.io/api/presentation/2/context.json",
+            "@id": "https://nakamura196.github.io/gaikotsu-i/curation_m/0cdf9dfb3cdad4ca94021a7a4f27d24b.json",
+            "@type": "cr:Curation",
+            "label": "川柳學 組織案"
+        },
+        {
+            "@context": "http://iiif.io/api/presentation/2/context.json",
+            "@id": "https://nakamura196.github.io/gaikotsu-i/curation_m/9c660e624ec5dcc9ab0d233a8cae17c9.json",
+            "@type": "cr:Curation",
+            "label": "[新聞雑誌題字写]"
+        },
+        {
+            "@context": "http://iiif.io/api/presentation/2/context.json",
+            "@id": "https://nakamura196.github.io/gaikotsu-i/curation_m/3ab48aa49424a6563f0bc37712eee444.json",
+            "@type": "cr:Curation",
+            "label": "「近事評論」220号(福澤諭吉先生勝海舟先生ノ荅辯ニ閉口ス)"
+        },
+        {
+            "@context": "http://iiif.io/api/presentation/2/context.json",
+            "@id": "https://nakamura196.github.io/gaikotsu-i/curation_m/dd56f8a1cf7d7ead1c69e4c74bf0ce82.json",
+            "@type": "cr:Curation",
+            "label": "日刊雜誌"
+        },
+        {
+            "@context": "http://iiif.io/api/presentation/2/context.json",
+            "@id": "https://nakamura196.github.io/gaikotsu-i/curation_m/707ed5d1532a810f5cc9f68b07369c4a.json",
+            "@type": "cr:Curation",
+            "label": "[広告「興味雑誌 奇」]"
+        },
+        {
+            "@context": "http://iiif.io/api/presentation/2/context.json",
+            "@id": "https://nakamura196.github.io/gaikotsu-i/curation_m/ce6ab689994e891c08f368ecfc028b0d.json",
+            "@type": "cr:Curation",
+            "label": "外装バインダー(「雑誌発行宣伝広告集」)"
+        },
+        {
+            "@context": "http://iiif.io/api/presentation/2/context.json",
+            "@id": "https://nakamura196.github.io/gaikotsu-i/curation_m/f5ea5a4818ac73f34da6b4f262317ff4.json",
+            "@type": "cr:Curation",
+            "label": "ぬきかき"
+        },
+        {
+            "@context": "http://iiif.io/api/presentation/2/context.json",
+            "@id": "https://nakamura196.github.io/gaikotsu-i/curation_m/646e69d8d222bfd2284d7f4ded9c02f8.json",
+            "@type": "cr:Curation",
+            "label": "切り抜き帳(12回)大正4年3月"
+        },
+        {
+            "@context": "http://iiif.io/api/presentation/2/context.json",
+            "@id": "https://nakamura196.github.io/gaikotsu-i/curation_m/9794dad6e0991584a37c1ae8183569f9.json",
+            "@type": "cr:Curation",
+            "label": "小為替證書"
+        },
+        {
+            "@context": "http://iiif.io/api/presentation/2/context.json",
+            "@id": "https://nakamura196.github.io/gaikotsu-i/curation_m/e5e16b5b54a45e7f6bd7b498575b14b2.json",
+            "@type": "cr:Curation",
+            "label": "「赤」号外「東京諸新聞社印刷職工総同盟罷工 今朝の新聞紙は悉く休刊」(大正8年8月)"
+        },
+        {
+            "@context": "http://iiif.io/api/presentation/2/context.json",
+            "@id": "https://nakamura196.github.io/gaikotsu-i/curation_m/328839d7c0d08c6f7893574ce1238161.json",
+            "@type": "cr:Curation",
+            "label": "藩名總覽"
+        },
+        {
+            "@context": "http://iiif.io/api/presentation/2/context.json",
+            "@id": "https://nakamura196.github.io/gaikotsu-i/curation_m/77a69007ccece6e10589607df97f95b1.json",
+            "@type": "cr:Curation",
+            "label": "[広告「興味雑誌 奇」]"
+        },
+        {
+            "@context": "http://iiif.io/api/presentation/2/context.json",
+            "@id": "https://nakamura196.github.io/gaikotsu-i/curation_m/67f7c0dbe5790afd0b8b0960c0f7f7ea.json",
+            "@type": "cr:Curation",
+            "label": "郵便報知新聞"
+        },
+        {
+            "@context": "http://iiif.io/api/presentation/2/context.json",
+            "@id": "https://nakamura196.github.io/gaikotsu-i/curation_m/008bee5e2af252ae9afe5b14a974aa92.json",
+            "@type": "cr:Curation",
+            "label": "[新聞雑誌題字写]"
+        },
+        {
+            "@context": "http://iiif.io/api/presentation/2/context.json",
+            "@id": "https://nakamura196.github.io/gaikotsu-i/curation_m/9a0edfdeda7b9cf1e0b74f857a752c0d.json",
+            "@type": "cr:Curation",
+            "label": "大正9年衆議院議員立候補者(第14回)宮武外骨以外(推薦書・宣言書等)"
+        },
+        {
+            "@context": "http://iiif.io/api/presentation/2/context.json",
+            "@id": "https://nakamura196.github.io/gaikotsu-i/curation_m/f86c170c89577470e73f8d97fc5cee08.json",
+            "@type": "cr:Curation",
+            "label": "籠「宮武外骨収集裁判資料」"
+        },
+        {
+            "@context": "http://iiif.io/api/presentation/2/context.json",
+            "@id": "https://nakamura196.github.io/gaikotsu-i/curation_m/cec90a846938cffc925103a8e57103e2.json",
+            "@type": "cr:Curation",
+            "label": "「近事評論」195号(慶應義塾生徒諸君ニ告グ)"
+        },
+        {
+            "@context": "http://iiif.io/api/presentation/2/context.json",
+            "@id": "https://nakamura196.github.io/gaikotsu-i/curation_m/f34be835b178921aba666c463586041d.json",
+            "@type": "cr:Curation",
+            "label": "新古談語"
+        },
+        {
+            "@context": "http://iiif.io/api/presentation/2/context.json",
+            "@id": "https://nakamura196.github.io/gaikotsu-i/curation_m/aba190038de2b084bed88c3940e468cc.json",
+            "@type": "cr:Curation",
+            "label": "千阪光子関係メモ"
+        },
+        {
+            "@context": "http://iiif.io/api/presentation/2/context.json",
+            "@id": "https://nakamura196.github.io/gaikotsu-i/curation_m/cb407414aabbfd5c7a4c1562d2014b7c.json",
+            "@type": "cr:Curation",
+            "label": "[広告「滑稽新聞」]"
+        },
+        {
+            "@context": "http://iiif.io/api/presentation/2/context.json",
+            "@id": "https://nakamura196.github.io/gaikotsu-i/curation_m/d0a861925193c93873667acc89ae04b8.json",
+            "@type": "cr:Curation",
+            "label": "新聞雜誌事物起原考"
+        },
+        {
+            "@context": "http://iiif.io/api/presentation/2/context.json",
+            "@id": "https://nakamura196.github.io/gaikotsu-i/curation_m/4432489291984dff4af87dcf59b38b37.json",
+            "@type": "cr:Curation",
+            "label": "ザックバラン"
+        },
+        {
+            "@context": "http://iiif.io/api/presentation/2/context.json",
+            "@id": "https://nakamura196.github.io/gaikotsu-i/curation_m/d1168c27b7b877b8f4f8e93d2928fa33.json",
+            "@type": "cr:Curation",
+            "label": "妻吉富士:堀江六人斬"
+        },
+        {
+            "@context": "http://iiif.io/api/presentation/2/context.json",
+            "@id": "https://nakamura196.github.io/gaikotsu-i/curation_m/27d73c7cf96233f47e193abea9b36b64.json",
+            "@type": "cr:Curation",
+            "label": "宮武本邸真圖"
+        },
+        {
+            "@context": "http://iiif.io/api/presentation/2/context.json",
+            "@id": "https://nakamura196.github.io/gaikotsu-i/curation_m/e04db888d8bd310ab36ae7fcb6b7e943.json",
+            "@type": "cr:Curation",
+            "label": "宮武外骨日本赤十字社員証"
+        },
+        {
+            "@context": "http://iiif.io/api/presentation/2/context.json",
+            "@id": "https://nakamura196.github.io/gaikotsu-i/curation_m/825a4a2e308b37bc735371f8b4f38288.json",
+            "@type": "cr:Curation",
+            "label": "吉野(記念)會趣意暫定"
+        },
+        {
+            "@context": "http://iiif.io/api/presentation/2/context.json",
+            "@id": "https://nakamura196.github.io/gaikotsu-i/curation_m/ddcc1fa862b3e8b78e63dc2f9a840af8.json",
+            "@type": "cr:Curation",
+            "label": "裁判書語録不買メモ"
+        },
+        {
+            "@context": "http://iiif.io/api/presentation/2/context.json",
+            "@id": "https://nakamura196.github.io/gaikotsu-i/curation_m/a8950aed647c78aa0a51a288acfd27d1.json",
+            "@type": "cr:Curation",
+            "label": "外装(日刊雜誌 形式考案 不成就記念保存)"
+        },
+        {
+            "@context": "http://iiif.io/api/presentation/2/context.json",
+            "@id": "https://nakamura196.github.io/gaikotsu-i/curation_m/201455aef9e93eaffdfe364970b28be3.json",
+            "@type": "cr:Curation",
+            "label": "明治の錦繪新聞"
+        },
+        {
+            "@context": "http://iiif.io/api/presentation/2/context.json",
+            "@id": "https://nakamura196.github.io/gaikotsu-i/curation_m/e4c9f03154036c6fe67586ff976208f1.json",
+            "@type": "cr:Curation",
+            "label": "切抜き"
+        },
+        {
+            "@context": "http://iiif.io/api/presentation/2/context.json",
+            "@id": "https://nakamura196.github.io/gaikotsu-i/curation_m/18037675f6a89bc3f26f143bba54beb9.json",
+            "@type": "cr:Curation",
+            "label": "後継者を求む"
+        },
+        {
+            "@context": "http://iiif.io/api/presentation/2/context.json",
+            "@id": "https://nakamura196.github.io/gaikotsu-i/curation_m/93a875ce558639df0630faf588a1b8d1.json",
+            "@type": "cr:Curation",
+            "label": "「扶桑新誌」168号(福澤諭吉先生不日重官ニ登用セラレントストハ果シテ信耶)"
+        },
+        {
+            "@context": "http://iiif.io/api/presentation/2/context.json",
+            "@id": "https://nakamura196.github.io/gaikotsu-i/curation_m/d6cb6e24400b066cc73329e4eb0e3731.json",
+            "@type": "cr:Curation",
+            "label": "假證「金壹千圓也」"
+        },
+        {
+            "@context": "http://iiif.io/api/presentation/2/context.json",
+            "@id": "https://nakamura196.github.io/gaikotsu-i/curation_m/e3750f484d5b38abfd8fa36e5e84369e.json",
+            "@type": "cr:Curation",
+            "label": "小笠原島懲役仮条例or高神党祈願書(伊良子軍十郎)"
+        },
+        {
+            "@context": "http://iiif.io/api/presentation/2/context.json",
+            "@id": "https://nakamura196.github.io/gaikotsu-i/curation_m/b5aceca035bbc1d467f53030f6683457.json",
+            "@type": "cr:Curation",
+            "label": "新聞雑誌切抜(2)"
+        },
+        {
+            "@context": "http://iiif.io/api/presentation/2/context.json",
+            "@id": "https://nakamura196.github.io/gaikotsu-i/curation_m/24dcace6422faaf19ca7887a24bab4b2.json",
+            "@type": "cr:Curation",
+            "label": "東北旅行日記"
+        },
+        {
+            "@context": "http://iiif.io/api/presentation/2/context.json",
+            "@id": "https://nakamura196.github.io/gaikotsu-i/curation_m/9cf4af88b578521f54533056f872f109.json",
+            "@type": "cr:Curation",
+            "label": "雑誌頁(部分)"
+        },
+        {
+            "@context": "http://iiif.io/api/presentation/2/context.json",
+            "@id": "https://nakamura196.github.io/gaikotsu-i/curation_m/4388bfb981d8088c1472d6107e6fa02a.json",
+            "@type": "cr:Curation",
+            "label": "ハガキ[「滑稽新聞」119号発送通知]"
+        },
+        {
+            "@context": "http://iiif.io/api/presentation/2/context.json",
+            "@id": "https://nakamura196.github.io/gaikotsu-i/curation_m/972dc854538ec9b407f67714eb915e56.json",
+            "@type": "cr:Curation",
+            "label": "原稿"
+        },
+        {
+            "@context": "http://iiif.io/api/presentation/2/context.json",
+            "@id": "https://nakamura196.github.io/gaikotsu-i/curation_m/a1a93326b0fbadfa9bb395b604dc7eba.json",
+            "@type": "cr:Curation",
+            "label": "「宮武外骨自叙傳(1)(2)」"
+        },
+        {
+            "@context": "http://iiif.io/api/presentation/2/context.json",
+            "@id": "https://nakamura196.github.io/gaikotsu-i/curation_m/ce4b3b7b295f46fb4b4b2fdb91d6c43d.json",
+            "@type": "cr:Curation",
+            "label": "[「木綿屑成紙」発行案内]"
+        },
+        {
+            "@context": "http://iiif.io/api/presentation/2/context.json",
+            "@id": "https://nakamura196.github.io/gaikotsu-i/curation_m/629011147176be59f43a64b9da51703f.json",
+            "@type": "cr:Curation",
+            "label": "[校友会関係雑誌題字写]"
+        },
+        {
+            "@context": "http://iiif.io/api/presentation/2/context.json",
+            "@id": "https://nakamura196.github.io/gaikotsu-i/curation_m/cd020adabbaa2b7d10d265d10ad601da.json",
+            "@type": "cr:Curation",
+            "label": "職業大全"
+        },
+        {
+            "@context": "http://iiif.io/api/presentation/2/context.json",
+            "@id": "https://nakamura196.github.io/gaikotsu-i/curation_m/e9a677c62e84a46781d3abcc25934c69.json",
+            "@type": "cr:Curation",
+            "label": "和紙印刷の日刊新聞 七種"
+        },
+        {
+            "@context": "http://iiif.io/api/presentation/2/context.json",
+            "@id": "https://nakamura196.github.io/gaikotsu-i/curation_m/c638f17fe76ce2fe1cc0d37661021eaf.json",
+            "@type": "cr:Curation",
+            "label": "細川家事件(華族醜聞)関係書類"
+        },
+        {
+            "@context": "http://iiif.io/api/presentation/2/context.json",
+            "@id": "https://nakamura196.github.io/gaikotsu-i/curation_m/7d4f2b08fad2f871ae98551a5d552eff.json",
+            "@type": "cr:Curation",
+            "label": "[「城」標題写]"
+        },
+        {
+            "@context": "http://iiif.io/api/presentation/2/context.json",
+            "@id": "https://nakamura196.github.io/gaikotsu-i/curation_m/ee04198e69aa2d0cffea26d0fc45d4bf.json",
+            "@type": "cr:Curation",
+            "label": "東京裁判所落着"
+        },
+        {
+            "@context": "http://iiif.io/api/presentation/2/context.json",
+            "@id": "https://nakamura196.github.io/gaikotsu-i/curation_m/b014469eaa0e1682cb92ce43fa3fb4d2.json",
+            "@type": "cr:Curation",
+            "label": "平賀源内履歴取調書冩"
+        },
+        {
+            "@context": "http://iiif.io/api/presentation/2/context.json",
+            "@id": "https://nakamura196.github.io/gaikotsu-i/curation_m/623a7bce35f30c17e6a66845bdec23ae.json",
+            "@type": "cr:Curation",
+            "label": "此中に有り"
+        },
+        {
+            "@context": "http://iiif.io/api/presentation/2/context.json",
+            "@id": "https://nakamura196.github.io/gaikotsu-i/curation_m/375d44725b084fc09483558d662ca2fb.json",
+            "@type": "cr:Curation",
+            "label": "筆写原稿・メモ「福澤諭吉先生不日重官ニ登用セラレントストハ果シテ信耶(明治十四年五月二十六日 扶桑新誌 第百六十八号)」、「一貴顕三田ノ老翁ノ為メニ八ヲ喰フ(明治十五年九月一日 扶桑新誌 第二百三十七号)」"
+        },
+        {
+            "@context": "http://iiif.io/api/presentation/2/context.json",
+            "@id": "https://nakamura196.github.io/gaikotsu-i/curation_m/f3b80dcb80aec09881ae22fb2f0c0c0a.json",
+            "@type": "cr:Curation",
+            "label": "[雑誌発行関係等官庁書類]"
+        },
+        {
+            "@context": "http://iiif.io/api/presentation/2/context.json",
+            "@id": "https://nakamura196.github.io/gaikotsu-i/curation_m/1b07887896bbf6d32056dce025e8b233.json",
+            "@type": "cr:Curation",
+            "label": "推薦状"
+        },
+        {
+            "@context": "http://iiif.io/api/presentation/2/context.json",
+            "@id": "https://nakamura196.github.io/gaikotsu-i/curation_m/33a242690ced6de7f24a7906a8f63699.json",
+            "@type": "cr:Curation",
+            "label": "宮武外骨自叙傳(『書物展望』記事原稿)"
+        },
+        {
+            "@context": "http://iiif.io/api/presentation/2/context.json",
+            "@id": "https://nakamura196.github.io/gaikotsu-i/curation_m/686bd2a1ea9d6dfba0d73583dd7db433.json",
+            "@type": "cr:Curation",
+            "label": "[新聞雑誌題字写]"
+        },
+        {
+            "@context": "http://iiif.io/api/presentation/2/context.json",
+            "@id": "https://nakamura196.github.io/gaikotsu-i/curation_m/349a16d1882c88c2572db7424b4872bc.json",
+            "@type": "cr:Curation",
+            "label": "再生外骨の復活動"
+        },
+        {
+            "@context": "http://iiif.io/api/presentation/2/context.json",
+            "@id": "https://nakamura196.github.io/gaikotsu-i/curation_m/e966b9eb123681d00929e0431e3562bd.json",
+            "@type": "cr:Curation",
+            "label": "切抜(新聞雑誌題字)"
+        },
+        {
+            "@context": "http://iiif.io/api/presentation/2/context.json",
+            "@id": "https://nakamura196.github.io/gaikotsu-i/curation_m/c7fa27379da60c8cf000539817143d5f.json",
+            "@type": "cr:Curation",
+            "label": "濱寺公園日記"
+        },
+        {
+            "@context": "http://iiif.io/api/presentation/2/context.json",
+            "@id": "https://nakamura196.github.io/gaikotsu-i/curation_m/1d52371e7ced05756307b66bd28e8420.json",
+            "@type": "cr:Curation",
+            "label": "筆写原稿「三田町阿福の奇話 烏森町清本新内投寄」"
+        },
+        {
+            "@context": "http://iiif.io/api/presentation/2/context.json",
+            "@id": "https://nakamura196.github.io/gaikotsu-i/curation_m/411553b06b987e461db2d09a0033b9b0.json",
+            "@type": "cr:Curation",
+            "label": "井上河内守正直"
+        },
+        {
+            "@context": "http://iiif.io/api/presentation/2/context.json",
+            "@id": "https://nakamura196.github.io/gaikotsu-i/curation_m/a6e7fa49029d8050d4aac3321893506d.json",
+            "@type": "cr:Curation",
+            "label": "筆写原稿「福澤氏西京人ノ入門ヲ拒絶ス(明治九年六月十日發行『近時評論』第二號所載)」"
+        },
+        {
+            "@context": "http://iiif.io/api/presentation/2/context.json",
+            "@id": "https://nakamura196.github.io/gaikotsu-i/curation_m/682dfda50a0197a14db0beb6f5be501f.json",
+            "@type": "cr:Curation",
+            "label": "松川屋妻吉"
+        },
+        {
+            "@context": "http://iiif.io/api/presentation/2/context.json",
+            "@id": "https://nakamura196.github.io/gaikotsu-i/curation_m/79c8646b239fff284a88d5aa06a29f75.json",
+            "@type": "cr:Curation",
+            "label": "筆写原稿「三田町阿福の奇話第二囬 烏森町 清本新内投寄」"
+        },
+        {
+            "@context": "http://iiif.io/api/presentation/2/context.json",
+            "@id": "https://nakamura196.github.io/gaikotsu-i/curation_m/5de5539cbacbdac10b4232637e6c26ef.json",
+            "@type": "cr:Curation",
+            "label": "切抜[広告「男女性学雑誌」、「迷信研究雑誌」]"
+        },
+        {
+            "@context": "http://iiif.io/api/presentation/2/context.json",
+            "@id": "https://nakamura196.github.io/gaikotsu-i/curation_m/6119d475ccba9cbc538ceb3e5354b0ca.json",
+            "@type": "cr:Curation",
+            "label": "若松県庁攻撃記事"
+        },
+        {
+            "@context": "http://iiif.io/api/presentation/2/context.json",
+            "@id": "https://nakamura196.github.io/gaikotsu-i/curation_m/123e0f7f9fdfa1543b81c028d7be8ab1.json",
+            "@type": "cr:Curation",
+            "label": "(長途旅行(関西2府11県)関係資料)"
+        },
+        {
+            "@context": "http://iiif.io/api/presentation/2/context.json",
+            "@id": "https://nakamura196.github.io/gaikotsu-i/curation_m/bc33040bfaff13fbdc5a0a77b84941c7.json",
+            "@type": "cr:Curation",
+            "label": "「近事評論」196号(三田大爺官金二十五万圓ヲ借入ントス)"
+        },
+        {
+            "@context": "http://iiif.io/api/presentation/2/context.json",
+            "@id": "https://nakamura196.github.io/gaikotsu-i/curation_m/c9bdf357d7080df678045b9e6bc4631e.json",
+            "@type": "cr:Curation",
+            "label": "[「袋雑誌」総目録]"
+        },
+        {
+            "@context": "http://iiif.io/api/presentation/2/context.json",
+            "@id": "https://nakamura196.github.io/gaikotsu-i/curation_m/082b8dab9bef57e64a93bda6799406b2.json",
+            "@type": "cr:Curation",
+            "label": "切抜[広告「袋雑誌」]"
+        },
+        {
+            "@context": "http://iiif.io/api/presentation/2/context.json",
+            "@id": "https://nakamura196.github.io/gaikotsu-i/curation_m/8e188d42ee2199012742e58c9b8fb330.json",
+            "@type": "cr:Curation",
+            "label": "宮武外骨翁退職記念品を贈る会関係資料"
+        },
+        {
+            "@context": "http://iiif.io/api/presentation/2/context.json",
+            "@id": "https://nakamura196.github.io/gaikotsu-i/curation_m/c38dee25ab0d9aa353f0f51a9d373116.json",
+            "@type": "cr:Curation",
+            "label": "切抜き5枚"
+        },
+        {
+            "@context": "http://iiif.io/api/presentation/2/context.json",
+            "@id": "https://nakamura196.github.io/gaikotsu-i/curation_m/c2efb23d4fd60259f4a008e1e3decaa5.json",
+            "@type": "cr:Curation",
+            "label": "明治奇聞 材料―明治文化研究資料"
+        },
+        {
+            "@context": "http://iiif.io/api/presentation/2/context.json",
+            "@id": "https://nakamura196.github.io/gaikotsu-i/curation_m/89ca8e2207fc946489b1cf14949cc336.json",
+            "@type": "cr:Curation",
+            "label": "国民新聞"
+        },
+        {
+            "@context": "http://iiif.io/api/presentation/2/context.json",
+            "@id": "https://nakamura196.github.io/gaikotsu-i/curation_m/25f0498c19470d40a299f684e8a1691d.json",
+            "@type": "cr:Curation",
+            "label": "「扶桑新誌」44号(中村敬宇先生人間界ヲ蝉脱シテ天國ニ遊バントス)"
+        },
+        {
+            "@context": "http://iiif.io/api/presentation/2/context.json",
+            "@id": "https://nakamura196.github.io/gaikotsu-i/curation_m/cc357003b8e2eb8bfb126809ffa41321.json",
+            "@type": "cr:Curation",
+            "label": "正金出さずの書籍廣告法新案"
+        },
+        {
+            "@context": "http://iiif.io/api/presentation/2/context.json",
+            "@id": "https://nakamura196.github.io/gaikotsu-i/curation_m/d844fc0e9450966e0d9fa5398ee06f54.json",
+            "@type": "cr:Curation",
+            "label": "あんニヤもんニヤ"
+        },
+        {
+            "@context": "http://iiif.io/api/presentation/2/context.json",
+            "@id": "https://nakamura196.github.io/gaikotsu-i/curation_m/ee0bd4f86e6dd08ad7d6d62ee888c1d4.json",
+            "@type": "cr:Curation",
+            "label": "宮武外骨宛ハガキ"
+        },
+        {
+            "@context": "http://iiif.io/api/presentation/2/context.json",
+            "@id": "https://nakamura196.github.io/gaikotsu-i/curation_m/b464d6a479ef2d9da5d4786d9e8fbe41.json",
+            "@type": "cr:Curation",
+            "label": "[少年少女雑誌袋文庫関係資料]"
+        },
+        {
+            "@context": "http://iiif.io/api/presentation/2/context.json",
+            "@id": "https://nakamura196.github.io/gaikotsu-i/curation_m/a0047f3779ba74ead6b4e0be5857b44e.json",
+            "@type": "cr:Curation",
+            "label": "「平民大學學術講演會々則」 / 「筆禍料五十萬圓也」"
+        },
+        {
+            "@context": "http://iiif.io/api/presentation/2/context.json",
+            "@id": "https://nakamura196.github.io/gaikotsu-i/curation_m/5907407de69cf3ed0e1e94ddd28999cf.json",
+            "@type": "cr:Curation",
+            "label": "まじめ 號外(滑稽新聞初號以來の記事に對して)"
+        },
+        {
+            "@context": "http://iiif.io/api/presentation/2/context.json",
+            "@id": "https://nakamura196.github.io/gaikotsu-i/curation_m/34be275956b307a03a9d7bb380792fa0.json",
+            "@type": "cr:Curation",
+            "label": "渉書雑抄此花"
+        },
+        {
+            "@context": "http://iiif.io/api/presentation/2/context.json",
+            "@id": "https://nakamura196.github.io/gaikotsu-i/curation_m/91e7e8fe61d1b1a013c656ad3186fc9e.json",
+            "@type": "cr:Curation",
+            "label": "[新聞雑誌題字写]"
+        },
+        {
+            "@context": "http://iiif.io/api/presentation/2/context.json",
+            "@id": "https://nakamura196.github.io/gaikotsu-i/curation_m/68b56d3db0604587ba7966883bb608a8.json",
+            "@type": "cr:Curation",
+            "label": "記([請求書])ほか"
+        },
+        {
+            "@context": "http://iiif.io/api/presentation/2/context.json",
+            "@id": "https://nakamura196.github.io/gaikotsu-i/curation_m/6988c35397b08bee36ba5ea7fe13cd68.json",
+            "@type": "cr:Curation",
+            "label": "郵便報知新聞"
+        },
+        {
+            "@context": "http://iiif.io/api/presentation/2/context.json",
+            "@id": "https://nakamura196.github.io/gaikotsu-i/curation_m/15db9e5a92e71ab96b6e06f68cb41f44.json",
+            "@type": "cr:Curation",
+            "label": "伊奈県変遷メモ"
+        },
+        {
+            "@context": "http://iiif.io/api/presentation/2/context.json",
+            "@id": "https://nakamura196.github.io/gaikotsu-i/curation_m/a7fe6f2256a855007799075a6b8342d6.json",
+            "@type": "cr:Curation",
+            "label": "死活の境"
+        },
+        {
+            "@context": "http://iiif.io/api/presentation/2/context.json",
+            "@id": "https://nakamura196.github.io/gaikotsu-i/curation_m/4f1d6ee698feb4414a1e60e9d0df67ce.json",
+            "@type": "cr:Curation",
+            "label": "宮武外骨、井上和雄宛書簡"
+        },
+        {
+            "@context": "http://iiif.io/api/presentation/2/context.json",
+            "@id": "https://nakamura196.github.io/gaikotsu-i/curation_m/d01bbd2bd650ad225d8b224546e6019b.json",
+            "@type": "cr:Curation",
+            "label": "[「芳譚雑誌」切抜、写]"
+        },
+        {
+            "@context": "http://iiif.io/api/presentation/2/context.json",
+            "@id": "https://nakamura196.github.io/gaikotsu-i/curation_m/f2444b59bd7e9a32193d0584e8a83c2f.json",
+            "@type": "cr:Curation",
+            "label": "郷土博物館"
+        },
+        {
+            "@context": "http://iiif.io/api/presentation/2/context.json",
+            "@id": "https://nakamura196.github.io/gaikotsu-i/curation_m/6114e7486fdb2fd9825990a0f37eaacc.json",
+            "@type": "cr:Curation",
+            "label": "筆写原稿「三田町阿福の奇話第三囬」"
+        },
+        {
+            "@context": "http://iiif.io/api/presentation/2/context.json",
+            "@id": "https://nakamura196.github.io/gaikotsu-i/curation_m/4599c8b0a69e8bc2bc617e3ecd0b46af.json",
+            "@type": "cr:Curation",
+            "label": "[頓智協会開設広告](「朝野新聞」3532号(明治18年8月18日)1面)"
+        },
+        {
+            "@context": "http://iiif.io/api/presentation/2/context.json",
+            "@id": "https://nakamura196.github.io/gaikotsu-i/curation_m/6e102a4983a2aa01c36a8e52918a90e6.json",
+            "@type": "cr:Curation",
+            "label": "[豫告「骨董雜誌」]"
+        },
+        {
+            "@context": "http://iiif.io/api/presentation/2/context.json",
+            "@id": "https://nakamura196.github.io/gaikotsu-i/curation_m/c5d601dbf3884df31bbbe4fe51e2b501.json",
+            "@type": "cr:Curation",
+            "label": "広告「民本主義」"
+        },
+        {
+            "@context": "http://iiif.io/api/presentation/2/context.json",
+            "@id": "https://nakamura196.github.io/gaikotsu-i/curation_m/908ea4cbe8995ef6e90e4337dc771911.json",
+            "@type": "cr:Curation",
+            "label": "[「公私月報」図版原稿(「播洲人の三雑誌標題」)]"
+        },
+        {
+            "@context": "http://iiif.io/api/presentation/2/context.json",
+            "@id": "https://nakamura196.github.io/gaikotsu-i/curation_m/8f77f5f1590d993b6aa6dabbbcb0a9de.json",
+            "@type": "cr:Curation",
+            "label": "新愛知"
+        },
+        {
+            "@context": "http://iiif.io/api/presentation/2/context.json",
+            "@id": "https://nakamura196.github.io/gaikotsu-i/curation_m/9299df2503ffb7e94d6ddce1b90e5761.json",
+            "@type": "cr:Curation",
+            "label": "[新聞雑誌題字写]"
+        },
+        {
+            "@context": "http://iiif.io/api/presentation/2/context.json",
+            "@id": "https://nakamura196.github.io/gaikotsu-i/curation_m/9926876ac04f0b9d6b30f8767dd9d16b.json",
+            "@type": "cr:Curation",
+            "label": "賣笑婦研究資料"
+        },
+        {
+            "@context": "http://iiif.io/api/presentation/2/context.json",
+            "@id": "https://nakamura196.github.io/gaikotsu-i/curation_m/651205e73bd8765259a0862e5286f98e.json",
+            "@type": "cr:Curation",
+            "label": "「扶桑新誌」25号(三田町阿福の奇話)"
+        },
+        {
+            "@context": "http://iiif.io/api/presentation/2/context.json",
+            "@id": "https://nakamura196.github.io/gaikotsu-i/curation_m/7fc63fb08718b9783bd369bb7c4f7a25.json",
+            "@type": "cr:Curation",
+            "label": "明治十一年五月十二日裁判公報"
+        },
+        {
+            "@context": "http://iiif.io/api/presentation/2/context.json",
+            "@id": "https://nakamura196.github.io/gaikotsu-i/curation_m/0f55a030367618716309b7bc28478e05.json",
+            "@type": "cr:Curation",
+            "label": "領収證"
+        },
+        {
+            "@context": "http://iiif.io/api/presentation/2/context.json",
+            "@id": "https://nakamura196.github.io/gaikotsu-i/curation_m/f93595232ad2e427377e91ea7f471302.json",
+            "@type": "cr:Curation",
+            "label": "演説参考新聞記事切抜帖"
+        },
+        {
+            "@context": "http://iiif.io/api/presentation/2/context.json",
+            "@id": "https://nakamura196.github.io/gaikotsu-i/curation_m/f77c295b4c4b1ab36046775086c83cab.json",
+            "@type": "cr:Curation",
+            "label": "護法の神兒嶋惟謙"
+        },
+        {
+            "@context": "http://iiif.io/api/presentation/2/context.json",
+            "@id": "https://nakamura196.github.io/gaikotsu-i/curation_m/e61a1b09bf57877ffda87ec57cd56d59.json",
+            "@type": "cr:Curation",
+            "label": "近代名士死亡広告"
+        },
+        {
+            "@context": "http://iiif.io/api/presentation/2/context.json",
+            "@id": "https://nakamura196.github.io/gaikotsu-i/curation_m/b146cd2f0fc2a45ebea30f0a6360831b.json",
+            "@type": "cr:Curation",
+            "label": "[「文庫」標題 図版原稿・印刷物]"
+        },
+        {
+            "@context": "http://iiif.io/api/presentation/2/context.json",
+            "@id": "https://nakamura196.github.io/gaikotsu-i/curation_m/68ad0ca5c4b41eb4617115436ccbc3cd.json",
+            "@type": "cr:Curation",
+            "label": "明治文庫に入れたる雅俗文庫蔵書目録"
+        },
+        {
+            "@context": "http://iiif.io/api/presentation/2/context.json",
+            "@id": "https://nakamura196.github.io/gaikotsu-i/curation_m/0ed2d78285a89f9d68334e7a6624be2a.json",
+            "@type": "cr:Curation",
+            "label": "[筆写原稿「酒屋会議開催檄文」]"
+        },
+        {
+            "@context": "http://iiif.io/api/presentation/2/context.json",
+            "@id": "https://nakamura196.github.io/gaikotsu-i/curation_m/a85c7321b2710222907a80c8001eb9a3.json",
+            "@type": "cr:Curation",
+            "label": "宮武外骨書簡"
+        },
+        {
+            "@context": "http://iiif.io/api/presentation/2/context.json",
+            "@id": "https://nakamura196.github.io/gaikotsu-i/curation_m/1e203113f5e20c9de20d30a1241777b0.json",
+            "@type": "cr:Curation",
+            "label": "日刊雜誌"
+        },
+        {
+            "@context": "http://iiif.io/api/presentation/2/context.json",
+            "@id": "https://nakamura196.github.io/gaikotsu-i/curation_m/508dfbc59c973b0e36a5023250db0e54.json",
+            "@type": "cr:Curation",
+            "label": "[房総関係新聞雑誌題字写]"
+        },
+        {
+            "@context": "http://iiif.io/api/presentation/2/context.json",
+            "@id": "https://nakamura196.github.io/gaikotsu-i/curation_m/d4944cb517650994f102f70f309ea0ba.json",
+            "@type": "cr:Curation",
+            "label": "東京裁判所落着"
+        },
+        {
+            "@context": "http://iiif.io/api/presentation/2/context.json",
+            "@id": "https://nakamura196.github.io/gaikotsu-i/curation_m/9f1294197b926d5597681a872edd43ef.json",
+            "@type": "cr:Curation",
+            "label": "明治大帝記念館設立私案"
+        },
+        {
+            "@context": "http://iiif.io/api/presentation/2/context.json",
+            "@id": "https://nakamura196.github.io/gaikotsu-i/curation_m/f67f94da6d517f863d5cf32fd4711919.json",
+            "@type": "cr:Curation",
+            "label": "衆議院議員候補者としての宮武外骨・諸新聞雑誌切抜"
+        },
+        {
+            "@context": "http://iiif.io/api/presentation/2/context.json",
+            "@id": "https://nakamura196.github.io/gaikotsu-i/curation_m/250e99152030f5eccb76f694abfdc9cf.json",
+            "@type": "cr:Curation",
+            "label": "判決録切抜"
+        },
+        {
+            "@context": "http://iiif.io/api/presentation/2/context.json",
+            "@id": "https://nakamura196.github.io/gaikotsu-i/curation_m/b3c8e7a525b659fc37c691b957e96321.json",
+            "@type": "cr:Curation",
+            "label": "瀬木氏へ...外骨著書"
+        },
+        {
+            "@context": "http://iiif.io/api/presentation/2/context.json",
+            "@id": "https://nakamura196.github.io/gaikotsu-i/curation_m/82c73c3e9a3bd7b08108fa14bee567e3.json",
+            "@type": "cr:Curation",
+            "label": "[二字標題]"
+        },
+        {
+            "@context": "http://iiif.io/api/presentation/2/context.json",
+            "@id": "https://nakamura196.github.io/gaikotsu-i/curation_m/432d2ae697cc70a39e85b038a7dffef1.json",
+            "@type": "cr:Curation",
+            "label": "東京裁判所落着"
+        },
+        {
+            "@context": "http://iiif.io/api/presentation/2/context.json",
+            "@id": "https://nakamura196.github.io/gaikotsu-i/curation_m/dc84b4d9a419c1a80495b105064ac615.json",
+            "@type": "cr:Curation",
+            "label": "筆写原稿「三田先生ハ國會解説建白者ノ陰武者ニ非ザル耶(明治十三年八月三日發行『近時評論』第二百八十二號所載)」"
+        },
+        {
+            "@context": "http://iiif.io/api/presentation/2/context.json",
+            "@id": "https://nakamura196.github.io/gaikotsu-i/curation_m/48b7982400e2b22449c32e02b5001e8c.json",
+            "@type": "cr:Curation",
+            "label": "東京日日新聞"
+        },
+        {
+            "@context": "http://iiif.io/api/presentation/2/context.json",
+            "@id": "https://nakamura196.github.io/gaikotsu-i/curation_m/6d5b9a9bd59a913ffa55b3e584980b07.json",
+            "@type": "cr:Curation",
+            "label": "筆写原稿「福澤先生ノ私利可榮ノ御論ヲ讀ム(明治十一年一月二十八日發行『近時評論』第百七號所載)」"
+        },
+        {
+            "@context": "http://iiif.io/api/presentation/2/context.json",
+            "@id": "https://nakamura196.github.io/gaikotsu-i/curation_m/6560da1587697eb5f1853174f885d1d6.json",
+            "@type": "cr:Curation",
+            "label": "短句集 乙"
+        },
+        {
+            "@context": "http://iiif.io/api/presentation/2/context.json",
+            "@id": "https://nakamura196.github.io/gaikotsu-i/curation_m/8810803f93d4f58ade0755cb9466b100.json",
+            "@type": "cr:Curation",
+            "label": "府藩県 視聴随筆 乙"
+        },
+        {
+            "@context": "http://iiif.io/api/presentation/2/context.json",
+            "@id": "https://nakamura196.github.io/gaikotsu-i/curation_m/74740a8f7cc9a338e85b797754d60c39.json",
+            "@type": "cr:Curation",
+            "label": "新聞雑誌切抜き"
+        },
+        {
+            "@context": "http://iiif.io/api/presentation/2/context.json",
+            "@id": "https://nakamura196.github.io/gaikotsu-i/curation_m/870ec53d14218a46129c865ea7f99fcb.json",
+            "@type": "cr:Curation",
+            "label": "日刊雜誌(NOTE・BOOK)"
+        },
+        {
+            "@context": "http://iiif.io/api/presentation/2/context.json",
+            "@id": "https://nakamura196.github.io/gaikotsu-i/curation_m/c4946d7ff31e7f7d38350e53b9b34e2e.json",
+            "@type": "cr:Curation",
+            "label": "在阪時代の投書集"
+        },
+        {
+            "@context": "http://iiif.io/api/presentation/2/context.json",
+            "@id": "https://nakamura196.github.io/gaikotsu-i/curation_m/d52be6662453f2b0046649ed90989e94.json",
+            "@type": "cr:Curation",
+            "label": "[広告「頓智協会雑誌」](「時事新報」1829号(明治21年2月9日1面))"
+        },
+        {
+            "@context": "http://iiif.io/api/presentation/2/context.json",
+            "@id": "https://nakamura196.github.io/gaikotsu-i/curation_m/323b4080928cf52bcc605db5996f5fa1.json",
+            "@type": "cr:Curation",
+            "label": "[新聞雑誌題字写]"
+        },
+        {
+            "@context": "http://iiif.io/api/presentation/2/context.json",
+            "@id": "https://nakamura196.github.io/gaikotsu-i/curation_m/05dc1a0c2971431e387918449befeecd.json",
+            "@type": "cr:Curation",
+            "label": "[明治文庫の由来]"
+        },
+        {
+            "@context": "http://iiif.io/api/presentation/2/context.json",
+            "@id": "https://nakamura196.github.io/gaikotsu-i/curation_m/e22224a227f219b59786976105081b3e.json",
+            "@type": "cr:Curation",
+            "label": "メモ"
+        },
+        {
+            "@context": "http://iiif.io/api/presentation/2/context.json",
+            "@id": "https://nakamura196.github.io/gaikotsu-i/curation_m/de93b098fec2dba6329009f33ea9ce9d.json",
+            "@type": "cr:Curation",
+            "label": "「骨董雑誌」第三種郵便物認可証(明治29年11月 逓信省)"
+        },
+        {
+            "@context": "http://iiif.io/api/presentation/2/context.json",
+            "@id": "https://nakamura196.github.io/gaikotsu-i/curation_m/2360b4393ae4f7086f0445ef8d0de0d1.json",
+            "@type": "cr:Curation",
+            "label": "筆写メモ「中村敬宇先生、人間界を蝉脱して天國に遊はんとす 三田 岡志岐の投寄中」"
+        },
+        {
+            "@context": "http://iiif.io/api/presentation/2/context.json",
+            "@id": "https://nakamura196.github.io/gaikotsu-i/curation_m/12432f861ced4c378f43554e8886f4b2.json",
+            "@type": "cr:Curation",
+            "label": "藩印 有無表"
+        },
+        {
+            "@context": "http://iiif.io/api/presentation/2/context.json",
+            "@id": "https://nakamura196.github.io/gaikotsu-i/curation_m/5bc4a634e3b04396c60821d1227503c7.json",
+            "@type": "cr:Curation",
+            "label": "「鶏林事変」関係資料"
+        },
+        {
+            "@context": "http://iiif.io/api/presentation/2/context.json",
+            "@id": "https://nakamura196.github.io/gaikotsu-i/curation_m/301cf1c72b6bdfc9fe4fde840127e3ba.json",
+            "@type": "cr:Curation",
+            "label": "予と同年生の人々"
+        },
+        {
+            "@context": "http://iiif.io/api/presentation/2/context.json",
+            "@id": "https://nakamura196.github.io/gaikotsu-i/curation_m/68959a7a564d106fff2439379049cf0e.json",
+            "@type": "cr:Curation",
+            "label": "[新聞雑誌題字写]"
+        },
+        {
+            "@context": "http://iiif.io/api/presentation/2/context.json",
+            "@id": "https://nakamura196.github.io/gaikotsu-i/curation_m/3a1ee46443f6c2660f5c5d47dd1441cb.json",
+            "@type": "cr:Curation",
+            "label": "職人盡・富士山・狂詩 類聚書目録"
+        },
+        {
+            "@context": "http://iiif.io/api/presentation/2/context.json",
+            "@id": "https://nakamura196.github.io/gaikotsu-i/curation_m/aaa3a3f2ead0f6b0d6f17930e0a30103.json",
+            "@type": "cr:Curation",
+            "label": "抜書[「府藩県制史」(宮武外骨著)書評]"
+        },
+        {
+            "@context": "http://iiif.io/api/presentation/2/context.json",
+            "@id": "https://nakamura196.github.io/gaikotsu-i/curation_m/37317d5bcac9f401d6b9a26df86a4693.json",
+            "@type": "cr:Curation",
+            "label": "新案著作と講演"
+        },
+        {
+            "@context": "http://iiif.io/api/presentation/2/context.json",
+            "@id": "https://nakamura196.github.io/gaikotsu-i/curation_m/67c2134006116efd2f50f51f0480623d.json",
+            "@type": "cr:Curation",
+            "label": "「病床雜話」 / 都築かつけ専門療院診察券(宮武外骨)"
+        },
+        {
+            "@context": "http://iiif.io/api/presentation/2/context.json",
+            "@id": "https://nakamura196.github.io/gaikotsu-i/curation_m/3bb50d6244770fb9001733f7229179c3.json",
+            "@type": "cr:Curation",
+            "label": "宮武外骨歓迎茶話会"
+        },
+        {
+            "@context": "http://iiif.io/api/presentation/2/context.json",
+            "@id": "https://nakamura196.github.io/gaikotsu-i/curation_m/b738a250647cf23861f610425784f92f.json",
+            "@type": "cr:Curation",
+            "label": "門外講座に於ける講演の大意"
+        },
+        {
+            "@context": "http://iiif.io/api/presentation/2/context.json",
+            "@id": "https://nakamura196.github.io/gaikotsu-i/curation_m/454a6cccf13cc537a1d5e03ac5294563.json",
+            "@type": "cr:Curation",
+            "label": "吉野作造先生追慕追悼會"
+        },
+        {
+            "@context": "http://iiif.io/api/presentation/2/context.json",
+            "@id": "https://nakamura196.github.io/gaikotsu-i/curation_m/28b9f67fce0d3b831881a8385cbb1547.json",
+            "@type": "cr:Curation",
+            "label": "[広告「日刊不二新聞」]"
+        },
+        {
+            "@context": "http://iiif.io/api/presentation/2/context.json",
+            "@id": "https://nakamura196.github.io/gaikotsu-i/curation_m/fd1f02f050399f97ebcf21f3bbffedfe.json",
+            "@type": "cr:Curation",
+            "label": "切抜き"
+        },
+        {
+            "@context": "http://iiif.io/api/presentation/2/context.json",
+            "@id": "https://nakamura196.github.io/gaikotsu-i/curation_m/69c2c58cb1718cb19f94a06accb83e1b.json",
+            "@type": "cr:Curation",
+            "label": "滑稽新聞 没書 川施餓鬼"
+        },
+        {
+            "@context": "http://iiif.io/api/presentation/2/context.json",
+            "@id": "https://nakamura196.github.io/gaikotsu-i/curation_m/68c561ee105ecdc0e491baf2b8657742.json",
+            "@type": "cr:Curation",
+            "label": "広告「季刊 明治研究」"
+        },
+        {
+            "@context": "http://iiif.io/api/presentation/2/context.json",
+            "@id": "https://nakamura196.github.io/gaikotsu-i/curation_m/432382b0c21b8d7fa265f64803d93ed7.json",
+            "@type": "cr:Curation",
+            "label": "教職適格確認書、昭和24年1月前渡分俸給袋"
+        },
+        {
+            "@context": "http://iiif.io/api/presentation/2/context.json",
+            "@id": "https://nakamura196.github.io/gaikotsu-i/curation_m/821a3fbc5cd902a8cdc40bc3128109c5.json",
+            "@type": "cr:Curation",
+            "label": "浜松県伺写"
+        },
+        {
+            "@context": "http://iiif.io/api/presentation/2/context.json",
+            "@id": "https://nakamura196.github.io/gaikotsu-i/curation_m/89264218c4bff63d7a34238ac23b6b43.json",
+            "@type": "cr:Curation",
+            "label": "知識片々 俚諺 五七調"
+        },
+        {
+            "@context": "http://iiif.io/api/presentation/2/context.json",
+            "@id": "https://nakamura196.github.io/gaikotsu-i/curation_m/67efcb0d5430465f547e17fa6c2a9d2a.json",
+            "@type": "cr:Curation",
+            "label": "[広告「滑稽新聞」、「絵葉書世界」]"
+        },
+        {
+            "@context": "http://iiif.io/api/presentation/2/context.json",
+            "@id": "https://nakamura196.github.io/gaikotsu-i/curation_m/d30f26b93eee02a5f6da4e40bfa364fa.json",
+            "@type": "cr:Curation",
+            "label": "[谷干城氏意見書, 板垣退助氏意見書, 勝安房氏口演覚書、ボアソナード意見書?, 憲法議案ヲ下附セラレンコトヲ奏請スルノ意見書、元老院章程ニ関スル意見書]"
+        },
+        {
+            "@context": "http://iiif.io/api/presentation/2/context.json",
+            "@id": "https://nakamura196.github.io/gaikotsu-i/curation_m/f4f40b0afd2a14da72929b6f58964375.json",
+            "@type": "cr:Curation",
+            "label": "三勝半七 艶容女舞衣"
+        },
+        {
+            "@context": "http://iiif.io/api/presentation/2/context.json",
+            "@id": "https://nakamura196.github.io/gaikotsu-i/curation_m/ff1982d1d7c8aefc726c649817bd70a3.json",
+            "@type": "cr:Curation",
+            "label": "[新聞雑誌題字写]"
+        },
+        {
+            "@context": "http://iiif.io/api/presentation/2/context.json",
+            "@id": "https://nakamura196.github.io/gaikotsu-i/curation_m/738b39fa54eb145141ab41e364887641.json",
+            "@type": "cr:Curation",
+            "label": "筆記"
+        },
+        {
+            "@context": "http://iiif.io/api/presentation/2/context.json",
+            "@id": "https://nakamura196.github.io/gaikotsu-i/curation_m/f2e35230a3995bff480f47c88d615558.json",
+            "@type": "cr:Curation",
+            "label": "氏名の題號,新聞雜誌同名異物録,發行せざりし新聞雜誌表,新聞雜誌改題表,記者投書家變名録"
+        },
+        {
+            "@context": "http://iiif.io/api/presentation/2/context.json",
+            "@id": "https://nakamura196.github.io/gaikotsu-i/curation_m/65c5af0db890c17306ede71370d9a1c1.json",
+            "@type": "cr:Curation",
+            "label": "新聞雜誌-関係事實略記"
+        },
+        {
+            "@context": "http://iiif.io/api/presentation/2/context.json",
+            "@id": "https://nakamura196.github.io/gaikotsu-i/curation_m/04d1ee9804586ba93204dc25abe51cc3.json",
+            "@type": "cr:Curation",
+            "label": "雅俗文庫 蔵書目録"
+        },
+        {
+            "@context": "http://iiif.io/api/presentation/2/context.json",
+            "@id": "https://nakamura196.github.io/gaikotsu-i/curation_m/f7e91ea79848b2c673f247446cff43b2.json",
+            "@type": "cr:Curation",
+            "label": "[新聞雑誌表紙写]"
+        },
+        {
+            "@context": "http://iiif.io/api/presentation/2/context.json",
+            "@id": "https://nakamura196.github.io/gaikotsu-i/curation_m/b693f3501cd6fa278d0e03aa60b9d45e.json",
+            "@type": "cr:Curation",
+            "label": "「東洋自由新聞」全部揃物購入"
+        },
+        {
+            "@context": "http://iiif.io/api/presentation/2/context.json",
+            "@id": "https://nakamura196.github.io/gaikotsu-i/curation_m/e1fb385853350c5dadffee1fe1cc58ea.json",
+            "@type": "cr:Curation",
+            "label": "[図書文化祭パンフレット]"
+        },
+        {
+            "@context": "http://iiif.io/api/presentation/2/context.json",
+            "@id": "https://nakamura196.github.io/gaikotsu-i/curation_m/eb2b1352489665aadbf0f6c8b5453a66.json",
+            "@type": "cr:Curation",
+            "label": "姑息縣舊藩飛地控"
+        },
+        {
+            "@context": "http://iiif.io/api/presentation/2/context.json",
+            "@id": "https://nakamura196.github.io/gaikotsu-i/curation_m/edb03a48636bfbb8c6a5eb1d9092e66a.json",
+            "@type": "cr:Curation",
+            "label": "筆写原稿「福澤先生モ亦タ寢言アル乎(明治十二年一月二十八日發行『近時評論』第百七十三號所載)」"
+        },
+        {
+            "@context": "http://iiif.io/api/presentation/2/context.json",
+            "@id": "https://nakamura196.github.io/gaikotsu-i/curation_m/f87d01c632e6cf41347ea866d6943440.json",
+            "@type": "cr:Curation",
+            "label": "[外装「婦女新聞」(寄附者福島四郎殿)]"
+        },
+        {
+            "@context": "http://iiif.io/api/presentation/2/context.json",
+            "@id": "https://nakamura196.github.io/gaikotsu-i/curation_m/251804e358256cada25ff15894d7384e.json",
+            "@type": "cr:Curation",
+            "label": "宮武外骨名刺集"
+        },
+        {
+            "@context": "http://iiif.io/api/presentation/2/context.json",
+            "@id": "https://nakamura196.github.io/gaikotsu-i/curation_m/148a4274d59be67e975f8a6fad2d6297.json",
+            "@type": "cr:Curation",
+            "label": "[新聞雑誌題字写]"
+        },
+        {
+            "@context": "http://iiif.io/api/presentation/2/context.json",
+            "@id": "https://nakamura196.github.io/gaikotsu-i/curation_m/d5294111041620ca8565b26b3fd87fe1.json",
+            "@type": "cr:Curation",
+            "label": "雑誌創刊片紙"
+        },
+        {
+            "@context": "http://iiif.io/api/presentation/2/context.json",
+            "@id": "https://nakamura196.github.io/gaikotsu-i/curation_m/ad786b6f7719fb32104fd0f1b6bfee05.json",
+            "@type": "cr:Curation",
+            "label": "[博報堂新築記念資料]博報堂新築工事概要 昭和五年六月 瀨木商事合名會社"
+        },
+        {
+            "@context": "http://iiif.io/api/presentation/2/context.json",
+            "@id": "https://nakamura196.github.io/gaikotsu-i/curation_m/2b2f695eba7b036df0997a896207ef8f.json",
+            "@type": "cr:Curation",
+            "label": "「男女性學雜誌」「迷信研究雜誌」第2号附録"
+        },
+        {
+            "@context": "http://iiif.io/api/presentation/2/context.json",
+            "@id": "https://nakamura196.github.io/gaikotsu-i/curation_m/9c1e26f1c5331d036ba370330732b74a.json",
+            "@type": "cr:Curation",
+            "label": "明治大帝臨幸記念館 : 東京帝國大學構内 : 前田侯爵家寄附"
+        },
+        {
+            "@context": "http://iiif.io/api/presentation/2/context.json",
+            "@id": "https://nakamura196.github.io/gaikotsu-i/curation_m/4b66b1c9b118ac727ca063d3d12d11b1.json",
+            "@type": "cr:Curation",
+            "label": "雑誌"
+        },
+        {
+            "@context": "http://iiif.io/api/presentation/2/context.json",
+            "@id": "https://nakamura196.github.io/gaikotsu-i/curation_m/fb7a10c8c0f40a4a9c0ee36fd010c96d.json",
+            "@type": "cr:Curation",
+            "label": "勝安房氏口演覺書"
+        },
+        {
+            "@context": "http://iiif.io/api/presentation/2/context.json",
+            "@id": "https://nakamura196.github.io/gaikotsu-i/curation_m/1ed1a082d520b7eaee7ab27a007ea454.json",
+            "@type": "cr:Curation",
+            "label": "近世物議論集"
+        },
+        {
+            "@context": "http://iiif.io/api/presentation/2/context.json",
+            "@id": "https://nakamura196.github.io/gaikotsu-i/curation_m/74da6f7cd03e7953954292c5455a83dd.json",
+            "@type": "cr:Curation",
+            "label": "東京日日新聞抜書(1870号(明治11年3月1日)"
+        },
+        {
+            "@context": "http://iiif.io/api/presentation/2/context.json",
+            "@id": "https://nakamura196.github.io/gaikotsu-i/curation_m/fc1670de0eea5599d3dbefcfe4c779f8.json",
+            "@type": "cr:Curation",
+            "label": "宮武外骨自伝(口述筆記)"
+        },
+        {
+            "@context": "http://iiif.io/api/presentation/2/context.json",
+            "@id": "https://nakamura196.github.io/gaikotsu-i/curation_m/a59346a794a0afde4506db23afb71ccb.json",
+            "@type": "cr:Curation",
+            "label": "外装([博報堂新築記念資料])"
+        },
+        {
+            "@context": "http://iiif.io/api/presentation/2/context.json",
+            "@id": "https://nakamura196.github.io/gaikotsu-i/curation_m/418b37bb30e3e3559d001091bf224c69.json",
+            "@type": "cr:Curation",
+            "label": "[思い出のヒロイン]"
+        },
+        {
+            "@context": "http://iiif.io/api/presentation/2/context.json",
+            "@id": "https://nakamura196.github.io/gaikotsu-i/curation_m/fed34ed7b45eca40ae131f5b676426ba.json",
+            "@type": "cr:Curation",
+            "label": "宮武外骨「我が家の猫いらず騒動」資料"
+        },
+        {
+            "@context": "http://iiif.io/api/presentation/2/context.json",
+            "@id": "https://nakamura196.github.io/gaikotsu-i/curation_m/29cf0ca44fbb2f6abe76d42903568a4f.json",
+            "@type": "cr:Curation",
+            "label": "三度あった宇都宮縣"
+        },
+        {
+            "@context": "http://iiif.io/api/presentation/2/context.json",
+            "@id": "https://nakamura196.github.io/gaikotsu-i/curation_m/8da6389ad32b8786330983db3aeb9117.json",
+            "@type": "cr:Curation",
+            "label": "領収証"
+        },
+        {
+            "@context": "http://iiif.io/api/presentation/2/context.json",
+            "@id": "https://nakamura196.github.io/gaikotsu-i/curation_m/41d1645f2e73cce6d59cc14ca615a27d.json",
+            "@type": "cr:Curation",
+            "label": "新聞切抜き(雑誌含む)"
+        },
+        {
+            "@context": "http://iiif.io/api/presentation/2/context.json",
+            "@id": "https://nakamura196.github.io/gaikotsu-i/curation_m/6f522d9c50740793fc9c45f7c795542f.json",
+            "@type": "cr:Curation",
+            "label": "錦繪新聞・抄"
+        },
+        {
+            "@context": "http://iiif.io/api/presentation/2/context.json",
+            "@id": "https://nakamura196.github.io/gaikotsu-i/curation_m/126657ad1dff603f417c6596a98fd7b7.json",
+            "@type": "cr:Curation",
+            "label": "[山陰関係新聞雑誌題字写]"
+        },
+        {
+            "@context": "http://iiif.io/api/presentation/2/context.json",
+            "@id": "https://nakamura196.github.io/gaikotsu-i/curation_m/0b2362d30b35c811af379d257395932f.json",
+            "@type": "cr:Curation",
+            "label": "門外講座"
+        },
+        {
+            "@context": "http://iiif.io/api/presentation/2/context.json",
+            "@id": "https://nakamura196.github.io/gaikotsu-i/curation_m/58e8ee5edaf1680c819f163332c22762.json",
+            "@type": "cr:Curation",
+            "label": "姓氏に関する記事"
+        },
+        {
+            "@context": "http://iiif.io/api/presentation/2/context.json",
+            "@id": "https://nakamura196.github.io/gaikotsu-i/curation_m/57aa81517a31a2d5b501029817fd7e06.json",
+            "@type": "cr:Curation",
+            "label": "[「流行雑誌」評判記掲載依頼]"
+        },
+        {
+            "@context": "http://iiif.io/api/presentation/2/context.json",
+            "@id": "https://nakamura196.github.io/gaikotsu-i/curation_m/7fd52c10c83b7163a276b3463a6b23c7.json",
+            "@type": "cr:Curation",
+            "label": "新聞雑誌切抜(1)"
+        },
+        {
+            "@context": "http://iiif.io/api/presentation/2/context.json",
+            "@id": "https://nakamura196.github.io/gaikotsu-i/curation_m/bf60dcbca2d76ef9779f0168c4861885.json",
+            "@type": "cr:Curation",
+            "label": "[玉觴会(第1回)案内状]"
+        },
+        {
+            "@context": "http://iiif.io/api/presentation/2/context.json",
+            "@id": "https://nakamura196.github.io/gaikotsu-i/curation_m/77405d7f312e87c8b9d0f5ab4cfe150f.json",
+            "@type": "cr:Curation",
+            "label": "自己之略歴史"
+        },
+        {
+            "@context": "http://iiif.io/api/presentation/2/context.json",
+            "@id": "https://nakamura196.github.io/gaikotsu-i/curation_m/62a4e40a685e55621fca647462ed801b.json",
+            "@type": "cr:Curation",
+            "label": "西哲夢物語 全"
+        },
+        {
+            "@context": "http://iiif.io/api/presentation/2/context.json",
+            "@id": "https://nakamura196.github.io/gaikotsu-i/curation_m/a54ca31de33bb16b7c5692dfa4b4ab55.json",
+            "@type": "cr:Curation",
+            "label": "裁判記事"
+        },
+        {
+            "@context": "http://iiif.io/api/presentation/2/context.json",
+            "@id": "https://nakamura196.github.io/gaikotsu-i/curation_m/a58e1cce3ceeb1963fa1ec111fda8ac2.json",
+            "@type": "cr:Curation",
+            "label": "切抜[広告「滑稽新聞」46号]"
+        },
+        {
+            "@context": "http://iiif.io/api/presentation/2/context.json",
+            "@id": "https://nakamura196.github.io/gaikotsu-i/curation_m/27674e299e8c72e68409902269b63727.json",
+            "@type": "cr:Curation",
+            "label": "大正6年衆議院議員立候補(第13回)宮武外骨以外 (推薦書・宣言書等)"
+        },
+        {
+            "@context": "http://iiif.io/api/presentation/2/context.json",
+            "@id": "https://nakamura196.github.io/gaikotsu-i/curation_m/61856d619eab62bd77fc42aad9ed107c.json",
+            "@type": "cr:Curation",
+            "label": "[多年御愛顧の諸氏へ]"
+        },
+        {
+            "@context": "http://iiif.io/api/presentation/2/context.json",
+            "@id": "https://nakamura196.github.io/gaikotsu-i/curation_m/2abd5e69af01d911dd6d81216bf79910.json",
+            "@type": "cr:Curation",
+            "label": "随筆・我時・雑記"
+        },
+        {
+            "@context": "http://iiif.io/api/presentation/2/context.json",
+            "@id": "https://nakamura196.github.io/gaikotsu-i/curation_m/4f1278e38a800fdf5780a91aa2bba78a.json",
+            "@type": "cr:Curation",
+            "label": "「妻吉」"
+        },
+        {
+            "@context": "http://iiif.io/api/presentation/2/context.json",
+            "@id": "https://nakamura196.github.io/gaikotsu-i/curation_m/fe34af53caad517511f88359d3c86988.json",
+            "@type": "cr:Curation",
+            "label": "金貸略扣帳 無利息無証書"
+        },
+        {
+            "@context": "http://iiif.io/api/presentation/2/context.json",
+            "@id": "https://nakamura196.github.io/gaikotsu-i/curation_m/d2a83064d15673dd03b4dde2fb80b526.json",
+            "@type": "cr:Curation",
+            "label": "熊本高神党処断記事"
+        },
+        {
+            "@context": "http://iiif.io/api/presentation/2/context.json",
+            "@id": "https://nakamura196.github.io/gaikotsu-i/curation_m/93416ce5548fac0b973afa162f25d8dc.json",
+            "@type": "cr:Curation",
+            "label": "廣告「滑稽新聞」(「新農報」24号(明治34年1月1日)附録)"
+        },
+        {
+            "@context": "http://iiif.io/api/presentation/2/context.json",
+            "@id": "https://nakamura196.github.io/gaikotsu-i/curation_m/c316993050d4c732beb5fc4f52fbae8c.json",
+            "@type": "cr:Curation",
+            "label": "宮武外骨氏著作目録"
+        },
+        {
+            "@context": "http://iiif.io/api/presentation/2/context.json",
+            "@id": "https://nakamura196.github.io/gaikotsu-i/curation_m/d513b8e08d3200ec69ffad8dfe4f2dfa.json",
+            "@type": "cr:Curation",
+            "label": "秘密出版全集"
+        },
+        {
+            "@context": "http://iiif.io/api/presentation/2/context.json",
+            "@id": "https://nakamura196.github.io/gaikotsu-i/curation_m/c41a64746cb39c66546a61907290a19c.json",
+            "@type": "cr:Curation",
+            "label": "筆写原稿・メモ「勝安房君ガ福澤諭吉氏ノ評(明治十四年一月六日發行『扶桑新誌』第百四十號所載)」"
+        },
+        {
+            "@context": "http://iiif.io/api/presentation/2/context.json",
+            "@id": "https://nakamura196.github.io/gaikotsu-i/curation_m/94306d3a9d7352a84688dd5dc430ef34.json",
+            "@type": "cr:Curation",
+            "label": "頓智協會判取帳 表紙"
+        },
+        {
+            "@context": "http://iiif.io/api/presentation/2/context.json",
+            "@id": "https://nakamura196.github.io/gaikotsu-i/curation_m/8ff324e4af7eb34f50229d2343348eb0.json",
+            "@type": "cr:Curation",
+            "label": "[「東京日日新聞」題字写]"
+        },
+        {
+            "@context": "http://iiif.io/api/presentation/2/context.json",
+            "@id": "https://nakamura196.github.io/gaikotsu-i/curation_m/abac9a095900d572ac79e2e234deebae.json",
+            "@type": "cr:Curation",
+            "label": "秘密出版物全集"
+        },
+        {
+            "@context": "http://iiif.io/api/presentation/2/context.json",
+            "@id": "https://nakamura196.github.io/gaikotsu-i/curation_m/28468d23729a4023a6a7116033b1292e.json",
+            "@type": "cr:Curation",
+            "label": "諸縣奇事録"
+        },
+        {
+            "@context": "http://iiif.io/api/presentation/2/context.json",
+            "@id": "https://nakamura196.github.io/gaikotsu-i/curation_m/a6eea980e5f8236bf3b037f8ac0995e3.json",
+            "@type": "cr:Curation",
+            "label": "文部部内政府職員共済組合組合員證"
+        },
+        {
+            "@context": "http://iiif.io/api/presentation/2/context.json",
+            "@id": "https://nakamura196.github.io/gaikotsu-i/curation_m/394a232c95b59e57b1f693490bad5b8e.json",
+            "@type": "cr:Curation",
+            "label": "雅俗文庫追購書目"
+        },
+        {
+            "@context": "http://iiif.io/api/presentation/2/context.json",
+            "@id": "https://nakamura196.github.io/gaikotsu-i/curation_m/20b75f6094053f3d7f2d334207fa0f1e.json",
+            "@type": "cr:Curation",
+            "label": "用箋"
+        },
+        {
+            "@context": "http://iiif.io/api/presentation/2/context.json",
+            "@id": "https://nakamura196.github.io/gaikotsu-i/curation_m/ceb9ec1e9d6996ec273ca25953303a66.json",
+            "@type": "cr:Curation",
+            "label": "総選挙予想投票"
+        },
+        {
+            "@context": "http://iiif.io/api/presentation/2/context.json",
+            "@id": "https://nakamura196.github.io/gaikotsu-i/curation_m/e7aea7223c911fa41310be3cd1557fb3.json",
+            "@type": "cr:Curation",
+            "label": "「近事評論」173号(福澤先生モ亦タ寢言アル乎)"
+        },
+        {
+            "@context": "http://iiif.io/api/presentation/2/context.json",
+            "@id": "https://nakamura196.github.io/gaikotsu-i/curation_m/e4b3c61e1617d161ff8e0b290bd76e00.json",
+            "@type": "cr:Curation",
+            "label": "日本全國新聞雜誌一覽表"
+        },
+        {
+            "@context": "http://iiif.io/api/presentation/2/context.json",
+            "@id": "https://nakamura196.github.io/gaikotsu-i/curation_m/d6f886db307020eeb0865867e615f6f4.json",
+            "@type": "cr:Curation",
+            "label": "東京重罪裁判所絵図"
+        },
+        {
+            "@context": "http://iiif.io/api/presentation/2/context.json",
+            "@id": "https://nakamura196.github.io/gaikotsu-i/curation_m/cefa5be7b581e5fb4381ee38978fee63.json",
+            "@type": "cr:Curation",
+            "label": "新聞題字全集 巻一 大正六年現在"
+        },
+        {
+            "@context": "http://iiif.io/api/presentation/2/context.json",
+            "@id": "https://nakamura196.github.io/gaikotsu-i/curation_m/b6be577a1b392188d963a1bcc46d4f7a.json",
+            "@type": "cr:Curation",
+            "label": "操觚要録"
+        },
+        {
+            "@context": "http://iiif.io/api/presentation/2/context.json",
+            "@id": "https://nakamura196.github.io/gaikotsu-i/curation_m/4359ec225640a384a59fe25a17a65d9a.json",
+            "@type": "cr:Curation",
+            "label": "明治十二年二月十五日裁判公報"
+        },
+        {
+            "@context": "http://iiif.io/api/presentation/2/context.json",
+            "@id": "https://nakamura196.github.io/gaikotsu-i/curation_m/ae1e97e08b13aa8e9600c27f123fa489.json",
+            "@type": "cr:Curation",
+            "label": "筆写原稿「三田大爺、官金二十五万圓ヲ借入ントス(明治十二年五月二十三日發行『近時評論』第百九十六號所載)」"
+        },
+        {
+            "@context": "http://iiif.io/api/presentation/2/context.json",
+            "@id": "https://nakamura196.github.io/gaikotsu-i/curation_m/59878d4c501c3b0d98f1d516ee91f17b.json",
+            "@type": "cr:Curation",
+            "label": "東京裁判所落着"
+        },
+        {
+            "@context": "http://iiif.io/api/presentation/2/context.json",
+            "@id": "https://nakamura196.github.io/gaikotsu-i/curation_m/72679acd172653cc23f3a6ff00c457cb.json",
+            "@type": "cr:Curation",
+            "label": "選挙雑録"
+        },
+        {
+            "@context": "http://iiif.io/api/presentation/2/context.json",
+            "@id": "https://nakamura196.github.io/gaikotsu-i/curation_m/8f32269497c26c6dccece7ab8cbc3727.json",
+            "@type": "cr:Curation",
+            "label": "大審院申渡記事"
+        },
+        {
+            "@context": "http://iiif.io/api/presentation/2/context.json",
+            "@id": "https://nakamura196.github.io/gaikotsu-i/curation_m/08de6951ee460918ef4eebcbb6a48260.json",
+            "@type": "cr:Curation",
+            "label": "筆写原稿「慶應義塾生徒諸君ニ告グ(明治十二年五月十八日發行『近時評論』第百九十五號所載)」"
+        },
+        {
+            "@context": "http://iiif.io/api/presentation/2/context.json",
+            "@id": "https://nakamura196.github.io/gaikotsu-i/curation_m/532610b848c3e3d04d6165f1771ab0f4.json",
+            "@type": "cr:Curation",
+            "label": "新聞切抜き"
+        },
+        {
+            "@context": "http://iiif.io/api/presentation/2/context.json",
+            "@id": "https://nakamura196.github.io/gaikotsu-i/curation_m/5b605be445b5055108d63810beaaa426.json",
+            "@type": "cr:Curation",
+            "label": "[新聞・雑誌題字集め]"
+        },
+        {
+            "@context": "http://iiif.io/api/presentation/2/context.json",
+            "@id": "https://nakamura196.github.io/gaikotsu-i/curation_m/ff9bce487420e53122a34358b5c75a07.json",
+            "@type": "cr:Curation",
+            "label": "拾あつめ"
+        },
+        {
+            "@context": "http://iiif.io/api/presentation/2/context.json",
+            "@id": "https://nakamura196.github.io/gaikotsu-i/curation_m/bc1651ccdedac9363a9124356b4df6f3.json",
+            "@type": "cr:Curation",
+            "label": "[筆写原稿「國會解説建言書」]"
+        },
+        {
+            "@context": "http://iiif.io/api/presentation/2/context.json",
+            "@id": "https://nakamura196.github.io/gaikotsu-i/curation_m/966c710d5e8c284105713e6451adc751.json",
+            "@type": "cr:Curation",
+            "label": "短句集 甲"
+        },
+        {
+            "@context": "http://iiif.io/api/presentation/2/context.json",
+            "@id": "https://nakamura196.github.io/gaikotsu-i/curation_m/bcb8a7f857056ba8e8179866a20f2002.json",
+            "@type": "cr:Curation",
+            "label": "新聞切抜き(大正7年8月14日)"
+        },
+        {
+            "@context": "http://iiif.io/api/presentation/2/context.json",
+            "@id": "https://nakamura196.github.io/gaikotsu-i/curation_m/180cbcbe264429436346f1a6de916c68.json",
+            "@type": "cr:Curation",
+            "label": "[新聞雑誌題字写]"
+        },
+        {
+            "@context": "http://iiif.io/api/presentation/2/context.json",
+            "@id": "https://nakamura196.github.io/gaikotsu-i/curation_m/043dc49a8ea95817d74d7081c95555c0.json",
+            "@type": "cr:Curation",
+            "label": "[広告「(日刊)不二新聞」]"
+        },
+        {
+            "@context": "http://iiif.io/api/presentation/2/context.json",
+            "@id": "https://nakamura196.github.io/gaikotsu-i/curation_m/61ecb52ea98708a44737e900de606b29.json",
+            "@type": "cr:Curation",
+            "label": "歸京日記"
+        },
+        {
+            "@context": "http://iiif.io/api/presentation/2/context.json",
+            "@id": "https://nakamura196.github.io/gaikotsu-i/curation_m/df660aeaa8dafe870669b81a4c91ef64.json",
+            "@type": "cr:Curation",
+            "label": "蘆原将軍傳記資料集帖"
+        },
+        {
+            "@context": "http://iiif.io/api/presentation/2/context.json",
+            "@id": "https://nakamura196.github.io/gaikotsu-i/curation_m/cdfb204d258ecb843524669f36b6836b.json",
+            "@type": "cr:Curation",
+            "label": "我輩浪漫集"
+        },
+        {
+            "@context": "http://iiif.io/api/presentation/2/context.json",
+            "@id": "https://nakamura196.github.io/gaikotsu-i/curation_m/15c5bd682032b56b9048f667b30d31db.json",
+            "@type": "cr:Curation",
+            "label": "切抜き7枚"
+        },
+        {
+            "@context": "http://iiif.io/api/presentation/2/context.json",
+            "@id": "https://nakamura196.github.io/gaikotsu-i/curation_m/b73a6eb0dd11beb239a58286acea36e3.json",
+            "@type": "cr:Curation",
+            "label": "切抜[広告「滑稽新聞」]"
+        },
+        {
+            "@context": "http://iiif.io/api/presentation/2/context.json",
+            "@id": "https://nakamura196.github.io/gaikotsu-i/curation_m/f98becd890ef70ae600e8abcc679a983.json",
+            "@type": "cr:Curation",
+            "label": "「扶桑新誌」41号(三田町阿福の奇話第三回 清元新内投寄)"
+        },
+        {
+            "@context": "http://iiif.io/api/presentation/2/context.json",
+            "@id": "https://nakamura196.github.io/gaikotsu-i/curation_m/a1a2b266195dc29d8f2c49fb4fe65932.json",
+            "@type": "cr:Curation",
+            "label": "彩色印刷の日刊新聞(改進新聞)"
+        },
+        {
+            "@context": "http://iiif.io/api/presentation/2/context.json",
+            "@id": "https://nakamura196.github.io/gaikotsu-i/curation_m/c1cc1ec9dc981d8f517de233fe5ecd2f.json",
+            "@type": "cr:Curation",
+            "label": "生殖器崇拝の分布"
+        },
+        {
+            "@context": "http://iiif.io/api/presentation/2/context.json",
+            "@id": "https://nakamura196.github.io/gaikotsu-i/curation_m/0b83cd4a74ebae7ce11e9144606043c0.json",
+            "@type": "cr:Curation",
+            "label": "大審院判決 黒崎大四郎・藤田一郎の建白書の印刷の件"
+        },
+        {
+            "@context": "http://iiif.io/api/presentation/2/context.json",
+            "@id": "https://nakamura196.github.io/gaikotsu-i/curation_m/dbbd93b48e43159ccf20474f4a8bd2f3.json",
+            "@type": "cr:Curation",
+            "label": "雑誌切抜き"
+        },
+        {
+            "@context": "http://iiif.io/api/presentation/2/context.json",
+            "@id": "https://nakamura196.github.io/gaikotsu-i/curation_m/bd8c531dad0451e6cf89c6e6ac9f4ee2.json",
+            "@type": "cr:Curation",
+            "label": "政談演説会開会御届"
+        },
+        {
+            "@context": "http://iiif.io/api/presentation/2/context.json",
+            "@id": "https://nakamura196.github.io/gaikotsu-i/curation_m/87971babb50c49772afeb67b84275beb.json",
+            "@type": "cr:Curation",
+            "label": "[筆写原稿「東洋自由新聞社長西園寺公望公辞去内情」]"
+        },
+        {
+            "@context": "http://iiif.io/api/presentation/2/context.json",
+            "@id": "https://nakamura196.github.io/gaikotsu-i/curation_m/ae6f23ecda3df370c52f8da8c1f72464.json",
+            "@type": "cr:Curation",
+            "label": "「扶桑新誌」161号(福澤宗ノ功德民間ニ衰ヘテ官海ニ振フノ原因如何)"
+        },
+        {
+            "@context": "http://iiif.io/api/presentation/2/context.json",
+            "@id": "https://nakamura196.github.io/gaikotsu-i/curation_m/0d2940915fc78ec20ff597450101c370.json",
+            "@type": "cr:Curation",
+            "label": "徳川時代 絶版圖書展覽目録"
+        },
+        {
+            "@context": "http://iiif.io/api/presentation/2/context.json",
+            "@id": "https://nakamura196.github.io/gaikotsu-i/curation_m/948f636ea94172fba8c31573ede9111f.json",
+            "@type": "cr:Curation",
+            "label": "[信州関係新聞雑誌題字写]"
+        },
+        {
+            "@context": "http://iiif.io/api/presentation/2/context.json",
+            "@id": "https://nakamura196.github.io/gaikotsu-i/curation_m/c33863f65c129a371e7727dd0199b8d9.json",
+            "@type": "cr:Curation",
+            "label": "[全国官員録一覧]"
+        },
+        {
+            "@context": "http://iiif.io/api/presentation/2/context.json",
+            "@id": "https://nakamura196.github.io/gaikotsu-i/curation_m/411e8469ecbbd05a14e735f0549d3eb9.json",
+            "@type": "cr:Curation",
+            "label": "谷干城氏意見書"
+        },
+        {
+            "@context": "http://iiif.io/api/presentation/2/context.json",
+            "@id": "https://nakamura196.github.io/gaikotsu-i/curation_m/7fff120a9e8a8bc189577a42c52b291c.json",
+            "@type": "cr:Curation",
+            "label": "[「新愛知」標題 図版原稿・印刷物]"
+        },
+        {
+            "@context": "http://iiif.io/api/presentation/2/context.json",
+            "@id": "https://nakamura196.github.io/gaikotsu-i/curation_m/fe69697a7c2f8adf0f628d66b74c474e.json",
+            "@type": "cr:Curation",
+            "label": "筆写原稿「我政府官權黨新聞ノ發行ヲ福澤諭吉僧正ニ託シ僧正之ヲ諾シタリトハ眞カ(明治十四年六月二十六日發行『扶桑新誌』第百七十四號所載)」"
+        },
+        {
+            "@context": "http://iiif.io/api/presentation/2/context.json",
+            "@id": "https://nakamura196.github.io/gaikotsu-i/curation_m/38466ffd8a493c01ac98e85cf50fccc5.json",
+            "@type": "cr:Curation",
+            "label": "外人に対する訴訟"
+        },
+        {
+            "@context": "http://iiif.io/api/presentation/2/context.json",
+            "@id": "https://nakamura196.github.io/gaikotsu-i/curation_m/a2a086d9f11c64d98940e58fe44db3b4.json",
+            "@type": "cr:Curation",
+            "label": "[「ふたな」発行案内]"
+        }
+    ],
+    "label": "宮武外骨蒐集資料"
+}

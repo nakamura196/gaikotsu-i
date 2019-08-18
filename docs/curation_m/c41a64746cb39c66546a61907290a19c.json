@@ -1,0 +1,39 @@
+{
+    "@context": [
+        "http://iiif.io/api/presentation/2/context.json",
+        "http://codh.rois.ac.jp/iiif/curation/1/context.json"
+    ],
+    "@id": "https://nakamura196.github.io/gaikotsu-i/curation_m/c41a64746cb39c66546a61907290a19c.json",
+    "@type": "cr:Curation",
+    "label": "Curating list",
+    "selections": [
+        {
+            "@id": "https://nakamura196.github.io/gaikotsu-i/curation_m/c41a64746cb39c66546a61907290a19c.json/range1",
+            "@type": "sc:Range",
+            "label": "Manual curation by IIIF Curation Viewer",
+            "members": [
+                {
+                    "@id": "https://iiif.dl.itc.u-tokyo.ac.jp/repo/iiif/d87066ea-7aad-497b-8319-fa884f9a6495/canvas/p1#xywh=402,366,4138,6506",
+                    "@type": "sc:Canvas",
+                    "label": "筆写原稿・メモ「勝安房君ガ福澤諭吉氏ノ評(明治十四年一月六日發行『扶桑新誌』第百四十號所載)」 p.1",
+                    "metadata": [
+                        {
+                            "label": "Score",
+                            "value": 0
+                        },
+                        {
+                            "label": "所蔵",
+                            "value": "東京大学"
+                        }
+                    ],
+                    "thumbnail": "https://iiif.dl.itc.u-tokyo.ac.jp/repo/iiif-img/83324/402,366,4138,6506/,300/0/default.jpg"
+                }
+            ],
+            "within": {
+                "@id": "https://iiif.dl.itc.u-tokyo.ac.jp/repo/iiif/d87066ea-7aad-497b-8319-fa884f9a6495/manifest",
+                "@type": "sc:Manifest",
+                "label": "筆写原稿・メモ「勝安房君ガ福澤諭吉氏ノ評(明治十四年一月六日發行『扶桑新誌』第百四十號所載)」"
+            }
+        }
+    ]
+}

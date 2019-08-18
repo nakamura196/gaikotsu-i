@@ -1,0 +1,103 @@
+{
+    "@context": [
+        "http://iiif.io/api/presentation/2/context.json",
+        "http://codh.rois.ac.jp/iiif/curation/1/context.json"
+    ],
+    "@id": "https://nakamura196.github.io/gaikotsu-i/curation_m/de93b098fec2dba6329009f33ea9ce9d.json",
+    "@type": "cr:Curation",
+    "label": "Curating list",
+    "selections": [
+        {
+            "@id": "https://nakamura196.github.io/gaikotsu-i/curation_m/de93b098fec2dba6329009f33ea9ce9d.json/range1",
+            "@type": "sc:Range",
+            "label": "Manual curation by IIIF Curation Viewer",
+            "members": [
+                {
+                    "@id": "https://iiif.dl.itc.u-tokyo.ac.jp/repo/iiif/268de923-4569-491f-941a-0c825f2daecb/canvas/p2#xywh=3403,0,3089,4806",
+                    "@type": "sc:Canvas",
+                    "label": "「骨董雑誌」第三種郵便物認可証(明治29年11月 逓信省) p.2",
+                    "metadata": [
+                        {
+                            "label": "Score",
+                            "value": 0
+                        },
+                        {
+                            "label": "所蔵",
+                            "value": "東京大学"
+                        }
+                    ],
+                    "thumbnail": "https://iiif.dl.itc.u-tokyo.ac.jp/repo/iiif-img/85988/3403,0,3089,4806/,300/0/default.jpg"
+                },
+                {
+                    "@id": "https://iiif.dl.itc.u-tokyo.ac.jp/repo/iiif/268de923-4569-491f-941a-0c825f2daecb/canvas/p2#xywh=250,427,3072,3936",
+                    "@type": "sc:Canvas",
+                    "label": "「骨董雑誌」第三種郵便物認可証(明治29年11月 逓信省) p.2",
+                    "metadata": [
+                        {
+                            "label": "Score",
+                            "value": 0
+                        },
+                        {
+                            "label": "所蔵",
+                            "value": "東京大学"
+                        }
+                    ],
+                    "thumbnail": "https://iiif.dl.itc.u-tokyo.ac.jp/repo/iiif-img/85988/250,427,3072,3936/,300/0/default.jpg"
+                },
+                {
+                    "@id": "https://iiif.dl.itc.u-tokyo.ac.jp/repo/iiif/268de923-4569-491f-941a-0c825f2daecb/canvas/p3#xywh=459,32,2758,4452",
+                    "@type": "sc:Canvas",
+                    "label": "「骨董雑誌」第三種郵便物認可証(明治29年11月 逓信省) p.3",
+                    "metadata": [
+                        {
+                            "label": "Score",
+                            "value": 0
+                        },
+                        {
+                            "label": "所蔵",
+                            "value": "東京大学"
+                        }
+                    ],
+                    "thumbnail": "https://iiif.dl.itc.u-tokyo.ac.jp/repo/iiif-img/85989/459,32,2758,4452/,300/0/default.jpg"
+                },
+                {
+                    "@id": "https://iiif.dl.itc.u-tokyo.ac.jp/repo/iiif/268de923-4569-491f-941a-0c825f2daecb/canvas/p3#xywh=3338,209,3033,4170",
+                    "@type": "sc:Canvas",
+                    "label": "「骨董雑誌」第三種郵便物認可証(明治29年11月 逓信省) p.3",
+                    "metadata": [
+                        {
+                            "label": "Score",
+                            "value": 0
+                        },
+                        {
+                            "label": "所蔵",
+                            "value": "東京大学"
+                        }
+                    ],
+                    "thumbnail": "https://iiif.dl.itc.u-tokyo.ac.jp/repo/iiif-img/85989/3338,209,3033,4170/,300/0/default.jpg"
+                },
+                {
+                    "@id": "https://iiif.dl.itc.u-tokyo.ac.jp/repo/iiif/268de923-4569-491f-941a-0c825f2daecb/canvas/p4#xywh=2266,24,3064,4516",
+                    "@type": "sc:Canvas",
+                    "label": "「骨董雑誌」第三種郵便物認可証(明治29年11月 逓信省) p.4",
+                    "metadata": [
+                        {
+                            "label": "Score",
+                            "value": 0
+                        },
+                        {
+                            "label": "所蔵",
+                            "value": "東京大学"
+                        }
+                    ],
+                    "thumbnail": "https://iiif.dl.itc.u-tokyo.ac.jp/repo/iiif-img/85990/2266,24,3064,4516/,300/0/default.jpg"
+                }
+            ],
+            "within": {
+                "@id": "https://iiif.dl.itc.u-tokyo.ac.jp/repo/iiif/268de923-4569-491f-941a-0c825f2daecb/manifest",
+                "@type": "sc:Manifest",
+                "label": "「骨董雑誌」第三種郵便物認可証(明治29年11月 逓信省)"
+            }
+        }
+    ]
+}

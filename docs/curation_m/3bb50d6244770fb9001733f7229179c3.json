@@ -1,0 +1,39 @@
+{
+    "@context": [
+        "http://iiif.io/api/presentation/2/context.json",
+        "http://codh.rois.ac.jp/iiif/curation/1/context.json"
+    ],
+    "@id": "https://nakamura196.github.io/gaikotsu-i/curation_m/3bb50d6244770fb9001733f7229179c3.json",
+    "@type": "cr:Curation",
+    "label": "Curating list",
+    "selections": [
+        {
+            "@id": "https://nakamura196.github.io/gaikotsu-i/curation_m/3bb50d6244770fb9001733f7229179c3.json/range1",
+            "@type": "sc:Range",
+            "label": "Manual curation by IIIF Curation Viewer",
+            "members": [
+                {
+                    "@id": "https://iiif.dl.itc.u-tokyo.ac.jp/repo/iiif/7b80e0b1-1e10-4549-87ed-58c4334b4d24/canvas/p2#xywh=2032,1233,1226,2154",
+                    "@type": "sc:Canvas",
+                    "label": "宮武外骨歓迎茶話会 p.2",
+                    "metadata": [
+                        {
+                            "label": "Score",
+                            "value": 0
+                        },
+                        {
+                            "label": "所蔵",
+                            "value": "東京大学"
+                        }
+                    ],
+                    "thumbnail": "https://iiif.dl.itc.u-tokyo.ac.jp/repo/iiif-img/87396/2032,1233,1226,2154/,300/0/default.jpg"
+                }
+            ],
+            "within": {
+                "@id": "https://iiif.dl.itc.u-tokyo.ac.jp/repo/iiif/7b80e0b1-1e10-4549-87ed-58c4334b4d24/manifest",
+                "@type": "sc:Manifest",
+                "label": "宮武外骨歓迎茶話会"
+            }
+        }
+    ]
+}

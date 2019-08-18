@@ -1,0 +1,247 @@
+{
+    "@context": [
+        "http://iiif.io/api/presentation/2/context.json",
+        "http://codh.rois.ac.jp/iiif/curation/1/context.json"
+    ],
+    "@id": "https://nakamura196.github.io/gaikotsu-i/curation_m/f4f40b0afd2a14da72929b6f58964375.json",
+    "@type": "cr:Curation",
+    "label": "Curating list",
+    "selections": [
+        {
+            "@id": "https://nakamura196.github.io/gaikotsu-i/curation_m/f4f40b0afd2a14da72929b6f58964375.json/range1",
+            "@type": "sc:Range",
+            "label": "Manual curation by IIIF Curation Viewer",
+            "members": [
+                {
+                    "@id": "https://iiif.dl.itc.u-tokyo.ac.jp/repo/iiif/78f22922-e5ea-421f-8b53-ede725ad6995/canvas/p1#xywh=1282,733,2258,3251",
+                    "@type": "sc:Canvas",
+                    "label": "三勝半七 艶容女舞衣 p.1",
+                    "metadata": [
+                        {
+                            "label": "Score",
+                            "value": 0
+                        },
+                        {
+                            "label": "所蔵",
+                            "value": "東京大学"
+                        }
+                    ],
+                    "thumbnail": "https://iiif.dl.itc.u-tokyo.ac.jp/repo/iiif-img/87203/1282,733,2258,3251/,300/0/default.jpg"
+                },
+                {
+                    "@id": "https://iiif.dl.itc.u-tokyo.ac.jp/repo/iiif/78f22922-e5ea-421f-8b53-ede725ad6995/canvas/p3#xywh=1387,879,1919,3048",
+                    "@type": "sc:Canvas",
+                    "label": "三勝半七 艶容女舞衣 p.3",
+                    "metadata": [
+                        {
+                            "label": "Score",
+                            "value": 0
+                        },
+                        {
+                            "label": "所蔵",
+                            "value": "東京大学"
+                        }
+                    ],
+                    "thumbnail": "https://iiif.dl.itc.u-tokyo.ac.jp/repo/iiif-img/87205/1387,879,1919,3048/,300/0/default.jpg"
+                },
+                {
+                    "@id": "https://iiif.dl.itc.u-tokyo.ac.jp/repo/iiif/78f22922-e5ea-421f-8b53-ede725ad6995/canvas/p4#xywh=1314,830,3766,3089",
+                    "@type": "sc:Canvas",
+                    "label": "三勝半七 艶容女舞衣 p.4",
+                    "metadata": [
+                        {
+                            "label": "Score",
+                            "value": 0
+                        },
+                        {
+                            "label": "所蔵",
+                            "value": "東京大学"
+                        }
+                    ],
+                    "thumbnail": "https://iiif.dl.itc.u-tokyo.ac.jp/repo/iiif-img/87206/1314,830,3766,3089/,300/0/default.jpg"
+                },
+                {
+                    "@id": "https://iiif.dl.itc.u-tokyo.ac.jp/repo/iiif/78f22922-e5ea-421f-8b53-ede725ad6995/canvas/p5#xywh=1346,862,3686,3041",
+                    "@type": "sc:Canvas",
+                    "label": "三勝半七 艶容女舞衣 p.5",
+                    "metadata": [
+                        {
+                            "label": "Score",
+                            "value": 0
+                        },
+                        {
+                            "label": "所蔵",
+                            "value": "東京大学"
+                        }
+                    ],
+                    "thumbnail": "https://iiif.dl.itc.u-tokyo.ac.jp/repo/iiif-img/87207/1346,862,3686,3041/,300/0/default.jpg"
+                },
+                {
+                    "@id": "https://iiif.dl.itc.u-tokyo.ac.jp/repo/iiif/78f22922-e5ea-421f-8b53-ede725ad6995/canvas/p6#xywh=1411,790,1790,3121",
+                    "@type": "sc:Canvas",
+                    "label": "三勝半七 艶容女舞衣 p.6",
+                    "metadata": [
+                        {
+                            "label": "Score",
+                            "value": 0
+                        },
+                        {
+                            "label": "所蔵",
+                            "value": "東京大学"
+                        }
+                    ],
+                    "thumbnail": "https://iiif.dl.itc.u-tokyo.ac.jp/repo/iiif-img/87208/1411,790,1790,3121/,300/0/default.jpg"
+                },
+                {
+                    "@id": "https://iiif.dl.itc.u-tokyo.ac.jp/repo/iiif/78f22922-e5ea-421f-8b53-ede725ad6995/canvas/p6#xywh=3096,951,2009,2920",
+                    "@type": "sc:Canvas",
+                    "label": "三勝半七 艶容女舞衣 p.6",
+                    "metadata": [
+                        {
+                            "label": "Score",
+                            "value": 0
+                        },
+                        {
+                            "label": "所蔵",
+                            "value": "東京大学"
+                        }
+                    ],
+                    "thumbnail": "https://iiif.dl.itc.u-tokyo.ac.jp/repo/iiif-img/87208/3096,951,2009,2920/,300/0/default.jpg"
+                },
+                {
+                    "@id": "https://iiif.dl.itc.u-tokyo.ac.jp/repo/iiif/78f22922-e5ea-421f-8b53-ede725ad6995/canvas/p9#xywh=1282,685,2218,3412",
+                    "@type": "sc:Canvas",
+                    "label": "三勝半七 艶容女舞衣 p.9",
+                    "metadata": [
+                        {
+                            "label": "Score",
+                            "value": 0
+                        },
+                        {
+                            "label": "所蔵",
+                            "value": "東京大学"
+                        }
+                    ],
+                    "thumbnail": "https://iiif.dl.itc.u-tokyo.ac.jp/repo/iiif-img/87211/1282,685,2218,3412/,300/0/default.jpg"
+                },
+                {
+                    "@id": "https://iiif.dl.itc.u-tokyo.ac.jp/repo/iiif/78f22922-e5ea-421f-8b53-ede725ad6995/canvas/p10#xywh=3346,677,2420,3428",
+                    "@type": "sc:Canvas",
+                    "label": "三勝半七 艶容女舞衣 p.10",
+                    "metadata": [
+                        {
+                            "label": "Score",
+                            "value": 0
+                        },
+                        {
+                            "label": "所蔵",
+                            "value": "東京大学"
+                        }
+                    ],
+                    "thumbnail": "https://iiif.dl.itc.u-tokyo.ac.jp/repo/iiif-img/87212/3346,677,2420,3428/,300/0/default.jpg"
+                },
+                {
+                    "@id": "https://iiif.dl.itc.u-tokyo.ac.jp/repo/iiif/78f22922-e5ea-421f-8b53-ede725ad6995/canvas/p10#xywh=1209,943,2129,3033",
+                    "@type": "sc:Canvas",
+                    "label": "三勝半七 艶容女舞衣 p.10",
+                    "metadata": [
+                        {
+                            "label": "Score",
+                            "value": 0
+                        },
+                        {
+                            "label": "所蔵",
+                            "value": "東京大学"
+                        }
+                    ],
+                    "thumbnail": "https://iiif.dl.itc.u-tokyo.ac.jp/repo/iiif-img/87212/1209,943,2129,3033/,300/0/default.jpg"
+                },
+                {
+                    "@id": "https://iiif.dl.itc.u-tokyo.ac.jp/repo/iiif/78f22922-e5ea-421f-8b53-ede725ad6995/canvas/p11#xywh=4701,354,2202,3936",
+                    "@type": "sc:Canvas",
+                    "label": "三勝半七 艶容女舞衣 p.11",
+                    "metadata": [
+                        {
+                            "label": "Score",
+                            "value": 0
+                        },
+                        {
+                            "label": "所蔵",
+                            "value": "東京大学"
+                        }
+                    ],
+                    "thumbnail": "https://iiif.dl.itc.u-tokyo.ac.jp/repo/iiif-img/87213/4701,354,2202,3936/,300/0/default.jpg"
+                },
+                {
+                    "@id": "https://iiif.dl.itc.u-tokyo.ac.jp/repo/iiif/78f22922-e5ea-421f-8b53-ede725ad6995/canvas/p11#xywh=548,1000,4299,2766",
+                    "@type": "sc:Canvas",
+                    "label": "三勝半七 艶容女舞衣 p.11",
+                    "metadata": [
+                        {
+                            "label": "Score",
+                            "value": 0
+                        },
+                        {
+                            "label": "所蔵",
+                            "value": "東京大学"
+                        }
+                    ],
+                    "thumbnail": "https://iiif.dl.itc.u-tokyo.ac.jp/repo/iiif-img/87213/548,1000,4299,2766/,300/0/default.jpg"
+                },
+                {
+                    "@id": "https://iiif.dl.itc.u-tokyo.ac.jp/repo/iiif/78f22922-e5ea-421f-8b53-ede725ad6995/canvas/p12#xywh=1282,782,2145,3129",
+                    "@type": "sc:Canvas",
+                    "label": "三勝半七 艶容女舞衣 p.12",
+                    "metadata": [
+                        {
+                            "label": "Score",
+                            "value": 0
+                        },
+                        {
+                            "label": "所蔵",
+                            "value": "東京大学"
+                        }
+                    ],
+                    "thumbnail": "https://iiif.dl.itc.u-tokyo.ac.jp/repo/iiif-img/87214/1282,782,2145,3129/,300/0/default.jpg"
+                },
+                {
+                    "@id": "https://iiif.dl.itc.u-tokyo.ac.jp/repo/iiif/78f22922-e5ea-421f-8b53-ede725ad6995/canvas/p13#xywh=1613,653,4242,3387",
+                    "@type": "sc:Canvas",
+                    "label": "三勝半七 艶容女舞衣 p.13",
+                    "metadata": [
+                        {
+                            "label": "Score",
+                            "value": 0
+                        },
+                        {
+                            "label": "所蔵",
+                            "value": "東京大学"
+                        }
+                    ],
+                    "thumbnail": "https://iiif.dl.itc.u-tokyo.ac.jp/repo/iiif-img/87215/1613,653,4242,3387/,300/0/default.jpg"
+                },
+                {
+                    "@id": "https://iiif.dl.itc.u-tokyo.ac.jp/repo/iiif/78f22922-e5ea-421f-8b53-ede725ad6995/canvas/p14#xywh=3596,443,2251,3871",
+                    "@type": "sc:Canvas",
+                    "label": "三勝半七 艶容女舞衣 p.14",
+                    "metadata": [
+                        {
+                            "label": "Score",
+                            "value": 0
+                        },
+                        {
+                            "label": "所蔵",
+                            "value": "東京大学"
+                        }
+                    ],
+                    "thumbnail": "https://iiif.dl.itc.u-tokyo.ac.jp/repo/iiif-img/87216/3596,443,2251,3871/,300/0/default.jpg"
+                }
+            ],
+            "within": {
+                "@id": "https://iiif.dl.itc.u-tokyo.ac.jp/repo/iiif/78f22922-e5ea-421f-8b53-ede725ad6995/manifest",
+                "@type": "sc:Manifest",
+                "label": "三勝半七 艶容女舞衣"
+            }
+        }
+    ]
+}

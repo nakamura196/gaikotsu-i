@@ -1,0 +1,55 @@
+{
+    "@context": [
+        "http://iiif.io/api/presentation/2/context.json",
+        "http://codh.rois.ac.jp/iiif/curation/1/context.json"
+    ],
+    "@id": "https://nakamura196.github.io/gaikotsu-i/curation_m/043dc49a8ea95817d74d7081c95555c0.json",
+    "@type": "cr:Curation",
+    "label": "Curating list",
+    "selections": [
+        {
+            "@id": "https://nakamura196.github.io/gaikotsu-i/curation_m/043dc49a8ea95817d74d7081c95555c0.json/range1",
+            "@type": "sc:Range",
+            "label": "Manual curation by IIIF Curation Viewer",
+            "members": [
+                {
+                    "@id": "https://iiif.dl.itc.u-tokyo.ac.jp/repo/iiif/02b7df9b-b354-41e0-855c-2259a404184f/canvas/p1#xywh=5378,196,426,393",
+                    "@type": "sc:Canvas",
+                    "label": "[広告「(日刊)不二新聞」] p.1",
+                    "metadata": [
+                        {
+                            "label": "Score",
+                            "value": 0
+                        },
+                        {
+                            "label": "所蔵",
+                            "value": "東京大学"
+                        }
+                    ],
+                    "thumbnail": "https://iiif.dl.itc.u-tokyo.ac.jp/repo/iiif-img/86460/5378,196,426,393/,300/0/default.jpg"
+                },
+                {
+                    "@id": "https://iiif.dl.itc.u-tokyo.ac.jp/repo/iiif/02b7df9b-b354-41e0-855c-2259a404184f/canvas/p1#xywh=2079,556,3144,3938",
+                    "@type": "sc:Canvas",
+                    "label": "[広告「(日刊)不二新聞」] p.1",
+                    "metadata": [
+                        {
+                            "label": "Score",
+                            "value": 0
+                        },
+                        {
+                            "label": "所蔵",
+                            "value": "東京大学"
+                        }
+                    ],
+                    "thumbnail": "https://iiif.dl.itc.u-tokyo.ac.jp/repo/iiif-img/86460/2079,556,3144,3938/,300/0/default.jpg"
+                }
+            ],
+            "within": {
+                "@id": "https://iiif.dl.itc.u-tokyo.ac.jp/repo/iiif/02b7df9b-b354-41e0-855c-2259a404184f/manifest",
+                "@type": "sc:Manifest",
+                "label": "[広告「(日刊)不二新聞」]"
+            }
+        }
+    ]
+}

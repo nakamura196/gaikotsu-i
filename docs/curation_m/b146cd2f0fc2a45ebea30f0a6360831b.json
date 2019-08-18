@@ -1,0 +1,143 @@
+{
+    "@context": [
+        "http://iiif.io/api/presentation/2/context.json",
+        "http://codh.rois.ac.jp/iiif/curation/1/context.json"
+    ],
+    "@id": "https://nakamura196.github.io/gaikotsu-i/curation_m/b146cd2f0fc2a45ebea30f0a6360831b.json",
+    "@type": "cr:Curation",
+    "label": "Curating list",
+    "selections": [
+        {
+            "@id": "https://nakamura196.github.io/gaikotsu-i/curation_m/b146cd2f0fc2a45ebea30f0a6360831b.json/range1",
+            "@type": "sc:Range",
+            "label": "Manual curation by IIIF Curation Viewer",
+            "members": [
+                {
+                    "@id": "https://iiif.dl.itc.u-tokyo.ac.jp/repo/iiif/786ab2f1-a9f8-46c7-a4cb-b0b102659f06/canvas/p1#xywh=2121,709,2734,3452",
+                    "@type": "sc:Canvas",
+                    "label": "[「文庫」標題 図版原稿・印刷物] p.1",
+                    "metadata": [
+                        {
+                            "label": "Score",
+                            "value": 0
+                        },
+                        {
+                            "label": "所蔵",
+                            "value": "東京大学"
+                        }
+                    ],
+                    "thumbnail": "https://iiif.dl.itc.u-tokyo.ac.jp/repo/iiif-img/86794/2121,709,2734,3452/,300/0/default.jpg"
+                },
+                {
+                    "@id": "https://iiif.dl.itc.u-tokyo.ac.jp/repo/iiif/786ab2f1-a9f8-46c7-a4cb-b0b102659f06/canvas/p2#xywh=2137,395,2677,3766",
+                    "@type": "sc:Canvas",
+                    "label": "[「文庫」標題 図版原稿・印刷物] p.2",
+                    "metadata": [
+                        {
+                            "label": "Score",
+                            "value": 0
+                        },
+                        {
+                            "label": "所蔵",
+                            "value": "東京大学"
+                        },
+                        {
+                            "label": "機械タグ",
+                            "value": "Person"
+                        }
+                    ],
+                    "thumbnail": "https://iiif.dl.itc.u-tokyo.ac.jp/repo/iiif-img/86795/2137,395,2677,3766/,300/0/default.jpg"
+                },
+                {
+                    "@id": "https://iiif.dl.itc.u-tokyo.ac.jp/repo/iiif/786ab2f1-a9f8-46c7-a4cb-b0b102659f06/canvas/p3#xywh=2185,500,2565,3790",
+                    "@type": "sc:Canvas",
+                    "label": "[「文庫」標題 図版原稿・印刷物] p.3",
+                    "metadata": [
+                        {
+                            "label": "Score",
+                            "value": 0
+                        },
+                        {
+                            "label": "所蔵",
+                            "value": "東京大学"
+                        }
+                    ],
+                    "thumbnail": "https://iiif.dl.itc.u-tokyo.ac.jp/repo/iiif-img/86796/2185,500,2565,3790/,300/0/default.jpg"
+                },
+                {
+                    "@id": "https://iiif.dl.itc.u-tokyo.ac.jp/repo/iiif/786ab2f1-a9f8-46c7-a4cb-b0b102659f06/canvas/p4#xywh=2072,419,2710,2847",
+                    "@type": "sc:Canvas",
+                    "label": "[「文庫」標題 図版原稿・印刷物] p.4",
+                    "metadata": [
+                        {
+                            "label": "Score",
+                            "value": 0
+                        },
+                        {
+                            "label": "所蔵",
+                            "value": "東京大学"
+                        }
+                    ],
+                    "thumbnail": "https://iiif.dl.itc.u-tokyo.ac.jp/repo/iiif-img/86797/2072,419,2710,2847/,300/0/default.jpg"
+                },
+                {
+                    "@id": "https://iiif.dl.itc.u-tokyo.ac.jp/repo/iiif/786ab2f1-a9f8-46c7-a4cb-b0b102659f06/canvas/p5#xywh=2016,346,2863,3920",
+                    "@type": "sc:Canvas",
+                    "label": "[「文庫」標題 図版原稿・印刷物] p.5",
+                    "metadata": [
+                        {
+                            "label": "Score",
+                            "value": 0
+                        },
+                        {
+                            "label": "所蔵",
+                            "value": "東京大学"
+                        },
+                        {
+                            "label": "機械タグ",
+                            "value": "Animal"
+                        }
+                    ],
+                    "thumbnail": "https://iiif.dl.itc.u-tokyo.ac.jp/repo/iiif-img/86798/2016,346,2863,3920/,300/0/default.jpg"
+                },
+                {
+                    "@id": "https://iiif.dl.itc.u-tokyo.ac.jp/repo/iiif/786ab2f1-a9f8-46c7-a4cb-b0b102659f06/canvas/p6#xywh=2056,274,2815,4073",
+                    "@type": "sc:Canvas",
+                    "label": "[「文庫」標題 図版原稿・印刷物] p.6",
+                    "metadata": [
+                        {
+                            "label": "Score",
+                            "value": 0
+                        },
+                        {
+                            "label": "所蔵",
+                            "value": "東京大学"
+                        }
+                    ],
+                    "thumbnail": "https://iiif.dl.itc.u-tokyo.ac.jp/repo/iiif-img/86799/2056,274,2815,4073/,300/0/default.jpg"
+                },
+                {
+                    "@id": "https://iiif.dl.itc.u-tokyo.ac.jp/repo/iiif/786ab2f1-a9f8-46c7-a4cb-b0b102659f06/canvas/p7#xywh=2088,290,2767,4032",
+                    "@type": "sc:Canvas",
+                    "label": "[「文庫」標題 図版原稿・印刷物] p.7",
+                    "metadata": [
+                        {
+                            "label": "Score",
+                            "value": 0
+                        },
+                        {
+                            "label": "所蔵",
+                            "value": "東京大学"
+                        }
+                    ],
+                    "thumbnail": "https://iiif.dl.itc.u-tokyo.ac.jp/repo/iiif-img/86800/2088,290,2767,4032/,300/0/default.jpg"
+                }
+            ],
+            "within": {
+                "@id": "https://iiif.dl.itc.u-tokyo.ac.jp/repo/iiif/786ab2f1-a9f8-46c7-a4cb-b0b102659f06/manifest",
+                "@type": "sc:Manifest",
+                "label": "[「文庫」標題 図版原稿・印刷物]"
+            }
+        }
+    ]
+}

@@ -1,0 +1,155 @@
+{
+    "@context": [
+        "http://iiif.io/api/presentation/2/context.json",
+        "http://codh.rois.ac.jp/iiif/curation/1/context.json"
+    ],
+    "@id": "https://nakamura196.github.io/gaikotsu-i/curation_m/629011147176be59f43a64b9da51703f.json",
+    "@type": "cr:Curation",
+    "label": "Curating list",
+    "selections": [
+        {
+            "@id": "https://nakamura196.github.io/gaikotsu-i/curation_m/629011147176be59f43a64b9da51703f.json/range1",
+            "@type": "sc:Range",
+            "label": "Manual curation by IIIF Curation Viewer",
+            "members": [
+                {
+                    "@id": "https://iiif.dl.itc.u-tokyo.ac.jp/repo/iiif/2eb8753b-4772-427b-bdc7-14e29afa1868/canvas/p1#xywh=828,422,5909,4380",
+                    "@type": "sc:Canvas",
+                    "label": "[校友会関係雑誌題字写] p.1",
+                    "metadata": [
+                        {
+                            "label": "Score",
+                            "value": 0
+                        },
+                        {
+                            "label": "所蔵",
+                            "value": "東京大学"
+                        }
+                    ],
+                    "thumbnail": "https://iiif.dl.itc.u-tokyo.ac.jp/repo/iiif-img/86759/828,422,5909,4380/,300/0/default.jpg"
+                },
+                {
+                    "@id": "https://iiif.dl.itc.u-tokyo.ac.jp/repo/iiif/2eb8753b-4772-427b-bdc7-14e29afa1868/canvas/p2#xywh=0,284,4973,4592",
+                    "@type": "sc:Canvas",
+                    "label": "[校友会関係雑誌題字写] p.2",
+                    "metadata": [
+                        {
+                            "label": "Score",
+                            "value": 0
+                        },
+                        {
+                            "label": "所蔵",
+                            "value": "東京大学"
+                        }
+                    ],
+                    "thumbnail": "https://iiif.dl.itc.u-tokyo.ac.jp/repo/iiif-img/86760/0,284,4973,4592/,300/0/default.jpg"
+                },
+                {
+                    "@id": "https://iiif.dl.itc.u-tokyo.ac.jp/repo/iiif/2eb8753b-4772-427b-bdc7-14e29afa1868/canvas/p2#xywh=4201,3421,1967,1455",
+                    "@type": "sc:Canvas",
+                    "label": "[校友会関係雑誌題字写] p.2",
+                    "metadata": [
+                        {
+                            "label": "Score",
+                            "value": 0
+                        },
+                        {
+                            "label": "所蔵",
+                            "value": "東京大学"
+                        }
+                    ],
+                    "thumbnail": "https://iiif.dl.itc.u-tokyo.ac.jp/repo/iiif-img/86760/4201,3421,1967,1455/,300/0/default.jpg"
+                },
+                {
+                    "@id": "https://iiif.dl.itc.u-tokyo.ac.jp/repo/iiif/2eb8753b-4772-427b-bdc7-14e29afa1868/canvas/p3#xywh=1275,0,6022,4876",
+                    "@type": "sc:Canvas",
+                    "label": "[校友会関係雑誌題字写] p.3",
+                    "metadata": [
+                        {
+                            "label": "Score",
+                            "value": 0
+                        },
+                        {
+                            "label": "所蔵",
+                            "value": "東京大学"
+                        }
+                    ],
+                    "thumbnail": "https://iiif.dl.itc.u-tokyo.ac.jp/repo/iiif-img/86761/1275,0,6022,4876/,300/0/default.jpg"
+                },
+                {
+                    "@id": "https://iiif.dl.itc.u-tokyo.ac.jp/repo/iiif/2eb8753b-4772-427b-bdc7-14e29afa1868/canvas/p4#xywh=0,0,5387,4876",
+                    "@type": "sc:Canvas",
+                    "label": "[校友会関係雑誌題字写] p.4",
+                    "metadata": [
+                        {
+                            "label": "Score",
+                            "value": 0
+                        },
+                        {
+                            "label": "所蔵",
+                            "value": "東京大学"
+                        },
+                        {
+                            "label": "機械タグ",
+                            "value": "Person"
+                        }
+                    ],
+                    "thumbnail": "https://iiif.dl.itc.u-tokyo.ac.jp/repo/iiif-img/86762/0,0,5387,4876/,300/0/default.jpg"
+                },
+                {
+                    "@id": "https://iiif.dl.itc.u-tokyo.ac.jp/repo/iiif/2eb8753b-4772-427b-bdc7-14e29afa1868/canvas/p5#xywh=1901,0,5396,4876",
+                    "@type": "sc:Canvas",
+                    "label": "[校友会関係雑誌題字写] p.5",
+                    "metadata": [
+                        {
+                            "label": "Score",
+                            "value": 0
+                        },
+                        {
+                            "label": "所蔵",
+                            "value": "東京大学"
+                        }
+                    ],
+                    "thumbnail": "https://iiif.dl.itc.u-tokyo.ac.jp/repo/iiif-img/86763/1901,0,5396,4876/,300/0/default.jpg"
+                },
+                {
+                    "@id": "https://iiif.dl.itc.u-tokyo.ac.jp/repo/iiif/2eb8753b-4772-427b-bdc7-14e29afa1868/canvas/p7#xywh=926,0,6371,4867",
+                    "@type": "sc:Canvas",
+                    "label": "[校友会関係雑誌題字写] p.7",
+                    "metadata": [
+                        {
+                            "label": "Score",
+                            "value": 0
+                        },
+                        {
+                            "label": "所蔵",
+                            "value": "東京大学"
+                        }
+                    ],
+                    "thumbnail": "https://iiif.dl.itc.u-tokyo.ac.jp/repo/iiif-img/86765/926,0,6371,4867/,300/0/default.jpg"
+                },
+                {
+                    "@id": "https://iiif.dl.itc.u-tokyo.ac.jp/repo/iiif/2eb8753b-4772-427b-bdc7-14e29afa1868/canvas/p8#xywh=0,0,6647,4656",
+                    "@type": "sc:Canvas",
+                    "label": "[校友会関係雑誌題字写] p.8",
+                    "metadata": [
+                        {
+                            "label": "Score",
+                            "value": 0
+                        },
+                        {
+                            "label": "所蔵",
+                            "value": "東京大学"
+                        }
+                    ],
+                    "thumbnail": "https://iiif.dl.itc.u-tokyo.ac.jp/repo/iiif-img/86766/0,0,6647,4656/,300/0/default.jpg"
+                }
+            ],
+            "within": {
+                "@id": "https://iiif.dl.itc.u-tokyo.ac.jp/repo/iiif/2eb8753b-4772-427b-bdc7-14e29afa1868/manifest",
+                "@type": "sc:Manifest",
+                "label": "[校友会関係雑誌題字写]"
+            }
+        }
+    ]
+}

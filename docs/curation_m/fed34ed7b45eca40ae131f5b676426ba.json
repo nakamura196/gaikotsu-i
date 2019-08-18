@@ -1,0 +1,87 @@
+{
+    "@context": [
+        "http://iiif.io/api/presentation/2/context.json",
+        "http://codh.rois.ac.jp/iiif/curation/1/context.json"
+    ],
+    "@id": "https://nakamura196.github.io/gaikotsu-i/curation_m/fed34ed7b45eca40ae131f5b676426ba.json",
+    "@type": "cr:Curation",
+    "label": "Curating list",
+    "selections": [
+        {
+            "@id": "https://nakamura196.github.io/gaikotsu-i/curation_m/fed34ed7b45eca40ae131f5b676426ba.json/range1",
+            "@type": "sc:Range",
+            "label": "Manual curation by IIIF Curation Viewer",
+            "members": [
+                {
+                    "@id": "https://iiif.dl.itc.u-tokyo.ac.jp/repo/iiif/66ad73cb-0e69-454e-88a3-4446355905ff/canvas/p1#xywh=556,338,3073,4146",
+                    "@type": "sc:Canvas",
+                    "label": "宮武外骨「我が家の猫いらず騒動」資料 p.1",
+                    "metadata": [
+                        {
+                            "label": "Score",
+                            "value": 0
+                        },
+                        {
+                            "label": "所蔵",
+                            "value": "東京大学"
+                        }
+                    ],
+                    "thumbnail": "https://iiif.dl.itc.u-tokyo.ac.jp/repo/iiif-img/87589/556,338,3073,4146/,300/0/default.jpg"
+                },
+                {
+                    "@id": "https://iiif.dl.itc.u-tokyo.ac.jp/repo/iiif/66ad73cb-0e69-454e-88a3-4446355905ff/canvas/p5#xywh=1072,459,4767,4073",
+                    "@type": "sc:Canvas",
+                    "label": "宮武外骨「我が家の猫いらず騒動」資料 p.5",
+                    "metadata": [
+                        {
+                            "label": "Score",
+                            "value": 0
+                        },
+                        {
+                            "label": "所蔵",
+                            "value": "東京大学"
+                        }
+                    ],
+                    "thumbnail": "https://iiif.dl.itc.u-tokyo.ac.jp/repo/iiif-img/87593/1072,459,4767,4073/,300/0/default.jpg"
+                },
+                {
+                    "@id": "https://iiif.dl.itc.u-tokyo.ac.jp/repo/iiif/66ad73cb-0e69-454e-88a3-4446355905ff/canvas/p6#xywh=1371,588,4169,3936",
+                    "@type": "sc:Canvas",
+                    "label": "宮武外骨「我が家の猫いらず騒動」資料 p.6",
+                    "metadata": [
+                        {
+                            "label": "Score",
+                            "value": 0
+                        },
+                        {
+                            "label": "所蔵",
+                            "value": "東京大学"
+                        }
+                    ],
+                    "thumbnail": "https://iiif.dl.itc.u-tokyo.ac.jp/repo/iiif-img/87594/1371,588,4169,3936/,300/0/default.jpg"
+                },
+                {
+                    "@id": "https://iiif.dl.itc.u-tokyo.ac.jp/repo/iiif/66ad73cb-0e69-454e-88a3-4446355905ff/canvas/p7#xywh=3532,500,2178,3895",
+                    "@type": "sc:Canvas",
+                    "label": "宮武外骨「我が家の猫いらず騒動」資料 p.7",
+                    "metadata": [
+                        {
+                            "label": "Score",
+                            "value": 0
+                        },
+                        {
+                            "label": "所蔵",
+                            "value": "東京大学"
+                        }
+                    ],
+                    "thumbnail": "https://iiif.dl.itc.u-tokyo.ac.jp/repo/iiif-img/87595/3532,500,2178,3895/,300/0/default.jpg"
+                }
+            ],
+            "within": {
+                "@id": "https://iiif.dl.itc.u-tokyo.ac.jp/repo/iiif/66ad73cb-0e69-454e-88a3-4446355905ff/manifest",
+                "@type": "sc:Manifest",
+                "label": "宮武外骨「我が家の猫いらず騒動」資料"
+            }
+        }
+    ]
+}

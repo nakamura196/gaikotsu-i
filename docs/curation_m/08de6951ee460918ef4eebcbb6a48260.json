@@ -1,0 +1,71 @@
+{
+    "@context": [
+        "http://iiif.io/api/presentation/2/context.json",
+        "http://codh.rois.ac.jp/iiif/curation/1/context.json"
+    ],
+    "@id": "https://nakamura196.github.io/gaikotsu-i/curation_m/08de6951ee460918ef4eebcbb6a48260.json",
+    "@type": "cr:Curation",
+    "label": "Curating list",
+    "selections": [
+        {
+            "@id": "https://nakamura196.github.io/gaikotsu-i/curation_m/08de6951ee460918ef4eebcbb6a48260.json/range1",
+            "@type": "sc:Range",
+            "label": "Manual curation by IIIF Curation Viewer",
+            "members": [
+                {
+                    "@id": "https://iiif.dl.itc.u-tokyo.ac.jp/repo/iiif/234da146-94db-47e0-abe2-053cffd9f475/canvas/p1#xywh=573,549,3833,6140",
+                    "@type": "sc:Canvas",
+                    "label": "筆写原稿「慶應義塾生徒諸君ニ告グ(明治十二年五月十八日發行『近時評論』第百九十五號所載)」 p.1",
+                    "metadata": [
+                        {
+                            "label": "Score",
+                            "value": 0
+                        },
+                        {
+                            "label": "所蔵",
+                            "value": "東京大学"
+                        }
+                    ],
+                    "thumbnail": "https://iiif.dl.itc.u-tokyo.ac.jp/repo/iiif-img/83243/573,549,3833,6140/,300/0/default.jpg"
+                },
+                {
+                    "@id": "https://iiif.dl.itc.u-tokyo.ac.jp/repo/iiif/234da146-94db-47e0-abe2-053cffd9f475/canvas/p2#xywh=317,488,4443,6372",
+                    "@type": "sc:Canvas",
+                    "label": "筆写原稿「慶應義塾生徒諸君ニ告グ(明治十二年五月十八日發行『近時評論』第百九十五號所載)」 p.2",
+                    "metadata": [
+                        {
+                            "label": "Score",
+                            "value": 0
+                        },
+                        {
+                            "label": "所蔵",
+                            "value": "東京大学"
+                        }
+                    ],
+                    "thumbnail": "https://iiif.dl.itc.u-tokyo.ac.jp/repo/iiif-img/83244/317,488,4443,6372/,300/0/default.jpg"
+                },
+                {
+                    "@id": "https://iiif.dl.itc.u-tokyo.ac.jp/repo/iiif/234da146-94db-47e0-abe2-053cffd9f475/canvas/p4#xywh=561,707,3906,5786",
+                    "@type": "sc:Canvas",
+                    "label": "筆写原稿「慶應義塾生徒諸君ニ告グ(明治十二年五月十八日發行『近時評論』第百九十五號所載)」 p.4",
+                    "metadata": [
+                        {
+                            "label": "Score",
+                            "value": 0
+                        },
+                        {
+                            "label": "所蔵",
+                            "value": "東京大学"
+                        }
+                    ],
+                    "thumbnail": "https://iiif.dl.itc.u-tokyo.ac.jp/repo/iiif-img/83246/561,707,3906,5786/,300/0/default.jpg"
+                }
+            ],
+            "within": {
+                "@id": "https://iiif.dl.itc.u-tokyo.ac.jp/repo/iiif/234da146-94db-47e0-abe2-053cffd9f475/manifest",
+                "@type": "sc:Manifest",
+                "label": "筆写原稿「慶應義塾生徒諸君ニ告グ(明治十二年五月十八日發行『近時評論』第百九十五號所載)」"
+            }
+        }
+    ]
+}

@@ -1,0 +1,39 @@
+{
+    "@context": [
+        "http://iiif.io/api/presentation/2/context.json",
+        "http://codh.rois.ac.jp/iiif/curation/1/context.json"
+    ],
+    "@id": "https://nakamura196.github.io/gaikotsu-i/curation_m/508dfbc59c973b0e36a5023250db0e54.json",
+    "@type": "cr:Curation",
+    "label": "Curating list",
+    "selections": [
+        {
+            "@id": "https://nakamura196.github.io/gaikotsu-i/curation_m/508dfbc59c973b0e36a5023250db0e54.json/range1",
+            "@type": "sc:Range",
+            "label": "Manual curation by IIIF Curation Viewer",
+            "members": [
+                {
+                    "@id": "https://iiif.dl.itc.u-tokyo.ac.jp/repo/iiif/49d62b54-d7ec-457a-a8fe-d784ac4ffe74/canvas/p1#xywh=1701,621,3686,3532",
+                    "@type": "sc:Canvas",
+                    "label": "[房総関係新聞雑誌題字写] p.1",
+                    "metadata": [
+                        {
+                            "label": "Score",
+                            "value": 0
+                        },
+                        {
+                            "label": "所蔵",
+                            "value": "東京大学"
+                        }
+                    ],
+                    "thumbnail": "https://iiif.dl.itc.u-tokyo.ac.jp/repo/iiif-img/86785/1701,621,3686,3532/,300/0/default.jpg"
+                }
+            ],
+            "within": {
+                "@id": "https://iiif.dl.itc.u-tokyo.ac.jp/repo/iiif/49d62b54-d7ec-457a-a8fe-d784ac4ffe74/manifest",
+                "@type": "sc:Manifest",
+                "label": "[房総関係新聞雑誌題字写]"
+            }
+        }
+    ]
+}

@@ -1,0 +1,315 @@
+{
+    "@context": [
+        "http://iiif.io/api/presentation/2/context.json",
+        "http://codh.rois.ac.jp/iiif/curation/1/context.json"
+    ],
+    "@id": "https://nakamura196.github.io/gaikotsu-i/curation_m/323b4080928cf52bcc605db5996f5fa1.json",
+    "@type": "cr:Curation",
+    "label": "Curating list",
+    "selections": [
+        {
+            "@id": "https://nakamura196.github.io/gaikotsu-i/curation_m/323b4080928cf52bcc605db5996f5fa1.json/range1",
+            "@type": "sc:Range",
+            "label": "Manual curation by IIIF Curation Viewer",
+            "members": [
+                {
+                    "@id": "https://iiif.dl.itc.u-tokyo.ac.jp/repo/iiif/e309e706-df3a-4f4c-b08f-64d45c0d9c68/canvas/p7#xywh=3088,1564,734,1613",
+                    "@type": "sc:Canvas",
+                    "label": "[新聞雑誌題字写] p.7",
+                    "metadata": [
+                        {
+                            "label": "Score",
+                            "value": 0
+                        },
+                        {
+                            "label": "所蔵",
+                            "value": "東京大学"
+                        }
+                    ],
+                    "thumbnail": "https://iiif.dl.itc.u-tokyo.ac.jp/repo/iiif-img/86613/3088,1564,734,1613/,300/0/default.jpg"
+                },
+                {
+                    "@id": "https://iiif.dl.itc.u-tokyo.ac.jp/repo/iiif/e309e706-df3a-4f4c-b08f-64d45c0d9c68/canvas/p12#xywh=3282,1290,548,1944",
+                    "@type": "sc:Canvas",
+                    "label": "[新聞雑誌題字写] p.12",
+                    "metadata": [
+                        {
+                            "label": "Score",
+                            "value": 0
+                        },
+                        {
+                            "label": "所蔵",
+                            "value": "東京大学"
+                        }
+                    ],
+                    "thumbnail": "https://iiif.dl.itc.u-tokyo.ac.jp/repo/iiif-img/86618/3282,1290,548,1944/,300/0/default.jpg"
+                },
+                {
+                    "@id": "https://iiif.dl.itc.u-tokyo.ac.jp/repo/iiif/e309e706-df3a-4f4c-b08f-64d45c0d9c68/canvas/p16#xywh=3000,1250,887,2185",
+                    "@type": "sc:Canvas",
+                    "label": "[新聞雑誌題字写] p.16",
+                    "metadata": [
+                        {
+                            "label": "Score",
+                            "value": 0
+                        },
+                        {
+                            "label": "所蔵",
+                            "value": "東京大学"
+                        },
+                        {
+                            "label": "機械タグ",
+                            "value": "Person"
+                        }
+                    ],
+                    "thumbnail": "https://iiif.dl.itc.u-tokyo.ac.jp/repo/iiif-img/86622/3000,1250,887,2185/,300/0/default.jpg"
+                },
+                {
+                    "@id": "https://iiif.dl.itc.u-tokyo.ac.jp/repo/iiif/e309e706-df3a-4f4c-b08f-64d45c0d9c68/canvas/p17#xywh=3048,1338,734,1831",
+                    "@type": "sc:Canvas",
+                    "label": "[新聞雑誌題字写] p.17",
+                    "metadata": [
+                        {
+                            "label": "Score",
+                            "value": 0
+                        },
+                        {
+                            "label": "所蔵",
+                            "value": "東京大学"
+                        }
+                    ],
+                    "thumbnail": "https://iiif.dl.itc.u-tokyo.ac.jp/repo/iiif-img/86623/3048,1338,734,1831/,300/0/default.jpg"
+                },
+                {
+                    "@id": "https://iiif.dl.itc.u-tokyo.ac.jp/repo/iiif/e309e706-df3a-4f4c-b08f-64d45c0d9c68/canvas/p20#xywh=3105,1314,693,2041",
+                    "@type": "sc:Canvas",
+                    "label": "[新聞雑誌題字写] p.20",
+                    "metadata": [
+                        {
+                            "label": "Score",
+                            "value": 0
+                        },
+                        {
+                            "label": "所蔵",
+                            "value": "東京大学"
+                        },
+                        {
+                            "label": "機械タグ",
+                            "value": "Weapon"
+                        }
+                    ],
+                    "thumbnail": "https://iiif.dl.itc.u-tokyo.ac.jp/repo/iiif-img/86626/3105,1314,693,2041/,300/0/default.jpg"
+                },
+                {
+                    "@id": "https://iiif.dl.itc.u-tokyo.ac.jp/repo/iiif/e309e706-df3a-4f4c-b08f-64d45c0d9c68/canvas/p23#xywh=3032,1104,855,2517",
+                    "@type": "sc:Canvas",
+                    "label": "[新聞雑誌題字写] p.23",
+                    "metadata": [
+                        {
+                            "label": "Score",
+                            "value": 0
+                        },
+                        {
+                            "label": "所蔵",
+                            "value": "東京大学"
+                        }
+                    ],
+                    "thumbnail": "https://iiif.dl.itc.u-tokyo.ac.jp/repo/iiif-img/86629/3032,1104,855,2517/,300/0/default.jpg"
+                },
+                {
+                    "@id": "https://iiif.dl.itc.u-tokyo.ac.jp/repo/iiif/e309e706-df3a-4f4c-b08f-64d45c0d9c68/canvas/p24#xywh=3072,1233,831,2259",
+                    "@type": "sc:Canvas",
+                    "label": "[新聞雑誌題字写] p.24",
+                    "metadata": [
+                        {
+                            "label": "Score",
+                            "value": 0
+                        },
+                        {
+                            "label": "所蔵",
+                            "value": "東京大学"
+                        },
+                        {
+                            "label": "機械タグ",
+                            "value": "Person"
+                        }
+                    ],
+                    "thumbnail": "https://iiif.dl.itc.u-tokyo.ac.jp/repo/iiif-img/86630/3072,1233,831,2259/,300/0/default.jpg"
+                },
+                {
+                    "@id": "https://iiif.dl.itc.u-tokyo.ac.jp/repo/iiif/e309e706-df3a-4f4c-b08f-64d45c0d9c68/canvas/p26#xywh=2935,1121,936,2467",
+                    "@type": "sc:Canvas",
+                    "label": "[新聞雑誌題字写] p.26",
+                    "metadata": [
+                        {
+                            "label": "Score",
+                            "value": 0
+                        },
+                        {
+                            "label": "所蔵",
+                            "value": "東京大学"
+                        }
+                    ],
+                    "thumbnail": "https://iiif.dl.itc.u-tokyo.ac.jp/repo/iiif-img/86632/2935,1121,936,2467/,300/0/default.jpg"
+                },
+                {
+                    "@id": "https://iiif.dl.itc.u-tokyo.ac.jp/repo/iiif/e309e706-df3a-4f4c-b08f-64d45c0d9c68/canvas/p27#xywh=2975,1145,847,2387",
+                    "@type": "sc:Canvas",
+                    "label": "[新聞雑誌題字写] p.27",
+                    "metadata": [
+                        {
+                            "label": "Score",
+                            "value": 0
+                        },
+                        {
+                            "label": "所蔵",
+                            "value": "東京大学"
+                        },
+                        {
+                            "label": "機械タグ",
+                            "value": "Furniture"
+                        }
+                    ],
+                    "thumbnail": "https://iiif.dl.itc.u-tokyo.ac.jp/repo/iiif-img/86633/2975,1145,847,2387/,300/0/default.jpg"
+                },
+                {
+                    "@id": "https://iiif.dl.itc.u-tokyo.ac.jp/repo/iiif/e309e706-df3a-4f4c-b08f-64d45c0d9c68/canvas/p29#xywh=3080,822,879,3081",
+                    "@type": "sc:Canvas",
+                    "label": "[新聞雑誌題字写] p.29",
+                    "metadata": [
+                        {
+                            "label": "Score",
+                            "value": 0
+                        },
+                        {
+                            "label": "所蔵",
+                            "value": "東京大学"
+                        }
+                    ],
+                    "thumbnail": "https://iiif.dl.itc.u-tokyo.ac.jp/repo/iiif-img/86635/3080,822,879,3081/,300/0/default.jpg"
+                },
+                {
+                    "@id": "https://iiif.dl.itc.u-tokyo.ac.jp/repo/iiif/e309e706-df3a-4f4c-b08f-64d45c0d9c68/canvas/p30#xywh=3048,903,887,3137",
+                    "@type": "sc:Canvas",
+                    "label": "[新聞雑誌題字写] p.30",
+                    "metadata": [
+                        {
+                            "label": "Score",
+                            "value": 0
+                        },
+                        {
+                            "label": "所蔵",
+                            "value": "東京大学"
+                        },
+                        {
+                            "label": "機械タグ",
+                            "value": "Person"
+                        }
+                    ],
+                    "thumbnail": "https://iiif.dl.itc.u-tokyo.ac.jp/repo/iiif-img/86636/3048,903,887,3137/,300/0/default.jpg"
+                },
+                {
+                    "@id": "https://iiif.dl.itc.u-tokyo.ac.jp/repo/iiif/e309e706-df3a-4f4c-b08f-64d45c0d9c68/canvas/p32#xywh=3161,1201,694,2315",
+                    "@type": "sc:Canvas",
+                    "label": "[新聞雑誌題字写] p.32",
+                    "metadata": [
+                        {
+                            "label": "Score",
+                            "value": 0
+                        },
+                        {
+                            "label": "所蔵",
+                            "value": "東京大学"
+                        }
+                    ],
+                    "thumbnail": "https://iiif.dl.itc.u-tokyo.ac.jp/repo/iiif-img/86638/3161,1201,694,2315/,300/0/default.jpg"
+                },
+                {
+                    "@id": "https://iiif.dl.itc.u-tokyo.ac.jp/repo/iiif/e309e706-df3a-4f4c-b08f-64d45c0d9c68/canvas/p39#xywh=3169,1217,847,2484",
+                    "@type": "sc:Canvas",
+                    "label": "[新聞雑誌題字写] p.39",
+                    "metadata": [
+                        {
+                            "label": "Score",
+                            "value": 0
+                        },
+                        {
+                            "label": "所蔵",
+                            "value": "東京大学"
+                        }
+                    ],
+                    "thumbnail": "https://iiif.dl.itc.u-tokyo.ac.jp/repo/iiif-img/86645/3169,1217,847,2484/,300/0/default.jpg"
+                },
+                {
+                    "@id": "https://iiif.dl.itc.u-tokyo.ac.jp/repo/iiif/e309e706-df3a-4f4c-b08f-64d45c0d9c68/canvas/p43#xywh=3121,1129,750,2661",
+                    "@type": "sc:Canvas",
+                    "label": "[新聞雑誌題字写] p.43",
+                    "metadata": [
+                        {
+                            "label": "Score",
+                            "value": 0
+                        },
+                        {
+                            "label": "所蔵",
+                            "value": "東京大学"
+                        }
+                    ],
+                    "thumbnail": "https://iiif.dl.itc.u-tokyo.ac.jp/repo/iiif-img/86649/3121,1129,750,2661/,300/0/default.jpg"
+                },
+                {
+                    "@id": "https://iiif.dl.itc.u-tokyo.ac.jp/repo/iiif/e309e706-df3a-4f4c-b08f-64d45c0d9c68/canvas/p46#xywh=3048,1096,871,2710",
+                    "@type": "sc:Canvas",
+                    "label": "[新聞雑誌題字写] p.46",
+                    "metadata": [
+                        {
+                            "label": "Score",
+                            "value": 0
+                        },
+                        {
+                            "label": "所蔵",
+                            "value": "東京大学"
+                        }
+                    ],
+                    "thumbnail": "https://iiif.dl.itc.u-tokyo.ac.jp/repo/iiif-img/86652/3048,1096,871,2710/,300/0/default.jpg"
+                },
+                {
+                    "@id": "https://iiif.dl.itc.u-tokyo.ac.jp/repo/iiif/e309e706-df3a-4f4c-b08f-64d45c0d9c68/canvas/p47#xywh=3096,919,815,3113",
+                    "@type": "sc:Canvas",
+                    "label": "[新聞雑誌題字写] p.47",
+                    "metadata": [
+                        {
+                            "label": "Score",
+                            "value": 0
+                        },
+                        {
+                            "label": "所蔵",
+                            "value": "東京大学"
+                        }
+                    ],
+                    "thumbnail": "https://iiif.dl.itc.u-tokyo.ac.jp/repo/iiif-img/86653/3096,919,815,3113/,300/0/default.jpg"
+                },
+                {
+                    "@id": "https://iiif.dl.itc.u-tokyo.ac.jp/repo/iiif/e309e706-df3a-4f4c-b08f-64d45c0d9c68/canvas/p49#xywh=3105,612,798,3436",
+                    "@type": "sc:Canvas",
+                    "label": "[新聞雑誌題字写] p.49",
+                    "metadata": [
+                        {
+                            "label": "Score",
+                            "value": 0
+                        },
+                        {
+                            "label": "所蔵",
+                            "value": "東京大学"
+                        }
+                    ],
+                    "thumbnail": "https://iiif.dl.itc.u-tokyo.ac.jp/repo/iiif-img/86655/3105,612,798,3436/,300/0/default.jpg"
+                }
+            ],
+            "within": {
+                "@id": "https://iiif.dl.itc.u-tokyo.ac.jp/repo/iiif/e309e706-df3a-4f4c-b08f-64d45c0d9c68/manifest",
+                "@type": "sc:Manifest",
+                "label": "[新聞雑誌題字写]"
+            }
+        }
+    ]
+}

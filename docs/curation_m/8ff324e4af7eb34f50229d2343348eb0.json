@@ -1,0 +1,39 @@
+{
+    "@context": [
+        "http://iiif.io/api/presentation/2/context.json",
+        "http://codh.rois.ac.jp/iiif/curation/1/context.json"
+    ],
+    "@id": "https://nakamura196.github.io/gaikotsu-i/curation_m/8ff324e4af7eb34f50229d2343348eb0.json",
+    "@type": "cr:Curation",
+    "label": "Curating list",
+    "selections": [
+        {
+            "@id": "https://nakamura196.github.io/gaikotsu-i/curation_m/8ff324e4af7eb34f50229d2343348eb0.json/range1",
+            "@type": "sc:Range",
+            "label": "Manual curation by IIIF Curation Viewer",
+            "members": [
+                {
+                    "@id": "https://iiif.dl.itc.u-tokyo.ac.jp/repo/iiif/d699030b-81ac-4b53-9ed5-5a008b99abc7/canvas/p2#xywh=0,918,5257,2852",
+                    "@type": "sc:Canvas",
+                    "label": "[「東京日日新聞」題字写] p.2",
+                    "metadata": [
+                        {
+                            "label": "Score",
+                            "value": 0
+                        },
+                        {
+                            "label": "所蔵",
+                            "value": "東京大学"
+                        }
+                    ],
+                    "thumbnail": "https://iiif.dl.itc.u-tokyo.ac.jp/repo/iiif-img/86784/0,918,5257,2852/,300/0/default.jpg"
+                }
+            ],
+            "within": {
+                "@id": "https://iiif.dl.itc.u-tokyo.ac.jp/repo/iiif/d699030b-81ac-4b53-9ed5-5a008b99abc7/manifest",
+                "@type": "sc:Manifest",
+                "label": "[「東京日日新聞」題字写]"
+            }
+        }
+    ]
+}

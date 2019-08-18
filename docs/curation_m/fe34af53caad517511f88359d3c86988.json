@@ -1,0 +1,119 @@
+{
+    "@context": [
+        "http://iiif.io/api/presentation/2/context.json",
+        "http://codh.rois.ac.jp/iiif/curation/1/context.json"
+    ],
+    "@id": "https://nakamura196.github.io/gaikotsu-i/curation_m/fe34af53caad517511f88359d3c86988.json",
+    "@type": "cr:Curation",
+    "label": "Curating list",
+    "selections": [
+        {
+            "@id": "https://nakamura196.github.io/gaikotsu-i/curation_m/fe34af53caad517511f88359d3c86988.json/range1",
+            "@type": "sc:Range",
+            "label": "Manual curation by IIIF Curation Viewer",
+            "members": [
+                {
+                    "@id": "https://iiif.dl.itc.u-tokyo.ac.jp/repo/iiif/32064db2-6bbc-45fd-a3cc-7eeeecf02116/canvas/p2#xywh=1306,1500,4484,1863",
+                    "@type": "sc:Canvas",
+                    "label": "金貸略扣帳 無利息無証書 p.2",
+                    "metadata": [
+                        {
+                            "label": "Score",
+                            "value": 0
+                        },
+                        {
+                            "label": "所蔵",
+                            "value": "東京大学"
+                        }
+                    ],
+                    "thumbnail": "https://iiif.dl.itc.u-tokyo.ac.jp/repo/iiif-img/87241/1306,1500,4484,1863/,300/0/default.jpg"
+                },
+                {
+                    "@id": "https://iiif.dl.itc.u-tokyo.ac.jp/repo/iiif/32064db2-6bbc-45fd-a3cc-7eeeecf02116/canvas/p5#xywh=1112,1604,2323,1533",
+                    "@type": "sc:Canvas",
+                    "label": "金貸略扣帳 無利息無証書 p.5",
+                    "metadata": [
+                        {
+                            "label": "Score",
+                            "value": 0
+                        },
+                        {
+                            "label": "所蔵",
+                            "value": "東京大学"
+                        }
+                    ],
+                    "thumbnail": "https://iiif.dl.itc.u-tokyo.ac.jp/repo/iiif-img/87244/1112,1604,2323,1533/,300/0/default.jpg"
+                },
+                {
+                    "@id": "https://iiif.dl.itc.u-tokyo.ac.jp/repo/iiif/32064db2-6bbc-45fd-a3cc-7eeeecf02116/canvas/p5#xywh=3790,1532,1847,1637",
+                    "@type": "sc:Canvas",
+                    "label": "金貸略扣帳 無利息無証書 p.5",
+                    "metadata": [
+                        {
+                            "label": "Score",
+                            "value": 0
+                        },
+                        {
+                            "label": "所蔵",
+                            "value": "東京大学"
+                        }
+                    ],
+                    "thumbnail": "https://iiif.dl.itc.u-tokyo.ac.jp/repo/iiif-img/87244/3790,1532,1847,1637/,300/0/default.jpg"
+                },
+                {
+                    "@id": "https://iiif.dl.itc.u-tokyo.ac.jp/repo/iiif/32064db2-6bbc-45fd-a3cc-7eeeecf02116/canvas/p6#xywh=2951,1637,2533,1459",
+                    "@type": "sc:Canvas",
+                    "label": "金貸略扣帳 無利息無証書 p.6",
+                    "metadata": [
+                        {
+                            "label": "Score",
+                            "value": 0
+                        },
+                        {
+                            "label": "所蔵",
+                            "value": "東京大学"
+                        }
+                    ],
+                    "thumbnail": "https://iiif.dl.itc.u-tokyo.ac.jp/repo/iiif-img/87245/2951,1637,2533,1459/,300/0/default.jpg"
+                },
+                {
+                    "@id": "https://iiif.dl.itc.u-tokyo.ac.jp/repo/iiif/32064db2-6bbc-45fd-a3cc-7eeeecf02116/canvas/p7#xywh=1185,1354,4791,2017",
+                    "@type": "sc:Canvas",
+                    "label": "金貸略扣帳 無利息無証書 p.7",
+                    "metadata": [
+                        {
+                            "label": "Score",
+                            "value": 0
+                        },
+                        {
+                            "label": "所蔵",
+                            "value": "東京大学"
+                        }
+                    ],
+                    "thumbnail": "https://iiif.dl.itc.u-tokyo.ac.jp/repo/iiif-img/87246/1185,1354,4791,2017/,300/0/default.jpg"
+                },
+                {
+                    "@id": "https://iiif.dl.itc.u-tokyo.ac.jp/repo/iiif/32064db2-6bbc-45fd-a3cc-7eeeecf02116/canvas/p7#xywh=3766,1564,1831,1573",
+                    "@type": "sc:Canvas",
+                    "label": "金貸略扣帳 無利息無証書 p.7",
+                    "metadata": [
+                        {
+                            "label": "Score",
+                            "value": 0
+                        },
+                        {
+                            "label": "所蔵",
+                            "value": "東京大学"
+                        }
+                    ],
+                    "thumbnail": "https://iiif.dl.itc.u-tokyo.ac.jp/repo/iiif-img/87246/3766,1564,1831,1573/,300/0/default.jpg"
+                }
+            ],
+            "within": {
+                "@id": "https://iiif.dl.itc.u-tokyo.ac.jp/repo/iiif/32064db2-6bbc-45fd-a3cc-7eeeecf02116/manifest",
+                "@type": "sc:Manifest",
+                "label": "金貸略扣帳 無利息無証書"
+            }
+        }
+    ]
+}

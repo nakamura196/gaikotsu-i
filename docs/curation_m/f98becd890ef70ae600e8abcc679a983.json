@@ -1,0 +1,135 @@
+{
+    "@context": [
+        "http://iiif.io/api/presentation/2/context.json",
+        "http://codh.rois.ac.jp/iiif/curation/1/context.json"
+    ],
+    "@id": "https://nakamura196.github.io/gaikotsu-i/curation_m/f98becd890ef70ae600e8abcc679a983.json",
+    "@type": "cr:Curation",
+    "label": "Curating list",
+    "selections": [
+        {
+            "@id": "https://nakamura196.github.io/gaikotsu-i/curation_m/f98becd890ef70ae600e8abcc679a983.json/range1",
+            "@type": "sc:Range",
+            "label": "Manual curation by IIIF Curation Viewer",
+            "members": [
+                {
+                    "@id": "https://iiif.dl.itc.u-tokyo.ac.jp/repo/iiif/7a27e633-8288-4067-a2b3-69db2b2ad042/canvas/p1#xywh=1814,1064,1823,2863",
+                    "@type": "sc:Canvas",
+                    "label": "「扶桑新誌」41号(三田町阿福の奇話第三回 清元新内投寄) p.1",
+                    "metadata": [
+                        {
+                            "label": "Score",
+                            "value": 0
+                        },
+                        {
+                            "label": "所蔵",
+                            "value": "東京大学"
+                        }
+                    ],
+                    "thumbnail": "https://iiif.dl.itc.u-tokyo.ac.jp/repo/iiif-img/83299/1814,1064,1823,2863/,300/0/default.jpg"
+                },
+                {
+                    "@id": "https://iiif.dl.itc.u-tokyo.ac.jp/repo/iiif/7a27e633-8288-4067-a2b3-69db2b2ad042/canvas/p2#xywh=1822,959,3444,2912",
+                    "@type": "sc:Canvas",
+                    "label": "「扶桑新誌」41号(三田町阿福の奇話第三回 清元新内投寄) p.2",
+                    "metadata": [
+                        {
+                            "label": "Score",
+                            "value": 0
+                        },
+                        {
+                            "label": "所蔵",
+                            "value": "東京大学"
+                        }
+                    ],
+                    "thumbnail": "https://iiif.dl.itc.u-tokyo.ac.jp/repo/iiif-img/83300/1822,959,3444,2912/,300/0/default.jpg"
+                },
+                {
+                    "@id": "https://iiif.dl.itc.u-tokyo.ac.jp/repo/iiif/7a27e633-8288-4067-a2b3-69db2b2ad042/canvas/p3#xywh=1758,1088,3702,2702",
+                    "@type": "sc:Canvas",
+                    "label": "「扶桑新誌」41号(三田町阿福の奇話第三回 清元新内投寄) p.3",
+                    "metadata": [
+                        {
+                            "label": "Score",
+                            "value": 0
+                        },
+                        {
+                            "label": "所蔵",
+                            "value": "東京大学"
+                        }
+                    ],
+                    "thumbnail": "https://iiif.dl.itc.u-tokyo.ac.jp/repo/iiif-img/83301/1758,1088,3702,2702/,300/0/default.jpg"
+                },
+                {
+                    "@id": "https://iiif.dl.itc.u-tokyo.ac.jp/repo/iiif/7a27e633-8288-4067-a2b3-69db2b2ad042/canvas/p5#xywh=1693,1080,3871,2775",
+                    "@type": "sc:Canvas",
+                    "label": "「扶桑新誌」41号(三田町阿福の奇話第三回 清元新内投寄) p.5",
+                    "metadata": [
+                        {
+                            "label": "Score",
+                            "value": 0
+                        },
+                        {
+                            "label": "所蔵",
+                            "value": "東京大学"
+                        }
+                    ],
+                    "thumbnail": "https://iiif.dl.itc.u-tokyo.ac.jp/repo/iiif-img/83303/1693,1080,3871,2775/,300/0/default.jpg"
+                },
+                {
+                    "@id": "https://iiif.dl.itc.u-tokyo.ac.jp/repo/iiif/7a27e633-8288-4067-a2b3-69db2b2ad042/canvas/p6#xywh=1669,1080,3895,2742",
+                    "@type": "sc:Canvas",
+                    "label": "「扶桑新誌」41号(三田町阿福の奇話第三回 清元新内投寄) p.6",
+                    "metadata": [
+                        {
+                            "label": "Score",
+                            "value": 0
+                        },
+                        {
+                            "label": "所蔵",
+                            "value": "東京大学"
+                        }
+                    ],
+                    "thumbnail": "https://iiif.dl.itc.u-tokyo.ac.jp/repo/iiif-img/83304/1669,1080,3895,2742/,300/0/default.jpg"
+                },
+                {
+                    "@id": "https://iiif.dl.itc.u-tokyo.ac.jp/repo/iiif/7a27e633-8288-4067-a2b3-69db2b2ad042/canvas/p9#xywh=1677,1129,3847,2701",
+                    "@type": "sc:Canvas",
+                    "label": "「扶桑新誌」41号(三田町阿福の奇話第三回 清元新内投寄) p.9",
+                    "metadata": [
+                        {
+                            "label": "Score",
+                            "value": 0
+                        },
+                        {
+                            "label": "所蔵",
+                            "value": "東京大学"
+                        }
+                    ],
+                    "thumbnail": "https://iiif.dl.itc.u-tokyo.ac.jp/repo/iiif-img/83307/1677,1129,3847,2701/,300/0/default.jpg"
+                },
+                {
+                    "@id": "https://iiif.dl.itc.u-tokyo.ac.jp/repo/iiif/7a27e633-8288-4067-a2b3-69db2b2ad042/canvas/p10#xywh=3532,975,2057,2992",
+                    "@type": "sc:Canvas",
+                    "label": "「扶桑新誌」41号(三田町阿福の奇話第三回 清元新内投寄) p.10",
+                    "metadata": [
+                        {
+                            "label": "Score",
+                            "value": 0
+                        },
+                        {
+                            "label": "所蔵",
+                            "value": "東京大学"
+                        }
+                    ],
+                    "thumbnail": "https://iiif.dl.itc.u-tokyo.ac.jp/repo/iiif-img/83308/3532,975,2057,2992/,300/0/default.jpg"
+                }
+            ],
+            "within": {
+                "@id": "https://iiif.dl.itc.u-tokyo.ac.jp/repo/iiif/7a27e633-8288-4067-a2b3-69db2b2ad042/manifest",
+                "@type": "sc:Manifest",
+                "label": "「扶桑新誌」41号(三田町阿福の奇話第三回 清元新内投寄)"
+            }
+        }
+    ]
+}

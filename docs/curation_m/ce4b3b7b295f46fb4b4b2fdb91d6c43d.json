@@ -1,0 +1,55 @@
+{
+    "@context": [
+        "http://iiif.io/api/presentation/2/context.json",
+        "http://codh.rois.ac.jp/iiif/curation/1/context.json"
+    ],
+    "@id": "https://nakamura196.github.io/gaikotsu-i/curation_m/ce4b3b7b295f46fb4b4b2fdb91d6c43d.json",
+    "@type": "cr:Curation",
+    "label": "Curating list",
+    "selections": [
+        {
+            "@id": "https://nakamura196.github.io/gaikotsu-i/curation_m/ce4b3b7b295f46fb4b4b2fdb91d6c43d.json/range1",
+            "@type": "sc:Range",
+            "label": "Manual curation by IIIF Curation Viewer",
+            "members": [
+                {
+                    "@id": "https://iiif.dl.itc.u-tokyo.ac.jp/repo/iiif/3816d954-a654-4144-bd5e-b6b7525b88c9/canvas/p1#xywh=1097,671,4764,3455",
+                    "@type": "sc:Canvas",
+                    "label": "[「木綿屑成紙」発行案内] p.1",
+                    "metadata": [
+                        {
+                            "label": "Score",
+                            "value": 0
+                        },
+                        {
+                            "label": "所蔵",
+                            "value": "東京大学"
+                        }
+                    ],
+                    "thumbnail": "https://iiif.dl.itc.u-tokyo.ac.jp/repo/iiif-img/86453/1097,671,4764,3455/,300/0/default.jpg"
+                },
+                {
+                    "@id": "https://iiif.dl.itc.u-tokyo.ac.jp/repo/iiif/3816d954-a654-4144-bd5e-b6b7525b88c9/canvas/p2#xywh=1244,556,4707,3684",
+                    "@type": "sc:Canvas",
+                    "label": "[「木綿屑成紙」発行案内] p.2",
+                    "metadata": [
+                        {
+                            "label": "Score",
+                            "value": 0
+                        },
+                        {
+                            "label": "所蔵",
+                            "value": "東京大学"
+                        }
+                    ],
+                    "thumbnail": "https://iiif.dl.itc.u-tokyo.ac.jp/repo/iiif-img/86454/1244,556,4707,3684/,300/0/default.jpg"
+                }
+            ],
+            "within": {
+                "@id": "https://iiif.dl.itc.u-tokyo.ac.jp/repo/iiif/3816d954-a654-4144-bd5e-b6b7525b88c9/manifest",
+                "@type": "sc:Manifest",
+                "label": "[「木綿屑成紙」発行案内]"
+            }
+        }
+    ]
+}

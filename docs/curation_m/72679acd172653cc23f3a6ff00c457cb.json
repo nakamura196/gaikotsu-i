@@ -1,0 +1,199 @@
+{
+    "@context": [
+        "http://iiif.io/api/presentation/2/context.json",
+        "http://codh.rois.ac.jp/iiif/curation/1/context.json"
+    ],
+    "@id": "https://nakamura196.github.io/gaikotsu-i/curation_m/72679acd172653cc23f3a6ff00c457cb.json",
+    "@type": "cr:Curation",
+    "label": "Curating list",
+    "selections": [
+        {
+            "@id": "https://nakamura196.github.io/gaikotsu-i/curation_m/72679acd172653cc23f3a6ff00c457cb.json/range1",
+            "@type": "sc:Range",
+            "label": "Manual curation by IIIF Curation Viewer",
+            "members": [
+                {
+                    "@id": "https://iiif.dl.itc.u-tokyo.ac.jp/repo/iiif/a81cfbd2-5ef3-417c-b7be-44e1d466ce6b/canvas/p1#xywh=1282,491,2363,3678",
+                    "@type": "sc:Canvas",
+                    "label": "選挙雑録 p.1",
+                    "metadata": [
+                        {
+                            "label": "Score",
+                            "value": 0
+                        },
+                        {
+                            "label": "所蔵",
+                            "value": "東京大学"
+                        }
+                    ],
+                    "thumbnail": "https://iiif.dl.itc.u-tokyo.ac.jp/repo/iiif-img/89030/1282,491,2363,3678/,300/0/default.jpg"
+                },
+                {
+                    "@id": "https://iiif.dl.itc.u-tokyo.ac.jp/repo/iiif/a81cfbd2-5ef3-417c-b7be-44e1d466ce6b/canvas/p2#xywh=3685,483,2065,3807",
+                    "@type": "sc:Canvas",
+                    "label": "選挙雑録 p.2",
+                    "metadata": [
+                        {
+                            "label": "Score",
+                            "value": 0
+                        },
+                        {
+                            "label": "所蔵",
+                            "value": "東京大学"
+                        }
+                    ],
+                    "thumbnail": "https://iiif.dl.itc.u-tokyo.ac.jp/repo/iiif-img/89031/3685,483,2065,3807/,300/0/default.jpg"
+                },
+                {
+                    "@id": "https://iiif.dl.itc.u-tokyo.ac.jp/repo/iiif/a81cfbd2-5ef3-417c-b7be-44e1d466ce6b/canvas/p2#xywh=1266,733,2210,3372",
+                    "@type": "sc:Canvas",
+                    "label": "選挙雑録 p.2",
+                    "metadata": [
+                        {
+                            "label": "Score",
+                            "value": 0
+                        },
+                        {
+                            "label": "所蔵",
+                            "value": "東京大学"
+                        }
+                    ],
+                    "thumbnail": "https://iiif.dl.itc.u-tokyo.ac.jp/repo/iiif-img/89031/1266,733,2210,3372/,300/0/default.jpg"
+                },
+                {
+                    "@id": "https://iiif.dl.itc.u-tokyo.ac.jp/repo/iiif/a81cfbd2-5ef3-417c-b7be-44e1d466ce6b/canvas/p4#xywh=1048,330,5234,4267",
+                    "@type": "sc:Canvas",
+                    "label": "選挙雑録 p.4",
+                    "metadata": [
+                        {
+                            "label": "Score",
+                            "value": 0
+                        },
+                        {
+                            "label": "所蔵",
+                            "value": "東京大学"
+                        }
+                    ],
+                    "thumbnail": "https://iiif.dl.itc.u-tokyo.ac.jp/repo/iiif-img/89033/1048,330,5234,4267/,300/0/default.jpg"
+                },
+                {
+                    "@id": "https://iiif.dl.itc.u-tokyo.ac.jp/repo/iiif/a81cfbd2-5ef3-417c-b7be-44e1d466ce6b/canvas/p6#xywh=1145,209,4960,4250",
+                    "@type": "sc:Canvas",
+                    "label": "選挙雑録 p.6",
+                    "metadata": [
+                        {
+                            "label": "Score",
+                            "value": 0
+                        },
+                        {
+                            "label": "所蔵",
+                            "value": "東京大学"
+                        }
+                    ],
+                    "thumbnail": "https://iiif.dl.itc.u-tokyo.ac.jp/repo/iiif-img/89035/1145,209,4960,4250/,300/0/default.jpg"
+                },
+                {
+                    "@id": "https://iiif.dl.itc.u-tokyo.ac.jp/repo/iiif/a81cfbd2-5ef3-417c-b7be-44e1d466ce6b/canvas/p7#xywh=1072,193,5186,4323",
+                    "@type": "sc:Canvas",
+                    "label": "選挙雑録 p.7",
+                    "metadata": [
+                        {
+                            "label": "Score",
+                            "value": 0
+                        },
+                        {
+                            "label": "所蔵",
+                            "value": "東京大学"
+                        }
+                    ],
+                    "thumbnail": "https://iiif.dl.itc.u-tokyo.ac.jp/repo/iiif-img/89036/1072,193,5186,4323/,300/0/default.jpg"
+                },
+                {
+                    "@id": "https://iiif.dl.itc.u-tokyo.ac.jp/repo/iiif/a81cfbd2-5ef3-417c-b7be-44e1d466ce6b/canvas/p8#xywh=1145,274,5129,4250",
+                    "@type": "sc:Canvas",
+                    "label": "選挙雑録 p.8",
+                    "metadata": [
+                        {
+                            "label": "Score",
+                            "value": 0
+                        },
+                        {
+                            "label": "所蔵",
+                            "value": "東京大学"
+                        }
+                    ],
+                    "thumbnail": "https://iiif.dl.itc.u-tokyo.ac.jp/repo/iiif-img/89037/1145,274,5129,4250/,300/0/default.jpg"
+                },
+                {
+                    "@id": "https://iiif.dl.itc.u-tokyo.ac.jp/repo/iiif/a81cfbd2-5ef3-417c-b7be-44e1d466ce6b/canvas/p9#xywh=991,250,5202,4234",
+                    "@type": "sc:Canvas",
+                    "label": "選挙雑録 p.9",
+                    "metadata": [
+                        {
+                            "label": "Score",
+                            "value": 0
+                        },
+                        {
+                            "label": "所蔵",
+                            "value": "東京大学"
+                        }
+                    ],
+                    "thumbnail": "https://iiif.dl.itc.u-tokyo.ac.jp/repo/iiif-img/89038/991,250,5202,4234/,300/0/default.jpg"
+                },
+                {
+                    "@id": "https://iiif.dl.itc.u-tokyo.ac.jp/repo/iiif/a81cfbd2-5ef3-417c-b7be-44e1d466ce6b/canvas/p10#xywh=1233,387,4767,3968",
+                    "@type": "sc:Canvas",
+                    "label": "選挙雑録 p.10",
+                    "metadata": [
+                        {
+                            "label": "Score",
+                            "value": 0
+                        },
+                        {
+                            "label": "所蔵",
+                            "value": "東京大学"
+                        }
+                    ],
+                    "thumbnail": "https://iiif.dl.itc.u-tokyo.ac.jp/repo/iiif-img/89039/1233,387,4767,3968/,300/0/default.jpg"
+                },
+                {
+                    "@id": "https://iiif.dl.itc.u-tokyo.ac.jp/repo/iiif/a81cfbd2-5ef3-417c-b7be-44e1d466ce6b/canvas/p11#xywh=1177,306,4952,4097",
+                    "@type": "sc:Canvas",
+                    "label": "選挙雑録 p.11",
+                    "metadata": [
+                        {
+                            "label": "Score",
+                            "value": 0
+                        },
+                        {
+                            "label": "所蔵",
+                            "value": "東京大学"
+                        }
+                    ],
+                    "thumbnail": "https://iiif.dl.itc.u-tokyo.ac.jp/repo/iiif-img/89040/1177,306,4952,4097/,300/0/default.jpg"
+                },
+                {
+                    "@id": "https://iiif.dl.itc.u-tokyo.ac.jp/repo/iiif/a81cfbd2-5ef3-417c-b7be-44e1d466ce6b/canvas/p12#xywh=3548,500,2541,3774",
+                    "@type": "sc:Canvas",
+                    "label": "選挙雑録 p.12",
+                    "metadata": [
+                        {
+                            "label": "Score",
+                            "value": 0
+                        },
+                        {
+                            "label": "所蔵",
+                            "value": "東京大学"
+                        }
+                    ],
+                    "thumbnail": "https://iiif.dl.itc.u-tokyo.ac.jp/repo/iiif-img/89041/3548,500,2541,3774/,300/0/default.jpg"
+                }
+            ],
+            "within": {
+                "@id": "https://iiif.dl.itc.u-tokyo.ac.jp/repo/iiif/a81cfbd2-5ef3-417c-b7be-44e1d466ce6b/manifest",
+                "@type": "sc:Manifest",
+                "label": "選挙雑録"
+            }
+        }
+    ]
+}
